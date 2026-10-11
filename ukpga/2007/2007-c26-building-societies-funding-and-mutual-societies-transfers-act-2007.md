@@ -1,0 +1,236 @@
+---
+title: "Building Societies (Funding) and Mutual Societies (Transfers) Act 2007"
+identifier: "ukpga/2007/26"
+citation: "2007 c. 26"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2007-10-23
+last_amended: 2020-12-31
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2007/26"
+source_modified: 2021-10-25
+retrieved: 2026-10-11
+---
+
+# Building Societies (Funding) and Mutual Societies (Transfers) Act 2007
+
+**2007 c. 26**
+
+An Act to make provision in relation to funding limits in respect of building societies; to provide consequential rights to building society members; and to make provision in connection with the transfer of the business of certain mutual societies.
+
+[23rd October 2007]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1 Funding limit for building societies (prospective)
+
+(1) In section 7 of the Building Societies Act 1986 (c. 53) (funding limit)—
+
+(a) after subsection (6) insert—
+
+> (6A) The Treasury may, by order—
+>
+> (a) provide for subsection (1) to have effect as if the reference to 50 per cent were a reference to such greater percentage (not exceeding 75) as they think appropriate;
+>
+> (b) prohibit a society from applying the increased percentage unless a resolution of the society of such description as the Treasury think appropriate is passed in favour of applying the increased percentage.
+>
+> (6B) An order under subsection (6A) is of no effect at any time unless, at the same time, there is also in force an order under section 90B (power to alter priorities on dissolution and winding up).
+>
+> (6C) An order under subsection (6A)(a)—
+>
+> (a) may not be amended so as to reduce the percentage specified in the order;
+>
+> (b) may not be revoked, unless it is replaced by another such order specifying the same or a greater percentage.
+
+;
+
+(b) in subsection (8), after “subsection” insert “ (6A) or ”;
+
+(c) after subsection (8) insert—
+
+> (8A) The power to make an order under subsection (6A) is exercisable by statutory instrument but no such order may be made unless a draft of it has been laid before and approved by a resolution of each House of Parliament.
+
+.
+
+(2) In section 5 of that Act (establishment, constitution and powers), after subsection (10) insert—
+
+> (11) The Treasury may by order amend subsection (1)(a) so as to alter the extent to which the making of loans is required to be funded by a society's members.
+>
+> (12) An order under this section may make such consequential, saving, supplementary or transitional provision as the Treasury think necessary or expedient.
+>
+> (13) The consequential provision that may be made by virtue of subsection (12) includes, in particular, provision amending any the following so far as relating to funding by the members of a society—
+>
+> (a) section 1(1)(a) (functions of the Financial Services Authority in relation to building societies);
+>
+> (b) section 93(2)(a) (amalgamations);
+>
+> (c) paragraph 2 of Schedule 2 to this Act (memorandum).
+>
+> (14) The power to make an order under this section is exercisable by statutory instrument, but no such order may be made unless a draft of it has been laid before and approved by a resolution of each House of Parliament.
+
+.
+
+## 2 Power to alter priorities on dissolution and winding up
+
+After section 90A of the Building Societies Act 1986 (c. 53) insert—
+
+> **90B Power to alter priorities on dissolution and winding up**
+>
+> (1) The Treasury may by order make provision for the purpose of ensuring that, on the winding up, or dissolution by consent, of a building society, any assets available for satisfying the society's liabilities to creditors or to shareholders are applied in satisfying those liabilities pari passu.
+>
+> (2) Liabilities to creditors do not include—
+>
+> (a) liabilities in respect of subordinated deposits;
+>
+> (b) liabilities in respect of preferential debts;
+>
+> (c) any other category of liability which the Treasury specifies in the order for the purposes of this paragraph.
+>
+> (3) Liabilities to shareholders do not include liabilities in respect of deferred shares.
+>
+> (4) A preferential debt is a debt which constitutes a preferential debt for the purposes of any of the enactments specified in paragraph 1 of Schedule 15 to this Act (or which would constitute such a debt if the society were being wound up).
+>
+> (5) An order under this section may—
+>
+> (a) make amendments of this Act;
+>
+> (b) make different provision for different purposes;
+>
+> (c) make such consequential, supplementary, transitional and saving provision as appears to the Treasury to be necessary or expedient.
+>
+> (6) The power to make an order under this section is exercisable by statutory instrument but no such order may be made unless a draft of it has been laid before and approved by a resolution of each House of Parliament.
+
+.
+
+## 3 Transfers to subsidiaries of other mutuals
+
+(1) The Treasury may, by order, make such modifications of the transfer provisions as it thinks appropriate to facilitate, or in consequence of, the transfer of the whole of the business of a mutual society (the transferor) to a subsidiary of a mutual society (whether or not of the same type) (the transferee).
+
+(2) An order under this section may make provision as to the rights (including rights of and pertaining to membership) in relation to the mutual society of which the transferee is a subsidiary—
+
+(a) of the members of the transferor;
+
+(b) of persons who, after the transfer, become customers of the transferee.
+
+(3) An order under this section may confer such functions on the Financial Services Authority as the Treasury think appropriate.
+
+(4) An order under this section—
+
+(a) may make such consequential, saving, supplementary or transitional provision as the Treasury think appropriate;
+
+(b) may make different provision for different purposes.
+
+(5) The power to make an order under this section is exercisable by statutory instrument.
+
+(6) An order which—
+
+(a) makes modifications of a provision mentioned in paragraph (a), (b) or (c) of subsection (11), or
+
+(b) amends paragraph (a) or (b) of subsection (13),
+
+(whether or not it contains any other provision) must not be made unless a draft of it has been laid before and approved by resolution of each House of Parliament.
+
+(7) Otherwise, an order is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(8) If a draft of an order mentioned in subsection (6) would, apart from this subsection, be treated for the purposes of the Standing Orders of either House of Parliament as a hybrid instrument it must proceed in that House as if it were not such an instrument.
+
+(9) Modifications include omissions, additions and alterations.
+
+(10) A mutual society is—
+
+(a) a building society incorporated or deemed to be incorporated under the Building Societies Act 1986 (c. 53);
+
+(b) a friendly society within the meaning of the Friendly Societies Act 1992 (c. 40);
+
+[[^F1](c) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014;]
+
+[[^F2](d) a Crown Dependency mutual society.]
+
+(11) The transfer provisions are—
+
+(a) sections 97 to 102D of the Building Societies Act 1986, paragraph 30 of Schedule 2 to that Act and Schedule 17 to that Act;
+
+(b) sections 86 and 88 of and Schedule 15 to the Friendly Societies Act 1992;
+
+[[^F3](c) sections 112 to 114 of the Co-operative and Community Benefit Societies Act 2014;]
+
+(d) provision contained in subordinate legislation (within the meaning of the Interpretation Act 1978) made under any provision mentioned in paragraph (a), (b) or (c).
+
+[[^F4](12) A Crown Dependency mutual society is a body which is a cooperative or mutual undertaking of such description as the Treasury specify by order and which is established or operates in accordance the law of the Isle of Man or any of the Channel Islands.]
+
+(13) A subsidiary of a mutual society is a relevant company—
+
+(a) in which the society holds a majority of the voting rights or of which the society is a member and alone controls, pursuant to an agreement with other shareholders or members, a majority of the voting rights, and
+
+(b) in relation to which the society has the right to appoint or remove a majority of the company's board of directors,
+
+but the Treasury may, by order, amend paragraphs (a) and (b) to make the degree of control required more or less onerous.
+
+(14) A relevant company is—
+
+[[^F5](a) a company as defined in section 1(1) of the Companies Act 2006;]
+
+[^F6]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F7](c) a body corporate which is incorporated in the Isle of Man or the Channel Islands.]
+
+(15) For the purposes of paragraph 17 of Schedule 1 to the Financial Services and Markets Act 2000 (c. 8) (power to charge fees) a function conferred on the Financial Services Authority by an order under this section is to be treated as a function conferred under or as a result of that Act.
+
+## 4 Transfers to subsidiaries: distribution of funds
+
+(1) An order under section 3 may provide for this section to have effect.
+
+(2) Subsection (3) applies if the terms of a transfer to which the order applies include provision for part of the funds of the transferor or the mutual society of which the transferee is a subsidiary (the holding mutual) to be distributed in consideration of the transfer among the members of—
+
+(a) the transferor,
+
+(b) the holding mutual, or
+
+(c) both the transferor and the holding mutual.
+
+(3) The provision for the distribution must be authorised as follows—
+
+(a) it must not exceed the limits prescribed by order under subsection (4), and the distribution must be approved (in the case of the transferor) by the transfer resolution or (in the case of the holding mutual) by a resolution of such description as the Treasury specifies by order;
+
+(b) if the provision for a distribution exceeds the prescribed limits, it must be approved by each of the resolutions mentioned in paragraph (a).
+
+(4) The Treasury must by order authorise distributions of funds to members by mutual societies participating (directly or through a subsidiary) in transfers to which an order mentioned in subsection (1) applies, subject to limits specified by or determined in accordance with the order.
+
+(5) A transfer resolution is—
+
+(a) in relation to a building society, each of the resolutions required pursuant to paragraph 30 of Schedule 2 to the Building Societies Act 1986 (c. 53);
+
+(b) in relation to a friendly society, the resolution required by section 86(2)(b) of the Friendly Societies Act 1992 (c. 40);
+
+[[^F8](c) in relation to a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014, the resolution required by section 112 of that Act.]
+
+(6) Expressions used in this section and in section 3 have the same meaning as in that section.
+
+(7) Subsections (4) to (7) of that section apply to an order under this section as they apply to an order under that section.
+
+## 5 Channel Islands and Isle of Man
+
+Her Majesty may by Order in Council provide for any of the provisions of this Act to extend, with or without modifications, to any of the Channel Islands or to the Isle of Man.
+
+## 6 Short title, commencement and extent
+
+(1) This Act may be cited as the Building Societies (Funding) and Mutual Societies (Transfers) Act 2007.
+
+(2) The preceding sections of this Act shall come into force on such day as the Treasury may by order made by statutory instrument appoint, and different days may be appointed for different purposes.
+
+(3) This Act extends to the whole of the United Kingdom.
+
+---
+
+[^F1]: S. 3(10)(c) substituted (1.8.2014) by Co-operative and Community Benefit Societies Act 2014 (c. 14), s. 154, Sch. 4 para. 114(2) (with Sch. 5)
+[^F2]: S. 3(10)(d) substituted (31.12.2020) by The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187), regs. 1, 8(2)(a); 2020 c. 1, Sch. 5 para. 1(1)
+[^F3]: S. 3(11)(c) substituted (1.8.2014) by Co-operative and Community Benefit Societies Act 2014 (c. 14), s. 154, Sch. 4 para. 114(3) (with Sch. 5)
+[^F4]: S. 3(12) substituted (31.12.2020) by The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187), regs. 1, 8(2)(b); 2020 c. 1, Sch. 5 para. 1(1)
+[^F5]: S. 3(14)(a) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 266(a) (with art. 10)
+[^F6]: S. 3(14)(b) omitted (1.10.2009) by virtue of The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 266(b) (with art. 10)
+[^F7]: S. 3(14)(c) substituted (31.12.2020) by The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187), regs. 1, 8(3); 2020 c. 1, Sch. 5 para. 1(1)
+[^F8]: S. 4(5)(c) substituted (1.8.2014) by Co-operative and Community Benefit Societies Act 2014 (c. 14), s. 154, Sch. 4 para. 115 (with Sch. 5)

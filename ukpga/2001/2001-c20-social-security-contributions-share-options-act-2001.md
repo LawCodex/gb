@@ -1,0 +1,267 @@
+---
+title: "Social Security Contributions (Share Options) Act 2001"
+identifier: "ukpga/2001/20"
+citation: "2001 c. 20"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2001-05-11
+last_amended: 2003-09-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2001/20"
+source_modified: 2017-12-18
+retrieved: 2026-10-11
+---
+
+# Social Security Contributions (Share Options) Act 2001
+
+**2001 c. 20**
+
+An Act to make provision about the payment of National Insurance Contributions in respect of share options and similar rights obtained by persons as directors or employees during the period beginning with 6th April 1999 and ending with 19th May 2000.
+
+11th May 2001
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1 Notices relating to share options acquired before 19th May 2000
+
+(1) Where—
+
+(a) a right to acquire shares in a body corporate was obtained by any person in the period beginning with 6th April 1999 and ending with 19th May 2000,
+
+(b) that right is one to which subsection (2) applies,
+
+(c) a notice in respect of that right is given in accordance with the following provisions of this section to the Inland Revenue before the end of the period of ninety-two days beginning with the day on which this Act is passed,
+
+liability to contributions in respect of gains realised after 7th November 2000 on the exercise, assignment or release of that right shall be determined in accordance with section 2.
+
+(2) This subsection applies to a right obtained by any person in the period mentioned in subsection (1)(a) if—
+
+(a) were a gain to be realised after the passing of this Act on the exercise, assignment or release of that right, the gain would or (if circumstances changed) might be one falling, by virtue of section 4(4)(a) of the Contributions and Benefits Act, to be treated for the purposes of that Act as remuneration derived from that person’s employment; or
+
+(b) a gain that has been realised after 7th November 2000 and before the passing of this Act on any exercise, assignment or release of that right has fallen, by virtue of section 4(4)(a) of that Act, to be so treated.
+
+(3) The person who may give a notice under this section in respect of any right to which subsection (2) applies by virtue of paragraph (a) of that subsection is—
+
+(a) where neither of the following paragraphs apply, the person who would be the secondary contributor in relation to any liability to pay secondary Class 1 contributions in respect of a gain realised on an exercise, assignment or release, of that right on the day of the notice;
+
+(b) where an election for the purposes of paragraph 3B(1) of Schedule 1 to the Contributions and Benefits Act which is in force on the day of the notice would relate to the whole of any such gain—
+
+(i) the person on whom (apart from this Act) any such liability would fall by virtue of the election; or
+
+(ii) the secondary contributor on whom (apart from this Act) any such liability would fall were no election in force;
+
+(c) where an election for the purposes of paragraph 3B(1) of that Schedule which is in force on the day of the notice would relate to only a part of any such gain, the persons mentioned in paragraph (b)(i) and (ii), acting jointly.
+
+(4) The person who may give a notice under this section in respect of any right to which subsection (2) applies by virtue of paragraph (b) of that subsection is—
+
+(a) the person on whom (apart from this Act) the liability for secondary Class 1 contributions payable in respect of the gain mentioned in that paragraph did fall; and
+
+(b) if different parts of that liability fell (apart from this Act) on different persons, those persons acting jointly.
+
+(5) A notice under this section in respect of any right—
+
+(a) must be given in writing or by such electronic means as may be authorised by regulations made by the Inland Revenue;
+
+(b) must contain such matters and be in such form as may be required by any such regulations; and
+
+(c) once given, shall be irrevocable.
+
+(6) For the purposes of this Act where, in the case of any right to acquire shares, the person entitled or (if there is more than one) each of the persons entitled to give a notice under this section in respect of that right is a person whose liability by virtue of the giving of such a notice to pay a special contribution under section 2 in respect of that right would be nil, that person or, as the case may be, each of those persons acting jointly shall be deemed—
+
+(a) to have given such a notice in respect of that right in accordance with this section and immediately before the end of the period specified in subsection (1)(c);
+
+(b) to have accompanied that notice with a notification to the Inland Revenue that the liability arising by virtue of that notice was nil; and
+
+(c) to have given that notification in the belief that the facts reasonably ascertainable by him at the time at which he is deemed to have given it were grounds for giving it.
+
+## 2 Effect of notice under s. 1
+
+(1) Subject to subsections (3) and (4) and section 3, where liability to contributions in respect of gains realised after 7th November 2000 on the exercise, assignment or release of any right falls under section 1 to be determined in accordance with this section—
+
+(a) no liability to pay any Class 1 contributions in respect of any gain realised after the passing of this Act shall arise on the exercise, assignment or release of that right;
+
+(b) any liability to pay Class 1 contributions in respect of any gain realised after 7th November 2000 and before the passing of this Act on any exercise, assignment or release of that right shall be deemed never to have arisen; and
+
+(c) the person who gave the notice under that section in respect of that right shall become liable to pay a special contribution in respect of that right under this section.
+
+(2) The amount of the special contribution in respect of any right shall be—
+
+(a) 12.2 per cent. of the amount (if any) in respect of which Class 1 contributions would have been payable by virtue of section 4(4)(a) of the Contributions and Benefits Act if the right had been exercised in full on 7th November 2000 without the giving of any further consideration for the shares acquired by the exercise of that right; or
+
+(b) where there is no such amount, nil.
+
+(3) Neither paragraph (a) nor paragraph (b) of subsection (1) shall apply in relation to any liability to pay Class 1 contributions in respect of so much of any gain realised on the assignment or release of a right as is equal to the amount (if any) by which the first of the following amounts exceeds the second, that is to say—
+
+(a) the amount of any valuable consideration given for the assignment or release; and
+
+(b) the amount which (in accordance with the provisions of [[^F1]section 479 of the Income Tax (Earnings and Pensions) Act 2003]) would have been taken to be the amount of the gain realised by an exercise in full of that right immediately before the time of its assignment or release [[^F2](less any deductible amounts under section 480(1) to (6) of that Act).]
+
+(4) Subject to subsection (5), where—
+
+(a) a person becomes liable to pay to the Inland Revenue a special contribution under this section in respect of any right, but
+
+(b) that liability is not discharged before the end of the period of ninety-two days beginning with the day on which this Act is passed,
+
+the Contributions and Benefits Act and this Act shall have effect as if no notice had been given under section 1 of this Act in respect of that right.
+
+(5) If it appears to the Inland Revenue that a person who has given a notice under section 1 in respect of any right and who would (but for subsection (4) of this section), be liable by virtue of that notice to pay a special contribution under this section—
+
+(a) did, within the period of ninety-two days mentioned in that subsection, make a payment in respect of that liability to the Inland Revenue of an amount which he had reasonable grounds for believing was the correct amount of his liability,
+
+(b) did, within that period, give notification to the Inland Revenue, in the belief on reasonable grounds that it was correct, that the liability arising by virtue of that notice was nil, or
+
+(c) has a reasonable excuse for having failed to do either of those things within that period,
+
+the Inland Revenue may, if they think fit, direct that, in relation to that notice, subsection (1) of section 1 and subsection (4) of this section are to be treated as having had effect with the period of ninety-two days mentioned in those subsections extended by such further period as they may determine.
+
+(6) A decision as to the giving or refusal of a direction under subsection (5) shall be made by an officer of the same description and be subject to the same rights of appeal as any decision, to which the giving of the direction is or would be relevant, as to whether a person is or has been liable to pay contributions of any particular class.
+
+(7) Where paragraph (b) of subsection (1) applies in relation to any liability to pay Class 1 contributions and amounts have already been paid to the Inland Revenue in respect of that liability before the passing of this Act—
+
+(a) all such repayments shall be made as may be necessary by virtue of that paragraph; but
+
+(b) any amount which it would otherwise be necessary to repay in respect of a secondary Class 1 contribution paid by a person who has become liable to pay a special contribution under this section may be retained and set against any undischarged liability of his to pay that special contribution.
+
+## 3 Special provision for roll-overs
+
+(1) This section applies where—
+
+(a) a right to acquire shares in a body corporate was obtained by any person in the period beginning with 6th April 1999 and ending with 19th May 2000 (“the original right”); and
+
+(b) the original right is or has been assigned or released (whether before or after the passing of this Act) for a consideration that consists of or includes another right (“the replacement right”) to acquire shares in that or any other body corporate.
+
+(2) If the replacement right or any subsequent replacement right was obtained on or before 7th November 2000, that right shall be treated for the purposes of sections 1 and 2 and this section, but subject to subsection (), as a right obtained in the period beginning with 6th April 1999 and ending with 19th May 2000.
+
+(3) Where the replacement right is or has been obtained after 7th November 2000 a notice may be given under section 1 in respect of the original right, notwithstanding that the assignment or release of that right was before the giving of the notice.
+
+(4) The liability by virtue of section 2(3) to pay Class 1 contributions in respect of a gain realised on the assignment or release of the original right shall be determined—
+
+(a) as if (notwithstanding anything in [[^F3][[^F4]section 483(1) to (4)] of the Income Tax (Earnings and Pensions) Act 2003]) the replacement right were or, as the case may be, were part of the valuable consideration given for the assignment or release; and
+
+(b) as if the value of so much of that consideration as is represented by the replacement right were equal to whichever is the smaller of the following amounts—
+
+(i) the amount which (in accordance with the provisions of [[^F5]section 479] of that Act) would have been taken to be the gain realised by an exercise in full of the original right immediately before the time of its assignment or release [[^F6](less any deductible amounts under section 480(1) to (6) of that Act)]; and
+
+(ii) the amount which (in accordance with those provisions) would have been taken to be the amount of the gain realised by an exercise in full of the replacement right at that time which falls immediately after it is given in consideration of the assignment or release.
+
+(5) Paragraphs (a) and (b) of section 2(1) shall not, where this section applies—
+
+(a) prevent a liability to pay Class 1 contributions from arising after the passing of this Act in respect of any gain realised on the exercise, assignment or release of the replacement right or of any subsequent replacement right, or
+
+(b) have the effect of deeming any such liability not to have arisen on any such gain,
+
+but those paragraphs shall have effect (instead) as if they provided for the amount of any such liability to be determined, or to be deemed to have been determined in accordance with the following provisions of this section.
+
+[[^F7](6) Subject to subsection (7), in relation to the replacement right or any subsequent right, section [[^F8]483(1) to (3)] of the Income Tax (Earnings and Pensions) Act 2003 (application of Chapter 5 of Part 7 where share option exchanged for another) shall be deemed to have effect (or, as the case may be, to have had effect) for the purposes of the determination mentioned in subsection (5) of this section—
+
+(a) as if that section had effect (or, as the case may be, had had effect) in relation to that right to the extent only that it is a right to acquire additional shares; and
+
+(b) as if the value of the consideration for the grant of the original right had been nil.]
+
+(7) Where—
+
+(a) the whole or any part of any consideration given for the assignment or release of the replacement right or of any subsequent replacement right does not (or did not) comprise a subsequent replacement right, and
+
+(b) as a consequence, a gain would (but for this Act) be taken for the purposes of [[^F9]Chapter 5 of Part 7 of the Income Tax (Earnings and Pensions) Act 2003] to be realised (or to have been realised) on that assignment or release,
+
+that gain shall be taken for the purposes of the determination mentioned in subsection (5) to be (or, as the case may be, to have been) equal to the amount in respect of which liability to pay Class 1 contributions would have been preserved, on the assumptions mentioned in subsection (8), by virtue of section 2(3) (read with subsection (4) of this section) or, if no such liability would have been so preserved, to nil.
+
+(8) Those assumptions are—
+
+(a) that (subject to paragraph (c)) the right assigned or released is a right the liability to pay Class 1 contributions in respect of which is a liability to which section 2(1)(a) or (b) applied;
+
+(b) that references in subsection (4) of this section to the original right and to the replacement right are references, respectively, to the right that is assigned or released and to the right comprised in the consideration for the assignment or release; and
+
+(c) that so much of the right assigned or released as is a right to acquire additional shares is to be disregarded for the purposes of both section 2(3) and subsection (4) of this section.
+
+(9) Nothing in the preceding provisions of this section shall limit or remove, or be deemed to have limited or removed, any liability to pay Class 1 contributions in respect of a gain arising on the exercise, assignment or release of the replacement right, or of any subsequent replacement right, in any case in which the right in question or that gain derives (directly or indirectly) from a transaction the purpose, or one of the main purposes, of which was to make use of the provisions of this Act to avoid the payment of such contributions in respect of a benefit conferred after 19th May 2000.
+
+(10) For the purposes of this section shares are additional shares, in relation to any right (“the new right”) constituting or comprised in the consideration for the assignment or release of another right (“the old right”), to the extent that they are shares obtainable in exercise of the new right in addition to shares obtainable in exercise of the new right with a value that matches the value of the shares (other than any that were themselves additional shares) which were obtainable by the exercise of the old right.
+
+(11) For the purposes of subsection (10) shares obtainable by the exercise of the new right shall be taken to have a value that matches the value of the shares obtainable in exercise of the old right to the extent, and to the extent only, that the following amounts are the same—
+
+(a) the amount which (in accordance with the provisions of [[^F10]section 479 of the Income Tax (Earnings and Pensions) Act 2003]) would be taken to be the amount of the gain realised by an exercise of the new right at the relevant time (assuming it to be exercisable at that time) for obtaining the shares [[^F11](less any deductible amounts under section 480(1) to (6));] and
+
+(b) the amount which would have been taken (in accordance with those provisions) to be the gain realised by a full exercise of the old right immediately before the time of its assignment or release;
+
+and in this subsection “the relevant time”, in relation to the new right, means the time which falls immediately after it is given in consideration of the assignment or release of the old right.
+
+(12) Where any question arises for the purposes of this Act, in relation to any partial exercise, assignment or release of any right, whether the shares obtainable under so much of the right as has been exercised, assigned or released were additional shares, it shall be assumed that the right in so far as it is a right to acquire additional shares must be exercised, assigned or released before the exercise, assignment or release of any part of that right that is a right to acquire shares that are not additional shares.
+
+(13) All such apportionments as may be necessary shall be made in determining for the purposes of this section, in a case in which the number of additional shares cannot be a whole number, to what extent a liability to pay Class 1 contributions arises in relation to the exercise, assignment or release of a right to acquire any such shares.
+
+(14) Nothing in this section shall apply (where the replacement right was granted on or before 7th November 2000) for determining the amount of any special contribution payable under section 2.
+
+(15) Where subsection (5) applies in relation to any liability to pay Class 1 contributions and amounts have already been paid to the Inland Revenue in respect of that liability before the passing of this Act—
+
+(a) all such repayments shall be made as may be necessary by virtue of that subsection; but
+
+(b) any amount which it would otherwise be necessary to repay in respect of a secondary Class 1 contribution paid by a person who has become liable to pay a special contribution under section 2 may be retained and set against any undischarged liability of his to pay that special contribution.
+
+(16) In this section references to a subsequent replacement right are references to any right to acquire shares in a body corporate which are or have been obtained by any person as, or as part of, the consideration for the assignment or release by him of the replacement right or of a subsequent replacement right.
+
+## [^F12]4 Consequential changes to tax relief provisions
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5 Interpretation
+
+(1) In this Act—
+
+- “the Administration Act” means—
+
+  - (a) in the application of this Act to Great Britain, the Social Security Administration Act 1992 (c. 5); and
+  - (b) in the application of this Act to Northern Ireland, the Social Security Administration (Northern Ireland) Act 1992 (c. 8);
+
+- “the Contributions and Benefits Act” means—
+
+  - (a) in the application of this Act to Great Britain, the Social Security Contributions and Benefits Act 1992 (c. 4); and
+  - (b) in the application of this Act to Northern Ireland, the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7).
+
+(2) In this Act—
+
+(a) a reference to shares in a body corporate includes a reference to stock in that body corporate and to securities issued by that body corporate;
+
+(b) a reference to the release of a right includes a reference to agreeing to a restriction of the exercise of the right; and
+
+(c) references to the assignment or release of a right to acquire shares, and to gains realised on such an assignment or release, shall be construed as if [[^F13]section [[^F14]477(6)] of the Income Tax (Earnings and Pensions) Act 2003] applied for the purposes of this Act as it applies for the purposes of [[^F15]Chapter 5 of Part 7 of that Act].
+
+(3) Where any assumption that a right has been exercised at any time is made for the purposes of any provision of this Act, that assumption shall be taken to include the assumption that that right was capable of being exercised at that time.
+
+(4) A special contribution under section 2 shall be treated for the purposes of any provision made by or under any enactment—
+
+(a) as a contribution of a class provided for by the Contributions and Benefits Act; and
+
+(b) as due at the end of the period of ninety-two days beginning with the day on which this Act is passed;
+
+and any reference in Schedule 1 to that Act or in any of the provisions of the Administration Act to a Class 1A contribution shall have effect as if it included a reference to a special contribution under section 2 of this Act.
+
+(5) This Act shall be construed, and the provisions of the Contributions and Benefits Act shall have effect, as if the provisions of this Act were contained in Part 1 of that Act.
+
+## 6 Short title and extent
+
+(1) This Act may be cited as the Social Security Contributions (Share Options) Act 2001.
+
+(2) This Act extends to Northern Ireland.
+
+---
+
+[^F1]: Words in s. 2(3)(b) substituted (6.4.2003 with effect in accordance with s. 723(1)(a)(b) of the amending Act) by Income Tax (Earnings and Pensions) Act 2003 (c. 1), s. 723, Sch. 6 para. 260 (with Sch. 7)
+[^F2]: Words in s. 2(3)(b) inserted (with effect in accordance with Sch. 22 para. 55(2) of the amending Act) by Finance Act 2003 (c. 14), Sch. 22 para. 56; S.I. 2003/1997, art. 2
+[^F3]: Words in s. 3(4)(a) substituted (6.4.2003 with effect in accordance with s. 723(1)(a)(b) of the amending Act) by Income Tax (Earnings and Pensions) Act 2003 (c. 1), s. 723, Sch. 6 para. 261(2) (with Sch. 7)
+[^F4]: Words in s. 3(4)(a) substituted (with effect in accordance with Sch. 22 para. 55(2) of the amending Act) by Finance Act 2003 (c. 14), Sch. 22 para. 57(2)(a); S.I. 2003/1997, art. 2
+[^F5]: Words in s. 3(4)(b)(i) substituted (6.4.2003 with effect in accordance with s. 723(1)(a)(b) of the amending Act) by Income Tax (Earnings and Pensions) Act 2003 (c. 1), s. 723, Sch. 6 para. 261(3) (with Sch. 7)
+[^F6]: Words in s. 3(4)(b)(i) inserted (with effect in accordance with Sch. 22 para. 55(2) of the amending Act) by Finance Act 2003 (c. 14), Sch. 22 para. 57(2)(b); S.I. 2003/1997, art. 2
+[^F7]: S. 3(6) substituted (6.4.2003 with effect in accordance with s. 723(1)(a)(b) of the amending Act) by Income Tax (Earnings and Pensions) Act 2003 (c. 1), s. 723, Sch. 6 para. 261(4) (with Sch. 7)
+[^F8]: Words in s. 3(6) substituted (with effect in accordance with Sch. 22 para. 55(2) of the amending Act) by Finance Act 2003 (c. 14), Sch. 22 para. 57(3); S.I. 2003/1997, art. 2
+[^F9]: Words in s. 3(7)(b) substituted (6.4.2003 with effect in accordance with s. 723(1)(a)(b) of the amending Act) by Income Tax (Earnings and Pensions) Act 2003 (c. 1), s. 723, Sch. 6 para. 261(5) (with Sch. 7)
+[^F10]: Words in s. 3(11)(a) substituted (6.4.2003 with effect in accordance with s. 723(1)(a)(b) of the amending Act) by Income Tax (Earnings and Pensions) Act 2003 (c. 1), s. 723, Sch. 6 para. 261(6) (with Sch. 7)
+[^F11]: Words in s. 3(11)(a) inserted (with effect in accordance with Sch. 22 para. 55(2) of the amending Act) by Finance Act 2003 (c. 14), Sch. 22 para. 57(4); S.I. 2003/1997, art. 2
+[^F12]: S. 4 repealed (6.4.2003 with effect in accordance with s. 723(1)(a)(b) of the amending Act) by Income Tax (Earnings and Pensions) Act 2003 (c. 1), s. 723, Sch. 8 Pt. 1 (with Sch. 7)
+[^F13]: Words in s. 5(2)(c) substituted (6.4.2003 with effect in accordance with s. 723(1)(a)(b) of the amending Act) by Income Tax (Earnings and Pensions) Act 2003 (c. 1), s. 723, Sch. 6 para. 262(a) (with Sch. 7)
+[^F14]: Word in s. 5(2)(c) substituted (with effect in accordance with Sch. 22 para. 55(2) of the amending Act) by Finance Act 2003 (c. 14), Sch. 22 para. 58; S.I. 2003/1997, art. 2
+[^F15]: Words in s. 5(2)(c) substituted (6.4.2003 with effect in accordance with s. 723(1)(a)(b) of the amending Act) by Income Tax (Earnings and Pensions) Act 2003 (c. 1), s. 723, Sch. 6 para. 262(b) (with Sch. 7)

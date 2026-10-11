@@ -1,0 +1,573 @@
+---
+title: "Education (Scotland) Act 1996"
+identifier: "ukpga/1996/43"
+citation: "1996 c. 43"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1996-07-18
+last_amended: 2026-02-26
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1996/43"
+source_modified: 2026-03-04
+retrieved: 2026-10-11
+---
+
+# Education (Scotland) Act 1996
+
+**1996 c. 43**
+
+An Act to provide for the establishment of a body corporate to be known as the Scottish Qualifications Authority; to provide for the transfer of functions, property, rights, liabilities, obligations and staff to that body and for the conferring of other functions on it; to make provision enabling payment of grant to providers of education for children under school age; to amend certain legislation relating to school education in Scotland; and for connected purposes.
+
+[18th July 1996]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## [^F1]Part I — The Scottish Qualifications Authority
+
+### Establishment
+
+#### 1 The Scottish Qualifications Authority.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Functions
+
+#### 2 General functions of SQA.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 3 Accreditation function.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 4 Quality assurance.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 5 Advisory function.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 6 Incidental functions.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7 Regard to certain considerations.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 8 Services to others, collaboration, agency etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 9 Secretary of State’s directions to SQA.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Information
+
+#### 10 Provision of information by SQA.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 11 Annual report.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Financial provisions
+
+#### 12 Financial duties of SQA.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 13 Payment of grants etc. to SQA.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 14 Secretary of State’s power to make loans.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 15 Secretary of State’s guarantees of SQA’s borrowing.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 16 Accounts, records and audit.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Property
+
+#### 17 Transfer of property etc. to SQA.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Staff
+
+#### 18 Transfer of staff to SQA.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Dissolution of the Scottish Examination Board and of the Scottish Vocational Education Council: the Winding Down Period
+
+#### 19 Dissolution of the Scottish Examination Board and of the Scottish Vocational Education Council.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Transitional
+
+#### 20 Transitional provisions as regards SQA.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Interpretation of Part I
+
+#### 21 Interpretation of Part I.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Service of documents
+
+#### 22 Service of documents.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [[^F2]Part II — Education for Children Under School Age]
+
+### 23 Grants for education of children under school age.
+
+(1) The Secretary of State may make grants to persons providing education to children of such descriptions as he may by order prescribe being children who—
+
+(a) have not attained school age; and
+
+(b) have not commenced attendance at a public primary school by virtue of section 32(4) to (7) of the 1980 Act.
+
+(2) Grants under this section shall be subject to such requirements as may be imposed under section 24 of this Act and shall be of such an amount and shall be paid at such times and in such manner as the Secretary of State may from time to time determine.
+
+### 24 Grants: requirements.
+
+(1) A person to whom any payment is made in respect of a grant in pursuance of section 23 of this Act shall comply with such requirements as the Secretary of State may impose.
+
+(2) Requirements under subsection (1) above—
+
+(a) may be imposed on, or at any time after, the payment of any grant by reference to which they are imposed, and
+
+(b) may at any time be varied, waived or removed.
+
+(3) A requirement imposed in pursuance of subsection (1) above may, in particular, if any conditions specified in the requirement are satisfied, require repayment of the whole or any part of the grant to which it relates.
+
+(4) A requirement imposed in pursuance of subsection (1) above shall not have effect as regards anything done, or omitted to have been done before the date the requirement was imposed.
+
+### 25 Delegation of functions.
+
+(1) The Secretary of State may make arrangements for any of his functions relating to the making of grants under section 23 of this Act (other than his power to prescribe descriptions of children by order under subsection (1) of that section) to be exercised by another person (or any employee of his) on such terms as may be agreed between him and that person.
+
+(2) Any arrangement made under subsection (1) above may make provision for the functions concerned to be so exercised—
+
+(a) either wholly or to such an extent as may be specified in the arrangement, and
+
+(b) either generally or in such cases or circumstances as may be so specified,
+
+but shall not prevent the functions concerned from being exercised by the Secretary of State.
+
+### 26 [[^F3] Disclosure of information.
+
+(1) This section applies to—
+
+(a) civil servants in the Scottish Office and any other persons who carry out the administrative work of that Office, and
+
+(b) any person exercising any function by virtue of section 25 of this Act and any persons who are employed by (or are directors or other officers of) any such person or who carry out the administrative work of any such person.
+
+(2) The Secretary of State may supply to any person to whom this section applies any such social security information as the person may require for or in connection with the exercise of any function in pursuance of section 23 of this Act.
+
+(3) Any person who is or has been a person to whom this section applies is guilty of an offence if, without lawful authority, he discloses any social security information relating to a particular person which he acquired while acting as a person to whom this section applies.
+
+(4) It is not an offence under subsection (3) above—
+
+(a) to disclose social security information in the form of a summary or collection of information so framed as not to enable social security information relating to any particular person to be ascertained from it; or
+
+(b) to disclose any social security information which has previously been disclosed to the public with lawful authority.
+
+(5) It is a defence for a person charged with an offence under subsection (3) above to prove that at the time of the alleged offence—
+
+(a) he believed that he was making the disclosure in question with lawful authority and had no reasonable cause to believe otherwise; or
+
+(b) he believed that the information in question had previously been disclosed to the public with lawful authority and had no reasonable cause to believe otherwise.
+
+(6) For the purposes of this section, a disclosure is to be regarded as made with lawful authority if, and only if, it is made—
+
+(a) by a person in accordance with his official duty as a civil servant;
+
+(b) by any other person either—
+
+(i) for the purposes of the function in the exercise of which he holds the information and without contravening any restriction duly imposed by the person responsible; or
+
+(ii) to, or in accordance with an authorisation duly given by, the person responsible;
+
+(c) in accordance with any enactment or order of a court;
+
+(d) for the purposes of instituting, or otherwise for the purposes of, any proceedings before a court; or
+
+(e) with the consent of the person to whom the information relates or of any person authorised to act on his behalf.
+
+(7) A person guilty of an offence under subsection (3) above is liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine or both; or
+
+(b) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum or both.
+
+(8) In this section—
+
+- “person responsible” means the [[^F4]Scottish Ministers] or any person authorised by the [[^F4]Scottish Ministers]; and
+
+- “social security information” means information which—
+
+  - (a) is of a description prescribed by regulations made by the Secretary of State, and
+  - (b) was obtained by reason of the exercise by the Secretary of State of any of his functions under the [^M1]Social Security Contributions and Benefits Act 1992 or the [^M2]Social Security Administration Act 1992.]
+
+### 27 Interpretation of Part II.
+
+(1) Unless the context otherwise requires, expressions used in this Part of this Act and in the 1980 Act have the same meaning in this Part of this Act as in that Act.
+
+(2) In this Part of this Act, the “1980 Act” means the [^M3]Education (Scotland) Act 1980.
+
+## Part III — School Boards
+
+### [^F5]28 School Boards: elections.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F5]29 School Boards: terms of office.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F5]30 School Boards: conflict of interest.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F5]31 School Boards: miscellaneous.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part IV — Miscellaneous
+
+### 32 Assessment of secondary school pupils.
+
+After section 2 of the [^M4]Education (Scotland) Act 1980 (Secretary of State may prescribe standards etc. for education authorities) there shall be inserted the following section—
+
+> **2A Assessment of secondary school pupils.**
+>
+> (1) The Secretary of State may by regulations make provision for the testing and assessment of pupils undertaking the first or second year of secondary education in public or self-governing schools.
+>
+> (2) It shall be the duty of an education authority or a board of management to comply with the provisions of regulations made in pursuance of subsection (1) above.
+>
+> (3) Regulations made in pursuance of subsection (1) above may make different provision as to different cases or circumstances.
+
+### 33 Placing requests.
+
+(1) Section 28A of the [^M5]Education (Scotland) Act 1980 (which sets out the duties of education authorities in relation to placing requests),[^F6]... shall be amended in accordance with this section.
+
+(2) In subsection (1) for the words “and (3)” there shall be substituted the words “ , (3) and (3A) ”.
+
+(3) In subsection (3) for sub-paragraph (iv) of paragraph (a) and the word “or” immediately preceding it there shall be substituted the following sub-paragraphs—
+
+> (iv) be likely to be seriously detrimental to order and discipline in the school; or
+>
+> (v) be likely to be seriously detrimental to the educational well-being of pupils attending the school;
+
+.
+
+(4) After subsection (3) there shall be inserted the following subsections—
+
+> (3A) Subject to subsection (3B) below, the duty imposed by subsection (1) above does not apply where the acceptance of a placing request in respect of a child who is resident outwith the catchment area of the specified school would prevent the education authority from retaining reserved places at the specified school or in relation to any particular stage of education at the school; but nothing in this subsection shall prevent an education authority from placing a child in the specified school.
+>
+> (3B) An education authority shall not be entitled to refuse a placing request on the ground mentioned in subsection (3A) above where there is another equivalent school managed by the authority within—
+>
+> (a) in the case of a request relating to any stage of primary education, 3.2 kilometres (2 miles); and
+>
+> (b) in any other case, 4.8 kilometres (3 miles),
+>
+> walking distance by the nearest available route of the specified school; and in paragraphs (a) and (b) the references to imperial measurements are supplementary indications of distance.
+>
+> (3C) In subsection (3A) above, “reserved places” means such number of places (not exceeding such number or, as the case may be, such percentage of places at the school or relating to the particular stage of education as may be prescribed by regulations) as are in the opinion of the education authority reasonably required to accommodate pupils likely to become resident in the catchment area of the school in the period from the time of consideration of the placing request up to and during the year from 1 August to which the placing request relates; and different numbers or, as the case may be, percentages may be prescribed under this subsection for the purpose of different cases or circumstances.
+>
+> (3D) In subsections (3A) and (3C) above, “catchment area” means the area from which pupils resident therein will be admitted to the school in terms of any priority based on residence in accordance with the guidelines formulated by the authority under section 28B(1)(c) of this Act.
+>
+> (3E) In subsection (3B) above, “equivalent school” means—
+>
+> (a) where the specified school is a denominational school, a school of the same denomination;
+>
+> (b) where the specified school is a special school, another special school; and
+>
+> (c) where the specified school is neither a denominational school nor a special school, another such school,
+>
+> being a school which provides school education at the stage sought in the placing request.
+
+### 34 Stamp duty.
+
+Stamp duty shall not be chargeable in respect of any agreement made or any transfer effected in pursuance of any of the provisions of this Act.
+
+### 35 Regulations and orders.
+
+(1) Any power under this Act of the Secretary of State to make regulations or orders shall, subject to subsection (2) below, be exercisable by statutory instrument subject, except in the case of an order made under section 37(2) of this Act, to annulment in pursuance of a resolution of either House of Parliament.
+
+(2) Regulations and orders made under this Act may make different provisions as to different cases or circumstances; and such regulations or orders may contain such incidental, supplementary or transitional provision as the Secretary of State thinks fit.
+
+### 36 Transitional provisions, miscellaneous amendments and repeals.
+
+(1) The enactments specified in Schedule 5 to this Act shall have effect subject to the amendments specified in that Schedule.
+
+(2) The enactments specified in Schedule 6 to this Act are hereby repealed to the extent specified in the third column of that Schedule.
+
+(3) The Secretary of State may in relation to any particular functions of the Scottish Examination Board, the Scottish Vocational Education Council or SQA under sections 19 and 20 of and Schedules 2 or 3 to this Act by order—
+
+(a) exclude, modify or supplement any of those provisions; and
+
+(b) make such other transitional provision as he considers necessary or expedient.
+
+### 37 Short title, commencement and extent.
+
+(1) This Act may be cited as the Education (Scotland) Act 1996.
+
+(2) This Act shall come into force on such date as the Secretary of State may by order made by statutory instrument appoint; and different dates may be so appointed for different provisions or for different purposes.
+
+(3) An order under subsection (2) above may make such transitional and saving provisions as appear to the Secretary of State necessary or expedient in connection with the provision brought into force by the order.
+
+(4) Subject to subsections (5) and (6) below, this Act extends to Scotland only.
+
+(5) Section 26 of this Act extends to England, Wales and Northern Ireland as well as Scotland.
+
+(6) The amendment by this Act of an enactment which extends to England and Wales or Northern Ireland extends also to England and Wales or, as the case may be, Northern Ireland.
+
+## [^F7]SCHEDULE 1 — The Scottish Qualifications Authority
+
+*Section 1.*
+
+### Status
+
+**1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Qualifications and tenure of office
+
+**2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Chairman
+
+**8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Remuneration, pensions, etc.
+
+**9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Proceedings
+
+**10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Conflict of interest
+
+**11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Confidentiality of information
+
+**12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Committees
+
+**13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Delegation of powers
+
+**14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Staff
+
+**15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Disposal of property
+
+**18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Interpretation
+
+**19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F8]SCHEDULE 2 — Further Provisions and Savings relating to the Winding Down Period
+
+*Section 19.*
+
+### Vesting of existing bodies’ foreign property in the Scottish Qualifications Authority
+
+**1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Final reports and accounts of existing bodies etc.
+
+**2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F9]SCHEDULE 3 — Transitional Provisions for SQA
+
+*Section 20.*
+
+### Continuity of exercise of functions
+
+**1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Payment of grants by Secretary of State
+
+**2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Information
+
+**3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Application of Part I
+
+**4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F10]SCHEDULE 4 — Amendment of the School Boards (Scotland) Act 1988
+
+*Section 31.*
+
+**[^F10]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F10]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F10]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F10]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F10]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F10]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F10]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F10]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F10]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 5 — Miscellaneous and Consequential Amendments
+
+*Section 36.*
+
+### The House of Commons Disqualification Act 1975 (c.24)
+
+**1** In Part II of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies of which all members are disqualified) at the appropriate place there shall be inserted the following entry—
+
+> The Scottish Qualifications Authority.
+
+### The Education (Scotland) Act 1980 (c. 44.)
+
+**2** After section 51(2B) of the Education (Scotland) Act 1980 (provision of transport and other facilities) there shall be inserted the following subsection—
+
+> (2C) In considering whether to make any arrangements under subsection (1) above in respect of pupils attending schools, an education authority shall have regard to the safety of such pupils.
+
+**3** After section 66(1) of that Act (inspection of educational establishments) there shall be inserted the following subsection—
+
+> (1A) Without prejudice to subsection (1) above, the Secretary of State shall have power to cause inspection to be made at premises where education is provided or proposed to be provided by a person to whom the Secretary of State has power to make a grant in pursuance of section 23 of the Education (Scotland) Act 1996, and such inspections shall be made by Her Majesty’s Inspectors or other persons appointed by the Secretary of State for the purpose.
+
+### The Self-Governing Schools etc. (Scotland) Act 1989 (c.39.)
+
+**4** After section 13(3) of the Self-Governing Schools etc. (Scotland) Act 1989 (eligibility for self-governing status) there shall be inserted the following subsections—
+
+> (3A) Without prejudice to subsection (3) above, where an education authority makes a proposal to discontinue a school by virtue of section 22A of the 1980 Act, no resolution shall be passed or request made under subsection (1) above during the relevant period.
+>
+> (3B) The relevant period is whichever is the shorter of the period from the date when the education authority decides to consult persons in accordance with section 22A of the 1980 Act to the date the decision to discontinue the school is reached or—
+>
+> (a) where no consent is required under section 22B, 22C or 22D of the 1980 Act as regards the decision to discontinue the school, three months later;
+>
+> (b) where consent of the Secretary of State is so required, six months later.
+
+**5** In section 30(1) of that Act (change in characteristics of self-governing school)—
+
+(a) after the word “than” in the second place where it occurs there shall be inserted the word “ (a) ”;
+
+(b) after the word “needs” there shall be inserted the words
+
+> ; or
+>
+> (b) provision of a nursery class,
+
+.
+
+### The Education (Student Loans) Act 1990 (c.6)
+
+**6** In Schedule 1 to the Education (Student Loans) Act 1990 (courses of higher education)—
+
+(a) in paragraph 4(b), for the words “Scottish Vocational Education Council” there shall be substituted the words “ Scottish Qualifications Authority ”; and
+
+(b) in paragraph 6(b), for the words “of the Councils” there shall be substituted the words “ the Council or the Authority ”.
+
+### The Finance Act 1991 (c.31)
+
+**7** In section 32(10)(a)(ii) of the Finance Act 1991 (definition of qualifying course of vocational training) for the words “Scottish Vocational Education Council” there shall be substituted the words “ Scottish Qualifications Authority ”.
+
+### The Further and Higher Education (Scotland) Act 1992 (c.37)
+
+**8** In subsection (1)(b)(i) of section 6 of the Further and Higher Education (Scotland) Act 1992 (further education to which section 1 of that Act applies) for the words “Scottish Examination Board qualification” there shall be substituted the words “ qualification awarded by the Scottish Qualifications Authority ”.
+
+**9** In section 38 of that Act (meaning of higher education)—
+
+(a) in subsection (3)(d), for the words “Scottish Vocational Education Council” there shall be substituted the words “ Scottish Qualifications Authority ”; and
+
+(b) in subsection (5)—
+
+(i) after the word “amend” there shall be inserted the word “(a)”; and
+
+(ii) at the end there shall be inserted the words
+
+> ; and
+>
+> (b) subsection (3) above.
+
+## SCHEDULE 6 — Repeals
+
+*Section 36.*
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1980 c. 44. | The Education (Scotland) Act 1980. | In section 2, the word “general”. |
+|  |  | In section 19(1), the word “general”. |
+|  |  | In section 20, in subsection (1), the words “, subject to subsection (2) below,”; and subsections (2) and (3). |
+|  |  | In section 65F, the word “general”. |
+|  |  | Section 129. |
+| 1988 c. 47. | The School Boards (Scotland) Act 1988. | In section 2, subsections (8) to (12). |
+|  |  | In Schedule 2, in paragraph 3, the words from “(other than” to “or sit)”. |
+| 1989 c. 39. | The Self-Governing Schools etc. (Scotland) Act 1989. | In section 7(7), the word “general”. |
+|  |  | Section 69(3). |
+
+---
+
+[^F1]: Pt. 1 repealed (26.2.2026) by Education (Scotland) Act 2025 (asp 11), s. 66(2), sch. 4 para. 11(2); S.S.I. 2026/83, reg. 2, sch.
+[^F2]: Pt. II (ss. 23-27) repealed (S.) (1.4.2002) by 2000 asp 6, s. 39; S.S.I. 2002/72, art. 2(2)
+[^F3]: Pt. II (ss. 23-27) repealed (S.) (1.4.2002) by 2000 asp 6, s. 39; S.S.I. 2002/72, art. 2(2)
+[^F4]: Words in the definition of "person responsible" in s. 26(8) substituted (1.7.1999) by S.I. 1999/1820, arts. 1(2), 4, Sch. 2 Pt. I para. 125
+[^M1]: 1992 c. 4.
+[^M2]: 1992 c. 5.
+[^M3]: 1980 c. 44.
+[^F5]: Ss. 28-31 repealed (1.8.2007) by Scottish Schools (Parental Involvement) Act 2006 (asp 8), s. 24(2), Sch.; S.S.I. 2007/31, art. 2(b), Sch. 2
+[^M4]: 1980 c. 44.
+[^M5]: 1980 c. 44.
+[^F6]: Words in s. 33(1) repealed (14.11.2005) by Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), s. 35(1), Sch. 3 para. 10(b); S.S.I. 2005/564, art. 2
+[^F7]: Sch. 1 repealed (26.2.2026) by Education (Scotland) Act 2025 (asp 11), s. 66(2), sch. 4 para. 11(3); S.S.I. 2026/83, reg. 2, sch.
+[^F8]: Sch. 2 repealed (26.2.2026) by Education (Scotland) Act 2025 (asp 11), s. 66(2), sch. 4 para. 11(4); S.S.I. 2026/83, reg. 2, sch.
+[^F9]: Sch. 3 repealed (26.2.2026) by Education (Scotland) Act 2025 (asp 11), s. 66(2), sch. 4 para. 11(5); S.S.I. 2026/83, reg. 2, sch.
+[^F10]: Sch. 4 repealed (1.8.2007) by Scottish Schools (Parental Involvement) Act 2006 (asp 8), s. 24(2), Sch.; S.S.I. 2007/31, art. 2(b), Sch. 2

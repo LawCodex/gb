@@ -1,0 +1,2416 @@
+---
+title: "Transport and Works Act 1992"
+identifier: "ukpga/1992/42"
+citation: "1992 c. 42"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S"
+date: 1992-03-16
+last_amended: 2026-09-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1992/42"
+source_modified: 2026-09-02
+retrieved: 2026-10-11
+---
+
+# Transport and Works Act 1992
+
+**1992 c. 42**
+
+An Act to provide for the making of orders relating to, or to matters ancillary to, the construction or operation of railways, tramways, trolley vehicle systems, other guided transport systems and inland waterways, and orders relating to, or to matters ancillary to, works interfering with rights of navigation; to make further provision in relation to railways, tramways, trolley vehicle systems and other guided transport systems; to amend certain enactments relating to harbours; and for connected purposes.
+
+[16th March 1992]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part I — Orders authorising works etc
+
+### Power to make orders
+
+#### 1 Orders as to railways, tramways etc.
+
+(1) The Secretary of State may make an order relating to, or to matters ancillary to, the construction or operation of a transport system of any of the following kinds, so far as it is in England and Wales—
+
+(a) a railway;
+
+(b) a tramway;
+
+(c) a trolley vehicle system;
+
+(d) a system using a mode of guided transport prescribed by order made under section 2 below.
+
+[[^F1](1A) Subsection (1) is subject to—
+
+(a) section 33(2) of the Planning Act 2008 (exclusion of powers to authorise development);
+
+(b) section 120(9) of that Act (exclusion of power to include ancillary provision in orders);
+
+[[^F2](c) section 20(2) of the Infrastructure (Wales) Act 2024 (exclusion of powers to authorise development for which infrastructure consent is required);
+
+(d) section 63(8) of that Act (exclusion of powers to include ancillary provision in orders).]]
+
+(2) The power to make orders under this section shall be exercisable by statutory instrument.
+
+#### 2 Extension of section 1 to other guided transport systems.
+
+(1) The Secretary of State may by order prescribe modes of guided transport for the purposes of section 1(1)(d) above.
+
+(2) The power to make orders under this section shall be exercisable by statutory instrument; but no order shall be made unless a draft of it has been laid before, and approved by a resolution of, each House of Parliament.
+
+#### 3 Orders as to inland waterways etc.
+
+(1) The Secretary of State may make an order relating to, or to matters ancillary to—
+
+(a) the construction or operation of an inland waterway in England and Wales;
+
+(b) the carrying out of works which—
+
+(i) interfere with rights of navigation in waters within or adjacent to England and Wales, up to the seaward limits of the territorial sea, and
+
+(ii) are of a description prescribed by order made under section 4 below.
+
+[[^F3](1A) Subsection (1) is subject to—
+
+(a) section 33(2) of the Planning Act 2008 (exclusion of powers to authorise development);
+
+(b) section 120(9) of that Act (exclusion of power to include ancillary provision in orders);
+
+[[^F4](c) section 20(2) of the Infrastructure (Wales) Act 2024 (exclusion of powers to authorise development for which infrastructure consent is required);
+
+(d) section 63(8) of that Act (exclusion of powers to include ancillary provision in orders).]]
+
+(2) The Secretary of State shall not make an order under this section if in his opinion the primary object of the order could be achieved by means of an order under the [^M1]Harbours Act 1964.
+
+(3) The power to make orders under this section shall be exercisable by statutory instrument.
+
+#### 4 Description of works for purposes of section 3.
+
+(1) The Secretary of State may by order prescribe descriptions of works for the purposes of section 3(1)(b) above.
+
+(2) The power to make orders under this section shall be exercisable by statutory instrument; but no order shall be made unless a draft of it has been laid before, and approved by a resolution of, each House of Parliament.
+
+#### 5 Subject-matter of orders under sections 1 and 3.
+
+(1) Without prejudice to the generality of sections 1 and 3 above, the matters as to which provision may be made by an order under either of those sections include those set out in Schedule 1 to this Act.
+
+(2) An order under section 1 or 3 above may make provision in relation to more than one scheme, system or mode of transport.
+
+(3) An order under section 1 or 3 above may—
+
+(a) apply, modify or exclude any statutory provision which relates to any matter as to which an order could be made under section 1 or, as the case may be, 3, and
+
+(b) make such amendments, repeals and revocations of statutory provisions of local application as appear to the Secretary of State to be necessary or expedient in consequence of any provision of the order or otherwise in connection with the order;
+
+and for the purposes of this subsection “statutory provision” means provision of an Act of Parliament or of an instrument made under an Act of Parliament.
+
+(4) The provisions that may be made by an order under section 1 or 3 above include—
+
+(a) any provision that appears to the Secretary of State to be necessary or expedient for giving full effect to—
+
+(i) any other provision of the order,
+
+(ii) any provision of an earlier order under the section concerned, or
+
+(iii) any provision which is contained in an Act of Parliament passed before the time when this Part of this Act is first wholly in force, or in an instrument made under an Act of Parliament before that time, and which is of a kind which could be included in an order under section 1 or 3 above;
+
+(b) such supplemental and transitional provisions as appear to him to be necessary or expedient in connection with the order.
+
+(5) A provision of an order under section 1 or 3 above relating to offences shall not authorise the imposition on persons convicted of an offence of a term of imprisonment or of a fine exceeding level 3 on the standard scale.
+
+(6) An order under section 1 or 3 above shall not extinguish any public right of way over land unless the Secretary of State is satisfied—
+
+(a) that an alternative right of way has been or will be provided, or
+
+(b) that the provision of an alternative right of way is not required.
+
+(7) Where an order under sections 104(3), 105(3) or 112 of the [^M2]Transport Act 1968 (classification and maintenance of [[^F5]Canal & River Trust’s] waterways, and maintenance and use of other waterways) is required so as to give effect to any proposal, no provision shall be included in an order under section 1 or 3 above which would—
+
+(a) remove that requirement, or
+
+(b) alter the requirements of sections 104, 105 or 112 of, or Schedule 13 to, that Act relating to orders under those sections.
+
+### Procedure for making orders
+
+#### 6 Applications for orders under sections 1 and 3.
+
+(1) Subject to section 7 below, the Secretary of State shall not make an order under section 1 or 3 above except on an application made to him in accordance with rules made under this section.
+
+(2) The Secretary of State may make rules as to—
+
+(a) the form of an application under this section;
+
+(b) the documents and information that must be submitted with it;
+
+(c) the giving and publication of notices of an application;
+
+(d) any other steps that must be taken before an application is made or in connection with the making of an application.
+
+[[^F6](2A) The power to make rules by virtue of subsection (2) above includes power to make provision for or in connection with requiring the Secretary of State in such cases or circumstances as may be prescribed in the rules to give to a person who proposes to make an application under this section an opinion on the information, if any, to be supplied in connection with that application.]
+
+[[^F7](2B) The power to make rules by virtue of subsection (2) above includes a power to make rules as to the publicity to be given to any [[^F8]EIA information (see section 13A)] provided in relation to an application made under this section.]
+
+(3) Any provision made by rules as to the consultation that must be carried out before an application is made [[^F9], or as to the provision of information by a relevant authority to a person for the purposes of an application which the person proposes to make,] may include provision requiring compliance with general or special directions given by the Secretary of State.
+
+(4) Rules under this section may make different provision for different cases, and may include provision authorising the Secretary of State—
+
+(a) to dispense with compliance with rules that would otherwise apply, or
+
+(b) to require compliance with rules that would not otherwise apply,
+
+in any case where he considers it appropriate to do so.
+
+(5) Rules may provide for fees of such amounts as may be determined by or in accordance with the rules to be payable to the Secretary of State on the making of applications under this section.
+
+(6) The power to make rules under this section shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+[[^F10](7) In subsection (3) above “relevant authority” means—
+
+(a) Natural England;
+
+(b) the Natural Resources Body for Wales;
+
+(c) a local planning authority, within the meaning of Part 1 of the Town and Country Planning Act 1990;
+
+(d) any other person or authority having specific environmental responsibilities, or local or regional competences, which the Secretary of State considers is likely to have an interest in an application a person proposes to make.]
+
+#### 6A [[^F11] Cases where [^F12]... Member States are affected
+
+(1) The power conferred on the Secretary of State by subsection (2) of section 6 above to make rules includes power to make rules for a case where an application has been made under that section and [[^F13]a] Member State is affected by the project in question, as to–
+
+(a) the provision by the Secretary of State to the Member State, or to authorities in, or the public of, the Member State, of documents and information relating to the application;
+
+(b) consultation by the Secretary of State with the Member State in connection with the application; or
+
+(c) notification by the Secretary of State to the Member State of the decision, or of matters relating to the decision, on the application.
+
+(2) For the purposes of subsection (1) above, the cases where [[^F14]a] Member State is affected by the project in question are those cases where–
+
+(a) it appears to the Secretary of State that the project would be likely to have significant effects on the environment in [[^F14]a] Member State; or
+
+(b) [[^F15]a] Member State is likely to be significantly affected by the project and requests information relating to the application.]
+
+[[^F16](3) “Member State”, in relation to any time, includes a State which is at that time a party to the EEA agreement.]
+
+#### 7 Orders under sections 1 and 3 made otherwise than on application.
+
+(1) The Secretary of State may without any application being made to him make—
+
+(a) an order under section 1 above which relates to, or to matters ancillary to, the construction for naval, military, air force or other defence purposes of a railway, tramway or other system within section 1(1), or the operation of a railway, tramway or other system constructed for those purposes;
+
+(b) an order under section 1 or 3 above making any provision which appears to the Secretary of State to be necessary or expedient, in the interests of safety,—
+
+(i) for the purpose of suspending or discontinuing any operations, or
+
+(ii) in consequence of the abandonment or neglect of any works;
+
+(c) an order under section 1 or 3 above repealing or revoking provisions which appear to the Secretary of State to be spent.
+
+(2) An order made by virtue of subsection (1)(b) above may include provision for the recovery by the Secretary of State of the costs of making the order and of carrying its provisions into effect.
+
+(3) Where the Secretary of State proposes to make an order by virtue of this section, he shall—
+
+(a) prepare a draft of the order,
+
+[[^F17](b) publish a notice of his intention to make the order, which notice shall include such particulars as may be prescribed, in the London Gazette and in a local newspaper circulating in the area (or each of the areas) in which the proposals contained in the draft order are intended to have effect, and]
+
+(c) give such further notices of the proposal as may be prescribed.
+
+(4) The power to make provision by rules under section 6 above in relation to applications shall include power to make such corresponding provision as the Secretary of State considers appropriate in relation to proposals to make orders by virtue of this section; and in subsection (3) above “prescribed” means prescribed by rules under section 6.
+
+#### 8 [[^F18]Guidance on draft orders
+
+(1) The Secretary of State may publish guidance about the preparation of draft orders, for cases in which rules under section 6 require the submission of such drafts to the Secretary of State.
+
+(2) The Welsh Ministers may publish guidance about the preparation of draft orders, for cases in which rules under section 6 require the submission of such drafts to the Welsh Ministers.
+
+(3) The guidance may set out model provisions considered suitable for inclusion in the drafts (whether generally or in certain cases).
+
+(4) In arriving at a determination under section 13 in a case to which guidance under this section applies, the Secretary of State or (as the case may be) the Welsh Ministers must have regard to—
+
+(a) any departure from the guidance, and
+
+(b) any reasons given by the applicant for that departure.]
+
+#### [^F19]9 Schemes of national significance.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 10 Objections.
+
+(1) The Secretary of State may make rules as to—
+
+(a) the making of objections to an application under section 6 above or to a proposal to make an order by virtue of section 7 above;
+
+(b) the information to be comprised within or submitted with an objection;
+
+(c) the submission by the person making the application of written representations or information in relation to objections;
+
+(d) the submission of further written representations or information;
+
+(e) such other matters relating to the consideration of objections as appear to the Secretary of State to be appropriate.
+
+(2) Subject to the following provisions of this section, the Secretary of State shall not make a determination under section 13(1) below to make an order without first taking into consideration the grounds of any objection in respect of which rules under this section have been complied with.
+
+(3) If an objection is withdrawn or appears to the Secretary of State—
+
+(a) to be frivolous or trivial, or
+
+(b) to relate to matters which fall to be determined by a tribunal concerned with the assessment of compensation,
+
+he may make a determination under section 13(1) below without further consideration of the objection.
+
+(4) Subsection (2) above shall not apply where the Secretary of State causes an inquiry to be held under section 11(1) below or causes an objection to be dealt with in accordance with section 11(2) below, but the Secretary of State shall not make a determination under section 13(1) below without first taking into consideration the report of the person holding the inquiry, or as the case may be of the person appointed under section 11(2).
+
+(5) Rules under this section may make different provision for different cases, and may include provision authorising the Secretary of State—
+
+(a) to dispense with compliance with rules that would otherwise apply, or
+
+(b) to require compliance with rules that would not otherwise apply,
+
+in any case where he considers it appropriate to do so.
+
+(6) The power to make rules under this section shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 11 Inquiries and hearings.
+
+(1) The Secretary of State may cause a public local inquiry to be held for the purposes of an application under section 6 above or a proposal by the Secretary of State to make an order by virtue of section 7 above.
+
+(2) The Secretary of State may give to a person who makes an objection in accordance with rules under section 10 above an opportunity of appearing before and being heard by a person appointed by the Secretary of State for the purpose.
+
+(3) Where [[^F20]—
+
+(a) an objection is made by a person within subsection (4),
+
+(b) the person informs the Secretary of State in writing that the person wishes the objection to be referred to an inquiry or dealt with in accordance with subsection (2), and
+
+(c) the Secretary of State considers that the objection is serious enough to merit such treatment,]
+
+the Secretary of State shall either cause an inquiry to be held or, if he so determines, cause the objection to be dealt with in accordance with subsection (2).
+
+[[^F21](3A) In a case in which the powers in subsections (1) and (2) are exercisable by the Welsh Ministers, subsection (3) is to be read as referring to the Welsh Ministers instead of the Secretary of State.]
+
+(4) The persons within this subsection are—
+
+(a) any local authority for an area in which any works authorised by the proposed order are to be carried out, and
+
+(b) where the proposals include the compulsory acquisition of land, any person who, if Part II of the [^M3]Acquisition of Land Act 1981 (notice to owners, lessees and occupiers) applied to the acquisition, would be entitled to a notice under section 12 of that Act;
+
+and for the purposes of paragraph (a) above “local authority” means a county council, a district council, a London borough council, the Common Council of the City of London, the Council of the Isles of Scilly [[^F22], a county borough council,] and a Passenger Transport Executive.
+
+(5) Subsections (2) to (5) of section 250 of the [^M4]Local Government Act 1972 (attendance and evidence at, and costs of, inquiries) shall apply to an inquiry held under subsection (1) above; but—
+
+[[^F23](za) the powers of direction, certification and order-making conferred by section 250(4) and (5) as applied by this subsection may, unless otherwise directed by the Secretary of State or the Welsh Ministers, be exercised on their behalf by the person holding the inquiry,]
+
+(a) in its application by virtue of this subsection, section 250(4) shall have effect with the omission of the words “and any amount” onwards, and
+
+(b) the power to make an order as to costs under section 250(5) as applied by this subsection shall be exercisable not only where the inquiry takes place but also where arrangements are made for it but it does not take place.
+
+[[^F24](5A) The power of direction conferred by section 250(4) of the Local Government Act 1972 (costs of inquiry) as applied by subsection (5) is, in the case of an application under section 6, to be exercised so as to require the applicant to pay the costs in question, unless the person exercising the power considers that there is good reason to exercise it differently.]
+
+(6) Subsections (4) and (5) of section 250 of the Local Government Act 1972 (costs) [[^F25], and subsection (5A) of this section,] shall apply in relation to proceedings under subsection (2) above as they apply in relation to an inquiry under subsection (1) above.
+
+#### 12 Special parliamentary procedure.
+
+(1) An order under section 1 or 3 above authorising a compulsory purchase shall be subject to special parliamentary procedure to the same extent as it would be, by virtue of section 18 or 19 of the Acquisition of Land Act 1981 (or by virtue of paragraph 5 or 6 of Schedule 3 to that Act) (National Trust land, commons etc), if the purchase were authorised by an order under section 2(1) of that Act.
+
+[^F26]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In relation to an order under section 1 or 3 above which is subject to special parliamentary procedure—
+
+(a) section 13(5) below shall not apply,
+
+(b) section 22 below shall not apply if the order is confirmed by Act of Parliament under section [[^F27]4 or] 6 of the Statutory Orders (Special Procedure) Act 1945, and
+
+(c) in any other case, section 22(1) below shall have effect as if for the reference to the day on which [[^F28]notice is first published under section 14(1)(b)] there were substituted a reference to the day on which the order comes into operation under the [^M5]Statutory Orders (Special Procedure) Act 1945.
+
+#### 13 Making or refusal of orders under section 1 or 3 [[^F29]: general].
+
+(1) Where an application has been made to the Secretary of State under section 6 above, or he proposes to make an order by virtue of section 7 above, and (in either case) the requirements of the preceding provisions of this Act in relation to any objections have been satisfied, he shall determine—
+
+(a) to make an order under section 1 or 3 above which gives effect to the proposals concerned without modifications, or
+
+(b) to make an order which gives effect to those proposals with modifications, or
+
+(c) not to make an order.
+
+(2) Where an application has been made to the Secretary of State under section 6 above and he considers that any of the objects of the order applied for could be achieved by other means, he may on that ground determine not to make the order (but this subsection is without prejudice to subsection (3) below).
+
+(3) The power of the Secretary of State to make a determination under subsection (1) above includes power to make a determination in respect of some only of the proposals concerned, while making a separate determination in respect of, or deferring consideration of, others (and accordingly the power to make an order under section 1 or 3 above includes power to make two or more orders on the same application).
+
+(4) Where the Secretary of State proposes to make an order which gives effect to the proposals concerned with modifications which will in his opinion make a substantial change in the proposals—
+
+(a) he shall notify any person who appears to him to be likely to be affected by the modifications,
+
+(b) he shall give that person an opportunity of making representations to him about the modifications within such period as he may specify in the notice, and
+
+(c) he shall before making the order consider any representations duly made to him.
+
+(5) An order under section 1 or 3 above shall come into operation on the date on which [[^F30]notice of the determination to make the order is first published under section 14(1)(b)], or on such later date, if any, as may be specified in the order.
+
+[[^F31](6) This section is subject to sections 13B to 13D (which make provision about the consideration of applications or proposals for EIA orders and the making of such orders).]
+
+[[^F32](7) The Secretary of State may, for cases involving applications under section 6, make rules as to the period within which—
+
+(a) a determination under subsection (1) must be made, or
+
+(b) a step must be taken as required by subsection (4), section 13B or section 13C.
+
+(8) Rules under subsection (7)—
+
+(a) may provide for periods to be determined or changed by the Secretary of State or the Welsh Ministers in individual cases;
+
+(b) may provide for the postponement of a requirement under the rules where a fee payable in connection with the application is not paid on time;
+
+(c) may make different provision for different cases;
+
+(d) if they apply in relation to Wales, may be made only with the agreement of the Welsh Ministers;
+
+(e) must be made by statutory instrument;
+
+and such an instrument is subject to annulment in pursuance of a resolution of either House of Parliament.]
+
+#### 13A [[^F33]Environmental impact assessment: definitions
+
+(1) This section defines certain terms used in this Part.
+
+(2) “The EIA Directive” means Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment.
+
+(3) “EIA information”, in relation to an application under section 6, or proposal under section 7, for an EIA order, means—
+
+(a) the environmental statement,
+
+(b) any other information which the Secretary of State reasonably requires for the purpose of reaching a reasoned conclusion (see section 13B), and
+
+(c) any representations made by any person about the environmental effects of the proposed works or other projects.
+
+(4) “EIA order” means an order authorising works or other projects—
+
+(a) which are—
+
+(i) in a class listed in Annex I to the EIA Directive, or
+
+(ii) in a class listed in Annex II to the EIA Directive and, by virtue of their nature, size or location, likely to have significant effects on the environment, and
+
+(b) which are not exempt works.
+
+(5) For the purposes of subsection (4), works or other projects are exempt if the Secretary of State directs or decides (in accordance with rules made under section 6) that an environmental impact assessment is not required in respect of those works or projects.
+
+(6) “Environmental statement” means a statement which, by rules under section 6, is required—
+
+(a) to accompany an application for, or be prepared in connection with the publication of a proposal to make, an EIA order, and
+
+(b) amongst other matters, to set out the likely significant effects of the implementation of the EIA order applied for or proposed on the environment.
+
+(7) “Reasoned conclusion” means a reasoned conclusion under section 13B(1)(b).
+
+#### 13B Application or proposal for an EIA order: reasoned conclusion
+
+(1) Before making a determination under section 13(1) in respect of an application or proposal for an EIA order, the Secretary of State—
+
+(a) must consider the EIA information, and
+
+(b) following that consideration, must reach a reasoned conclusion about the likely significant effects of the proposed works or other projects on the environment.
+
+(2) The Secretary of State must obtain such expert advice as appears to the Secretary of State to be necessary for the purposes of considering the environmental statement.
+
+(3) When making a determination under section 13(1) in respect of an application or proposal for an EIA order, the Secretary of State must take into account the reasoned conclusion.
+
+(4) But the Secretary of State may determine to make an EIA order (whether with or without modifications) only if satisfied that the reasoned conclusion is up to date.
+
+#### 13C EIA orders: monitoring measures and remedial action
+
+(1) If the Secretary of State proposes to make an EIA order (whether with or without modifications), the Secretary of State must consider whether monitoring of the significant adverse effects of the works or other projects on the environment to be authorised by the order is appropriate and, if so, must consider—
+
+(a) whether it is appropriate to impose a monitoring measure, and
+
+(b) whether it is appropriate to impose a requirement to take remedial action.
+
+(2) In this section, “monitoring measure”, in relation to proposed works or other projects, means a requirement to monitor any significant adverse effects of the works or projects on the environment.
+
+(3) For the purposes of subsection (1)(a), the Secretary of State must take into account any monitoring arrangements which are required to be carried out under the law of any part of the United Kingdom (other than a provision [[^F34]which implemented] the EIA Directive).
+
+(4) The Secretary of State may impose a monitoring measure or a requirement to take remedial action in the EIA order or, if the Secretary of State gives a direction under section 90(2A) of the Town and Country Planning Act 1990 on the making of the EIA order, by way of condition specified in that direction.
+
+(5) But the Secretary of State may impose a monitoring measure only if satisfied that the type of parameters which will be required to be monitored and the duration of such monitoring are proportionate having regard to—
+
+(a) the nature, location and size of the proposed works or other projects, and
+
+(b) the significance of the effects of the works or other projects on the environment.
+
+#### 13D Application or proposal for an EIA order: time limit
+
+The Secretary of State must make a determination under section 13(1) in relation to an application or proposal for an EIA order within a reasonable period of time (having regard to the nature and complexity of the works or other project to which it relates) beginning on the day on which the Secretary of State has all of the information necessary to reach the reasoned conclusion.]
+
+#### 14 Publicity for making or refusal of orders.
+
+[[^F35](1) As soon as practicable after making a determination under section 13(1) above, the Secretary of State must—
+
+(a) give notice of the determination to the persons specified in subsection (1A), [[^F36]and
+
+(b) publish the notice on a government website.]
+
+(1A) The specified persons are—
+
+(a) the person (if any) who applied for the order;
+
+(b) any person who made an objection which was referred to an inquiry or hearing in accordance with section 11(3);
+
+(c) if the determination is that an EIA order is to be made, to any authority the Secretary of State considers is likely to be concerned by the works or other projects authorised by the order because of their specific environmental responsibilities or local and regional competencies.]
+
+[[^F37](2) A notice under subsection [[^F38](1)] above shall give—
+
+(a) the reasons for the determination and the considerations upon which it is based;
+
+(b) information about the public participation process; and
+
+(c) information regarding the right to challenge the validity of the determination and the procedures for doing so.
+
+[^F39]2A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+(3) A notice under subsection (1) above of a determination to make an order shall give such particulars of the terms of the order as the Secretary of State considers appropriate, and in particular shall (except where the order is made by virtue of section 7 above) state the name and address of the person who applied for the order.
+
+[[^F40](3A) Where a determination under section 13(1) above relates to an application or proposal [[^F41]for an EIA order], the [[^F42]notice] under subsection (1) above shall state that, before the Secretary of State made the determination—
+
+(a) he [[^F43]complied with sections 13B to 13D], and
+
+(b) he complied with any obligations under section 10 above in respect of any objection made in accordance with rules under that section which relates to the environmental statement, and
+
+(c) he considered, or referred to an inquiry under section 11(1) above or a person appointed under section 11(2), any representation duly made to him (other than an objection) which relates to the environmental statement.
+
+[[^F44][[^F45](3AA) If the determination is for the making of an EIA order, the notice under subsection (1) must include the information specified in subsection (3AB).]
+
+(3AB) The specified information is—
+
+(a) in so far as they relate to the likely significant effects of the proposed works or other projects on the environment, a summary of —
+
+(i) the results of any consultation undertaken in accordance with rules made under section 6 (including in particular any comments made by, or the authorities in or public of, [[^F46]a] Member State), and
+
+(ii) any objections made in accordance with rules made under section 10,
+
+(b) a summary of how those results and objections have been taken into account in making the determination,
+
+(c) the reasoned conclusion,
+
+(d) a description of any features of the works or other projects, or measures, to avoid, prevent or reduce and, if possible, offset any likely significant adverse effects of the works or other projects on the environment, and
+
+(e) a statement of any monitoring measures, requirements to take remedial action or other conditions relating to the likely significant effects of the proposed works or other projects on the environment that are imposed.]
+
+[^F47]3B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3C) The Secretary of State shall send a copy of any notice to which subsection (3A) above applies to any person who made—
+
+(a) an objection to which paragraph (b) of that subsection refers, which was not referred to an inquiry or hearing in accordance with section 11(3) above, or
+
+(b) a representation to which subsection (3A) (c) above refers.
+
+[^F48]3D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+[[^F49](4) Where the Secretary of State makes a determination under section 13(1) above, the appropriate person shall publish [[^F50]a copy of the notice under subsection (1)] in a local newspaper circulating in the area, or in each of the areas, in which the relevant proposals are or were intended to have effect [^F51]....
+
+(4A) In subsection (4)—
+
+(a) in relation to an application for an order under section 1 or 3 above—
+
+(i) “appropriate person” means the person who applied for the order;
+
+(ii) “relevant proposals” means the proposals contained in the application;
+
+(b) in relation to a proposal to make an order by virtue of section 7 above—
+
+(i) “appropriate person” means the Secretary of State;
+
+(ii) “relevant proposals” means the proposals contained in the draft order prepared by the Secretary of State pursuant to section 7.]
+
+(5) As soon as practicable after the making of an order under section 1 or 3 above, the person who applied for the order (or, where the order is made by virtue of section 7 above, the Secretary of State) shall—
+
+(a) deposit in the office of the Clerk of the Parliaments a copy of the order, and of any plan or book of reference prepared in connection with the application (or proposed order), and
+
+(b) deposit with each of the councils mentioned in subsection (7) below in whose area works authorised by the order are to be carried out a copy of each of those documents, or of so much of them as is relevant to those works.
+
+(6) Where a plan or book of reference is revised before the order is made, the reference in subsection (5)(a) above is to the latest version.
+
+(7) The councils referred to in subsection (5) above are district councils, London borough councils and the Common Council of the City of London [[^F52]but are, in relation to Wales, county councils and county borough councils].
+
+(8) A council with which documents are deposited in accordance with subsection (5) above shall make them available for inspection free of charge at all reasonable hours.
+
+#### 14A [[^F53]Compulsory acquisition: notice requirements
+
+(1) This section applies where the appropriate national authority has determined under section 13(1) to make an order under section 1 or 3—
+
+(a) authorising the compulsory acquisition of land in England or Wales, and
+
+(b) applying Parts 2 and 3 of the Compulsory Purchase (Vesting Declarations) Act 1981 to the acquisition.
+
+(2) As soon as practicable after the appropriate national authority has made the determination, the acquiring authority must give a notice to any person who, if Part 2 of the Acquisition of Land Act 1981 applied to the acquisition, would be entitled to a notice under section 12 of that Act (notice to owners, lessees and occupiers).
+
+(3) The notice must—
+
+(a) contain a statement about the effect of Parts 2 and 3 of the Compulsory Purchase (Vesting Declarations) Act 1981, and
+
+(b) invite any person who would be entitled to claim compensation if a declaration were executed under section 4 of the Compulsory Purchase (Vesting Declarations) Act 1981 to give the acquiring authority information about the person’s name, address and interest in land, using a form set out in the notice.
+
+(4) The statement referred to in subsection (3)(a) must be the same as the relevant statement prescribed under—
+
+(a) section 15(4)(e) of the Acquisition of Land Act 1981, where the determination was made following an application, or
+
+(b) paragraph 6(4)(e) of Schedule 1 to that Act, where the determination was made otherwise than following an application,
+
+subject to any necessary modifications.
+
+(5) The form mentioned in subsection (3)(b) must be the same as the relevant form that is prescribed under—
+
+(a) section 15(4)(f) of the Acquisition of Land Act 1981, where the determination was made following an application, or
+
+(b) paragraph 6(4)(f) of Schedule 1 to that Act, where the determination was made otherwise than following an application,
+
+subject to any necessary modifications.
+
+(6) The acquiring authority must send a copy of the notice to the Chief Land Registrar and it shall be a local land charge in respect of the land in England or Wales to which it relates.
+
+(7) For the purposes of subsections (4) and (5), a statement or a form is “relevant”—
+
+(a) where the order under section 1 or 3 is made by the Welsh Ministers, if it was prescribed by the Welsh Ministers, or
+
+(b) where the order under section 1 or 3 is made by the Secretary of State, if it was prescribed by the Secretary of State.
+
+(8) In this section—
+
+- the “acquiring authority” means the person authorised to carry out the compulsory acquisition, and
+
+  the “appropriate national authority” means—
+
+  - where an order authorises the compulsory acquisition of land wholly in England, the Secretary of State,
+  - where an order authorises the compulsory acquisition of land in both England and Wales, the Secretary of State, and
+  - where an order authorises the compulsory acquisition of land wholly in Wales, the Welsh Ministers.]
+
+### Consents etc under other enactments
+
+#### 15 Assimilation of procedures.
+
+(1) This section applies to applications made under section 6 above relating to proposals for the purposes of which the giving of a consent, permission or licence under any enactment, or the making or confirmation of an order under any enactment, is required.
+
+(2) The Secretary of State may make regulations for securing that, where the requirement referred to in subsection (1) above would not be removed by the order to which the application relates—
+
+(a) the procedure for obtaining, or otherwise relating to, the consent, permission, licence, order or confirmation, and
+
+(b) the procedure relating to the application made under section 6 above,
+
+are wholly or partly assimilated (and in particular that proceedings relating to the one may be held concurrently with proceedings relating to the other).
+
+(3) Regulations under this section may include provision—
+
+(a) excluding or modifying the application of any enactment;
+
+(b) authorising the Secretary of State to give directions or take such other steps as may be appropriate for the purpose of securing the object mentioned in subsection (2) above.
+
+(4) The power to make regulations under this section shall be exercisable by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) This section shall apply to proposals by the Secretary of State to make orders by virtue of section 7 above as it applies to applications under section 6 above.
+
+#### 16 Town and country planning.
+
+(1) In section 90 of the [^M6]Town and Country Planning Act 1990 (which gives power to deem planning permission to be granted in certain cases where development is authorised by a government department) after subsection (2) there shall be inserted—
+
+> (2A) On making an order under section 1 or 3 of the Transport and Works Act 1992 which includes provision for development, the Secretary of State may direct that planning permission for that development shall be deemed to be granted, subject to such conditions (if any) as may be specified in the direction.
+
+(2) In Schedule 13 to the Town and Country Planning Act 1990 (blighted land) after paragraph 22 there shall be added—
+
+> **23**
+>
+> Land—
+>
+> (a) the compulsory acquisition of which is authorised by an order under section 1 or 3 of the Transport and Works Act 1992, or
+>
+> (b) which falls within the limits of deviation within which powers of compulsory acquisition conferred by such an order are exercisable, or
+>
+> (c) which is the subject of a proposal, contained in an application made in accordance with rules under section 6 of that Act or in a draft order prepared under section 7(3) of that Act, that it should be such land.
+
+#### 17 Listed buildings and conservation areas.
+
+In section 12 of the [^M7]Planning (Listed Buildings and Conservation Areas) Act 1990, after subsection (3) there shall be inserted—
+
+> (3A) An application for listed building consent shall, without any direction by the Secretary of State, be referred to the Secretary of State instead of being dealt with by the local planning authority in any case where the consent is required in consequence of proposals included in an application for an order under section 1 or 3 of the Transport and Works Act 1992.
+
+#### 18 Hazardous substances.
+
+In section 12 of the [^M8]Planning (Hazardous Substances) Act 1990 (which gives power to deem hazardous substances consent to be granted in certain cases) after subsection (2) there shall be inserted—
+
+> (2A) On making an order under section 1 or 3 of the Transport and Works Act 1992 which includes any provision that would involve the presence of a hazardous substance in circumstances requiring hazardous substances consent, the Secretary of State may direct that hazardous substances consent shall be deemed to be granted, subject to such conditions (if any) as may be specified in the direction.
+
+#### 19 Coast Protection Act 1949.
+
+In section 35 of the [^M9]Coast Protection Act 1949 (which excepts certain operations from the requirement to obtain the Secretary of State’s consent under section 34) in subsection (1) there shall be added after paragraph (g)—
+
+> (h) any operations authorised by an order under section 1 or 3 of the Transport and Works Act 1992.
+
+#### 19A [[^F54]Deemed consent under marine licences
+
+(1) An order of the Secretary of State under section 1 or 3 may include provision deeming a marine licence to have been granted by the Secretary of State for activities specified in the order (being activities for which the Secretary of State is the appropriate licensing authority).
+
+(2) Activity specified under subsection (1) must be carried out wholly in one or more of these areas—
+
+(a) England;
+
+(b) waters adjacent to England up to the seaward limits of the territorial sea;
+
+(c) an exclusive economic zone, except any part of an exclusive economic zone in relation to which the Scottish Ministers have functions;
+
+(d) a Renewable Energy Zone, except any part of a Renewable Energy Zone in relation to which the Scottish Ministers have functions;
+
+(e) an area designated under section 1(7) of the Continental Shelf Act 1964, except any part of that area which is within a part of an exclusive economic zone or Renewable Energy Zone in relation to which the Scottish Ministers have functions.
+
+(3) An order of the Welsh Ministers under section 1 or 3 may include provision deeming a marine licence to have been granted by the Welsh Ministers for activities specified in the order (being activities for which the Welsh Ministers are the appropriate licensing authority).
+
+(4) An order including provision under subsection (1) or (3) may also include provision—
+
+(a) deeming the licence to have been granted subject to such conditions as may be specified in the order;
+
+(b) deeming any such conditions to have been attached to the marine licence by the Secretary of State or (as the case may be) the Welsh Ministers under Part 4 of the MCAA 2009.
+
+(5) If an order includes provision of the sort mentioned in paragraphs (a) and (b) of subsection (4), sections 68 (notice of applications) and 69(3) and (5) (representations) of the MCAA 2009 do not apply in relation to the deemed marine licence.
+
+(6) In this section—
+
+- “the appropriate licensing authority” has the meaning given by section 113 of the MCAA 2009;
+- “exclusive economic zone” has the meaning given by section 322(1) of the MCAA 2009;
+- “marine licence” means a marine licence under Part 4 of the MCAA 2009;
+- “the MCAA 2009” means the Marine and Coastal Access Act 2009;
+- “Renewable Energy Zone” has the meaning given by section 84(4) of the Energy Act 2004.
+
+(7) For the purposes of this section, waters are to be treated as adjacent, or as not adjacent, to England if they would be so treated for the purposes of section 113 of the MCAA 2009 as a result of sections 322(4) to (9) of that Act.]
+
+#### 20 Power to apply for, or object to, orders.
+
+(1) A body which has power to promote or power to oppose Bills in Parliament shall also have power to apply for, or as the case may be power to object to, orders under sections 1 and 3 above.
+
+(2) Where the power of a body to promote or to oppose Bills is subject to any condition, then, except as provided [^F55]... below, the corresponding power conferred on the body by subsection (1) above shall be subject to the like condition.
+
+[^F56]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F57](4) In the case of Transport for London—
+
+(a) the powers conferred by subsection (1) above shall be exercisable with the written consent of the Mayor of London; and
+
+(b) subsection (2) above shall not have effect.]
+
+[[^F58](5) In the case of a local authority to which section 239 of the Local Government Act 1972 applies, a resolution to make an application passed, by virtue of this section, in accordance with subsection (2)(a) of that section does not need to be confirmed in accordance with subsection (2)(b) of that section.]
+
+#### 21 Transport Consultative Committees.
+
+(1) In section 56 of the [^M10]Transport Act 1962 (which establishes a Central Transport Consultative Committee and Area Transport Users Consultative Committees) after subsection (6) there shall be inserted—
+
+> (6A) An Area Committee may consider, and if they think fit object to, any proposal for the discontinuance of railway services made in an application for an order under section 1 of the Transport and Works Act 1992 or made by the Secretary of State by virtue of section 7 of that Act.
+
+(2) In section 41 of the [^M11]London Regional Transport Act 1984 (which provides for the London Regional Passenger Committee to be treated as an Area Transport Users Consultative Committee for certain purposes) in subsection (2)(c) for “(7)” there shall be substituted “ (6A) ”.
+
+### Miscellaneous
+
+#### 22 Validity of orders under section 1 or 3.
+
+(1) If a person aggrieved by an order under section 1 or 3 above desires to question the validity of it, or of any provision contained in it, on the ground—
+
+(a) that it is not within the powers of this Act, or
+
+(b) that any requirement imposed by or under this Act or the Tribunals and Inquiries Act [[^F59]1992] has not been complied with,
+
+he may, [[^F60]before the end of the period of 6 weeks beginning with the day after the day on which notice of the determination to make the order is first published under section 14(1)(b)], make an application for the purpose to the High Court.
+
+(2) On any such application, the court—
+
+(a) may by interim order suspend the operation of the order, or of any provision contained in it, either generally or in so far as it affects any property of the applicant, until the final determination of the proceedings, and
+
+(b) if satisfied that the order or any provision contained in it is not within the powers of this Act, or that the interests of the applicant have been substantially prejudiced by a failure to comply with any requirement imposed by or under this Act or the Tribunals and Inquiries Act [[^F61]1992], may quash the order or any provision contained in it, either generally or in so far as it affects any property of the applicant.
+
+(3) Subject to subsections (1) and (2) above, an order under section 1 or 3 above shall not, either before or after it has been made, be questioned in any legal proceedings whatever.
+
+#### 23 Exercise of Secretary of State’s functions by appointed person.
+
+(1) The Secretary of State may by regulations prescribe classes of application which are to be dealt with by a person appointed by the Secretary of State for the purpose instead of by the Secretary of State.
+
+(2) The Secretary of State may if he thinks fit direct that an application which would otherwise fall to be determined by an appointed person shall be determined by the Secretary of State.
+
+(3) Subject to subsection (4) below, a person appointed under this section shall have in relation to the application—
+
+(a) the same powers and duties as the Secretary of State has under sections 1 and 3 above, and
+
+(b) such other powers and duties conferred on the Secretary of State under or by virtue of this Part of this Act as may be specified in the regulations;
+
+and for that purpose any reference in any Act or instrument (including this Act and any instrument made under it) to the Secretary of State, or to anything done or authorised or required to be done by or to the Secretary of State, shall be construed, so far as the context permits and subject to regulations under this section, as a reference to that person.
+
+(4) An order made on an application dealt with by a person appointed under this section shall not authorise the compulsory acquisition of land, or the compulsory creation or extinguishment of rights over land (including rights of navigation over water).
+
+(5) Where an application has been dealt with by a person appointed under this section, any order made by him under section 1 or 3 shall be treated as made by the Secretary of State.
+
+(6) At any time before the appointed person has determined the application the Secretary of State may—
+
+(a) revoke his appointment, and
+
+(b) appoint another person under subsection (1) above to deal with the application instead;
+
+and where such a new appointment is made the consideration of the application shall begin afresh, except to the extent that regulations under this section provide otherwise.
+
+(7) If the Secretary of State exercises the power conferred on him by subsection (6)(a) above, he shall give reasons to the appointed person for revoking his appointment.
+
+(8) Regulations under this section may provide for the giving of publicity to any directions given by the Secretary of State under subsection (2) above and to any appointment made by virtue of subsection (6) above.
+
+(9) The [^M12]Tribunals and Inquiries Act [[^F62]1992] shall apply to a local inquiry or other hearing by a person appointed under this section as it applies to a statutory inquiry held by the Secretary of State, but as if in [[^F63]section 10(1)] of that Act (statement of reasons for decisions) the reference to any decision taken by the Secretary of State were a reference to a decision taken by an appointed person.
+
+[^F64]9A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F65](10) Where a person appointed under this section is an officer of [[^F66]the Ministry of Housing, Communities and Local Government], the Department for Transport], [[^F67]Department for Energy Security and Net Zero] or the Welsh Office, his functions shall be treated for the purposes of the [^M13]Parliamentary Commissioner Act 1967—
+
+[[^F68](a) if he was appointed by the Secretary of State for the time being having general responsibility in transport matters in relation to England, as functions of the Department for Transport;
+
+(b) if he was appointed by the Secretary of State for the time being having general responsibility in planning matters in relation to England, as functions of [[^F66]the Ministry of Housing, Communities and Local Government];]
+
+(c) if he was appointed by the Secretary of State for the time being having general responsibility in energy matters, as functions of [[^F67]Department for Energy Security and Net Zero];
+
+(d) if he was appointed by the Secretary of State for the time being having general responsibility in planning matters in relation to Wales, as functions of the Welsh Office.
+
+(11) The power to make regulations under this section shall be exercisable by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 23A [[^F69]Fees for certain services in connection with orders
+
+(1) The appropriate national authority may by regulations make provision for, or in connection with, the charging of fees to applicants under section 6 by prescribed public authorities, in relation to the provision of relevant services.
+
+(2) A “relevant service” means any advice, information or other assistance (including a response to a consultation) provided, whether or not to an applicant under section 6, in connection with—
+
+(a) an application under section 6, or
+
+(b) any other prescribed matter relating to an order, or proposed order, under section 1 or 3.
+
+(3) Regulations made under subsection (1) may, in particular, make provision—
+
+(a) about when a fee (including a supplementary fee) may, and may not, be charged;
+
+(b) about the amount which may be charged;
+
+(c) about what may, and may not, be taken into account in calculating the amount charged;
+
+(d) about when a fee charged is payable;
+
+(e) about the recovery of fees charged;
+
+(f) about waiver, reduction or repayment of fees;
+
+(g) about the effect of paying or failing to pay fees charged (including provision permitting a prescribed public authority to withhold a relevant service that it would otherwise be required to provide under an enactment until any outstanding fees for that service are paid);
+
+(h) for the supply of information for any purpose of the regulations;
+
+(i) conferring a function, including a function involving the exercise of a discretion, on any person.
+
+(4) A prescribed public authority must have regard to—
+
+(a) any guidance published by the Secretary of State in relation to the exercise of the authority’s functions under regulations made under this section by the Secretary of State;
+
+(b) any guidance published by the Welsh Ministers in relation to the exercise of the authority’s functions under regulations made under this section by the Welsh Ministers.
+
+(5) Regulations under this section may make—
+
+(a) different provision for different purposes or areas;
+
+(b) incidental, consequential, supplementary, transitional or transitory provision or savings.
+
+(6) Regulations under this section are to be made by statutory instrument.
+
+(7) A statutory instrument containing regulations made by the Secretary of State under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(8) A statutory instrument containing regulations made by the Welsh Ministers under this section is subject to annulment in pursuance of a resolution of Senedd Cymru.
+
+(9) In this section—
+
+- “appropriate national authority” means—
+
+  - in relation to England and cross-border orders, the Secretary of State, and
+  - in relation to Wales but not cross-border orders, the Welsh Ministers;
+
+- “cross-border order” means an order under section 1 or 3 that has effect both in England and in Wales;
+
+- “prescribed” means prescribed by regulations made by the appropriate national authority under this section;
+
+- “public authority” means any person certain of whose functions are of a public nature.]
+
+#### 24 Private legislation procedure in Scotland.
+
+In section 1 of the [^M14]Private Legislation Procedure (Scotland) Act 1936 (which requires the promotion of Provisional Orders rather than Private Bills in connection with powers relating to Scotland), in subsection (4) (which provides an exception from the requirement in certain cases relating to Scotland and elsewhere if the promotion of a Private Bill would be more appropriate than the promotion of a Private Bill and a Provisional Order) after the words “Provisional Order” there shall be inserted the words “ (or a Provisional Order and an order under section 1 or 3 of the Transport and Works Act 1992) ”.
+
+#### 25 Crown land.
+
+(1) If the appropriate authority agrees—
+
+(a) an interest which—
+
+(i) subsists in land in which there is a Crown or Duchy interest, but
+
+(ii) is not itself a Crown or Duchy interest,
+
+may be acquired compulsorily by virtue of an order under section 1 or 3 above, and
+
+(b) any provision of this Act or of such an order (other than a provision by virtue of which an interest in land is compulsorily acquired) may apply in relation to land in which there is a Crown or Duchy interest.
+
+(2) In this section “Crown or Duchy interest” means an interest belonging to Her Majesty in right of the Crown or of the Duchy of Lancaster, or belonging to the Duchy of Cornwall, or belonging to a government department, or held in trust for Her Majesty for the purposes of a government department.
+
+(3) In this section “the appropriate authority” means—
+
+(a) in the case of land belonging to Her Majesty in right of the Crown and forming part of the Crown Estate, the Crown Estate Commissioners;
+
+(b) in the case of other land belonging to Her Majesty in right of the Crown, the government department having the management of the land [[^F70]or the relevant person];
+
+(c) in the case of land belonging to Her Majesty in right of the Duchy of Lancaster, the Chancellor of the Duchy;
+
+(d) in the case of land belonging to the Duchy of Cornwall, such person as the Duke of Cornwall, or the possessor for the time being of the Duchy of Cornwall, appoints;
+
+(e) in the case of land belonging to a government department or held in trust for Her Majesty for the purposes of a government department, that department.
+
+[[^F71](3A) In subsection (3), “relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land.]
+
+(4) If any question arises as to what authority is the appropriate authority in relation to any land, that question shall be referred to the Treasury, whose decision shall be final.
+
+## Part II — Safety of railways etc
+
+### CHAPTER I — Offences involving drink or drugs
+
+#### Preliminary
+
+##### 26 Transport systems to which Chapter I applies.
+
+(1) This Chapter applies to transport systems of any of the following kinds—
+
+(a) a railway;
+
+(b) a tramway;
+
+(c) a system which uses another mode of guided transport and is specified for the purposes of this Chapter by an order made by the Secretary of State.
+
+(2) This Chapter shall not apply to a transport system unless it is used, or is intended to be used, wholly or partly for the carriage of members of the public.
+
+(3) The power to make orders under this section shall be exercisable by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### Principal offences
+
+##### 27 Offences involving drink or drugs on transport systems.
+
+(1) If a person works on a transport system to which this Chapter applies—
+
+(a) as a driver, guard, conductor or signalman or in any other capacity in which he can control or affect the movement of a vehicle, or
+
+(b) in a maintenance capacity or as a supervisor of, or look-out for, persons working in a maintenance capacity,
+
+when he is unfit to carry out that work through drink or drugs, he shall be guilty of an offence.
+
+(2) If a person works on a transport system to which this Chapter applies—
+
+(a) as a driver, guard, conductor or signalman or in any other capacity in which he can control or affect the movement of a vehicle, or
+
+(b) in a maintenance capacity or as a supervisor of, or look-out for, persons working in a maintenance capacity,
+
+after consuming so much alcohol that the proportion of it in his breath, blood or urine exceeds the prescribed limit, he shall be guilty of an offence.
+
+(3) For the purposes of this section, a person works on a transport system in a maintenance capacity if his work on the system involves maintenance, repair or alteration of—
+
+(a) the permanent way or other means of guiding or supporting vehicles,
+
+(b) signals or any other means of controlling the movement of vehicles, or
+
+(c) any means of supplying electricity to vehicles or to the means of guiding or supporting vehicles,
+
+or involves coupling or uncoupling vehicles or checking that they are working properly before they are used on any occasion.
+
+(4) For the purposes of subsection (1) above, a person shall be taken to be unfit to carry out any work if his ability to carry out that work properly is for the time being impaired.
+
+##### 28 Offences by operators of transport systems.
+
+(1) If a person commits an offence under section 27 above, the responsible operator shall also be guilty of an offence.
+
+(2) In this section “the responsible operator” means—
+
+(a) in a case where the transport system on which the offence under section 27 above is committed has only one operator, that operator;
+
+(b) in a case where the transport system on which the offence under section 27 above is committed has more than one operator, whichever of them is responsible for the work giving rise to the offence.
+
+(3) No offence is committed under subsection (1) above if the responsible operator has exercised all due diligence to prevent the commission on the transport system of any offence under section 27 above.
+
+(4) If a person commits an offence under section 27 above in the course of his employment with a person other than the responsible operator, his employer shall (without prejudice to any liability of that operator under subsection (1) above) also be guilty of an offence.
+
+(5) No offence is committed under subsection (4) above if the employer has exercised all due diligence to prevent the commission on the transport system by any of his employees of any offence under section 27 above.
+
+#### Police powers etc
+
+##### 29 Breath tests.
+
+(1) Where a constable in uniform has reasonable cause to suspect—
+
+(a) that a person working on a transport system to which this Chapter applies in any capacity mentioned in section 27(1) and (2) above has alcohol in his body, or
+
+(b) that a person has been working on a transport system to which this Chapter applies in any capacity mentioned in section 27(1) and (2) above with alcohol in his body and still has alcohol in his body,
+
+he may require that person to provide a specimen of breath for a breath test.
+
+(2) Where an accident or dangerous incident occurs on a transport system to which this Chapter applies, a constable in uniform may require a person to provide a specimen of breath for a breath test if he has reasonable cause to suspect that—
+
+(a) at the time of the accident or incident that person was working on the transport system in a capacity mentioned in section 27(1) and (2) above, and
+
+(b) an act or omission of that person while he was so working may have been a cause of the accident or incident.
+
+(3) In subsection (2) above “dangerous incident” means an incident which in the constable’s opinion involved a danger of death or personal injury.
+
+(4) A person may be required under subsection (1) or subsection (2) above to provide a specimen either at or near the place where the requirement is made or, if the requirement is made under subsection (2) above and the constable making the requirement thinks fit, at a police station specified by the constable.
+
+(5) A person who, without reasonable excuse, fails to provide a specimen of breath when required to do so in pursuance of this section shall be guilty of an offence.
+
+##### 30 Powers of arrest and entry.
+
+[^F72]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) A constable may arrest a person without warrant if—
+
+(a) as a result of a breath test under section 29 above he has reasonable cause to suspect that the proportion of alcohol in that person’s breath or blood exceeds the prescribed limit, or
+
+(b) that person has failed to provide a specimen of breath for a breath test when required to do so in pursuance of section 29 above and the constable has reasonable cause to suspect that he has alcohol in his body.
+
+[^F73]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) A constable may, for the purpose of—
+
+(a) requiring a person to provide a specimen of breath under section 29(2) above in the case of an accident which the constable has reasonable cause to suspect involved the death of, or injury to, another person, or
+
+(b) arresting a person in such a case under subsection (2) above,
+
+enter (if need be by force) any place where that person is or where the constable, with reasonable cause, suspects him to be.
+
+##### 31 Provision of specimens for analysis.
+
+(1) In the course of an investigation into whether a person has committed an offence under section 27 above, a constable may require him—
+
+(a) to provide two specimens of breath for analysis by means of a device of a type approved by the Secretary of State, or
+
+(b) to provide a specimen of blood or urine for a laboratory test.
+
+[[^F74](2) A constable may make a requirement under this section to provide specimens of breath only if—
+
+(a) the requirement is made at a police station or a hospital, or
+
+(b) the constable is in uniform.]
+
+(3) A requirement under this section to provide a specimen of blood or urine shall only be made at a police station or at a hospital; and it shall not be made at a police station unless subsection (4) below applies.
+
+(4) This subsection applies if—
+
+(a) the constable making the requirement has reasonable cause to believe that for medical reasons a specimen of breath cannot be provided or should not be required,
+
+(b) at the time the requirement is made, either a device (or reliable device) of the type mentioned in subsection (1)(a) above is not available at the police station or it is for any other reason not practicable to use such a device there, [^F75]. . .
+
+[[^F76](bb) a device of the type mentioned in subsection (1)(a) above has been used at the police station but the constable who required the specimens of breath has reasonable cause to believe that the device has not produced a reliable indication of the proportion of alcohol in the breath of the person concerned, or]
+
+(c) the suspected offence is one under section 27(1) above and the constable making the requirement has been advised by a medical practitioner [[^F77]or a registered health care professional] that the condition of the person required to provide the specimen might be due to a drug.
+
+(5) A person may be required to provide a specimen of blood or urine in pursuance of this section notwithstanding that he has already provided or been required to provide two specimens of breath.
+
+(6) If the provision of a specimen other than a specimen of breath may be required in pursuance of this section, the question whether it is to be a specimen of blood or a specimen of urine [[^F78]and, in the case of a specimen of blood, the question who is to be asked to take it shall be decided (subject to subsection (6A)) by the constable making the requirement] .
+
+[[^F79](6A) Where a constable decides for the purposes of subsection (6) to require the provision of a specimen of blood, there shall be no requirement to provide such a specimen if—
+
+(a) the medical practitioner who is asked to take the specimen is of the opinion that, for medical reasons, it cannot or should not be taken; or
+
+(b) the registered health care professional who is asked to take it is of that opinion and there is no contrary opinion from a medical practitioner,
+
+and, where by virtue of this subsection there can be no requirement to provide a specimen of blood, the constable may require a specimen of urine instead.]
+
+(7) A specimen of urine shall be provided within one hour of the requirement for its provision being made and after the provision of a previous specimen of urine.
+
+[[^F80](7A) A constable may arrest a person without warrant if—
+
+(a) the person fails to provide a specimen of breath when required to do so in pursuance of this section, and
+
+(b) the constable reasonably suspects that the person has alcohol in his body.]
+
+(8) A person who, without reasonable excuse, fails to provide a specimen when required to do so in pursuance of this section shall be guilty of an offence.
+
+(9) A constable shall, on requiring a person to provide a specimen in pursuance of this section, warn him that a failure to provide it may render him liable to prosecution.
+
+[^F81]9A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F82]9B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F83]9C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 31A [[^F84] Specimens of blood taken from persons incapable of consenting
+
+(1) A constable may make a request to [[^F85]a medical or health care practitioner] for him to take a specimen of blood from a person (“the person concerned”) irrespective of whether that person consents if—
+
+(a) that person is a person from whom the constable would (in the absence of any incapacity of that person and of any objection under section 33) be entitled under section 31 to require the provision of a specimen of blood for a laboratory test;
+
+(b) it appears to that constable that that person has been involved in—
+
+(i) an accident that constitutes or is comprised in the matter that is under investigation or the circumstances of that matter; or
+
+(ii) a dangerous incident (within the meaning given by section 29(3)) that constitutes or is comprised in that matter or those circumstances;
+
+(c) it appears to that constable that that person is or may be incapable (whether or not he has purported to do so) of giving a valid consent to the taking of a specimen of blood; and
+
+(d) it appears to that constable that that person’s incapacity is attributable to medical reasons.
+
+(2) A request under this section—
+
+(a) shall not be made to [[^F86]a medical or health care practitioner] who for the time being has any responsibility (apart from the request) for the clinical care of the person concerned; and
+
+(b) shall not be made to [[^F87]a practitioner other than a police medical or health care practitioner] unless—
+
+(i) it is not reasonably practicable for the request [[^F88]to be made to a police medical or health care practitioner] ; or
+
+(ii) it is not reasonably practicable for such a [^F89]... practitioner (assuming him to be willing to do so) to take the specimen.
+
+(3) It shall be lawful for [[^F90]a medical or health care practitioner] to whom a request is made under this section, if he thinks fit—
+
+(a) to take a specimen of blood from the person concerned irrespective of whether that person consents; and
+
+(b) to provide the sample to a constable.
+
+(4) If a specimen is taken in pursuance of a request under this section, the specimen shall not be subjected to a laboratory test unless the person from whom it was taken—
+
+(a) has been informed that it was taken; and
+
+(b) has been required by a constable to give his permission for a laboratory test of the specimen; and
+
+(c) has given his permission.
+
+(5) A constable must, on requiring a person to give his permission for the purposes of this section for a laboratory test of a specimen, warn that person that a failure to give the permission, may render him liable to prosecution.
+
+(6) A person who, without reasonable excuse, fails to give his permission for a laboratory test of a specimen of blood taken from him under this section is guilty of an offence.
+
+[[^F91](7) In this section—
+
+- “medical or health care practitioner” means a medical practitioner or a registered health care professional;
+- “police medical or health care practitioner” means a medical practitioner, or a registered health care professional, who is engaged under any agreement to provide medical or health care services for purposes connected with the activities of a police force.]]
+
+##### 32 [[^F92]Breath specimen showing higher alcohol level to be disregarded]
+
+(1) Of any two specimens of breath provided by a person in pursuance of section 31 above, the one with the lower proportion of alcohol in the breath shall be used and the other shall be disregarded.
+
+[^F93]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F93]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F93]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 33 Protection for hospital patients.
+
+(1) While a person is at a hospital as a patient, he shall not be required to provide a specimen of breath for a breath test or to provide a specimen for a laboratory test unless the medical practitioner in immediate charge of his case has been notified of the proposal to make the requirement; and—
+
+(a) if the requirement is then made, it shall be for the provision of a specimen at the hospital, but
+
+(b) if the medical practitioner objects on the ground specified in subsection (2) below, the requirement shall not be made.
+
+[[^F94](1A) While a person is at a hospital as a patient, no specimen of blood shall be taken from him under section 31A of this Act and he shall not be required to give his permission for a laboratory test of a specimen taken under that section unless the medical practitioner in immediate charge of his case—
+
+(a) has been notified of the proposal to take the specimen or to make the requirement; and
+
+(b) has not objected on the ground specified in subsection (2).
+
+(2) The ground on which the medical practitioner may object is—
+
+(a) in a case falling within subsection (1), that the requirement or the provision of the specimen or (if one is required) the warning required by section 31(9) of this Act would be prejudicial to the proper care and treatment of the patient; and
+
+(b) in a case falling within subsection (1A), that the taking of the specimen, the requirement or the warning required by section 31A(5) of this Act would be so prejudicial.]
+
+(3) A person shall not be arrested under section 30(2) above while he is at a hospital as a patient.
+
+#### Evidence in proceedings for offences under section 27
+
+##### 34 Use of specimens in proceedings.
+
+(1) In proceedings for any offence under section 27 above—
+
+(a) evidence of the proportion of alcohol or any drug in a specimen of breath, blood or urine provided by [[^F95]or taken from] the accused shall be taken into account, and
+
+(b) it shall be assumed that the proportion of alcohol in the accused’s breath, blood or urine at the time of the alleged offence was not less than in the specimen.
+
+(2) That assumption shall not be made if the accused proves—
+
+(a) that he consumed alcohol before he provided the specimen [[^F96]or had it taken from him] and after he had stopped work on the occasion of the alleged offence, and
+
+(b) that, had he not done so, the proportion of alcohol in his breath, blood or urine would not have exceeded the prescribed limit and, where the offence alleged is an offence of being unfit to carry out the work in question through drink, would not have been such as to impair his ability to carry out that work properly.
+
+(3) Where, at the time a specimen of blood or urine was provided by the accused, he asked to be provided with such a specimen, evidence of the proportion of alcohol or any drug found in the specimen shall not be admissible in the proceedings on behalf of the prosecution unless—
+
+(a) the specimen in which the alcohol or drug was found is one of two parts into which the specimen provided by the accused was divided at the time it was provided, and
+
+(b) the other part was supplied to the accused.
+
+[[^F97](3A) Where a specimen of blood was taken from the accused under section 31A, evidence of the proportion of alcohol or any drug found in the specimen is not admissible on behalf of the prosecution in the proceedings unless—
+
+(a) the specimen in which the alcohol or drug was found is one of two parts into which the specimen taken from the accused was divided at the time it was taken; and
+
+(b) any request to be supplied with the other part which was made by the accused at the time when he gave his permission for a laboratory test of the specimen was complied with.]
+
+##### 35 Documentary evidence as to specimens.
+
+(1) In proceedings for any offence under section 27 above, evidence of the proportion of alcohol in a specimen of breath may be given by the production of a document (or documents) purporting to be—
+
+(a) a statement automatically produced by the device by which the proportion of alcohol in the specimen was measured, and
+
+(b) a certificate signed by a constable (which may but need not be contained in the same document as the statement) that the specimen was provided by the accused at the date and time shown in the statement.
+
+(2) In such proceedings, evidence of the proportion of alcohol or a drug in a specimen of blood or urine may be given by the production of a document purporting to be a certificate signed by an authorised analyst identifying the specimen and stating the proportion of alcohol or drug found in it.
+
+(3) In such proceedings, evidence that a specimen of blood was taken from the accused with his consent by a medical practitioner [[^F98]or a registered health care professional] may be given by the production of a document purporting to be a certificate to that effect signed by the practitioner [[^F98]or a registered health care professional] .
+
+(4) A document such as is mentioned in subsection (1) above shall be admissible in evidence on behalf of the prosecution in pursuance of this section only if a copy of it either was handed to the accused when the document was produced or was served on him not later than seven days before the hearing.
+
+(5) A document such as is mentioned in subsection (2) or (3) above shall be admissible in evidence on behalf of the prosecution in pursuance of this section only if a copy of it was served on the accused not later than seven days before the hearing.
+
+(6) A document purporting to be a certificate (or so much of a document as purports to be a certificate) shall not be admissible in evidence on behalf of the prosecution in pursuance of this section if the accused, not later than three days before the hearing or within such further time as the court may in special circumstances allow, has served notice on the prosecutor requiring the attendance at the hearing of the person by whom the document purports to be signed.
+
+(7) In this section “served” means [[^F99], in relation to proceedings in England and Wales, served in accordance with Criminal Procedure Rules or, otherwise,] served personally or sent by registered post or recorded delivery service.
+
+(8) In subsection (2) above “authorised analyst” means—
+
+(a) any person possessing the qualifications prescribed by regulations made under section 76 of the [^M15]Food Act 1984 or section 27 of the [^M16]Food and Drugs (Scotland) Act 1956 as qualifying persons for appointment as public analysts under those Acts, or
+
+(b) any other person authorised by the Secretary of State to make analyses for the purposes of this section.
+
+#### Penalties
+
+##### 36 Penalties.
+
+(1) A person guilty of any offence under this Chapter other than an offence under section 29(5) above shall be liable on summary conviction to imprisonment for a term not exceeding six months, to a fine not exceeding level 5 on the standard scale or to both.
+
+(2) A person guilty of an offence under section 29(5) above shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+#### Miscellaneous and supplementary
+
+##### 37 Special provision for Scotland.
+
+(1) Section 30(3) and (4) above shall not extend to Scotland, and nothing in those subsections shall affect any rule of law in Scotland concerning the right of a constable to enter any premises for any purpose.
+
+(2) In proceedings for any offence under section 27 above in Scotland—
+
+(a) a document produced in evidence on behalf of the prosecution in pursuance of section 35 above and, where the person by whom the document was signed is called as a witness, the evidence of that person, shall be sufficient evidence of the facts stated in the document, and
+
+(b) a written execution purporting to be signed by the person who handed to or served on the accused or the prosecutor a copy document or notice under section 35 above, together with, where appropriate, a post office receipt for the relevant registered or recorded delivery letter, shall be sufficient evidence of the handing or service of the copy document or notice.
+
+##### 38 Interpretation of Chapter I.
+
+(1) In this Chapter—
+
+- “breath test” means a preliminary test for the purpose of obtaining, by means of a device of a type approved by the Secretary of State, an indication whether the proportion of alcohol in a person’s breath or blood is likely to exceed the prescribed limit;
+- “drug” includes any intoxicant other than alcohol;
+- “fail” includes refuse;
+- “hospital” means an institution which provides medical or surgical treatment for in-patients or out-patients.
+
+(2) In this Chapter “the prescribed limit” means, as the case may require—
+
+(a) 35 microgrammes of alcohol in 100 millilitres of breath,
+
+(b) 80 milligrammes of alcohol in 100 millilitres of blood, or
+
+(c) 107 milligrammes of alcohol in 100 millilitres of urine,
+
+or such other proportion as may be prescribed by regulations made by the Secretary of State.
+
+[[^F100](2A) In this Chapter “registered health care professional” means a person (other than a medical practitioner) who is—
+
+(a) a registered nurse; or
+
+(b) a registered member of a health care profession which is designated for the purposes of this paragraph by an order made by the Secretary of State.
+
+(2B) A health care profession is any profession mentioned in section 60(2) of the Health Act 1999 (c. 8) other than the profession of practising medicine and the profession of nursing.
+
+(2C) An order under subsection (2A)(b) shall be made by statutory instrument; and any such statutory instrument shall be subject to annulment in pursuance of a resolution of either House of Parliament.]
+
+(3) For the purposes of this Chapter, it is immaterial whether a person who works on a transport system does so in the course of his employment, under a contract for services, voluntarily or otherwise.
+
+(4) For the purposes of this Chapter, a person does not provide a specimen of breath for a breath test or for analysis unless the specimen—
+
+(a) is sufficient to enable the test or the analysis to be carried out, and
+
+(b) is provided in such a way as to enable the objective of the test or analysis to be satisfactorily achieved.
+
+[[^F101](5) For the purposes of this Chapter, a person provides a specimen of blood if and only if—
+
+(a) he consents to the taking of such a specimen from him; and
+
+(b) the specimen is taken from him [^F102]... either by a medical practitioner or by a registered health care professional.]
+
+(6) The power to make regulations under subsection (2) above shall be exercisable by statutory instrument; and no such regulations shall be made unless a draft of the instrument containing them has been laid before, and approved by a resolution of, each House of Parliament.
+
+##### 39 Amendment of scope of offences involving drink or drugs under Road Traffic Act 1988.
+
+The following section shall be inserted in the [^M17]Road Traffic Act 1988 after section 192—
+
+> **192A Tramcars and other guided vehicles: drink and drugs.**
+>
+> (1) Sections 4 to 11 of this Act shall not apply (to the extent that apart from this subsection they would) to vehicles on any transport system to which Chapter I of Part II of the Transport and Works Act 1992 (offences involving drink or drugs on railways, tramways and certain other guided transport systems) applies.
+>
+> (2) Subject to subsection (1) above, the Secretary of State may by regulations provide that sections 4 to 11 of this Act shall apply to vehicles on a system of guided transport specified in the regulations with such modifications as he considers necessary or expedient.
+>
+> (3) Regulations under subsection (2) above may make different provision for different cases.
+>
+> (4) In this section—
+>
+> - “guided transport” means transport by vehicles guided by means external to the vehicles (whether or not the vehicles are also capable of being operated in some other way), and
+> - “vehicle” includes mobile traction unit.
+
+##### [^F103]40 Consequential amendment.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Chapter II — Other safety provisions
+
+#### General
+
+##### 41 Approval of works, plant and equipment.
+
+(1) For the purpose of securing the safe operation of railways, tramways, trolley vehicle systems and prescribed systems of guided transport, the Secretary of State may make regulations requiring that [[^F104]the approval of a specified authority] be obtained before—
+
+(a) new works, plant or equipment are first brought into use, or
+
+(b) works, plant or equipment are first brought into use after alterations have been made to them.
+
+(2) Regulations under this section—
+
+(a) shall prescribe the cases in which approval is required and the procedure for obtaining it;
+
+(b) may include provision as to the time when works, plant or equipment are to be treated as first brought into use, including provision for disregarding periods of testing and other periods of use before sufficient information is available for a decision to be made on an application for approval;
+
+(c) may include provision prohibiting the giving of false information to the [[^F105]specified authority] .
+
+(3) Regulations under this section may make different provision for different cases, and may include provision authorising the [[^F106]specified authority] —
+
+(a) to dispense (conditionally or unconditionally) with compliance with regulations that would otherwise apply, or
+
+(b) to require compliance with regulations that would not otherwise apply,
+
+either in the case of any particular works, plant, equipment or alterations, or in the case of works, plant, equipment or alterations of such descriptions as [[^F107]it] may determine.
+
+(4) Regulations under this section may provide that any person who without reasonable cause contravenes any specified provision of the regulations, or does so in specified circumstances, shall be guilty of an offence under this section.
+
+(5) Where the commission by any person of an offence under this section is due to the act or default of some other person, that other person shall be guilty of the offence, and a person may be charged with and convicted of the offence by virtue of this subsection whether or not proceedings are taken against the first-mentioned person.
+
+(6) A person guilty of an offence under this section shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(7) In this section—
+
+- “equipment” includes vehicles;
+- “prescribed systems of guided transport” means systems using a mode of guided transport prescribed by regulations under this section.
+- [[^F108]“specified authority” means such authority as may be specified in regulations under this section .]
+
+(8) The power to make regulations under this section shall be exercisable by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+##### [^F109]42 Inspectors.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F110]43 Accidents etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F111]44 Accidents etc: consequential amendments.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F112]45 Directions limiting speeds and loads.
+
+(1) The [[^F113]relevant enforcing authority] may give a direction under this section to any person carrying on an undertaking which includes the provision of transport services on a railway, tramway or system using any other mode of guided transport.
+
+(2) A direction under this section may impose—
+
+(a) maximum speeds at which vehicles in use on the system may travel, and
+
+(b) maximum weights that may be transmitted to the rails (or other structures which support vehicles in use on the system) by any one pair of wheels, or by such other parts of the vehicles as may be specified in the direction.
+
+(3) Directions under this section may make different provision for different vehicles, different parts of the system, or otherwise for different circumstances.
+
+(4) Before giving a direction under this section, the [[^F114]relevant enforcing authority] shall consult the person to whom [[^F115]that authority] proposes to give it.
+
+(5) If a direction under this section is contravened in the course of the provision of transport services by the person to whom the direction was given, that person shall be guilty of an offence.
+
+(6) A person guilty of an offence under this section shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+[[^F116](7) In this section “relevant enforcing authority” means the enforcing authority responsible for the enforcement of the relevant statutory provisions in relation to the mode of transport to which the direction applies.
+
+(8) In subsection (7)—
+
+- “enforcing authority” has the same meaning as in section 18(7) (a) of the Health and Safety at Work etc. Act 1974;
+- “relevant statutory provisions” has the same meaning as in that Act.]
+
+##### 46 Directions requiring insurance.
+
+(1) The Secretary of State may give a direction under this section to an operator of a railway, tramway, trolley vehicle system or system using any other mode of guided transport.
+
+(2) A direction under this section may require the person to whom it is given to ensure that there are at all times in force such policies of insurance against liability in respect of death or personal injury as comply with the requirements of the direction.
+
+(3) Before giving a direction under this section, the Secretary of State shall consult the person to whom he proposes to give it.
+
+(4) If a direction under this section is contravened, the person to whom the direction was given shall be guilty of an offence.
+
+(5) A person guilty of an offence under this section shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+#### Rail crossings
+
+##### 47 Stopping up and diversion of crossings.
+
+(1) Schedule 2 to this Act (which amends the [^M18]Highways Act 1980 so as to provide for the stopping up or diversion of footpaths and bridleways crossing railways and tramways) shall have effect.
+
+(2) Where a public right of way over a footpath [[^F117], bridleway or restricted byway] where it crosses a railway or tramway is extinguished by an order under sections 118 to 119A of the Highways Act 1980, any obligation (however imposed) to maintain the crossing for the benefit of the public shall cease to have effect.
+
+[[^F118](3) “Restricted byway” has the same meaning as in Part 2 of the Countryside and Rights of Way Act 2000.]
+
+##### 48 Footpaths [[^F119], bridleways and restricted byways] over railways.
+
+(1) This section applies where—
+
+(a) a public right of way over a footpath [[^F120], bridleway or restricted byway] crosses a railway or tramway otherwise than by a tunnel or bridge,
+
+(b) the operator of the railway or tramway has made a closure or diversion application in respect of the crossing, and
+
+(c) in the opinion of the Secretary of State the crossing constitutes a danger to members of the public using it or likely to use it.
+
+(2) The Secretary of State may by order require the operator to provide a tunnel or a bridge, or to improve an existing tunnel or bridge, to carry the path or way over or under the railway or tramway at or reasonably near to the crossing to which the closure or diversion application relates.
+
+(3) An order under this section may include particulars as to the tunnel or bridge which is to be provided or as to the improvements which are to be made.
+
+(4) The Secretary of State shall not make an order under this section after the end of the period of two years beginning with the day on which the closure or diversion application is made, and not less than two months before making an order he shall give written notice of his proposal to make the order to the operator and to each local authority in whose area the crossing (or any proposed new crossing) is situated.
+
+(5) A notice given under subsection (4) above must be accompanied by a draft of the proposed order under this section; and any order eventually made may include modifications of the draft.
+
+(6) An operator shall not be regarded as in breach of a duty imposed by an order under this section if he has used his best endeavours to comply with the order.
+
+(7) Where an operator is required by an order under this section to provide or improve a bridge or tunnel, but is unable to do so because he does not have the powers or rights (including rights over land) needed for the purpose, he shall not be taken to have used his best endeavours to comply with the order unless he has used his best endeavours to obtain those powers or rights (whether by means of an order under section 1 above or otherwise).
+
+(8) In this section—
+
+- “bridleway” has the same meaning as in the Highways Act 1980;
+- “closure or diversion application” means—
+
+(a) an application made under section 6 above, or
+
+(b) a request made in accordance with section 120(3A)(b) of the [^M19]Highways Act 1980,
+
+for an order by virtue of which a public right of way would be extinguished or diverted;
+
+- “footpath” has the same meaning as in the Highways Act 1980;
+- “local authority” means a county council, a district council, a London borough council, the Common Council of the City of London, [[^F121], a county borough council,] a parish or community council and a parish meeting of a parish not having a separate parish council;
+- “operator”, in relation to a railway or tramway, means any person carrying on an undertaking which includes maintaining the permanent way.
+- [[^F122]“restricted byway” has the same meaning as in Part 2 of the Countryside and Rights of Way Act 2000.]
+
+##### 49 Securing of gates and barriers.
+
+(1) Section 75 of the [^M20]Railways Clauses Consolidation Act 1845 and section 68 of the [^M21]Railways Clauses Consolidation (Scotland) Act 1845 (which make it an offence for any person to fail to fasten gates) shall be amended as follows.
+
+(2) After the word “gate” there shall be inserted the words “ or to lower any barrier ”.
+
+(3) For the words “not exceeding” onwards there shall be substituted the words “ not exceeding level 3 on the standard scale. ”
+
+##### [^F123]50 Orders under Transport Act 1968.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 51 Amendment of Level Crossings Act 1983.
+
+—In section 1 of the [^M22]Level Crossings Act 1983 (safety arrangements at level crossings) in subsection (11), for the definition of “operator” there shall be substituted—
+
+> “operator”, in relation to a crossing, means any person carrying on an undertaking which includes maintaining the permanent way;
+
+#### Signs and barriers at private crossings
+
+##### 52 Placing of signs and barriers.
+
+(1) Subject to any directions under subsection (2) below, the operator of a railway or tramway which is crossed in any place by a private road or path may cause or permit crossing signs or barriers of a character—
+
+(a) prescribed in regulations made by the Secretary of State, or
+
+(b) otherwise authorised by him,
+
+to be placed on or near the road or path near the crossing.
+
+(2) The Secretary of State may give directions to the operator of a railway or tramway which is crossed in any place by a private road or path for the placing of crossing signs or barriers of a character specified in the directions on or near the road or path near the crossing.
+
+(3) For the purposes of this section—
+
+(a) the size and colour of a crossing sign and whether or not it is illuminated (by lighting or the use of reflectors or reflecting material), and
+
+(b) the nature of the warnings, information, requirements, restrictions or prohibitions conveyed by it,
+
+shall be regarded as part of the sign’s character.
+
+(4) The power to make regulations under this section shall be exercisable by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) Regulations under this section may make different provision for different cases.
+
+##### 53 Rights to enter land.
+
+(1) The operator of a railway or tramway shall not enter or do anything on any land for the purpose of exercising his powers under section 52(1) above except—
+
+(a) with the consent of every owner of the land, or
+
+(b) in accordance with an authorisation given by the Secretary of State under subsection (4) below.
+
+(2) Where the operator of a railway or tramway proposes to enter or do anything on any land for the purpose of exercising his powers under section 52(1) above but has not obtained the consent of every owner of the land to his proposals (after making reasonable efforts to do so), he shall serve on every owner whose consent he has not obtained a notice giving details of the proposals and stating that—
+
+(a) he is referring the proposals to the Secretary of State for a decision as to whether or not they should be carried out, and
+
+(b) in making that decision, the Secretary of State will consider any written representations made to him by the owner within the period of forty-two days beginning with the date of the notice.
+
+(3) Where subsection (2) above applies, the operator shall—
+
+(a) submit a copy of every notice served by him under that subsection to the Secretary of State, and
+
+(b) provide the Secretary of State with such further information about the proposals as he may require.
+
+(4) Where proposals are referred to the Secretary of State under this section, he shall after the expiry of the period of forty-two days beginning with the date of the latest notice served under subsection (2) above and after considering any representations made to him in accordance with that subsection—
+
+(a) authorise the operator to carry out the proposals (either without modifications or with such modifications as the Secretary of State may specify), or
+
+(b) direct him not to carry out the proposals,
+
+and shall serve notice of his decision on every owner served with a notice under subsection (2) above.
+
+(5) Any authorisation under subsection (4) above may be given subject to such conditions as the Secretary of State may specify, including conditions that compensation shall be payable by the operator.
+
+(6) Any dispute as to the amount of any compensation payable by virtue of subsection (5) above shall be referred to and determined by the [[^F124]Upper Tribunal] or, in relation to land in Scotland, the Lands Tribunal for Scotland.
+
+(7) The operator of a railway or tramway may enter any land and do anything necessary on it (without the consent of the owners of the land) for the purpose of—
+
+(a) complying with any directions given under section 52(2) above, or
+
+(b) maintaining a crossing sign or barrier lawfully placed on or near a private road or path near a place where it crosses the railway or tramway.
+
+(8) The Secretary of State may enter any land and do anything necessary on it (without the consent of the owners of the land) for the purpose of exercising his powers under section 54(1) below.
+
+(9) In this section “owner”—
+
+(a) in relation to any land in England and Wales, means a person, other than a mortgagee not in possession, who is for the time being entitled to dispose of the fee simple (whether in possession or reversion) and includes also a person holding, or entitled to the rents and profits of, the land under a tenancy, other than a tenancy for a month or any period less than a month;
+
+(b) in relation to any land in Scotland, means a person who, under the Land Clauses Acts, would be entitled to sell and convey land to the promoters of an undertaking and includes also a person who is or would be entitled to receive the rent of the land under a tenancy, other than a tenancy for a month or any period less than a month.
+
+##### 54 Default powers of Secretary of State.
+
+(1) If the operator of a railway or tramway fails—
+
+(a) to comply with a direction given under section 52(2) above, or
+
+(b) to maintain a crossing sign or barrier lawfully placed on or near a private road or path near a place where it crosses the railway or tramway,
+
+the Secretary of State may himself carry out the work required by the direction or necessary to maintain the crossing sign or barrier.
+
+(2) Any expenses incurred by the Secretary of State in doing so shall be recoverable by him from the operator.
+
+(3) A direction given under section 52(2) above—
+
+(a) if relating to a private road or path in England and Wales, shall be enforceable on the application of the Secretary of State by an order of mandamus;
+
+(b) if relating to a private road or path in Scotland, shall be enforceable by order of the Court of Session on an application by [[^F125]the appropriate Law Officer within the meaning of section 4A of the Crown Suits (Scotland) Act 1857]under section 45 of the [^M23] Court of Session Act 1988.
+
+##### 55 Offence of failing to comply with sign.
+
+(1) A person who fails to comply with any requirement, restriction or prohibition conveyed by a crossing sign lawfully placed on or near a private road or path near a place where it crosses a railway or tramway shall be guilty of an offence.
+
+(2) In any proceedings for an offence under this section, a crossing sign on or near a private road or path near a place where it crosses a railway or tramway shall be taken to have been lawfully placed there unless the contrary is proved.
+
+(3) A person guilty of an offence under this section shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+##### 56 Interpretation of sections 52 to 55.
+
+(1) In sections 52 to 55 above (and this section)—
+
+- “barrier” includes gate;
+
+- “cross” means cross otherwise than by tunnel or bridge;
+
+- “crossing sign”, in relation to a private road or path and any place where it crosses a railway or tramway, means—
+
+  - (a) any object or device (whether fixed or portable), or
+  - (b) any line or mark on the road or path,
+
+  for conveying to users of the road or path warnings, information, requirements, restrictions or prohibitions relating to the crossing;
+
+- “fail” includes refuse;
+
+- “lawfully placed” means placed in accordance with sections 52 to 54 above;
+
+- “maintain” includes repair and replace;
+
+- “place” includes erect and (in relation to a sign) display;
+
+- “private road or path” means any length of road or path to which the public does not have access.
+
+(2) In the case of a railway or tramway which has more than one operator, the powers conferred by sections 52 to 54 above shall only be exercisable by or in relation to the operator carrying on the undertaking which includes maintaining the permanent way.
+
+### Chapter III — Supplementary
+
+#### 57 Duty to consult.
+
+It shall be the duty of the Secretary of State, before he makes regulations under section 32, 38(2), 41 or 43 above, to consult such organisations as he considers to be representative of persons who will be affected by the regulations.
+
+#### 58 Prosecutions.
+
+No proceedings shall be instituted in England and Wales in respect of an offence under this Part except by or with the consent of the Secretary of State or the Director of Public Prosecutions.
+
+#### 59 Offences by bodies corporate etc.
+
+(1) Where an offence under this Part committed by a body corporate is committed with the consent or connivance of, or is attributable to any neglect on the part of, a director, manager, secretary or other similar officer of the body, or a person purporting to act in such a capacity, he as well as the body corporate shall be guilty of the offence.
+
+(2) In subsection (1) above “director”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate.
+
+(3) Where, in Scotland, an offence under this Part committed by a partnership or by an unincorporated association other than a partnership is committed with the consent or connivance of, or is attributable to any neglect on the part of, a partner in the partnership or (as the case may be) a person concerned in the management or control of the association, he, as well as the partnership or association, shall be guilty of the offence.
+
+## Part III — Miscellaneous and General
+
+### Tramways
+
+#### 60 Powers of leasing.
+
+(1) A person authorised by or under an enactment to operate a tramway (“the lessor”) may with the consent of the Secretary of State grant to another person (“the lessee”), for a period agreed between the lessor and the lessee, the right to operate the tramway (or any part of it) and such related statutory rights as may be so agreed.
+
+(2) The terms of any agreement made by virtue of subsection (1) above shall be subject to the approval of the Secretary of State.
+
+(3) Where an agreement is made by virtue of subsection (1) above, references in any enactment to the lessor shall, if and to the extent that the agreement so provides, have effect as references to the lessee.
+
+(4) This section shall apply only to tramways in operation at the passing of this Act.
+
+#### 61 Amendment of Public Passenger Vehicles Act 1981.
+
+(1) The [^M24]Public Passenger Vehicles Act 1981 shall be amended as follows.
+
+(2) In section 24 (regulation of conduct of drivers, inspectors and conductors)—
+
+(a) at the end of subsection (1) there shall be added the words
+
+> and
+>
+> (c) drivers, inspectors and conductors of tramcars
+
+;
+
+(b) in subsection (2), after the word “driver” there shall be inserted the words “ of a public service vehicle ”.
+
+(3) In section 25(1) (regulation of conduct of passengers) after the words “public service vehicles” there shall be inserted the words “ or tramcars ”, and after the words “public service vehicle” wherever they occur there shall be inserted the words “ or tramcar ”.
+
+(4) In section 27(1) (returns to be provided by persons operating public service vehicles) after the words “public service vehicles” there shall be inserted the words “ or tramcars ”.
+
+(5) In section 60(1) (general power to make regulations)—
+
+(a) at the end of paragraph (j) (carriage of luggage and goods on public service vehicles) there shall be added the words “ or tramcars ”;
+
+(b) in paragraph (k) (custody of property left on a public service vehicle) after the word “vehicle” there shall be inserted the words “ or tramcar ”.
+
+(6) After subsection (1A) of section 60 there shall be inserted—
+
+> (1B) Regulations made under any provision of this Act and applying to tramcars may amend or exclude any provision of an Act or instrument of local application whose subject-matter is the same as that of the regulations.
+
+#### 62 Exclusion of hackney carriage legislation.
+
+(1) In section 4 of the [^M25]Metropolitan Public Carriage Act 1869 (interpretation) in the definition of “hackney carriage”, for the words “not a stage carriage” there shall be substituted the words “ neither a stage carriage nor a tramcar ”.
+
+[^F126]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In section 80 of the [^M26]Local Government (Miscellaneous Provisions) Act 1976 (interpretation) in subsection (1) in the definition of “private hire vehicle”, after the words “London cab” there shall be inserted the words “ or tramcar ”.
+
+### Harbours
+
+#### 63 Harbours.
+
+(1) The [^M27]Harbours Act 1964 shall have effect with the amendments set out in Schedule 3 to this Act.
+
+(2) In section 37 of the [^M28]Docks and Harbours Act 1966 (which gives to harbour authorities powers to acquire harbour businesses, and to subscribe for or acquire securities of bodies engaged, or to be engaged, in harbour businesses)—
+
+(a) in subsection (1), for the words “harbour operations” and the words “such operations” there shall be substituted the words “ activities relating to harbours ”;
+
+(b) in subsection (2), for the words “harbour operations” there shall be substituted the words “ activities relating to harbours ”;
+
+(c) after subsection (2) there shall be inserted—
+
+> (2A) Nothing in subsection (2) above shall be construed as authorising a harbour authority to delegate to another body any function that it could not delegate apart from that subsection.
+
+(d) subsection (3) shall be omitted.
+
+(3) In section 35 of the [^M29]Coast Protection Act 1949 (which excepts certain operations from the requirement to obtain the Secretary of State’s consent under section 34) in subsection (1) there shall be added after paragraph (h)—
+
+> (i) any operations authorised by an order under section 14 or 16 of the Harbours Act 1964.
+
+### Miscellaneous
+
+#### 64 Maintenance of footpaths and bridleways.
+
+(1) Section 36 of the [^M30]Highways Act 1980 (highways maintainable at public expense) shall be amended as follows.
+
+(2) In subsection (2), at the end of paragraph (c), the word “and” shall be omitted.
+
+(3) After paragraph (d) of subsection (2), there shall be added—
+
+> (e) a highway, being a footpath or bridleway, created in consequence of a rail crossing diversion order, or of an order made under section 14 or 16 of the Harbours Act 1964, or of an order made under section 1 or 3 of the Transport and Works Act 1992.
+
+(4) After subsection (3) there shall be inserted—
+
+> (3A) Paragraph (e) of subsection (2) above shall not apply to a footpath or bridleway, or to any part of a footpath or bridleway, which by virtue of an order of a kind referred to in that subsection is maintainable otherwise than at the public expense.
+
+#### 65 Certain enactments to cease to have effect.
+
+(1) The following enactments shall cease to have effect—
+
+(a) the [^M31]General Pier and Harbour Act 1861;
+
+(b) in the [^M32]Tramways Act 1870—
+
+section 3 (except as incorporated in, or otherwise applied by, any Act of Parliament or Provisional Order),
+
+sections 4 to 21,
+
+sections 22 to 24 (except as incorporated in, or otherwise applied by, any Act of Parliament or Provisional Order),
+
+in section 25, the words from the beginning to “surface of the road” (except as incorporated in, or otherwise applied by, any Act of Parliament or Provisional Order),
+
+in section 25, the words “and shall not be opened” onwards,
+
+sections 26 to 40 (except as incorporated in, or otherwise applied by, any Act of Parliament or Provisional Order),
+
+sections 41 and 42,
+
+sections 43 to 47 (except as incorporated in, or otherwise applied by, any Act of Parliament or Provisional Order),
+
+section 48,
+
+sections 49 to 64 (except as incorporated in, or otherwise applied by, any Act of Parliament or Provisional Order),
+
+Parts I and II of Schedule A (except as incorporated in, or otherwise applied by, any Act of Parliament or Provisional Order),
+
+Part III of Schedule A,
+
+Schedule B, and
+
+Schedule C (except as incorporated in, or otherwise applied by, any Act of Parliament or Provisional Order);
+
+(c) the [^M33]Military Tramways Act 1887;
+
+(d) the [^M34]Railways (Electrical Power) Act 1903;
+
+(e) the [^M35]Fishery Harbours Act 1915;
+
+(f) section 220(1)(a) of the [^M36]Insolvency Act 1986.
+
+(2) In the [^M37]Coast Protection Act 1949, in sections 2(8)(a) and 17(8)(b), for the words “to which the Fishery Harbours Act 1915 applies” there shall be substituted the words “which is a fishery harbour for the purposes of section 21 of the [^M38]Sea Fish Industry Act 1951”.
+
+### General
+
+#### 66 Service of notices.
+
+(1) A notice or other document required or authorised to be served for the purposes of this Act may be served by post.
+
+(2) Where the person on whom a notice or other document to be served for the purposes of this Act is a body corporate, the notice or document is duly served if it is served on the secretary or clerk of that body.
+
+(3) For the purposes of section 7 of the [^M39]Interpretation Act 1978 as it applies for the purposes of this section, the proper address of any person in relation to the service on him of a notice or document under subsection (1) above is, if he has given an address for service, that address, and otherwise—
+
+(a) in the case of the secretary or clerk of a body corporate, the registered or principal office of that body;
+
+(b) in any other case, his last known address at the time of service.
+
+(4) Where for the purposes of this Act a notice or other document is required or authorised to be served on a person as having any interest in, or as the occupier of, land and his name or address cannot be ascertained after reasonable inquiry, the notice may be served by—
+
+(a) addressing it to him by name or by the description of “owner”, or as the case may be “occupier”, of the land (describing it), and
+
+(b) either leaving it in the hands of a person who is or appears to be resident or employed on the land or leaving it conspicuously affixed to some building or object on the land.
+
+(5) This section shall not be taken to exclude the employment of any method of service not expressly provided for by it.
+
+(6) This section shall not apply to anything required or authorised to be served under section 35 above.
+
+#### 67 Interpretation.
+
+(1) In this Act, except where the context otherwise requires—
+
+- “carriageway” has the same meaning as in the [^M40]Highways Act 1980, or in Scotland the [^M41]Roads (Scotland) Act 1984;
+
+- “guided transport” means transport by vehicles guided by means external to the vehicles (whether or not the vehicles are also capable of being operated in some other way);
+
+- “inland waterway” includes both natural and artificial waterways, and waterways within parts of the sea that are in Great Britain, but not any waterway managed or maintained by a person who is a harbour authority (within the meaning of the [^M42]Harbours Act 1964) in relation to the waterway;
+
+- “operator”, in relation to a transport system, means any person carrying on an undertaking which includes the system or any part of it or the provision of transport services on the system;
+
+- “railway” means a system of transport employing parallel rails which—
+
+  - (a) provide support and guidance for vehicles carried on flanged wheels, and
+  - (b) form a track which either is of a gauge of at least 350 millimetres or crosses a carriageway (whether or not on the same level),
+
+  but does not include a tramway;
+
+- “street” means—
+
+  - (a) in England and Wales, a street within the meaning of section 48 of the [^M43]New Roads and Street Works Act 1991, together with land on the verge of a street or between two carriageways;
+  - (b) in Scotland, a road within the meaning of section 107 of the New Roads and Street Works Act 1991, together with land on the verge of a road or between two carriageways;
+
+- “tramway” means a system of transport used wholly or mainly for the carriage of passengers and employing parallel rails which—
+
+  - (a) provide support and guidance for vehicles carried on flanged wheels, and
+  - (b) are laid wholly or mainly along a street or in any other place to which the public has access (including a place to which the public has access only on making a payment);
+
+- “trolley vehicle system” means a system of transport by vehicles constructed or adapted for use on roads without rails under electric power transmitted to them by overhead wires (whether or not there is in addition a source of power on board the vehicles);
+
+- “vehicle” includes mobile traction unit.
+
+(2) References in this Act to rights over land include references to rights to do, or to place and maintain, anything in, on or under land or in the air-space above its surface.
+
+#### 68 Repeals.
+
+(1) The enactments mentioned in Schedule 4 to this Act (which include spent enactments) are hereby repealed to the extent specified in the third column of that Schedule.
+
+(2) The repeal by this Act of the [^M44]Notice of Accidents Act 1894 shall not affect section 75 of the [^M45]Civil Aviation Act 1982 (by virtue of which regulations may include provisions applying section 3 of the 1894 Act).
+
+#### 69 Expenses.
+
+There shall be paid out of money provided by Parliament—
+
+(a) any expenses incurred by the Secretary of State under this Act, and
+
+(b) any increase attributable to this Act in the sums payable out of money so provided under any other enactment.
+
+#### 70 Commencement.
+
+(1) The preceding sections of, and the Schedules to, this Act shall come into force on such day as the Secretary of State may appoint by order made by statutory instrument; and different days may be appointed for different purposes.
+
+(2) An order under subsection (1) above may include such transitional provisions and savings as appear to the Secretary of State to be necessary or expedient.
+
+#### 71 Extent.
+
+This Act shall not extend to Northern Ireland.
+
+#### 72 Short title.
+
+This Act may be cited as the Transport and Works Act 1992.
+
+## SCHEDULE 1 — Matters within sections 1 and 3
+
+*Section 5.*
+
+**1** The construction, alteration, repair, maintenance, demolition and removal of railways, tramways, trolley vehicle systems and other transport systems within section 1(1) of this Act, waterways, roads, watercourses, buildings and other structures.
+
+**2** The carrying out of any other civil engineering or other works.
+
+**3** The acquisition of land, whether compulsorily or by agreement.
+
+**4** The creation and extinguishment of rights over land (including rights of navigation over water), whether compulsorily or by agreement.
+
+**5** The abrogation and modification of agreements relating to land.
+
+**6** The conferring on persons providing transport services of rights to use systems belonging to others.
+
+**7** The protection of the property or interests of any person.
+
+**8** The imposition and exclusion of obligations or of liability in respect of any acts or omissions.
+
+**9** The making of agreements to secure the provision of police services.
+
+**10** The carrying out of surveys and the taking of soil samples.
+
+**11** The payment of compensation.
+
+**12** The charging of tolls, fares (including penalty fares) and other charges, and the creation of summary offences in connection with non-payment (or in connection with a person’s failure to give his name or address in accordance with provisions relating to penalty fares).
+
+**13** The making of byelaws by any person and their enforcement, including the creation of summary offences.
+
+**14** The payment of rates.
+
+**15** The transfer, leasing, discontinuance and revival of undertakings.
+
+**16** The submission of disputes to arbitration.
+
+**17** The imposition of requirements to obtain the consent of the Secretary of State.
+
+## SCHEDULE 2 — Stopping up and diversion of rail crossings
+
+*Section 47.*
+
+**1** The [^M46]Highways Act 1980 shall be amended as follows.
+
+**2** (1) Section 118 (stopping up of footpaths and bridleways) shall be amended as follows.
+
+(2) In subsection (5), for—
+
+(a) the words “or public path diversion order made under section 119 below”, and
+
+(b) the words “or the public path diversion order”,
+
+there shall be substituted the words “ , public path diversion order or rail crossing diversion order ”.
+
+(3) In subsection (7), for “119” there shall be substituted “ 118A ”.
+
+**3** After section 118 there shall be inserted—
+
+> **Stopping up of footpaths and bridleways crossing railways.**
+>
+> **118A** (1) This section applies where it appears to a council expedient in the interests of the safety of members of the public using it or likely to use it that a footpath or bridleway in their area which crosses a railway, otherwise than by tunnel or bridge, should be stopped up.
+>
+> (2) Where this section applies, the council may by order made by them and submitted to and confirmed by the Secretary of State, or confirmed as an unopposed order, extinguish the public right of way over the path or way—
+>
+> (a) on the crossing itself, and
+>
+> (b) for so much of its length as they deem expedient from the crossing to its intersection with another highway over which there subsists a like right of way (whether or not other rights of way also subsist over it).
+>
+> (3) An order under this section is referred to in this Act as a “rail crossing extinguishment order”.
+>
+> (4) The Secretary of State shall not confirm a rail crossing extinguishment order, and a council shall not confirm such an order as an unopposed order, unless he or, as the case may be, they are satisfied that it is expedient to do so having regard to all the circumstances, and in particular to—
+>
+> (a) whether it is reasonably practicable to make the crossing safe for use by the public, and
+>
+> (b) what arrangements have been made for ensuring that, if the order is confirmed, any appropriate barriers and signs are erected and maintained.
+>
+> (5) Before determining to make a rail crossing extinguishment order on the representations of the operator of the railway crossed by the path or way, the council may require him to enter into an agreement with them to defray, or to make such contribution as may be specified in the agreement towards, any expenses which the council may incur in connection with the erection or maintenance of barriers and signs.
+>
+> (6) A rail crossing extinguishment order shall be in such form as may be prescribed by regulations made by the Secretary of State and shall contain a map, on such scale as may be so prescribed, defining the land over which the public right of way is thereby extinguished.
+>
+> (7) Schedule 6 to this Act has effect as to the making, confirmation, validity and date of operation of rail crossing extinguishment orders.
+>
+> (8) In this section—
+>
+> - “operator”, in relation to a railway, means any person carrying on an undertaking which includes maintaining the permanent way;
+> - “railway” includes tramway but does not include any part of a system where rails are laid along a carriageway.
+
+**4** After section 119 (diversion of footpaths and bridleways) there shall be inserted—
+
+> **Diversion of footpaths and bridleways crossing railways.**
+>
+> **119A** (1) This section applies where it appears to a council expedient in the interests of the safety of members of the public using it or likely to use it that a footpath or bridleway in their area which crosses a railway, otherwise than by tunnel or bridge, should be diverted (whether on to land of the same or of another owner, lessee or occupier).
+>
+> (2) Where this section applies, the council may by order made by them and submitted to and confirmed by the Secretary of State, or confirmed as an unopposed order—
+>
+> (a) create, as from such date as may be specified in the order, any such new path or way as appears to the council requisite for effecting the diversion, and
+>
+> (b) extinguish, as from such date as may be so specified, the public right of way over the crossing and over so much of the path or way of which the crossing forms part as appears to the council requisite as aforesaid.
+>
+> (3) An order under this section is referred to in this Act as a “rail crossing diversion order”.
+>
+> (4) The Secretary of State shall not confirm a rail crossing diversion order, and a council shall not confirm such an order as an unopposed order, unless he or, as the case may be, they are satisfied that it is expedient to do so having regard to all the circumstances, and in particular to—
+>
+> (a) whether it is reasonably practicable to make the crossing safe for use by the public, and
+>
+> (b) what arrangements have been made for ensuring that, if the order is confirmed, any appropriate barriers and signs are erected and maintained.
+>
+> (5) A rail crossing diversion order shall not alter a point of termination of a path or way diverted under the order—
+>
+> (a) if that point is not on a highway over which there subsists a like right of way (whether or not other rights of way also subsist over it), or
+>
+> (b) (where it is on such a highway) otherwise than to another point which is on the same highway, or another such highway connected with it.
+>
+> (6) A rail crossing diversion order may make provision requiring the operator of the railway to maintain all or part of the footpath or bridleway created by the order.
+>
+> (7) Where it appears to the council that work requires to be done to provide necessary facilities for the convenient exercise of any such new right of way as is mentioned in subsection (2)(a) above, the date specified under subsection (2)(b) shall be later than the date specified under subsection (2)(a) by such time as appears to the council requisite for enabling the work to be carried out.
+>
+> (8) Before determining to make a rail crossing diversion order on the representations of the operator of the railway crossed by the path or way, the council may require him to enter into an agreement with them to defray, or to make such contribution as may be specified in the agreement towards,—
+>
+> (a) any compensation which may become payable under section 28 above as applied by section 121(2) below;
+>
+> (b) any expenses which the council may incur in connection with the erection or maintenance of barriers and signs;
+>
+> (c) where the council are the highway authority for the path or way in question, any expenses which they may incur in bringing the new site of the path or way into fit condition for use by the public;
+>
+> (d) where the council are not the highway authority, any expenses which may become recoverable from them by the highway authority under the provisions of section 27(2) above as applied by subsection (11) below.
+>
+> (9) A rail crossing diversion order shall be in such form as may be prescribed by regulations made by the Secretary of State and shall contain a map, on such scale as may be so prescribed—
+>
+> (a) showing the existing site of so much of the line of the path or way as is to be diverted by the order and the new site to which it is to be diverted,
+>
+> (b) indicating whether a new right of way is created by the order over the whole of the new site or whether some part of it is already comprised in a footpath or bridleway, and
+>
+> (c) where some part of the new site is already so comprised, defining that part.
+>
+> (10) Schedule 6 to this Act has effect as to the making, confirmation, validity and date of operation of rail crossing diversion orders.
+>
+> (11) Section 27 above (making up of new footpaths and bridleways) applies to a footpath or bridleway created by a rail crossing diversion order with the substitution, for references to a public path creation order, of references to a rail crossing diversion order and, for references to section 26(2) above, of references to section 120(3) below.
+>
+> (12) In this section and in section 120 below—
+>
+> - “operator”, in relation to a railway, means any person carrying on an undertaking which includes maintaining the permanent way;
+> - “railway” includes tramway but does not include any part of a system where rails are laid along a carriageway.
+
+**5** (1) Section 120 (exercise of powers of making public path extinguishment and diversion orders) shall be amended as follows.
+
+(2) In subsection (1), for the words “and 119” there shall be substituted the words “ to 119A ”.
+
+(3) In subsection (2), for the words from “public path extinguishment” to “and 119” there shall be substituted the words “ orders under sections 118 to 119A ”.
+
+(4) In subsection (3)—
+
+(a) after “118(1)” there shall be inserted “ or 118A(1) or 119A(1) ”;
+
+(b) after the words “stopped up” there shall be inserted the words “ or diverted ”;
+
+(c) after the words “extinguishment order” there shall be added the words “ , a rail crossing extinguishment order, a rail crossing diversion order ”;
+
+(d) for the words “and 119” there shall be substituted the words “ to 119A ”;
+
+(e) after the word “consultation” there shall be inserted the words “ (subject to subsection (3A) below) ”.
+
+(5) After subsection (3) there shall be inserted—
+
+> (3A) Where—
+>
+> (a) the operator of a railway makes a request to a council to make an order under section 118A or 119A above in respect of a crossing over the railway,
+>
+> (b) the request is in such form and gives such particulars as are prescribed by regulations made by the Secretary of State, and
+>
+> (c) the council have neither confirmed the order nor submitted it to the Secretary of State within 6 months of receiving the request,
+>
+> the power conferred on the Secretary of State by subsection (3) above may be exercised without consultation with the council.
+
+(6) In subsection (4), after the words “public path diversion order” there shall be inserted the words “ or a rail crossing diversion order ”.
+
+(7) In subsection (5)—
+
+(a) for the words “he may require the owner, lessee or occupier” there shall be substituted the words “ or, on the representations of the operator of the railway concerned, a rail crossing diversion order, he may require the person ”;
+
+(b) for the words “for the owner, lessee or occupier” there shall be substituted the words “ for that person ”;
+
+(c) after “119(5)” there shall be inserted the words “ , or as the case may be 119A(8), ”.
+
+**6** (1) Section 121 (supplementary provisions) shall be amended as follows.
+
+(2) In subsection (1)—
+
+(a) for the words “or a public path diversion order” there shall be substituted the words “ , a rail crossing extinguishment order, a public path diversion order or a rail crossing diversion order ”;
+
+(b) after the words “and a public path diversion order” there shall be added the words “ or a rail crossing diversion order ”.
+
+(3) In subsection (2), for the words “and to public path diversion orders” there shall be substituted the words “ , rail crossing extinguishment orders, public path diversion orders and rail crossing diversion orders ”.
+
+(4) In subsection (3), for the words “and public path diversion orders” there shall be substituted the words “ , rail crossing extinguishment orders, public path diversion orders and rail crossing diversion orders ”.
+
+(5) In subsection (4), for the words “or a public path diversion order” there shall be substituted the words “ , a rail crossing extinguishment order, a public path diversion order or a rail crossing diversion order ”.
+
+**7** In section 293 (powers of entry for purposes connected with certain orders relating to footpaths and bridleways) in subsection (1) for the words “or a public path diversion order” there shall be substituted the words “ , a rail crossing extinguishment order, a public path diversion order or a rail crossing diversion order ”.
+
+**8** In section 325 (provisions as to regulations, schemes and orders) in subsection (2)(a), after the word “section”, there shall be inserted the words “ 120(3A) or ”.
+
+**9** In section 329(1) (interpretation) after the definition of “rack rent” there shall be inserted—
+
+> “rail crossing diversion order” means an order under section 119A above;
+>
+> “rail crossing extinguishment order” means an order under section 118A above;.
+
+**10** (1) Schedule 6 shall be amended as follows.
+
+(2) In paragraph 1—
+
+(a) in sub-paragraphs (1) and (2) for the words “or a public path diversion order” there shall be substituted the words “ , a rail crossing extinguishment order, a public path diversion order or a rail crossing diversion order ”;
+
+(b) in sub-paragraph (3A) for the words “and public path diversion orders” there shall be substituted the words “ , rail crossing extinguishment orders, public path diversion orders and rail crossing diversion orders ”;
+
+(c) in sub-paragraph (3B) for the words “and draft public path diversion orders” there shall be substituted the words “ , draft rail crossing extinguishment orders, draft public path diversion orders and draft rail crossing diversion orders ”.
+
+(3) In paragraph 2A(1), after the words “shall, except in” there shall be inserted the words “ the case of a rail crossing extinguishment order, the case of a rail crossing diversion order and ”.
+
+(4) In paragraph 3(2)—
+
+(a) after the words “public path extinguishment order” there shall be inserted the words “ or a rail crossing extinguishment order ”;
+
+(b) for the words “or a public path diversion order” there shall be substituted the words “ , a public path diversion order or a rail crossing diversion order ”.
+
+## SCHEDULE 3 — [^M47]Amendment of Harbours Act 1964
+
+*Section 63.*
+
+**1** (1) Section 14 (harbour revision orders) shall be amended as follows.
+
+(2) In subsection (2)(b) at the end there shall be added the words “ or in the interests of the recreational use of sea-going ships ”.
+
+(3) After subsection (2A) there shall be inserted—
+
+> (2B) Nothing in subsection (2)(b) of this section shall prevent the making of an order for facilitating—
+>
+> (a) the closing of part of the harbour,
+>
+> (b) a reduction in the facilities available in the harbour, or
+>
+> (c) the disposal of property not required for the purposes of the harbour,
+>
+> if the appropriate Minister is satisfied that the making of the order is desirable on grounds other than those specified in that subsection.
+
+(4) In subsection (3)—
+
+(a) for the words from “a provision” to “said objects” there shall be substituted the words “ any other provision of the order ”;
+
+(b) after the words “for the purposes of” there shall be inserted the words “ , or in connection with, ”;
+
+(c) for the words “repealing and amending” there shall be substituted the words “ excluding or modifying any provision of any Act or of any instrument made under any Act (including this Act) and for repealing ”.
+
+(5) After subsection (4) there shall be inserted—
+
+> (4A) Where two or more harbours are being improved, maintained or managed by the same harbour authority or by harbour authorities which are members of the same group, a harbour revision order may relate to more than one of the harbours; and for this purpose two authorities are members of the same group if one is a subsidiary (within the meaning of the Companies Act 1985) of the other or both are subsidiaries of another company (within the meaning of that Act).
+
+(6) In subsection (5), for the words “large-scale map” there shall be substituted the words “ map of a scale not less than 1:2500 ”.
+
+(7) After subsection (5) there shall be inserted—
+
+> (5A) Where a harbour revision order includes provision for extinguishing or diverting a public right of way over a footpath or bridleway, there must be annexed to the order a map of a scale not less than 1:2500 on which the path or way concerned, and in the case of a diversion the new path or way, are plainly delineated.
+
+**2** (1) Section 16 (harbour empowerment orders) shall be amended as follows.
+
+(2) At the end of subsection (5) there shall be added the words “ or in the interests of the recreational use of sea-going ships ”.
+
+(3) In subsection (6), after the words “any other enactment” there shall be inserted the words “ and provisions for excluding or modifying any provision of any Act or of any instrument made under any Act (including this Act) ”.
+
+(4) In subsection (7), for the words “large-scale map” there shall be substituted the words “ map of a scale not less than 1:2500 ”.
+
+(5) After subsection (7) there shall be inserted—
+
+> (7A) Where a harbour empowerment order includes provision for extinguishing or diverting a public right of way over a footpath or bridleway, there must be annexed to the order a map of a scale not less than 1:2500 on which the path or way concerned, and in the case of a diversion the new path or way, are plainly delineated.
+
+**3** In section 17 (procedure for making harbour revision and empowerment orders) after subsection (2) there shall be inserted—
+
+> (2A) Neither the Secretary of State nor the Minister of Agriculture, Fisheries and Food shall make a harbour revision or empowerment order which provides for extinguishing a public right of way over a footpath or bridleway unless he is satisfied—
+>
+> (a) that an alternative right of way has been or will be provided, or
+>
+> (b) that the provision of an alternative right of way is not required.
+>
+> (2B) Neither the Secretary of State nor the Minister of Agriculture, Fisheries and Food shall make a harbour revision or empowerment order which provides for diverting a public right of way over a footpath or bridleway unless he is satisfied that the path or way will not be substantially less convenient to the public in consequence of the diversion.
+
+**4** In section 18 (harbour reorganisation schemes) in subsection (3), for the words “large-scale map” there shall be substituted the words “ map of a scale not less than 1:2500 ”.
+
+**5** (1) Section 47 (provisions as to inquiries and hearings) shall be amended as follows.
+
+(2) After subsection (1) there shall be inserted—
+
+> (1A) The power to make an order as to costs under section 250(5) of the Local Government Act 1972 as applied by subsection (1) above shall be exercisable not only where the inquiry or hearing takes place but also where arrangements are made for it but it does not take place.
+
+(3) After subsection (2) there shall be inserted—
+
+> (2A) The power to make an award as to expenses under section 210(8) of the Local Government (Scotland) Act 1973 as applied by subsection (2) above shall be exercisable not only where the inquiry or hearing takes place but also where arrangements are made for it but it does not take place.
+
+(4) [^F127]In subsection (3), for the words from “required by paragraph 4(3)” to “Schedule 4” there shall be substituted the words [^F127]“ into an order subject to the provisions of paragraph 4B of Schedule 3 ”[^F127].
+
+**6** After section 48 (service of documents) there shall be inserted—
+
+> **Environmental duties of harbour authorities.**
+>
+> **48A** It shall be the duty of a harbour authority in formulating or considering any proposals relating to its functions under any enactment to have regard to—
+>
+> (a) the conservation of the natural beauty of the countryside and of flora, fauna and geological or physiographical features of special interest;
+>
+> (b) the desirability of preserving for the public any freedom of access to places of natural beauty; and
+>
+> (c) the desirability of maintaining the availability to the public of any facility for visiting or inspecting any building, site or object of archaeological, architectural or historic interest;
+>
+> and to take into account any effect which the proposals may have on the natural beauty of the countryside, flora, fauna or any such feature or facility.
+
+**7** (1) Section 57 (interpretation) shall be amended as follows.
+
+(2) After the definition of “the Boards” there shall be inserted— “ “bridleway” , in relation to England and Wales, has the same meaning as in the Highways Act 1980 and, in relation to Scotland, has the same meaning as in Part III of the Countryside (Scotland) Act 1967; ”.
+
+(3) After the definition of “fishery harbour” there shall be inserted— “ “footpath” , in relation to England and Wales, has the same meaning as in the Highways Act 1980 and, in relation to Scotland, has the same meaning as in the Roads (Scotland) Act 1984; ”.
+
+**8** Section 62 (saving for private Bills etc) shall be omitted.
+
+**9** (1) Schedule 2 (objects for whose achievement harbour revision orders may be made) shall be amended as follows.
+
+(2) In paragraph 3(c) for the words from “out” to “others of” there shall be substituted the words “ on by others of activities relating to the harbour or of ”.
+
+(3) After paragraph 7 there shall be inserted—
+
+> **7A** Extinguishing or diverting public rights of way over footpaths or bridleways for the purposes of works described in the order or works ancillary to such works.
+>
+> **7B** Extinguishing public rights of navigation for the purposes of works described in the order or works ancillary to such works, or permitting interference with the enjoyment of such rights for the purposes of such works or for the purposes of works carried out by a person authorised by the authority to carry them out.
+
+(4) After paragraph 8 there shall be inserted—
+
+> **8A** Enabling the authority to close part of the harbour or to reduce the facilities available in the harbour.
+
+(5) After paragraph 9 there shall be inserted—
+
+> **9A** Empowering the authority (alone or with others) to develop land not required for the purposes of the harbour with a view to disposing of the land or of interests in it, and to acquire land by agreement for the purpose of developing it together with such land.
+>
+> **9B** Empowering the authority to delegate the performance of any of the functions of the authority except—
+>
+> (a) a duty imposed on the authority by or under any enactment;
+>
+> (b) the making of byelaws;
+>
+> (c) the levying of ship, passenger and goods dues;
+>
+> (d) the appointment of harbour, dock and pier masters;
+>
+> (e) the nomination of persons to act as constables;
+>
+> (f) functions relating to the laying down of buoys, the erection of lighthouses and the exhibition of lights, beacons and sea-marks, so far as those functions are exercisable for the purposes of the safety of navigation.
+
+(6) After paragraph 16 there shall be inserted—
+
+> **16A** Imposing or conferring on the authority duties or powers (including powers to make byelaws) for the conservation of the natural beauty of all or any part of the harbour or of any of the fauna, flora or geological or physiographical features in the harbour and all other natural features.
+
+**10** (1) Schedule 3 (procedure for making harbour orders) shall be amended as follows.
+
+(2) After paragraph 1A there shall be inserted—
+
+> **1B** Such fees as may be determined by the Secretary of State shall be payable on the making of an application for a harbour revision order.
+
+(3) In paragraph 3, after sub-paragraph (b) there shall be inserted—
+
+> (ba) if provision is proposed to be included in the order extinguishing or diverting a public right of way over a footpath or bridleway, the applicant shall—
+>
+> (i) serve on every local authority for the area in which the path or way is situated a notice stating the effect of the provision, naming a place where a copy of the draft of the proposed order (and of any relevant map accompanying the application for the order) may be seen at all reasonable hours and stating that, if the local authority desire to make to the Secretary of State objection to the inclusion of the provision in the order, they should do so in writing (stating the grounds of their objection) before the expiration of the period of forty-two days from the date on which the notice is served on them;
+>
+> (ii) cause a copy of the notice to be displayed in a prominent position at the ends of so much of any path or way as would by virtue of the order cease to be subject to a public right of way;
+>
+> and for the purposes of this sub-paragraph, “local authority” means, in England and Wales, a county council, a district council, a London borough council, the Common Council of the City of London, the Council of the Isles of Scilly, a parish or community council and a parish meeting of a parish not having a separate parish council and, in Scotland, a regional, islands or district council;
+
+.
+
+(4) In paragraph 4A, in sub-paragraph (1) for the words “is opposed” there shall be substituted the words “ authorises the compulsory purchase of land ”, and for sub-paragraphs (2) to (4) there shall be substituted—
+
+> (2) Where this paragraph has effect in relation to an order, it shall be subject to special parliamentary procedure to the same extent as it would be, by virtue of section 18 or 19 of the Acquisition of Land Act 1981 (or by virtue of paragraph 5 or 6 of Schedule 3 to that Act) (National Trust land, commons etc), if the purchase were authorised by an order under section 2(1) of that Act.
+
+(5) For paragraph 4B there shall be substituted—
+
+> **4B** – (1) The provisions of this paragraph apply to—
+>
+> (a) a harbour revision order relating to a harbour in Scotland, or
+>
+> (b) a harbour empowerment order relating to a harbour or to works to be carried out in Scotland,
+>
+> where the order authorises the compulsory purchase of land.
+>
+> (2) Where this paragraph applies to an order, the order shall be subject to special parliamentary procedure to the same extent as it would be, by virtue of section 1(2)(b) of the Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 (land forming part of a common or open space or held inalienably by the National Trust for Scotland), if the purchase were authorised by an order under section 1(1) of that Act.
+
+(6) In paragraph 5(a), for the words from “to which” to “so affected” there shall be substituted the words “ which is not subject to special parliamentary procedure, ”.
+
+(7) Paragraphs 8A and 8B shall be omitted.
+
+(8) In paragraph 14(3), for the words “(b) and (c)” there shall be substituted the words “ (b) to (c) ”.
+
+## SCHEDULE 4 — Repeals
+
+*Section 68.*
+
+### Part I — Railways and Tramways
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 5 & 6 Vict. c. 55. | The Railway Regulation Act 1842. | In section 17, the words “who shall be found drunk while so employed upon the said railway”. |
+| 33 & 34 Vict. c. 78. | The Tramways Act 1870. | Section 3 (except as incorporated in, or otherwise applied by, any Act of Parliament or Provisional Order).Sections 4 to 21.Sections 22 to 24 (except as incorporated in, or otherwise applied by, any Act of Parliament or Provisional Order). In section 25, the words from the beginning to ”surface of the road” (except as incorporated in, or otherwise applied by, any Act of Parliament or Provisional Order). In section 25, the words ”and shall not be opened” onwards.Sections 26 to 40 (except as incorporated in, or otherwise applied by, any Act of Parliament or Provisional Order).Sections 41 and 42.Sections 43 to 47 (except as incorporated in, or otherwise applied by, any Act of Parliament or Provisional Order).Section 48.Sections 49 to 64 (except as incorporated in, or otherwise applied by, any Act of Parliament or Provisional Order).Parts I and II of Schedule A (except as incorporated in, or otherwise applied by, any Act of Parliament or Provisional Order).Part III of Schedule A.Schedule B.Schedule C (except as incorporated in, or otherwise applied by, any Act of Parliament or Provisional Order). |
+| 34 & 35 Vict. c. 78. | The Regulation of Railways Act 1871. | In section 3, the words “Provided that” onwards.Section 6. |
+| 45 & 46 Vict. c. 50. | The Municipal Corporations Act 1882. | In Part I of Schedule 9, the entry relating to the Tramways Act 1870 (except as incorporated in, or otherwise applied by, any Act of Parliament or Provisional Order). |
+| 50 & 51 Vict. c. 65. | The Military Tramways Act 1887. | The whole Act. |
+| 52 & 53 Vict. c. 14. | The Town Police Clauses Act 1889. | In section 3, the words from “duly licensed” to “Act of Parliament.” |
+| 57 & 58 Vict. c. 28. | The Notice of Accidents Act 1894. | The whole Act, so far as unrepealed. |
+| 59 & 60 Vict. c. 48. | The Light Railways Act 1896. | The whole Act, so far as unrepealed (except as it applies in Scotland). |
+| 63 & 64 Vict. c. 27. | The Railway Employment (Prevention of Accidents) Act 1900. | Section 13(2). |
+| 3 Edw. 7 c. 30. | The Railways (Electrical Power) Act 1903. | The whole Act. |
+| 6 Edw. 7 c. 53. | The Notice of Accidents Act 1906. | The whole Act, so far as unrepealed. |
+| 2 & 3 Geo. 5 c. 19. | The Light Railways Act 1912. | The whole Act, so far as unrepealed (except as it applies in Scotland). |
+| 11 & 12 Geo. 5 c. 55. | The Railways Act 1921. | Sections 68 and 69 (except as they apply in Scotland).Section 71 (except as it applies in Scotland).Sections 73 and 74 (except as they apply in Scotland). |
+| 24 & 25 Geo. 5 c. 53. | The Road and Rail Traffic Act 1933. | Section 41.Section 43. |
+| 2 & 3 Eliz. 2 c. 64. | The Transport Charges &c (Miscellaneous Provisions) Act 1954. | Section 9.In section 13(1)— the definition of ”railwayof the nature of a tramway”; the definition of ”tramcar”;the words ”and references to” to ”Road Traffic Act 1960”.Section 14(5). |
+| 8 & 9 Eliz. 2 c. 16. | The Road Traffic Act 1960. | In Schedule 17, the entry relating to the Transport Charges &c (Miscellaneous Provisions) Act 1954. |
+| 10 & 11 Eliz. 2 c. 46. | The Transport Act 1962. | In section 83—subsections (1) to (5) (except as they apply in Scotland);subsection (6). |
+| 1965 c. 2. | The Administration of Justice Act 1965. | In Schedule 1—the entry relating to the Tramways Act 1870;the entry relating to the Light Railways Act 1896. |
+| 1965 c. xxi. | The British Railways Act 1965. | Section 35(3) and (8). |
+| 1965 c. xli. | The London Transport Act 1965. | Section 34(3). |
+| 1967 c. 80. | The Criminal Justice Act 1967. | In Part I of Schedule 3—the entry relating to section 75 of the Railways Clauses Consolidation Act 1845;the entry relating to section 68 of the Railways Clauses Consolidation (Scotland) Act 1845. |
+| 1968 c. 73. | The Transport Act 1968. | Section 121(4) (except as it applies in Scotland). In section 121(5), the words ”or by virtue of subsection (4) thereof” (except as they apply in Scotland). In section 121(6), the words ”or by virtue of subsection (4)” (except as they apply in Scotland). Section 124 (except as it applies in Scotland).Section 125(4). |
+| 1972 c. 70. | The Local Government Act 1972. | Section 131(2)(c). |
+| 1975 c. 9. | The Supply Powers Act 1975. | In Schedule 1, the entry relating to the Military Tramways Act 1887. |
+| 1975 c. 53. | The Public Service Vehicles (Arrest of Offenders) Act 1975. | The whole Act, so far as unrepealed. |
+| 1977 c. xii. | The London Transport Act 1977. | In the Schedule, the entry relating to section 75 of the Railways Clauses Consolidation Act 1845. |
+| 1977 c. xvii. | The British Railways Act 1977. | In Schedule 1—the entry relating to section 75 of the Railways Clauses Consolidation Act 1845;the entry relating to section 68 of the Railways Clauses Consolidation (Scotland) Act 1845. |
+| 1980 c. 66. | The Highways Act 1980. | In section 36(2), at the end of paragraph (c), the word “and”. |
+| 1982 c. 53. | The Administration of Justice Act 1982. | Section 46(2)(b)(i).Section 46(2)(d). |
+| 1984 c. 12. | The Telecommunications Act 1984. | In Schedule 4, paragraph 7. |
+| 1984 c. 54. | The Roads (Scotland) Act 1984. | In Schedule 9—paragraph 6 (except as incorporated in, or otherwise applied by, any Act of Parliament or Provisional Order);paragraph 12. |
+| 1986 c. 45. | The Insolvency Act 1986. | Section 220(1)(a). |
+| 1987 c. 53. | The Channel Tunnel Act 1987. | In paragraph 3 of Schedule 6—in the entry relating to the Regulation of Railways Act 1871, the words ”and 6” and the words ”returns of and”;the entry relating to the Road and Rail Traffic Act 1933. |
+
+### Part II — Harbours
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 24 & 25 Vict. c. 45. | The General Pier and Harbour Act 1861. | The whole Act, so far as unrepealed. |
+| 25 & 26 Vict. c. 19. | The General Pier and Harbour Act 1861, Amendment Act. | The whole Act, so far as unrepealed. |
+| 25 & 26 Vict. c. 69. | The Harbours Transfer Act 1862. | Sections 13 and 14. |
+| 5 & 6 Geo. 5 c. 48. | The Fishery Harbours Act 1915. | The whole Act, so far as unrepealed. |
+| 1 Edw. 8 & 1 Geo. 6 c. 28. | The Harbours, Piers and Ferries (Scotland) Act 1937. | Sections 4 and 5. |
+| 14 & 15 Geo. 6 c. 30. | The Sea Fish Industry Act 1951. | Section 21(4). In section 21(5), the words ”in section two of the said Act of 1915 or”. In section 21(8), the word ”either” and the words from ”or of the Fishery Harbours Act 1915” to ”the Minister of Transport)”. |
+| 1964 c. 40. | The Harbours Act 1964. | Section 17(3) and (4). In section 57(1), the definition of ”large-scale”. Section 62.In Schedule 3—paragraph 5A;paragraph 8A;paragraph 8B;in paragraph 9, the words from ”and further stating” to ”or will come into operation”;paragraph 9A. |
+| 1966 c. 28. | The Docks and Harbours Act 1966. | Section 37(3). |
+| 1973 c. 65. | The Local Government (Scotland) Act 1973. | In Schedule 19—paragraph 5;paragraph 8. |
+| 1981 c. 56. | The Transport Act 1981. | In Schedule 6, paragraph 4(4) to (7). |
+
+---
+
+[^F1]: S. 1(1A) inserted (1.3.2010) by Planning Act 2008 (c. 29), s. 241(8), Sch. 2 para. 52 (with s. 226); S.I. 2010/101, art. 2 (with art. 6)
+[^F2]: S. 1(1A)(c)(d) inserted (15.12.2025) by Infrastructure (Wales) Act 2024 (asc 3), s. 147(2), Sch. 3 para. 7(2) (with s. 84(5)); S.I. 2025/698, art. 3(l)
+[^F3]: S. 3(1A) inserted (1.3.2010) by Planning Act 2008 (c. 29), s. 241(8), Sch. 2 para. 53 (with s. 226); S.I. 2010/101, art. 2 (with art. 6)
+[^F4]: S. 3(1A)(c)(d) inserted (15.12.2025) by Infrastructure (Wales) Act 2024 (asc 3), s. 147(2), Sch. 3 para. 7(3) (with s. 84(5)); S.I. 2025/698, art. 3(l)
+[^M1]: 1964 c. 40.
+[^M2]: 1968 c. 73.
+[^F5]: Words in s. 5(7) substituted (2.7.2012) by The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659), art. 1(2), Sch. 3 para. 12(2) (with arts. 4-6)
+[^F6]: S. 6(2A) inserted (7.10.1998) by S.I. 1998/2226, art. 2(a)
+[^F7]: S. 6(2B) inserted (20.4.2006) by The Transport and Works (Assessment of Environmental Effects) Regulations 2006 (S.I. 2006/958), regs. 1(1), 2(1)
+[^F8]: Words in s. 6(2B) substituted (5.12.2017) by The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070), reg. 1(1), Sch. 3 para. 2(a) (with Sch. 6 paras. 7(1), 8(1), 9, 12) (which amendment is extended to S. (18.12.2025) by Planning and Infrastructure Act 2025 (c. 34), ss. 46(a), 118(1)(z1) (with s. 116))
+[^F9]: Words in s. 6(3) inserted (7.10.1998) by S.I. 1998/2226, art. 2(b).
+[^F10]: S. 6(7) substituted (5.12.2017) by The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070), reg. 1(1), Sch. 3 para. 2(b) (with Sch. 6 paras. 7(1), 8(1), 9, 12) (which amendment is extended to S. (18.12.2025) by Planning and Infrastructure Act 2025 (c. 34), ss. 46(a), 118(1)(z1) (with s. 116))
+[^F11]: S. 6A inserted (7.10.1998) by S.I. 1998/2226, art. 3
+[^F12]: Word in s. 6A heading omitted (31.12.2020) by virtue of The Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/311), regs. 1(3), 4(2)(a); 2020 c. 1, Sch. 5 para. 1(1)
+[^F13]: Word in s. 6A(1) substituted (31.12.2020) by The Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/311), regs. 1(3), 4(2)(b); 2020 c. 1, Sch. 5 para. 1(1)
+[^F14]: Word in s. 6A(2) substituted (31.12.2020) by The Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/311), regs. 1(3), 4(2)(b); 2020 c. 1, Sch. 5 para. 1(1)
+[^F15]: Word in s. 6A(2)(b) substituted (31.12.2020) by The Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/311), regs. 1(3), 4(2)(c); 2020 c. 1, Sch. 5 para. 1(1)
+[^F16]: S. 6A(3) substituted (12.3.2019) by The Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/311), regs. 1(2), 2(2)
+[^F17]: S. 7(3)(b) substituted (20.4.2006) by The Transport and Works (Assessment of Environmental Effects) Regulations 2006 (S.I. 2006/958), regs. 1(1), 2(2)
+[^F18]: S. 8 substituted (1.9.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 36, 118(1)(u) (with s. 116); S.I. 2026/641, reg. 4(b)
+[^F19]: S. 9 omitted (18.2.2026) by virtue of Planning and Infrastructure Act 2025 (c. 34), ss. 37(1), 118(1)(v) (with ss. 37(3), 116)
+[^F20]: Words in s. 11(3) substituted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 38(2), 118(1)(v) (with s. 116)
+[^F21]: S. 11(3A) inserted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 38(3), 118(1)(v) (with ss. 38(4), 116)
+[^M3]: 1981 c. 67.
+[^F22]: Words in s. 11(4) inserted (1.4.1996) by 1994 c. 19, s. 22(1), Sch. 7 Pt. I, para. 34(1) (with ss. 54(5), 55(5), Sch. 17 paras. 22(1), 23(2)); S.I. 1996/396, art. 3, Sch. 1
+[^M4]: 1972 c. 70.
+[^F23]: S. 11(5)(za) inserted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 39(2), 118(1)(v) (with s. 116)
+[^F24]: S. 11(5A) inserted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 39(3), 118(1)(v) (with ss. 39(5), 116)
+[^F25]: Words in s. 11(6) inserted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 39(4), 118(1)(v) (with ss. 39(5), 116)
+[^F26]: S. 12(2) omitted (18.2.2026) by virtue of Planning and Infrastructure Act 2025 (c. 34), ss. 37(2)(b), 118(1)(v) (with ss. 37(3), 116)
+[^F27]: Words in s. 12(3)(b) inserted (25.6.2013) by Growth and Infrastructure Act 2013 (c. 27), ss. 25(9), 35(1); S.I. 2013/1488, art. 3(e) (with art. 8(3))
+[^F28]: Words in s. 12(3)(c) substituted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 41(4)(a), 118(1)(x) (with ss. 41(5), 116)
+[^M5]: 1945 c. 18 (9 & 10 Geo. 6).
+[^F29]: Word in s. 13 heading inserted (5.12.2017) by The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070), reg. 1(1), Sch. 3 para. 3(a) (with Sch. 6 paras. 9, 12) (which amendment is extended to S. (18.12.2025) by Planning and Infrastructure Act 2025 (c. 34), ss. 46(a), 118(1)(z1) (with s. 116))
+[^F30]: Words in s. 13(5) substituted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 41(4)(b), 118(1)(x) (with ss. 41(5), 116)
+[^F31]: S. 13(6) inserted (5.12.2017) by The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070), reg. 1(1), Sch. 3 para. 3(b) (with Sch. 6 paras. 9, 12) (which amendment is extended to S. (18.12.2025) by Planning and Infrastructure Act 2025 (c. 34), ss. 46(a), 118(1)(z1) (with s. 116))
+[^F32]: S. 13(7)(8) inserted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 40(2), 118(1)(w)(i) (with s. 116)
+[^F33]: Ss. 13A-13D inserted (5.12.2017) by The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070), reg. 1(1), Sch. 3 para. 4 (with Sch. 6 paras. 9, 12) (which amendment is extended to S. (18.12.2025) by Planning and Infrastructure Act 2025 (c. 34), ss. 46(a), 118(1)(z1) (with s. 116))
+[^F34]: Words in s. 13C(3) substituted (31.12.2020) by The Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/311), regs. 1(3), 4(3); 2020 c. 1, Sch. 5 para. 1(1) (which amendment is extended to S. (18.12.2025) by Planning and Infrastructure Act 2025 (c. 34), ss. 46(b), 118(1)(z1) (with s. 116))
+[^F35]: S. 14(1)(1A) substituted for s. 14(1) (5.12.2017) by The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070), reg. 1(1), Sch. 3 para. 5(2) (with Sch. 6 paras. 9, 12) (which amendment is extended to S. (18.12.2025) by Planning and Infrastructure Act 2025 (c. 34), ss. 46(a), 118(1)(z1) (with s. 116))
+[^F36]: S. 14(1)(b) and word substituted for s. 14(1)(b)(c) (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 41(2)(a), 118(1)(x) (with ss. 41(5), 116)
+[^F37]: S. 14(2)(2A) substituted for s. 14(2) (20.4.2006) by The Transport and Works (Assessment of Environmental Effects) Regulations 2006 (S.I. 2006/958), regs. 1(1), 2(4)
+[^F38]: Word in s. 14(2) substituted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 41(2)(b), 118(1)(x) (with ss. 41(5), 116)
+[^F39]: S. 14(2A) omitted (18.2.2026) by virtue of Planning and Infrastructure Act 2025 (c. 34), ss. 41(2)(c), 118(1)(x) (with ss. 41(5), 116)
+[^F40]: S. 14(3A-3D) inserted (1.8.1995) by S.I. 1995/1541, art. 2
+[^F41]: Words in s. 14(3A) substituted (5.12.2017) by The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070), reg. 1(1), Sch. 3 para. 5(3)(a) (with Sch. 6 paras. 9, 12) (which amendment is extended to S. (18.12.2025) by Planning and Infrastructure Act 2025 (c. 34), ss. 46(a), 118(1)(z1) (with s. 116))
+[^F42]: Word in s. 14(3A) substituted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 41(2)(d), 118(1)(x) (with ss. 41(5), 116)
+[^F43]: Words in s. 14(3A)(a) substituted (5.12.2017) by The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070), reg. 1(1), Sch. 3 para. 5(3)(b) (with Sch. 6 paras. 9, 12) (which amendment is extended to S. (18.12.2025) by Planning and Infrastructure Act 2025 (c. 34), ss. 46(a), 118(1)(z1) (with s. 116))
+[^F44]: S. 14(3AA)(3AB) substituted for s. 14(3AA) (5.12.2017) by The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070), reg. 1(1), Sch. 3 para. 5(4) (with Sch. 6 paras. 9, 12) (which amendment is extended to S. (18.12.2025) by Planning and Infrastructure Act 2025 (c. 34), ss. 46(a), 118(1)(z1) (with s. 116))
+[^F45]: S. 14(3AA) substituted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 41(2)(e), 118(1)(x) (with ss. 41(5), 116)
+[^F46]: Word in s. 14(3AB)(a)(i) substituted (31.12.2020) by The Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/311), regs. 1(3), 4(4); 2020 c. 1, Sch. 5 para. 1(1) (which amendment is extended to S. (18.12.2025) by Planning and Infrastructure Act 2025 (c. 34), ss. 46(b), 118(1)(z1) (with s. 116))
+[^F47]: S. 14(3B) omitted (5.12.2017) by virtue of The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070), reg. 1(1), Sch. 3 para. 5(5) (with Sch. 6 paras. 9, 12) (which amendment is extended to S. (18.12.2025) by Planning and Infrastructure Act 2025 (c. 34), ss. 46(a), 118(1)(z1) (with s. 116))
+[^F48]: S. 14(3D) omitted (5.12.2017) by virtue of The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070), reg. 1(1), Sch. 3 para. 5(6) (with Sch. 6 paras. 9, 12) (which amendment is extended to S. (18.12.2025) by Planning and Infrastructure Act 2025 (c. 34), ss. 46(a), 118(1)(z1) (with s. 116))
+[^F49]: S. 14(4)(4A) substituted for s. 14(4) (20.4.2006) by The Transport and Works (Assessment of Environmental Effects) Regulations 2006 (S.I. 2006/958), regs. 1(1), 2(5)
+[^F50]: Words in s. 14(4) substituted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 41(2)(f)(i), 118(1)(x) (with ss. 41(5), 116)
+[^F51]: Words in s. 14(4) omitted (18.2.2026) by virtue of Planning and Infrastructure Act 2025 (c. 34), ss. 41(2)(f)(ii), 118(1)(x) (with ss. 41(5), 116)
+[^F52]: Words in s. 14(7) inserted (1.4.1996) by 1994 c. 19, s. 22(1), Sch. 7 Pt. I, para. 34(2); S.I. 1996/396, art. 3, Sch. 1
+[^F53]: S. 14A inserted (E.W.) (2.2.2017) by The Housing and Planning Act 2016 (Compulsory Purchase) (Corresponding Amendments) Regulations 2017 (S.I. 2017/16), reg. 1(2), Sch. para. 5(1) (with Sch. para. 5(2))
+[^M6]: 1990 c. 8.
+[^M7]: 1990 c. 9.
+[^M8]: 1990 c. 10.
+[^M9]: 1949 c. 74.
+[^F54]: S. 19A inserted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 44(1), 118(1)(z) (with ss. 44(2), 116)
+[^F55]: Words in s. 20(2) omitted (18.2.2026) by virtue of Planning and Infrastructure Act 2025 (c. 34), ss. 45(1)(a), 118(1)(z) (with ss. 45(2), 116)
+[^F56]: S. 20(3) omitted (2.7.2012) by virtue of The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659), art. 1(2), Sch. 3 para. 12(3) (with arts. 4-6)
+[^F57]: S. 20(4) inserted (3.7.2000) by 1999 c. 29, s. 168(1)(3) (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2(2)(c), Sch. Pt. 3
+[^F58]: S. 20(5) inserted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 45(1)(b), 118(1)(z) (with ss. 45(2), 116)
+[^M10]: 1962 c. 46.
+[^M11]: 1984 c. 32.
+[^F59]: Word in s. 22(1)(b) substituted (1.11.2007) by Tribunals, Courts and Enforcement Act 2007 (c. 15), s. 148, Sch. 8 para. 21; S.I. 2007/2709, art. 3(b)(i)
+[^F60]: Words in s. 22(1) substituted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 41(3), 118(1)(x) (with ss. 41(5), 116)
+[^F61]: Word in s. 22(2)(b) substituted (1.11.2007) by Tribunals, Courts and Enforcement Act 2007 (c. 15), s. 148, Sch. 8 para. 21; S.I. 2007/2709, art. 3(b)(i)
+[^M12]: 1971 c. 62.
+[^F62]: Word in s. 23(9) substituted (1.11.2007) by Tribunals, Courts and Enforcement Act 2007 (c. 15), s. 148, Sch. 8 para. 22(2)(a); S.I. 2007/2709, art. 3(b)(i)
+[^F63]: Words in s. 23(9) substituted (1.11.2007) by Tribunals, Courts and Enforcement Act 2007 (c. 15), s. 148, Sch. 8 para. 22(2)(b); S.I. 2007/2709, art. 3(b)(i)
+[^F64]: S. 23(9A) omitted (19.9.2013) by virtue of The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042), art. 1(2), Sch. para. 9
+[^F65]: Words in s. 23(10) substituted (25.11.2002) by The Transfer of Functions (Transport, Local Government and the Regions) Order 2002 (S.I. 2002/2626), art. 20, Sch. 2 para. 20(a)
+[^F66]: Words in s. 23(10) substituted (30.10.2024) by The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991), art. 1(2), Sch. para. 6 (with art. 7)
+[^F67]: Words in s. 23(10) substituted (3.5.2023) by The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424), art. 1(2), Sch. para. 7 (with art. 17)
+[^M13]: 1967 c. 13.
+[^F68]: S. 23(10)(a)(b) substituted (25.11.2002) for s. 23(10)(a) by The Transfer of Functions (Transport, Local Government and the Regions) Order 2002 (S.I. 2002/2626), art. 20, Sch. 2 para. 20(b)
+[^F69]: S. 23A inserted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 42, 118(1)(x) (with s. 116)
+[^M14]: 1936 c. 52.
+[^F70]: Words in s. 25(3)(b) inserted (1.4.2017) by The Crown Estate Transfer Scheme 2017 (S.I. 2017/524), art. 1(2), Sch. 5 para. 25(a)
+[^F71]: S. 25(3A) inserted (1.4.2017) by The Crown Estate Transfer Scheme 2017 (S.I. 2017/524), art. 1(2), Sch. 5 para. 25(b)
+[^F72]: S. 30(1) repealed (1.1.2006) by Serious Organised Crime and Police Act 2005 (c. 15), s. 178(8), Sch. 7 para. 29, Sch. 17 Pt. 2; S.I. 2005/3495, art. 2(1)(m)(u)
+[^F73]: S. 30(3) repealed (1.1.2006) by Serious Organised Crime and Police Act 2005 (c. 15), s. 178(8), Sch. 7 para. 29, Sch. 17 Pt. 2; S.I. 2005/3495, art. 2(1)(m)(u)
+[^F74]: S. 31(2) substituted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 4(2); S.I. 2015/994, art. 4
+[^F75]: Word in s. 31(4)(b) repealed (4.7.1996) (but with effect (1.4.1997) as mentioned in s. 63(3)) by 1996 c. 25, ss. 63(2)(3), 80, Sch. 5 para. 2 Table 5 (with s. 78(1)); S.I. 1997/682, art. 2
+[^F76]: S. 31(4)(bb) inserted (4.7.1996) (but with effect (1.4.1997) as mentioned in s. 63(3)) by 1996 c. 25, ss. 63(2)(3) (with s. 78(1)); S.I. 1997/682, art. 2
+[^F77]: Words in s. 31(4)(c) inserted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 6(a); S.I. 2015/994, art. 4
+[^F78]: Words in s. 31(6) substituted (1.4.2003) by Police Reform Act 2002 (c. 30), ss. 58(1), 108(2); S.I. 2003/808, art. 2(e)
+[^F79]: S. 31(6A) inserted (1.4.2003) by Police Reform Act 2002 (c. 30), ss. 58(2), 108(2); S.I. 2003/808, art. 2(e)
+[^F80]: S. 31(7A) inserted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 4(3); S.I. 2015/994, art. 4
+[^F81]: S. 31(9A) omitted (10.4.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 6(b); S.I. 2015/994, art. 4
+[^F82]: S. 31(9B) omitted (10.4.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 6(b); S.I. 2015/994, art. 4
+[^F83]: S. 31(9C) omitted (10.4.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 6(b); S.I. 2015/994, art. 4
+[^F84]: S. 31A inserted (1.10.2002) by Police Reform Act 2002 (c. 30), s. 58(4); S.I. 2002/2306, art. 2(d)(v)
+[^F85]: Words in s. 31A(1) substituted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 12(2); S.I. 2015/994, art. 4
+[^F86]: Words in s. 31A(2)(a) substituted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 12(2); S.I. 2015/994, art. 4
+[^F87]: Words in s. 31A(2)(b) substituted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 12(3); S.I. 2015/994, art. 4
+[^F88]: Words in s. 31A(2)(b)(i) substituted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 12(4); S.I. 2015/994, art. 4
+[^F89]: Word in s. 31A(2)(b)(ii) omitted (10.4.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 12(5); S.I. 2015/994, art. 4
+[^F90]: Words in s. 31A(3) substituted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 12(6); S.I. 2015/994, art. 4
+[^F91]: S. 31A(7) substituted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 12(7); S.I. 2015/994, art. 4
+[^F92]: S. 32 heading substituted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 2(2); S.I. 2015/994, art. 4
+[^F93]: S. 32(2)-(4) omitted (10.4.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 2(1); S.I. 2015/994, art. 4
+[^F94]: S. 33(1A)(2) substituted (1.10.2002) for s. 33(2) by Police Reform Act 2002 (c. 30), s. 58(5); S.I. 2002/2360, art. 2(d)(v)
+[^F95]: Words in s. 34(1)(a) inserted (1.10.2002) by Police Reform Act 2002 (c. 30), s. 58(6); S.I. 2002/2306, art. 2(d)(v)
+[^F96]: Words in s. 34(2)(a) inserted (1.10.2002) by Police Reform Act 2002 (c. 30), s. 58(7); S.I. 2002/2306, art. 2(d)(v)
+[^F97]: S. 34(3A) inserted (1.10.2002) by virtue of Police Reform Act 2002 (c. 30), s. 58(8); S.I. 2002/2306, art. 2(d)(v)
+[^F98]: Words in s. 35(3) inserted (1.4.2003) by virtue of Police Reform Act 2002 (c. 30), ss. 58(9), 108(2); S.I. 2003/808, art. 2(e)
+[^F99]: Words in s. 35(7) inserted (28.6.2022) by Judicial Review and Courts Act 2022 (c. 35), s. 51(3), Sch. 1 para. 12
+[^M15]: 1984 c. 30.
+[^M16]: 1956 c. 30.
+[^F100]: S. 38(2A)-(2C) inserted (1.10.2002 for specified purposes, 1.4.2003 in so far as not already in force) by Police Reform Act 2002 (c. 30), ss. 58(10), 108(2); S.I. 2002/2306, art. 4(d); S.I. 2003/808, art. 2(e)
+[^F101]: S. 38(5) substituted (1.4.2003) by Police Reform Act 2002 (c. 30), ss. 58(11), 108(2); S.I. 2003/808, art. 2(e)
+[^F102]: Words in s. 38(5)(b) omitted (10.4.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 13; S.I. 2015/994, art. 4
+[^M17]: 1988 c. 52.
+[^F103]: S. 40 repealed (1.1.2006) by Serious Organised Crime and Police Act 2005 (c. 15), s. 178(8), Sch. 17 Pt. 2; S.I. 2005/3495, art. 2(1)(u)
+[^F104]: Words in s. 41(1) substituted (1.4.2006) by The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557), reg. 1, Sch. para. 1(2)(a)
+[^F105]: Words in s. 41(2)(c) substituted (1.4.2006) by The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557), reg. 1, Sch. para. 1(2)(b)
+[^F106]: Words in s. 41(3) substituted (1.4.2006) by The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557), reg. 1, Sch. para. 1(2)(c)(i)
+[^F107]: Word in s. 41(3) substituted (1.4.2006) by The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557), reg. 1, Sch. para. 1(2)(c)(ii)
+[^F108]: Words in s. 41(7) inserted (1.4.2006) by The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557), reg. 1, Sch. para. 1(2)(d)
+[^F109]: S. 42 repealed (10.5.1997) by S.I. 1997/553, art. 12(1), Sch. Pt. I
+[^F110]: S. 43 repealed (1.4.1996) by S.I. 1995/3163, reg. 14(1)
+[^F111]: S. 44 repealed (1.4.1996) by S.I. 1995/3163, reg. 14(1)
+[^F112]: S. 45: transfer of powers (10.5.1997) by S.I. 1997/553, reg. 10(1)(a)
+[^F113]: Words in s. 45(1) substituted (1.4.2006) by The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557), reg. 1, Sch. para. 1(3)(a)
+[^F114]: Words in s. 45(4) substituted (1.4.2006) by The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557), reg. 1, Sch. para. 1(3)(b)(i)
+[^F115]: Word in s. 45(4) substituted (1.4.2006) by The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557), reg. 1, Sch. para. 1(3)(b)(ii)
+[^F116]: S. 45(7)(8) inserted (1.4.2006) by The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557), reg. 1, Sch. para. 1(3)(c)
+[^M18]: 1980 c. 66.
+[^F117]: Words in s. 47(2) substituted (2.5.2006 for E., 11.5.2006 for W.) by The Restricted Byways (Application and Consequential Amendment of Provisions) Regulations 2006 (S.I. 2006/1177), reg. 1(2)(4), Sch. Pt. I (see S.I. 2006/1172, art. 2(a)-(d) (with art. 3) and S.I. 2006/1279, art. 2(a)-(d) (with art. 3))
+[^F118]: S. 47(3) inserted (E.W.) (2.5.2006 for E., 11.5.2006 for W.) by The Restricted Byways (Application and Consequential Amendment of Provisions) Regulations 2006 (S.I. 2006/1177), reg. 1(2)(4), Sch. Pt. I (see S.I. 2006/1172, art. 2(a)-(d) (with art. 3) and S.I. 2006/1279, art. 2(a)-(d) (with art. 3))
+[^F119]: Words in s. 48 sidenote substituted (2.5.2006 for E., 11.5.2006 for W.) by The Restricted Byways (Application and Consequential Amendment of Provisions) Regulations 2006 (S.I. 2006/1177), reg. 1(2)(4), Sch. Pt. I (see S.I. 2006/1172, art. 2(a)-(d) (with art. 3) and S.I. 2006/1279, art. 2(a)-(d) (with art. 3))
+[^F120]: Words in s. 48(1)(a) substituted (2.5.2006 for E., 11.5.2006 for W.) by The Restricted Byways (Application and Consequential Amendment of Provisions) Regulations 2006 (S.I. 2006/1177), reg. 1(2)(4), Sch. Pt. I (see S.I. 2006/1172, art. 2(a)-(d) (with art. 3) and S.I. 2006/1279, art. 2(a)-(d) (with art. 3))
+[^M19]: 1980 c. 66.
+[^F121]: S. 48: words inserted into definition (1.4.1996) by 1994 c. 19, s. 22(1), Sch. 7 Pt. I para. 34(3) (with ss. 54(5), 55(5), Sch. 17 paras. 22(1), 23(2)); S.I. 1996/396, art. 3 Sch. 1
+[^F122]: Words in s. 48(8) inserted (E.W.) (2.5.2006 for E., 11.5.2006 for W.) by The Restricted Byways (Application and Consequential Amendment of Provisions) Regulations 2006 (S.I. 2006/1177), reg. 1(2)(4), Sch. Pt. I (see S.I. 2006/1172, art. 2(a)-(d) (with art. 3) and S.I. 2006/1279, art. 2(a)-(d) (with art. 3))
+[^M20]: 1845 c. 20.
+[^M21]: 1845 c. 33.
+[^F123]: S. 50 repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 14
+[^M22]: 1983 c. 16.
+[^F124]: Words in s. 53(6) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 243 (with Sch. 5)
+[^F125]: Words in s. 54(3)(b) inserted (20.5.1999) by S.I. 1999/1042, art. 4, Sch. 2 Pt. I para. 9
+[^M23]: 1988 c. 36.
+[^M24]: 1981 c. 14.
+[^M25]: 1869 c. 115.
+[^F126]: S. 62(2) repealed (1.6.2003) by Private Hire Vehicles (London) Act 1998 (c. 34), s. 40(2), Sch. 2 (with s. 29); S.I. 2003/580, arts. 1(2), 2(2)(b)
+[^M26]: 1976 c. 57.
+[^M27]: 1964 c. 40.
+[^M28]: 1966 c. 28.
+[^M29]: 1949 c. 74.
+[^M30]: 1980 c. 66.
+[^M31]: 1861 c. 45.
+[^M32]: 1870 c. 78.
+[^M33]: 1887 c. 65.
+[^M34]: 1903 c. 30.
+[^M35]: 1915 c. 48.
+[^M36]: 1986 c. 45.
+[^M37]: 1949 c. 74.
+[^M38]: 1951 c. 30.
+[^M39]: 1978 c. 30.
+[^M40]: 1980 c. 66.
+[^M41]: 1984 c. 54.
+[^M42]: 1964 c. 40.
+[^M43]: 1991 c. 22.
+[^M44]: 1894 c. 28.
+[^M45]: 1982 c. 16.
+[^M46]: 1980 c. 66.
+[^M47]: 1964 c. 40.
+[^F127]: Sch. 3 para. 5(4) repealed (S.) (28.12.2007) by Transport and Works (Scotland) Act 2007 (asp 8), s. 30(4), sch. 3; S.S.I. 2007/516, art. 2

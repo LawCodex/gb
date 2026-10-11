@@ -1,0 +1,6641 @@
+---
+title: "Local Audit and Accountability Act 2014"
+identifier: "ukpga/2014/2"
+citation: "2014 c. 2"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2014-01-30
+last_amended: 2026-09-30
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2014/2"
+source_modified: 2026-09-29
+retrieved: 2026-10-11
+---
+
+# Local Audit and Accountability Act 2014
+
+**2014 c. 2**
+
+An Act to make provision for and in connection with the abolition of the Audit Commission for Local Authorities and the National Health Service in England; to make provision about the accounts of local and certain other public authorities and the auditing of those accounts; to make provision about the appointment, functions and regulation of local auditors; to make provision about data matching; to make provision about examinations by the Comptroller and Auditor General relating to English local and other public authorities; to make provision about the publication of information by smaller authorities; to make provision about compliance with codes of practice on local authority publicity; to make provision about access to meetings and documents of local government bodies; to make provision about council tax referendums; to make provision about polls consequent on parish meetings; and for connected purposes.
+
+[30th January 2014]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — Abolition of existing audit regime
+
+### 1 Abolition of existing audit regime
+
+(1) The Audit Commission ceases to exist.
+
+(2) The Audit Commission Act 1998 is repealed.
+
+(3) Schedule 1 (abolition of Audit Commission: supplementary provision) has effect.
+
+(4) In that Schedule—
+
+(a) Part 1 makes some arrangements in connection with the abolition of the Audit Commission, and
+
+(b) Part 2 contains consequential repeals and revocations of Acts and instruments that amend the Audit Commission Act 1998.
+
+(5) In this section and that Schedule “the Audit Commission” means the Audit Commission for Local Authorities and the National Health Service in England.
+
+## [[^F1]Part 1A — The Local Audit Office
+
+### 1A Establishment and constitution
+
+(1) A body corporate called the Local Audit Office is established.
+
+(2) Schedule 1A makes provision about the Office, including provision about its constitution and proceedings.
+
+### 1B Main objective
+
+(1) The main objective of the Local Audit Office in performing its functions is to secure the effective operation of the system of audit established by this Act, with a view to meeting the needs of users of the audited accounts.
+
+(2) That includes, in particular, securing—
+
+(a) that audits under this Act are carried out to a high standard, and
+
+(b) that there is a suitable range of persons able and willing to carry out such audits.
+
+### 1C Financial matters
+
+(1) The Secretary of State may pay grants to the Local Audit Office.
+
+(2) The Office must, on request by the Secretary of State, provide estimates of its income and expenditure.
+
+(3) The Office may charge a person a fee for the exercise in relation to that person of any of its functions that is not the subject of more specific provision about fees.
+
+(4) That includes functions under—
+
+(a) an agreement under section 6B(5)(a), or
+
+(b) rules or arrangements made for the purposes of Schedule 1C.
+
+(5) A fee charged by the Office (under subsection (3) or otherwise) need not be calculated by reference to the cost of doing the thing to which the fee relates.
+
+(6) But the Office must set its fees with a view to securing that, over time, its income from fees is broadly equivalent to such of its expenditure as is not met by way of grant from the Secretary of State.
+
+(7) In subsection (6)—
+
+(a) the reference to fees includes other sums payable to the Office by agreement (see in particular section 6B(5)(b)), and
+
+(b) the reference to setting fees includes agreeing fees and other sums so payable.
+
+(8) Subsection (9) applies to any sum received by the Office by way of penalty under—
+
+(a) paragraph 3 of Schedule 1B (penalties against external registration body), or
+
+(b) arrangements made for the purposes of paragraph 10 of Schedule 1C (penalties against registered local audit provider),
+
+including any interest.
+
+(9) The Office—
+
+(a) must pay the sum to the Secretary of State, but
+
+(b) may deduct any costs incurred by it in connection with the imposition or enforcement of the penalty, so far as those costs are not otherwise recoverable.
+
+### 1D Oversight and intervention by Secretary of State
+
+(1) The Local Audit Office must exercise its functions in accordance with any direction, and having regard to any guidance, given to it by the Secretary of State.
+
+(2) The Office must comply with any written request by the Secretary of State to be provided with information about the exercise of the Office’s functions.
+
+(3) Such a request may cover information about the exercise of functions after the request is made.
+
+(4) No direction, guidance or request under this section may relate to the exercise of functions in relation to a particular relevant authority.
+
+(5) The Secretary of State must—
+
+(a) consult the Local Audit Office before giving any direction or guidance under this section, and
+
+(b) publish any direction or guidance given under this section.]
+
+## Part 2 — Basic concepts and requirements
+
+### 2 Relevant authorities
+
+(1) In this Act “relevant authority” means a person or body listed in Schedule 2.
+
+(2) The application of this Act to a relevant authority is subject to any note forming part of the entry for that authority in Schedule 2.
+
+(3) The Secretary of State may by regulations amend Schedule 2 by adding, modifying or removing an entry relating to a relevant authority.
+
+(4) Regulations under subsection (3) may add an entry relating to a person or body to Schedule 2 only if that person or body exercises functions of a public nature in relation to an area which is—
+
+(a) wholly in England, or
+
+(b) partly in England and partly in Wales.
+
+(5) The Secretary of State may by regulations or order make provision about the application of this Act or provision made under it to a person or body that comes to fall within Schedule 2 (whether or not as a result of regulations under subsection (3)).
+
+(6) The power in subsection (5) includes power—
+
+(a) to amend this Act or provision made under it in its application to that person or body, or
+
+(b) to make provision for this Act or provision made under it to apply to that person or body with modifications.
+
+### 3 General requirements for accounts
+
+(1) A relevant authority, other than a health service body, must keep adequate accounting records.
+
+(2) “Adequate accounting records” means records that are sufficient—
+
+(a) to show and explain the relevant authority's transactions,
+
+(b) to disclose at any time, with reasonable accuracy, the financial position of the authority at that time, and
+
+(c) to enable the authority to ensure that any statements of accounts required to be prepared by the authority comply with the requirements imposed by or under this Act.
+
+(3) A relevant authority, other than a health service body, must prepare a statement of accounts in respect of each financial year.
+
+(4) In this Act “financial year” means a period of 12 months ending with 31 March.
+
+(5) The Secretary of State may by regulations—
+
+(a) make provision for the financial year of a relevant authority, other than a health service body, for the purposes of this Act to be such period as is specified in the regulations;
+
+(b) make provision for any requirement in this section not to apply, or to apply with modifications, in relation to the relevant authorities, other than health service bodies, specified or described in the regulations.
+
+(6) Regulations under subsection (5)(a) may—
+
+(a) amend this Act or provision made under it in its application to a relevant authority to which the regulations apply, or
+
+(b) provide for this Act or provision made under it to apply in relation to such a relevant authority with modifications.
+
+(7) Regulations under subsection (5)(a) may make provision in relation to—
+
+(a) all relevant authorities (other than health service bodies);
+
+(b) the relevant authorities specified or described in the regulations.
+
+(8) Section 32 enables the Secretary of State by regulations to make further provision about accounting records and statements of accounts.
+
+[[^F2](9) In this Act “health service body” means—
+
+(a) an integrated care board;
+
+(b) an NHS trust all or most of whose hospitals, establishments and facilities are situated in England.]
+
+### 4 General requirements for audit
+
+(1) The accounts of a relevant authority for a financial year must be audited—
+
+(a) in accordance with this Act and provision made under it, and
+
+(b) by an auditor (a “local auditor”) appointed in accordance with this Act or provision made under it.
+
+(2) In this Act, references to accounts are to be construed in accordance with the following subsections.
+
+(3) In relation to a relevant authority which is not a health service body, “accounts” means—
+
+(a) the authority's accounting records, and
+
+(b) the authority's statement of accounts.
+
+[[^F3](4) In relation to an integrated care board, “accounts” means—
+
+(a) the annual accounts of the board prepared under paragraph 22(2) of Schedule 1B to the National Health Service Act 2006 (accounts and audit of integrated care boards);
+
+(b) any accounts of the board prepared under paragraph 22(3) of that Schedule in respect of which a direction has been given under paragraph 22(6) of that Schedule.]
+
+[^F4]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F5](6) In relation to an NHS trust, “accounts” means the annual accounts prepared under paragraph 11A of Schedule 4 to the National Health Service Act 2006.]
+
+### 5 Modification of Act in relation to [[^F6]category 2] authorities
+
+(1) The Secretary of State may by regulations make provision about the audit of the accounts of [[^F6]category 2] authorities.
+
+(2) Regulations under subsection (1) may, in particular, provide for any provision of or made under this Act not to apply, or to apply with modifications, in relation to [[^F6]category 2] authorities.
+
+(3) Subsection (2) applies to a provision of or made under this Act even if it makes specific provision about a [[^F6]category 2] authority to which the regulations apply.
+
+(4) Regulations under subsection (1) may, in particular—
+
+(a) provide for the appointment, by a person specified by the Secretary of State, of a local auditor in relation to the audit of the accounts of a [[^F6]category 2] authority;
+
+(b) make provision about the persons that may be specified by the Secretary of State;
+
+(c) make provision about the procedure for specifying a person and for a person's specification to come to an end in specified circumstances;
+
+(d) make provision about the consequences of a person's specification coming to an end, including for the exercise of functions by the Secretary of State and the transfer of the person's rights and liabilities arising by virtue of the regulations to the Secretary of State or another specified person;
+
+(e) confer functions on a specified person, including in relation to—
+
+(i) the appointment of local auditors under the regulations,
+
+(ii) the activities of such auditors, and
+
+(iii) the resignation or removal from office of such auditors;
+
+(f) require a specified person to consult such persons as are specified in the regulations before exercising specified functions;
+
+(g) make provision for the appointment of a local auditor in relation to the accounts of a [[^F6]category 2] authority to which arrangements within paragraph (a) apply where the specified person does not make an appointment under the regulations (and in particular for such an appointment to be made by the authority or the Secretary of State).
+
+(5) Regulations under subsection (1) may, in particular—
+
+(a) make provision about the [[^F6]category 2] authorities to which arrangements within subsection (4)(a) apply, including provision for them to apply to an authority that has opted into them or has not opted out of them;
+
+(b) make provision about the procedures to be followed in relation to opting into or out of those arrangements;
+
+(c) impose duties on [[^F6]category 2] authorities to which those arrangements apply, including duties as to—
+
+(i) the payment of fees to a specified person, and
+
+(ii) the provision of information to a specified person;
+
+(d) make provision for the making of payments, in specified circumstances and by the [[^F6]category 2] authorities to which those arrangements apply, to a fund of a specified kind for the purposes of meeting local auditors' costs of a specified kind.
+
+(6) Provision made by regulations under subsection (1) by virtue of subsection (5)(c)(i) may, in particular—
+
+(a) provide for fees to be paid in accordance with a scale or scales of fees determined by a specified person, and
+
+(b) provide for the payment in specified circumstances of a larger or smaller fee than is set out in the appropriate scale.
+
+(7) Regulations under subsection (1) may, in particular—
+
+(a) make provision about the eligibility of a person to be appointed as a local auditor of the accounts of a [[^F6]category 2] authority;
+
+(b) make provision about the functions of a local auditor in relation to the accounts of a [[^F6]category 2] authority.
+
+(8) Regulations under subsection (1) may, in particular—
+
+(a) provide that, in specified circumstances, the accounts of a [[^F6]category 2] authority of a specified description are to be exempt from specified audit requirements;
+
+(b) make provision for an exemption under paragraph (a) not to apply or to cease to apply to an authority in specified circumstances.
+
+(9) In this section “specified” (except in the expressions “person specified by the Secretary of State” and “specified person”) means specified in regulations under subsection (1).
+
+### 6 Meaning of “[[^F7]category 2] authority”
+
+(1) For the purposes of section 5, a relevant authority is a “[[^F7]category 2] authority” for a financial year if—
+
+(a) where that year is the year in which the authority was established, the qualifying condition is met for that year,
+
+(b) where that year is the year following that in which the authority was established, the qualifying condition is met for that year or the previous year, and
+
+(c) where that year is the second or any subsequent year following that in which the authority was established, the qualifying condition is met for that year or either of the two previous years.
+
+[[^F8](2) The qualifying condition is met for a relevant authority and a financial year—
+
+(a) beginning on or before 1st April 2024, if the higher of the authority’s gross income for the year and its gross expenditure for the year does not exceed £6.5 million;
+
+(b) beginning on or after 1st April 2025, if the higher of the authority’s gross income for the year and its gross expenditure for the year does not exceed £15 million.]
+
+(3) For the purpose of determining, at a time when a relevant authority's gross income or expenditure for a financial year cannot be accurately determined, whether subsection (2) applies or will apply to the authority, that subsection is to be read as referring to the authority's estimated gross income or expenditure (as the case may be).
+
+(4) The Secretary of State may by regulations make provision about the application of this Act (including in its application by virtue of section 5) or any provision made under it in a case where—
+
+(a) an authority is treated as a [[^F7]category 2] authority for a financial year, and
+
+(b) the authority was not in fact a [[^F7]category 2] authority for that year.
+
+(5) The Secretary of State may by regulations amend this section.
+
+## [[^F9]Part 2A — Providers of audit services
+
+### 6A Local audit register
+
+(1) The Local Audit Office must secure that there is at least one public register of individuals and firms who are (by virtue of their registration) entitled to carry out audits in accordance with this Act.
+
+(2) It may do so by—
+
+(a) keeping a register itself, or
+
+(b) designating another body as an external registration body (see section 6B).
+
+(3) An external registration body must keep a register meeting the description in subsection (1).
+
+(4) In this Act—
+
+- “local audit register” means a register kept in accordance with this section;
+- “registered local audit provider” means an individual or firm that is registered in a local audit register.
+
+(5) Fees may be charged in respect of—
+
+(a) applications for registration in a local audit register;
+
+(b) entry in such a register;
+
+(c) remaining in such a register.
+
+### 6B External registration bodies
+
+(1) The Local Audit Office may designate a body as an external registration body only if—
+
+(a) the body consents, and
+
+(b) the Office is satisfied that—
+
+(i) the body is able and willing to co-operate with the Office in pursuit of the objective set out in section 1B,
+
+(ii) the body is able and willing to promote and maintain high standards of integrity in the conduct of audits under this Act, and
+
+(iii) the rules and arrangements of the body that will have effect in relation to registered local audit providers and lead partners (see in particular Schedule 1C) will be fair, reasonable, and fit for purpose.
+
+(2) The Office—
+
+(a) may revoke the designation of an external registration body, and
+
+(b) must do so if no longer satisfied of the matters set out in subsection (1)(b), unless it considers that the body is likely to satisfy it of those matters again within a reasonable period.
+
+(3) The making or revocation of a designation is to be done by written notice to the body in question; and the Office must publish such a notice.
+
+(4) The making or revocation is to have effect from the time specified in the notice.
+
+(5) The Local Audit Office and an external registration body, or a body that anticipates becoming an external registration body, may enter into an agreement about—
+
+(a) how the body is to carry out its functions as an external registration body;
+
+(b) fees, costs or other sums that are to be paid by the body to the Office;
+
+(c) circumstances in which the Office will or will not exercise its power under subsection (2)(a);
+
+(d) procedures to be followed in order for the Office to reach a decision whether to exercise that power or whether its duty under subsection (2)(b) is engaged.
+
+(6) Fees charged by an external registration body under section 6A(5) may be calculated by reference to any costs borne by the body as a result of this Act.
+
+(7) Schedule 1B makes further provision about external registration bodies, including provision for the enforcement of their duties.
+
+### 6C Eligibility and regulation of registered providers
+
+(1) The body that keeps a local audit register must comply with the requirements of Schedule 1C (which sets out requirements in connection with the register, including requirements about eligibility for registration and the regulation of registered providers).
+
+(2) The requirements of Schedule 1C do not limit the ability of the body to have in place rules or arrangements going beyond those requirements (whether relating to the same or different subject matter).
+
+(3) An agreement under section 6B(5)(a) may, accordingly, include terms supplementing those requirements or imposing additional requirements.
+
+### 6D Professional qualifications
+
+In Schedule 1D—
+
+(a) Part 1 sets out certain requirements as to professional qualification referred to in Schedule 1C, and
+
+(b) Part 2 makes provision about bodies offering qualifications referred to in Part 1.
+
+### 6E Powers of Local Audit Office to facilitate provision by firms
+
+The Local Audit Office may—
+
+(a) form a firm,
+
+(b) acquire interests in a firm, or
+
+(c) give assistance (financial or otherwise) to a firm,
+
+with a view to the firm becoming, or remaining, a registered local audit provider that carries out audits under this Act.
+
+### 6F Scrutiny of Local Audit Office as audit provider
+
+(1) This section applies if the Local Audit Office decides that it is to carry out audits under this Act.
+
+(2) The Office must put in place arrangements under which its audit practice will be monitored, inspected and reported on by persons acting independently of the Office.
+
+(3) The Office must send to the Secretary of State reports made to it under the arrangements.]
+
+## Part 3 — Appointment etc of local auditors
+
+### 7 Appointment of local auditor
+
+(1) A relevant authority must appoint a local auditor to audit its accounts for a financial year not later than 31 December in the preceding financial year.
+
+(2) A relevant authority may appoint a local auditor to audit its accounts for more than one financial year; and in such a case—
+
+(a) subsection (1) does not apply in relation to the second or any subsequent year for which the appointment is made, but
+
+(b) the authority must make a further appointment of a local auditor at least once every 5 years.
+
+(3) Subsection (2)(b) does not prevent the relevant authority from re-appointing a local auditor.
+
+(4) The Secretary of State may by regulations amend subsection (2)(b) so as to alter the period for the time being specified in it.
+
+(5) A local auditor appointed under this section—
+
+(a) must be eligible for appointment as a local auditor (see Part 4), and
+
+(b) must not be prohibited from acting as a local auditor of the accounts of the relevant authority by virtue of section 1214 of the Companies Act 2006 (independence requirement) as it has effect by virtue of Schedule 5.
+
+(6) Two or more local auditors may be appointed to audit the accounts of a relevant authority, and those auditors may be appointed—
+
+(a) to act jointly in relation to some or all parts of the accounts;
+
+(b) to act separately in relation to different parts of the accounts;
+
+(c) to carry out different functions in relation to the audit.
+
+(7) If, as a result of an appointment under subsection (6)(b) or (c), a function under this Act may be exercised by two or more local auditors—
+
+(a) it may be exercised by both or all of them acting jointly or by such one or more of them as they may determine, and
+
+(b) references (however expressed) to the local auditor by whom the function is or has been exercised are to the auditors by whom it is or has been exercised.
+
+[^F10]8 [^F10]Schedule 3 makes further provision about the appointment of local auditors; and this section is subject to that Schedule and provision made under it.
+
+[[^F10](8) The Secretary of State may by regulations make provision about the appointment of a local auditor to audit the accounts of a health service body which is specified, or of a description specified, in the regulations.
+
+(9) Regulations under subsection (8) may, in particular—
+
+(a) make further provision about the operation of this Act or any provision made under it in relation to a health service body to which the regulations apply;
+
+(b) provide for any provision of or made under this Act not to apply, or to apply with modifications, in relation to a health service body to which the regulations apply.]
+
+### 8 Procedure for appointment
+
+(1) A relevant authority must consult and take into account the advice of its auditor panel on the selection and appointment of a local auditor under section 7.
+
+(2) The relevant authority must, within the period of 28 days beginning with the day on which the appointment is made, publish a notice that—
+
+(a) states that it has made the appointment,
+
+(b) identifies the local auditor that has been appointed,
+
+(c) specifies the period for which the local auditor has been appointed,
+
+(d) sets out the advice, or a summary of the advice, of its auditor panel about the selection and appointment of a local auditor, and
+
+(e) if it has not followed that advice, sets out the reasons why it has not done so.
+
+(3) The notice must be published—
+
+(a) if the relevant authority has a website, on its website;
+
+(b) otherwise, in accordance with subsection (4).
+
+(4) A relevant authority publishes a notice in accordance with this subsection if—
+
+(a) in the case of a relevant authority other than a health service body, it publishes the notice in such manner as it thinks is likely to bring the notice to the attention of persons who live in its area;
+
+[[^F11](b) in the case of an integrated care board, it publishes the notice in such manner as it thinks is likely to bring the notice to the attention of—
+
+(i) the group of people for whom it has core responsibility, and
+
+(ii) anyone who lives within its area but does not fall within sub-paragraph (i)]
+
+[^F12]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F13](d) in the case of an NHS trust, it publishes the notice in such manner as it thinks is likely to bring the notice to the attention of persons to whom the trust provides services for the purposes of the health service in England.]
+
+(5) The relevant authority must exclude from the notice information whose disclosure would prejudice commercial confidentiality, unless there is an overriding public interest in favour of its disclosure.
+
+(6) This section is subject to Schedule 3 (further provision about appointment of local auditors) and provision made under it.
+
+### 9 Requirement to have auditor panel
+
+(1) Each relevant authority must have an auditor panel to exercise the functions conferred on auditor panels by or under this Act.
+
+(2) This section does not apply to—
+
+(a) a chief constable, or
+
+(b) the Commissioner of Police of the Metropolis.
+
+(3) Schedule 4 makes further provision about auditor panels.
+
+### 10 Functions of auditor panel
+
+(1) A relevant authority's auditor panel must advise the authority on the maintenance of an independent relationship with the local auditor appointed to audit its accounts.
+
+(2) Advice under subsection (1) to a police and crime commissioner for an area must include advice on the maintenance of an independent relationship between the local auditor and the chief constable for the area.
+
+(3) Advice under subsection (1) to the Mayor's Office for Policing and Crime must include advice on the maintenance of an independent relationship between the local auditor and the Commissioner of Police of the Metropolis.
+
+(4) A relevant authority's auditor panel must advise the authority on the selection and appointment of a local auditor to audit its accounts.
+
+(5) Advice under subsection (1) or (4) must be given—
+
+(a) if the relevant authority asks for it, and
+
+(b) at other times, if the auditor panel thinks it is appropriate to do so.
+
+(6) A relevant authority's auditor panel must advise the authority on any proposal by the authority to enter into a liability limitation agreement (see section 14).
+
+(7) Advice under subsection (6) must be given if the authority asks for it.
+
+(8) The Secretary of State may by regulations—
+
+(a) provide more details about an auditor panel's functions under any of subsections (1) to (7);
+
+(b) confer or impose other functions on a relevant authority's auditor panel in relation to the audit of the authority's accounts;
+
+(c) enable a relevant authority to confer or impose other functions on its auditor panel in relation to the audit of its accounts.
+
+(9) A relevant authority must publish advice from its auditor panel in accordance with subsection (10).
+
+(10) A relevant authority publishes advice in accordance with this subsection if—
+
+(a) in the case of a relevant authority other than a health service body, it publishes the advice in such manner as it thinks is likely to bring the advice to the attention of persons who live in its area;
+
+[[^F14](b) in the case of an integrated care board, it publishes the advice in such manner as it thinks is likely to bring the advice to the attention of—
+
+(i) the group of people for whom it has core responsibility, and
+
+(ii) anyone who lives within its area but does not fall within sub-paragraph (i);]
+
+[^F15]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F16](d) in the case of an NHS trust, it publishes the advice in such manner as it thinks is likely to bring the advice to the attention of persons to whom the trust provides services for the purposes of the health service in England.]
+
+(11) The relevant authority must exclude from advice published under subsection (10) information whose disclosure would prejudice commercial confidentiality, unless there is an overriding public interest in favour of its disclosure.
+
+(12) An auditor panel must have regard to any guidance issued by the Secretary of State in exercising, or deciding whether to exercise, its functions.
+
+(13) A relevant authority must have regard to any guidance issued by the Secretary of State in exercising, or deciding whether to exercise, its functions in relation to its auditor panel.
+
+### 11 Relationship with relevant authority
+
+(1) A relevant authority other than a health service body must, if asked to do so by its auditor panel, supply to the panel any documents or information held by the authority and required by the panel for the exercise of its functions.
+
+(2) A relevant authority's auditor panel, other than the auditor panel of a health service body, may require a member or officer of the authority to come to a meeting of the panel to answer its questions.
+
+(3) In the application of subsection (2) to a corporation sole, the reference to a member is a reference to a holder of that office.
+
+(4) A person mentioned in subsection (2) must comply with a requirement imposed by an auditor panel under that subsection.
+
+(5) This does not require the person to answer any questions which the person would be entitled to refuse to answer in or for the purposes of proceedings in a court in England and Wales.
+
+(6) The auditor panel of a police and crime commissioner for an area may also exercise the functions in subsections (1) and (2) in relation to the chief constable for the area.
+
+(7) The auditor panel of the Mayor's Office for Policing and Crime may also exercise the functions in subsections (1) and (2) in relation to the Commissioner of Police of the Metropolis.
+
+(8) The auditor panel of a parish meeting may only exercise the function in subsection (2) in relation to the chairman of the parish meeting or the proper officer of the district council within whose area the parish lies.
+
+### 12 Failure to appoint local auditor
+
+(1) If a relevant authority, other than [[^F17]a health service body], fails to appoint a local auditor in accordance with this Part, the authority must immediately inform the Secretary of State of that fact.
+
+(2) If it appears to the Secretary of State that a relevant authority, other than [[^F18]a health service body], has failed to appoint a local auditor in accordance with this Part, the Secretary of State may—
+
+(a) direct the authority to appoint the auditor named in the direction, or
+
+(b) appoint a local auditor on behalf of the authority.
+
+(3) An appointment under subsection (2)(b) takes effect—
+
+(a) as if it had been made by the relevant authority, and
+
+(b) on such terms as the Secretary of State may direct.
+
+(4) The Secretary of State must—
+
+(a) inform the relevant authority of the intention to give a direction or appoint a local auditor under subsection (2) not less than 28 days before the direction is given or the appointment made, and
+
+(b) consider any representations made by the relevant authority regarding the proposed direction or appointment.
+
+(5) But the Secretary of State may give a direction or make an appointment under subsection (2) without having complied with subsection (4) if the Secretary of State thinks it is likely that a local auditor would have to exercise a function under this Act in relation to a relevant authority within the period of 60 days beginning with the day on which the direction is given or the appointment is made.
+
+### 13 Failure of [[^F19]health service bodies] to appoint local auditor
+
+(1) If a [[^F20]health service body] fails to appoint an auditor in accordance with this Part, it must immediately inform [[^F21]NHS England] of that fact.
+
+(2) If it appears to [[^F21]NHS England] that a [[^F22]health service body] has failed to appoint an auditor in accordance with this Part, [[^F21]NHS England] must inform the Secretary of State of that fact by the end of 25 March in the financial year preceding the financial year to which the accounts to be audited relate.
+
+(3) If the Secretary of State has been informed by [[^F21]NHS England] under subsection (2), the Secretary of State may—
+
+(a) take either of the steps in subsection (4), or
+
+(b) direct [[^F21]NHS England] to take whichever of the steps in subsection (4) [[^F21]NHS England] considers appropriate.
+
+(4) Those steps are—
+
+(a) to direct the [[^F23]health service body] to appoint an auditor named in the direction given under this paragraph, or
+
+(b) to appoint an auditor on behalf of the [[^F24]health service body].
+
+(5) An appointment under subsection (4)(b) takes effect—
+
+(a) as if it had been made by the [[^F25]health service body], and
+
+(b) on such terms as the Secretary of State or (as the case may be) [[^F21]NHS England] may direct.
+
+(6) The Secretary of State or [[^F21]NHS England] must—
+
+(a) inform the [[^F26]health service body] of the intention to give a direction or appoint an auditor under subsection (4) not less than 28 days before the direction is given or the appointment made, and
+
+(b) consider any representations made by the [[^F27]health service body] regarding the proposed direction or appointment.
+
+(7) But the Secretary of State or [[^F21]NHS England] may give a direction or make an appointment under subsection (4) without having complied with subsection (6) if the Secretary of State or [[^F21]NHS England] thinks it is likely that an auditor would have to exercise a function under this Act in relation to the [[^F28]health service body] within the period of 60 days beginning with the day on which the direction is given or the appointment is made.
+
+### 14 Limitation of local auditor's liability
+
+(1) This section applies in relation to an agreement (a “liability limitation agreement”) that purports to limit the amount of a liability owed to a relevant authority by its local auditor in respect of any negligence, default, breach of duty or breach of trust occurring in the course of the audit of accounts, of which the auditor may be guilty in relation to the authority.
+
+(2) A liability limitation agreement must comply with regulations made by the Secretary of State.
+
+(3) Regulations under subsection (2) may, in particular,—
+
+(a) make provision about the duration of a liability limitation agreement;
+
+(b) make provision as to the amount to which a local auditor's liability may be limited by a liability limitation agreement (which may be an amount that is specified in, determined under or described in general terms in the regulations).
+
+(4) Regulations under subsection (2) may—
+
+(a) require a liability limitation agreement to contain provisions, or provisions of a description, specified in the regulations;
+
+(b) prohibit a liability limitation agreement from containing provisions, or provisions of a description, specified in the regulations.
+
+(5) Regulations under subsection (2) may provide—
+
+(a) that a liability limitation agreement that does not comply with the regulations is void;
+
+(b) that a liability limitation agreement is effective only to the extent that it complies with the regulations;
+
+(c) that, in the circumstances specified in the regulations, a provision of a liability limitation agreement that does not comply with the regulations is to have effect as if it complied with the regulations.
+
+(6) The Secretary of State may by regulations make provision requiring a relevant authority that has entered into a liability limitation agreement to disclose such information about the agreement as may be specified in the regulations in such manner as may be so specified.
+
+(7) A liability limitation agreement that complies with regulations under subsection (2) is not subject to section 2(2) or 3(2)(a) of the Unfair Contract Terms Act 1977.
+
+### 15 Further provisions about liability limitation agreements
+
+(1) Before entering into a liability limitation agreement, a relevant authority other than a chief constable or the Commissioner of Police of the Metropolis must consult and take into account the advice of its auditor panel.
+
+(2) Before entering into a liability limitation agreement, a chief constable for an area must consult and take into account the advice of the auditor panel of the police and crime commissioner for the area.
+
+(3) Before entering into a liability limitation agreement, the Commissioner of Police of the Metropolis must consult and take into account the advice of the auditor panel of the Mayor's Office for Policing and Crime.
+
+(4) If a relevant authority is a local authority operating executive arrangements, the function of deciding whether to enter into a liability limitation agreement is not the responsibility of an executive of the authority under those arrangements.
+
+(5) If a relevant authority is a local authority within the meaning of section 101 of the Local Government Act 1972 (arrangements for discharge of functions), that section does not apply to the authority's function of deciding whether to enter into a liability limitation agreement.
+
+(6) A decision to enter into a liability limitation agreement between a local auditor and the Greater London Authority must be taken by the Mayor of London and the London Assembly acting jointly on behalf of the Authority.
+
+(7) A decision to enter into a liability limitation agreement between a local auditor and a parish meeting must be taken by the parish meeting itself (and not by its chairman on behalf of the parish meeting).
+
+### 16 Resignation and removal of local auditor
+
+(1) The Secretary of State may by regulations make provision about—
+
+(a) the resignation of a local auditor of the accounts of a relevant authority from that office;
+
+(b) the removal of a local auditor of the accounts of a relevant authority from that office before the expiry of the term of that office.
+
+(2) Regulations under subsection (1)(a) may, in particular, make provision about—
+
+(a) the steps that must be taken by a person who is a local auditor to resign from that office;
+
+(b) the time at which the resignation takes effect;
+
+(c) the steps that must be taken in connection with the resignation by the relevant authority;
+
+(d) the role of the authority's auditor panel or of a recognised supervisory body in connection with the resignation;
+
+(e) the steps that must be taken by the relevant authority after the resignation.
+
+(3) Regulations under subsection (1)(b) may, in particular, make provision about—
+
+(a) the steps that must be taken to remove a local auditor from that office;
+
+(b) the person or persons by whom those steps must be taken and the way in which they must be taken;
+
+(c) the steps that may be taken by the local auditor in connection with the local auditor's removal from that office;
+
+(d) the role of the relevant authority's auditor panel or of a recognised supervisory body in connection with the removal of the local auditor from that office;
+
+(e) the steps that must be taken by the relevant authority after the removal of the local auditor from that office.
+
+(4) Regulations under subsection (1)(b) which make provision about the matter in subsection (3)(b) may provide, in relation to a local auditor of the accounts of a health service body, that some or all of the steps may be taken by the Secretary of State.
+
+(5) Regulations under subsection (1) may, in particular—
+
+(a) make provision for the Secretary of State to appoint, or direct the relevant authority to appoint, a replacement local auditor;
+
+(b) make provision that permits or requires, or enables the Secretary of State to permit or require, that appointment to have effect for a limited period or limited purposes only.
+
+(6) Regulations under subsection (1) which make provision as mentioned in subsection (5)(a) may apply section 12(3), (4) or (5) with modifications to a direction given or appointment made by the Secretary of State under such regulations.
+
+(7) Regulations under subsection (1) that confer functions on a recognised supervisory body may make provision about the supply to the body by a relevant authority of documents or information relating to the resignation or removal of a local auditor.
+
+### 17 Appointment of auditor by specified person
+
+(1) The Secretary of State may by regulations make provision for and in connection with the appointment, by a person (an “appointing person”) specified by the Secretary of State, of a local auditor to audit the accounts of a relevant authority to which the regulations apply.
+
+(2) Regulations under subsection (1) may, in particular—
+
+(a) make provision about the persons that may be specified as an appointing person;
+
+(b) make provision about the procedure for specifying a person and for an appointing person's specification to come to an end in prescribed circumstances;
+
+(c) make provision about the consequences of an appointing person's specification coming to an end, including—
+
+(i) for the exercise of functions by the Secretary of State, and
+
+(ii) for the transfer of the person's rights and liabilities arising by virtue of the regulations to the Secretary of State or another appointing person;
+
+(d) confer functions on an appointing person, including in relation to—
+
+(i) the appointment of local auditors under the regulations,
+
+(ii) the activities of such auditors, and
+
+(iii) the resignation or removal from office of such auditors;
+
+(e) require an appointing person to consult prescribed persons before exercising prescribed functions.
+
+(3) Regulations under subsection (1) may, in particular—
+
+(a) make provision about the relevant authorities to which the arrangements under the regulations apply, including provision for them to apply to an authority that has opted into them or has not opted out of them;
+
+(b) make provision about the procedures to be followed in relation to opting into or out of those arrangements;
+
+(c) impose duties on relevant authorities to which those arrangements apply, including duties as to—
+
+(i) the payment of fees to the appointing person in respect of an audit carried out by a local auditor appointed by that person, and
+
+(ii) the provision of information to the appointing person.
+
+(4) Provision made by regulations under subsection (1) by virtue of subsection (3)(c)(i) may, in particular—
+
+(a) provide for fees to be paid in accordance with a scale or scales of fees specified by the appointing person, and
+
+(b) provide for the payment in prescribed circumstances of a larger or smaller fee than is specified by the appropriate scale.
+
+(5) Regulations under subsection (1) may, in particular, make provision about the functions of a local auditor appointed by an appointing person.
+
+(6) Regulations under subsection (1) may, in particular, make provision for the appointment of a local auditor of the accounts of a relevant authority to which arrangements made by the regulations apply where the appointing person does not make an appointment under the regulations.
+
+(7) Provision made by regulations under subsection (1) by virtue of subsection (6) may, in particular, provide for the appointment to be made by the authority or the Secretary of State.
+
+(8) Regulations under subsection (1) may, in particular provide—
+
+(a) for any provision of, or made under, this Part not to apply, or to apply with modifications, in relation to a relevant authority to which regulations under that subsection apply;
+
+(b) for any other provision of, or made under, this Act not to apply, or to apply with modifications, in consequence of provision made by regulations under that subsection.
+
+(9) Subsection (8) applies to a provision of or made under this Act even if it makes specific provision about a relevant authority to which the regulations apply.
+
+(10) In this section “prescribed” means prescribed by regulations under subsection (1).
+
+## Part 4 — Eligibility and regulation of local auditors
+
+### 18 Eligibility and regulation of local auditors
+
+(1) Schedule 5 (eligibility and regulation of local auditors) has effect.
+
+(2) The Secretary of State may by regulations amend that Schedule if the Secretary of State considers it is appropriate to do so as a result of amendments made to Part 42 of the Companies Act 2006.
+
+## Part 5 — Conduct of local audit
+
+### Codes of practice and guidance
+
+#### 19 Codes of audit practice and guidance
+
+Schedule 6 (codes of audit practice and guidance) has effect.
+
+### General powers and duties of auditors
+
+#### 20 General duties of auditors
+
+(1) In auditing the accounts of a relevant authority other than a health service body, a local auditor must, by examination of the accounts and otherwise, be satisfied—
+
+(a) that the accounts comply with the requirements of the enactments that apply to them,
+
+(b) that proper practices have been observed in the preparation of the statement of accounts, and that the statement presents a true and fair view, and
+
+(c) that the authority has made proper arrangements for securing economy, efficiency and effectiveness in its use of resources.
+
+(2) Subject as follows, when a local auditor has completed an audit of the accounts of a relevant authority other than a health service body, the auditor must enter on the statement of accounts—
+
+(a) a certificate that the auditor has completed the audit in accordance with this Act, and
+
+(b) the auditor's opinion on the statement.
+
+[[^F29](3) If a statement of accounts prepared by a relevant authority under this Act includes both—
+
+(a) accounts of a pension fund maintained by the authority under regulations under section 1 of the Public Service Pensions Act 2013 as they relate to local government workers (within the meaning of that Act), and
+
+(b) other accounts of the authority,
+
+the authority’s local auditor must give a separate opinion on the part of the statement that relates to the accounts of the pension fund.]
+
+(4) A local auditor may enter an opinion on the statement of accounts on that statement before the audit is completed if—
+
+(a) the audit has not been completed because an objection has been made under section 27 and that objection has not been disposed of, and
+
+(b) the auditor thinks that, if the objection were resolved in the objector's favour, this would not affect the accuracy of the statement of accounts.
+
+(5) A local auditor must, in carrying out the auditor's functions in relation to the accounts of a relevant authority, comply with the code of audit practice applicable to the authority that is for the time being in force.
+
+(6) A local auditor must, in carrying out functions under this Act, have regard to guidance issued by the Comptroller and Auditor General under paragraph 9 of Schedule 6.
+
+#### 21 General duties of auditors of accounts of health service bodies
+
+(1) In auditing the accounts of [[^F30]an integrated care board], a local auditor must, by examination of the accounts and otherwise, be satisfied—
+
+(a) that the accounts present a true and fair view, and comply with the requirements of the enactments that apply to them,
+
+(b) that proper practices have been observed in the preparation of the accounts,
+
+(c) that [[^F31]the board] has made proper arrangements for securing economy, efficiency and effectiveness in its use of resources,
+
+(d) that money provided by Parliament has been expended for the purposes intended by Parliament,
+
+(e) that resources authorised by Parliament to be used have been used for the purposes in relation to which the use was authorised, and
+
+(f) that the financial transactions of [[^F32]the board] are in accordance with any authority which is relevant to the transactions.
+
+(2) In subsection (1)(e) use of resources means their expenditure, consumption or reduction in value.
+
+[[^F33](2A) In auditing the accounts of an NHS trust a local auditor must, by examination of the accounts and otherwise, be satisfied—
+
+(a) that the accounts present a true and fair view, and comply with the requirements of the enactments that apply to them,
+
+(b) that proper practices have been observed in the preparation of the accounts, and
+
+(c) that the NHS trust has made proper arrangements for securing economy, efficiency and effectiveness in its use of resources.]
+
+[^F34]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) When a local auditor has completed an audit of the accounts of a health service body, the auditor must—
+
+(a) enter on the accounts a certificate that the auditor has completed the audit in accordance with this Act, and
+
+(b) make a report in accordance with subsection (5).
+
+(5) A report under subsection (4)(b)—
+
+(a) must contain the auditor's opinion on the accounts, including on the matters in subsection (1) or, as the case may be, subsection (3), but
+
+(b) must not contain the auditor's opinion on the matter in subsection (1)(c) or (3)(c) if the auditor is satisfied as to that matter.
+
+#### 22 Auditors' right to documents and information
+
+(1) A local auditor has a right of access at all reasonable times to every document (an “audit document”) that—
+
+(a) relates to a relevant authority or an entity connected with a relevant authority, and
+
+(b) the auditor thinks is necessary for the purposes of the auditor's functions under this Act.
+
+(2) This includes power to inspect, copy or take away an audit document.
+
+(3) A local auditor may—
+
+(a) require a person holding or accountable for, or who has at any time held or been accountable for, an audit document to provide such information or explanation as the auditor thinks is necessary for the purposes of this Act, and
+
+(b) if the auditor thinks it necessary, require the person to meet the auditor to give the information or explanation or (if the person holds or is accountable for the document) to produce the document.
+
+(4) Where an audit document is in an electronic form, the power to require a person to produce the document includes power to require it to be produced in a form in which it is legible and can be taken away.
+
+(5) For the purpose of inspecting an audit document which is in an electronic form, a local auditor—
+
+(a) may have access to, and inspect and check the operation of, any computer and associated apparatus or material which the auditor thinks is or has been used in connection with the document, and
+
+(b) may require a person within subsection (6) to give the auditor the reasonable assistance that the auditor needs for that purpose.
+
+(6) A person is within this subsection who—
+
+(a) is the person by whom or on whose behalf the computer is or has been used, or
+
+(b) is a person in charge of, or otherwise involved in operating, the computer, apparatus or material.
+
+(7) A local auditor may—
+
+(a) require any person to whom this subsection applies to provide such information or explanation as the auditor thinks is necessary for the purposes of this Act, and
+
+(b) if the auditor thinks it necessary, require the person to meet the auditor to give the information or explanation.
+
+(8) Subsection (7) applies to—
+
+(a) a member or officer of a relevant authority,
+
+(b) where a relevant authority is a corporation sole, the holder of that office,
+
+(c) a person elected or appointed—
+
+(i) as an entity connected with a relevant authority,
+
+(ii) to such an entity, or
+
+(iii) to an office of such an entity,
+
+(d) an employee of such an entity,
+
+(e) an auditor of the accounts of such an entity, or
+
+(f) a person who fell within any of paragraphs (a) to (d) at a time to which the information or explanation required by the local auditor relates.
+
+(9) A local auditor of the accounts of a parish meeting may only exercise the function in subsection (7), so far as it applies to a person who is or was a member or officer of a relevant authority, in relation to a person who is or was the chairman of the parish meeting or the proper officer of the district council within whose area the parish lies.
+
+(10) A relevant authority or an entity connected with a relevant authority must provide a local auditor with the facilities and information that the auditor reasonably requires for the purposes of the auditor's functions under this Act.
+
+(11) A statement made by a person in response to a requirement under this section may not be used in evidence against that person in criminal proceedings other than proceedings for an offence under section 23.
+
+(12) Nothing in this section compels a person to disclose information in respect of which a claim to legal professional privilege could be maintained in legal proceedings.
+
+#### 23 Offences relating to section 22
+
+(1) A person is guilty of an offence if, without reasonable excuse, the person—
+
+(a) obstructs the exercise of any power conferred by section 22, or
+
+(b) fails to comply with any requirement of a local auditor under that section.
+
+(2) A person guilty of an offence under subsection (1) is liable on summary conviction—
+
+(a) to a fine not exceeding level 3 on the standard scale, and
+
+(b) to an additional fine of not more than £20 for each day on which the offence continues after conviction for that offence.
+
+(3) The reasonable expenses incurred by a local auditor in connection with proceedings for an offence under subsection (1) alleged to have been committed by a person within subsection (4) in relation to the audit of the accounts of a relevant authority are recoverable from that authority so far as they are not recovered from any other source.
+
+(4) The persons within this subsection are—
+
+(a) a member or officer of the relevant authority,
+
+(b) a person elected or appointed—
+
+(i) as an entity connected with the relevant authority,
+
+(ii) to such an entity, or
+
+(iii) to an office of such an entity, and
+
+(c) an employee of such an entity.
+
+(5) Subsection (3) does not apply in relation to a parish meeting unless the offence is alleged to have been committed by the chairman of the parish meeting or the proper officer of the district council within whose area the parish lies.
+
+(6) In subsection (4)(a) the reference to a member of the relevant authority, in relation to a corporation sole, is to the holder of that office.
+
+### Reports and recommendations
+
+#### 24 Reports and recommendations
+
+Schedule 7 (reports and recommendations) has effect.
+
+### Public inspection etc and action by auditor
+
+#### 25 Inspection of statements of accounts etc
+
+(1) A relevant authority other than a health service body must ensure that a local government elector for its area may inspect and make copies of—
+
+(a) the statement of accounts prepared by the authority,
+
+(b) the local auditor's certificate that the audit of the authority's accounts including that statement has been completed,
+
+(c) the local auditor's opinion on the statement of accounts,
+
+(d) any public interest report relating to the authority or an entity connected with it, and
+
+(e) any recommendation relating to the authority or an entity connected with it.
+
+(2) A relevant authority other than a health service body must ensure that a local government elector for its area may have copies of any document within subsection (1) supplied to the elector at the elector's request on payment of a reasonable sum for each copy.
+
+(3) The relevant authority must ensure that a local government elector may inspect a document within subsection (1) at all reasonable times and without payment.
+
+(4) This section applies in relation to a document only if the relevant authority has prepared the document or it has been made available to the authority.
+
+(5) References in this section to copies of a document include a reference to copies of any part of it.
+
+#### 26 Inspection of documents etc
+
+(1) At each audit of accounts under this Act, other than an audit of accounts of a health service body, any persons interested [[^F35]or any journalist] may—
+
+(a) inspect the accounting records for the financial year to which the audit relates and all books, deeds, contracts, bills, vouchers, receipts and other documents relating to those records, and
+
+(b) make copies of all or any part of those records or documents.
+
+[[^F36](1A) In subsection (1) “journalist” means any person who produces for publication journalistic material (whether paid to do so or otherwise).]
+
+(2) At the request of a local government elector for any area to which the accounts relate, the local auditor must give the elector, or any representative of the elector, an opportunity to question the auditor about the accounting records.
+
+(3) The local auditor's reasonable costs of complying with subsection (2) are recoverable from the relevant authority to which the accounts relate.
+
+(4) This section does not entitle a person—
+
+(a) to inspect or copy any part of any record or document containing information which is protected on the grounds of commercial confidentiality, or
+
+(b) to require any such information to be disclosed in answer to any question.
+
+(5) Information is protected on the grounds of commercial confidentiality if—
+
+(a) its disclosure would prejudice commercial confidentiality, and
+
+(b) there is no overriding public interest in favour of its disclosure.
+
+(6) This section does not entitle a person—
+
+(a) to inspect or copy any part of any record or document containing personal information, or
+
+(b) to require any personal information to be disclosed in answer to any question.
+
+(7) Information is personal information if it identifies a particular individual or enables a particular individual to be identified (but see subsection (8)).
+
+(8) Information is not personal information merely because it relates to a business carried on by an individual as a sole trader.
+
+(9) Information is personal information if it is information about an officer of the relevant authority which relates specifically to a particular individual and is available to the authority because—
+
+(a) the individual holds or has held an office or employment with that authority, or
+
+(b) payments or other benefits in respect of an office or employment under any other person are or have been made or provided to that individual by that authority.
+
+(10) For the purposes of subsection (9)—
+
+(a) “the relevant authority” means the relevant authority whose accounts are being audited, and
+
+(b) payments made or benefits provided to an individual in respect of an office or employment include any payment made or benefit provided in respect of the individual ceasing to hold the office or employment.
+
+#### 27 Right to make objections at audit
+
+(1) This section applies if, at an audit of accounts under this Act other than an audit of accounts of a health service body, a local government elector for an area to which the accounts relate makes an objection to the local auditor which meets the requirements in subsection (2) and which—
+
+(a) concerns a matter in respect of which the auditor could make a public interest report, or
+
+(b) concerns a matter in respect of which the auditor could apply for a declaration under section 28.
+
+(2) The requirements are that—
+
+(a) the objection is made in writing, and
+
+(b) a copy of the objection is sent to the relevant authority whose accounts are being audited.
+
+(3) The local auditor must decide—
+
+(a) whether to consider the objection, and
+
+(b) if the auditor does so, whether to take action within paragraph (a) or (b) of subsection (1) in response.
+
+(4) The local auditor may decide not to consider the objection if, in particular, the auditor thinks that—
+
+(a) the objection is frivolous or vexatious,
+
+(b) the cost of the auditor considering the objection would be disproportionate to the sums to which the objection relates, or
+
+(c) the objection repeats an objection already considered—
+
+(i) under this section by a local auditor of the authority's accounts, or
+
+(ii) under section 16 of the Audit Commission Act 1998 by an auditor appointed under that Act in relation to those accounts.
+
+(5) Subsection (4)(b) does not entitle the local auditor to refuse to consider an objection which the auditor thinks might disclose serious concerns about how the relevant authority is managed or led.
+
+(6) If the local auditor decides not to take action within paragraph (a) or (b) of subsection (1), the auditor may recommend that the relevant authority should instead take action in response to the objection.
+
+(7) The local auditor's reasonable costs of exercising functions under this section are recoverable from the relevant authority.
+
+#### 28 Declaration that item of account is unlawful
+
+(1) If a local auditor carrying out an audit of accounts under this Act, other than an audit of accounts of a health service body, thinks that an item of account is contrary to law, the auditor may apply to the court for a declaration to that effect.
+
+(2) On an application under this section, the court—
+
+(a) may make or refuse to make the declaration, and
+
+(b) if it makes the declaration, may also order rectification of the statement of accounts or accounting records.
+
+(3) A person who has objected under section 27(1)(b) and is aggrieved by a decision of the local auditor not to consider the objection or not to apply for a declaration under this section may—
+
+(a) within the period of 6 weeks beginning with the day after that on which the person is notified of the decision, require the auditor to provide written reasons for the decision, and
+
+(b) within the period of 21 days beginning with the day after that on which the person receives those written reasons, appeal against the decision to the court.
+
+(4) On an appeal under subsection (3), the court has the same powers in relation to the item of account to which the objection relates as it would have on an application by the local auditor for the declaration.
+
+(5) On an application or appeal under this section, the court may make an order for the payment by the relevant authority to which the application or appeal relates of expenses incurred in connection with it by the local auditor or the person by whom the appeal is brought.
+
+(6) Subsection (7) applies if a local auditor of the accounts of a relevant authority incurs costs in determining whether to make an application under this section in relation to the authority, but the application is not in fact made.
+
+(7) The local auditor may recover the reasonable costs so incurred from the relevant authority.
+
+(8) The High Court and the county court have jurisdiction for the purposes of this section.
+
+(9) In this Act “item of account”, in relation to a relevant authority, means an item in the authority's accounting records or statement of accounts.
+
+### Prevention of unlawful expenditure etc
+
+#### 29 Advisory notices
+
+Schedule 8 (advisory notices) has effect.
+
+#### 30 Unlawful expenditure or activity of health service bodies
+
+(1) A local auditor of the accounts of a health service body must take the steps set out in subsection (2) if the auditor believes that the body or an officer of the body—
+
+(a) is about to make, or has made, a decision which involves or would involve the body incurring unlawful expenditure, or
+
+(b) is about to take or has begun to take a course of action which, if followed to its conclusion, would be unlawful and likely to cause a loss or deficiency.
+
+(2) The local auditor must, as soon as reasonably practicable—
+
+(a) refer the matter to the Secretary of State, and
+
+[[^F37](b) notify NHS England of the matter.]
+
+#### 31 Power of auditor to apply for judicial review
+
+(1) A local auditor appointed to audit the accounts of a relevant authority other than a health service body may make an application for judicial review of a decision of that authority, or of a failure by that authority to act, which it is reasonable to believe would have an effect on the accounts of that body.
+
+(2) Subsection (1) does not affect the requirement in section 31(3) of the Senior Courts Act 1981 to obtain the leave of the High Court to make the application.
+
+(3) The existence of the powers conferred on a local auditor under this Act is not a ground for refusing an application within subsection (1) (or an application for leave to make the application).
+
+(4) On an application for judicial review made as mentioned in subsection (1), the court may make such order as it thinks fit for the payment by the relevant authority of expenses incurred by the local auditor in connection with the application.
+
+(5) Subsection (6) applies if a local auditor of the accounts of a relevant authority incurs costs in determining whether to make an application under this section in relation to the authority, but the application is not in fact made.
+
+(6) The local auditor may recover the reasonable costs so incurred from the relevant authority.
+
+### Accounts and audit regulations
+
+#### 32 Accounts and audit regulations
+
+(1) The Secretary of State may by regulations applying to relevant authorities other than health service bodies make provision about—
+
+(a) the form and contents of accounting records;
+
+(b) the form, contents, preparation and approval of statements of accounts;
+
+(c) the preservation of accounting records or statements of accounts;
+
+(d) the publication of accounting records, statements of accounts or other information;
+
+(e) the exercise of any rights of objection or inspection conferred by section 25, 26 or 27 and the steps to be taken by any authority to enable those rights to be exercised;
+
+(f) the financial management of relevant authorities;
+
+(g) the maintenance by relevant authorities of systems of internal control (including arrangements for the management of risk).
+
+(2) Regulations under subsection (1)(b) may, in particular, make provision about any information to be provided by way of notes to the accounts.
+
+(3) Before making regulations under this section, the Secretary of State must consult—
+
+(a) the Comptroller and Auditor General,
+
+(b) such representatives of relevant authorities as the Secretary of State thinks appropriate, and
+
+(c) the recognised supervisory bodies.
+
+(4) Section 14(1)(a) of the Transport Act 1968 (accounts and other records of Passenger Transport Executives) is subject to regulations under this section.
+
+## [[^F38]Part 5A — Local audit: further provision
+
+### Independence of auditors
+
+#### 32B Independence requirement
+
+(1) A person (“P”) may not act as a local auditor if any of subsections (2), (4), (5) or (6) applies in relation to P and the relevant authority whose accounts are to be audited.
+
+(2) This subsection applies if—
+
+(a) P is a member or officer of the relevant authority,
+
+(b) where the relevant authority is a corporation sole, P is the holder of that office,
+
+(c) P is a partner or employee of a person within paragraph (a) or (b), or
+
+(d) P is a partnership of which a person within paragraph (a) or (b) is a partner.
+
+(3) In relation to a relevant authority that is an integrated care board, subsection (2)(a) has effect as if “or officer” were omitted.
+
+(4) This subsection applies if—
+
+(a) the relevant authority is an NHS trust, and
+
+(b) P is a director of that NHS trust.
+
+(5) This subsection applies if P is—
+
+(a) a person elected or appointed—
+
+(i) as an entity connected with the relevant authority,
+
+(ii) to such an entity, or
+
+(iii) to an office of such an entity,
+
+(b) an employee of such an entity,
+
+(c) a partner or employee of a person within paragraph (a) or (b), or
+
+(d) a partnership of which a person within paragraph (a) or (b) is a partner.
+
+(6) This subsection applies if there exists a connection of a prescribed description between P and the relevant authority.
+
+(7) In subsection (6), “prescribed” means prescribed by regulations made by the Secretary of State.
+
+(8) A description of connection prescribed under subsection (6) may be direct or indirect (and so may involve, for instance, chains of connection leading from the relevant authority to P by way of one or more interposed persons).
+
+#### 32C Lack of independence arising after appointment
+
+(1) Subsection (2) applies if, at any time during the term of office of a local auditor, the auditor becomes prohibited from acting by section 32B.
+
+(2) The auditor must immediately—
+
+(a) resign from office (with immediate effect), and
+
+(b) give notice in writing to the relevant authority concerned that the auditor has resigned by reason of lack of independence.
+
+### Second audits
+
+#### 32D Second audits where first auditor ineligible
+
+(1) This section applies where a person appointed as a local auditor of the accounts of a relevant authority (“the first auditor”) was not an eligible person for any part of the period during which the audit was conducted.
+
+(2) The Local Audit Office may direct the relevant authority to retain an eligible person—
+
+(a) to conduct a second audit of the accounts in question, or
+
+(b) to review the first audit and to report (giving reasons) on whether a second audit of those accounts is needed.
+
+(3) If a report under subsection (2)(b) states that a second audit is needed, the relevant authority must take such steps as are necessary for the carrying out of that audit.
+
+(4) If the first auditor is or was on a local audit register kept by an external registration body—
+
+(a) the Local Audit Office must send to that body a copy of any direction under subsection (2), and
+
+(b) the relevant authority must send to that body a copy of any report under subsection (2)(b).
+
+(5) A direction under subsection (2) may specify when the authority must comply with—
+
+(a) the requirements of the direction, or
+
+(b) any requirement of subsection (3) or (4)(b).
+
+(6) A person appointed under this section to conduct a second audit of the accounts of a parish meeting, or to review and report on the first audit of such accounts, must be appointed by the parish meeting itself (and not by its chairman on behalf of the parish meeting).
+
+(7) Where a second audit is carried out under this section, any statutory or other provision applying in relation to the first audit applies also, so far as practicable, in relation to the second audit.
+
+(8) If the first auditor accepted appointment, or acted as the local auditor, with knowledge of not being an eligible person, the relevant authority may recover from the first auditor any costs incurred by it in complying with the requirements of this section.
+
+(9) For the purposes of this section, a person is “eligible” if the person—
+
+(a) is a registered local audit provider or the Local Audit Office, and
+
+(b) is not prohibited by section 32B from acting as the local auditor of the relevant authority concerned.
+
+### Partnerships
+
+#### 32E Effect of appointing a partnership
+
+(1) This section applies where a partnership constituted under the law of—
+
+(a) England and Wales,
+
+(b) Northern Ireland, or
+
+(c) any other country or territory in which a partnership is not a legal person,
+
+is appointed as a local auditor under section 6G or 7.
+
+(2) Unless a contrary intention appears, the appointment is an appointment of the partnership as such and not of the partners.
+
+(3) Where the partnership ceases, the appointment is to be treated as extending to—
+
+(a) any appropriate partnership which succeeds to the practice of that partnership, or
+
+(b) any other appropriate person who succeeds to that practice having previously carried it on in partnership.
+
+(4) For the purposes of subsection (3)—
+
+(a) a partnership is to be regarded as succeeding to the practice of another partnership only if the members of the successor partnership are substantially the same as those of the former partnership, and
+
+(b) a partnership or other person is to be regarded as succeeding to the practice of a partnership only if the partnership or person succeeds to the whole or substantially the whole of the business of the former partnership.
+
+(5) Where the partnership ceases and the appointment is not treated under subsection (3) as extending to any partnership or other person, the appointment may with the requisite consent be treated as extending to an appropriate partnership, or other appropriate person, that succeeds to—
+
+(a) the business of the former partnership, or
+
+(b) such part of it as is agreed by the appointing authority is to be treated as comprising the appointment.
+
+(6) The requisite consent is that of—
+
+(a) the Local Audit Office, where the relevant authority to which the appointment relates is not a health service body, or
+
+(b) where that authority is a health service body, the body.
+
+(7) For the purposes of this section, a partnership or other person is “appropriate” if the partnership or person—
+
+(a) is a registered local audit provider, and
+
+(b) is not prohibited by section 32B from acting as the local auditor of the relevant authority concerned.
+
+### Miscellaneous powers and duties
+
+#### 32F Power of Local Audit Office to obtain information from relevant authorities
+
+(1) A relevant authority must comply with any written request by the Local Audit Office to be provided with information.
+
+(2) Such a request may relate to information as it exists in the future (for instance, information about a future occurrence once it has occurred or about a future period once it has elapsed).
+
+(3) The Office may make such a request only if the Office reasonably requires the information concerned in connection with the performance of its functions.
+
+#### 32G Inspection of accounts by persons exercising regulatory functions
+
+(1) This section applies to a person who, further to arrangements made for the purposes of paragraph 9 or 10 of Schedule 1C, carries out an inspection or investigation concerning the audit under this Act of the accounts of a relevant authority.
+
+(2) The person may require the relevant authority to make available for inspection—
+
+(a) the accounts concerned, and
+
+(b) the other documents relating to the authority that might reasonably be required by a local auditor for the purposes of auditing its accounts.
+
+#### 32H Duty of Local Audit Office to publish summaries of inspections
+
+The Local Audit Office must, at least once in every calendar year, publish a report containing a summary of the results of the inspections of registered local audit providers that have been carried out further to arrangements made for the purposes of paragraph 9 of Schedule 1C.
+
+### Offences of deception etc
+
+#### 32I False or misleading information
+
+(1) It is an offence for a person knowingly or recklessly to provide information that is false, misleading or deceptive in a material way—
+
+(a) for the purposes of, or in connection with, an application under the local audit provisions, or
+
+(b) in purported compliance with any requirement having effect under those provisions.
+
+(2) In subsection (1), “the local audit provisions” means—
+
+(a) Parts 2A to 5A of this Act (including any regulations under any of those Parts),
+
+(b) an agreement under section 6B(5), and
+
+(c) registration rules within the meaning of paragraph 3 of Schedule 1C.
+
+(3) A person who commits an offence under this section is liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court or a fine (or both);
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding 2 years or a fine (or both).
+
+#### 32J Wrongful holding out
+
+(1) It is an offence for a person who is not a registered local audit provider to—
+
+(a) describe themselves as a registered local audit provider, or
+
+(b) hold themselves out so as to indicate, or be reasonably understood to indicate, that they are a registered local audit provider.
+
+(2) It is an offence for a person who is not an external registration body to—
+
+(a) describe themselves as an external registration body, or
+
+(b) hold themselves out so as to indicate, or be reasonably understood to indicate, that they are an external registration body.
+
+(3) It is an offence for a person who is not a recognised qualifying body to—
+
+(a) describe themselves as a recognised qualifying body, or
+
+(b) hold themselves out so as to indicate, or be reasonably understood to indicate, that they are a recognised qualifying body.
+
+(4) A person who commits an offence under this section is liable on summary conviction to imprisonment for a term not exceeding the maximum term for summary offences or a fine (or both).
+
+(5) In subsection (4), “the maximum term for summary offences” means—
+
+(a) if the offence is committed before the time when section 281(5) of the Criminal Justice Act 2003 comes into force, six months;
+
+(b) if the offence is committed after that time, 51 weeks.]
+
+## Part 6 — Data matching
+
+### 33 Data matching
+
+Schedule 9 (data matching) has effect.
+
+## Part 7 — Miscellaneous and supplementary
+
+### Miscellaneous
+
+#### 33A [[^F39]Audit committees
+
+(1) A relevant authority other than a health service body must—
+
+(a) have an audit committee, and
+
+(b) arrange for its audit committee to exercise the functions set out in subsection (3).
+
+(2) The audit committee is to be—
+
+(a) in the case of a relevant authority that has a general power under an enactment to appoint committees, a committee of the authority designated by the authority as its audit committee, or
+
+(b) in any other case, a group of individuals appointed by the relevant authority.
+
+(3) The functions referred to in subsection (1)(b) are—
+
+(a) reviewing and scrutinising the authority’s financial affairs,
+
+(b) reviewing and assessing the authority’s risk management, internal control and governance arrangements,
+
+(c) reviewing and assessing the economy, efficiency and effectiveness with which resources have been used in discharging the authority’s functions, and
+
+(d) making reports and recommendations to the authority in relation to reviews conducted under paragraphs (a), (b) and (c).
+
+(4) The Secretary of State may by regulations provide for an enactment that applies in relation to a relevant authority, or a committee of a relevant authority, to apply, with or without modification, in relation to a group of individuals appointed under subsection (2)(b).
+
+(5) The Secretary of State may by regulations make provision about—
+
+(a) the membership of an audit committee;
+
+(b) the appointment of the members;
+
+(c) payment to the members of allowances, expenses, gratuities or pensions.
+
+(6) Provision must be made under subsection (5) so as to ensure that at least one member of an audit committee is an independent person, as defined by the regulations.
+
+(7) Regulations under subsection (5)(c) may, in particular, make provision applying provision made, or corresponding to any provision that could be made, under section 18 of the Local Government and Housing Act 1989 or section 100 of the Local Government Act 2000.
+
+(8) Subsection (5)(c) does not affect the application of the enactments referred to in subsection (7), or provision made under them, in relation to members of an audit committee.
+
+(9) In the case of a relevant authority within subsection (2)(a), the powers of the authority in relation to its committees are to be taken to include (so far as they would otherwise not)—
+
+(a) the powers necessary to give effect to regulations under subsection (5), and
+
+(b) the power to appoint to its audit committee persons who are not members of the authority (even where not required by regulations under subsection (5)).
+
+(10) A relevant authority must have regard to any guidance issued by the Secretary of State in relation to audit committees.
+
+(11) References in this section to a committee of a relevant authority include a sub-committee of such a committee.]
+
+#### 34 Best value inspections (prospective)
+
+Schedule 10 (best value inspections) has effect.
+
+#### 35 Examinations by the Comptroller and Auditor General (prospective)
+
+(1) After section 7 of the National Audit Act 1983 insert—
+
+> **7ZA Relevant authorities**
+>
+> (1) The Comptroller and Auditor General may carry out examinations into the economy, efficiency and effectiveness with which relevant authorities have used their resources in discharging their functions.
+>
+> (2) An examination under this section must relate to—
+>
+> (a) all relevant authorities, or
+>
+> (b) particular descriptions of relevant authorities.
+>
+> (3) An examination under this section is to be carried out for the purposes of—
+>
+> (a) ensuring that the use of resources by a department to which section 6 applies to fund relevant authorities represents an economical, efficient and effective use of those resources, or
+>
+> (b) providing evaluation, commentary and advice of a general nature to all relevant authorities, or all relevant authorities of a particular description, as to the economy, efficiency and effectiveness with which they use their resources in discharging their functions.
+>
+> (4) An examination under this section may be combined with another examination under this Part.
+>
+> (5) This section does not entitle the Comptroller and Auditor General to question—
+>
+> (a) the merits of the policy objectives of any relevant authority in respect of which an examination is carried out, or
+>
+> (b) the merits of government policy.
+>
+> (6) Before carrying out an examination under this section, the Comptroller and Auditor General must consult—
+>
+> (a) such associations or representatives of relevant authorities as the Comptroller and Auditor General thinks appropriate, and
+>
+> (b) such other persons or bodies as appear to the Comptroller and Auditor General to be relevant to the examination proposed to be carried out.
+>
+> (7) Subsection (8) applies if the Comptroller and Auditor General—
+>
+> (a) proposes to carry out an examination under this section, and
+>
+> (b) considers that the work of the Auditor General for Wales is relevant to the examination.
+>
+> (8) Before carrying out the examination, the Comptroller and Auditor General must—
+>
+> (a) consult the Auditor General for Wales, and
+>
+> (b) take into account any relevant work done or being done by the Auditor General for Wales.
+>
+> (9) In deciding whether to carry out an examination under this section, and in carrying out such an examination, the Comptroller and Auditor General must have regard to any other relevant examination, inspection or research (by whatever name) that the Comptroller and Auditor General knows has been, is or is to be undertaken by other persons.
+>
+> (10) The Comptroller and Auditor General may publish the results of an examination under this section in such manner as the Comptroller and Auditor General considers appropriate.
+>
+> (11) In this Act “relevant authority” has the same meaning as in the Local Audit and Accountability Act 2014 (see section 2(1)), except that—
+>
+> (a) the Common Council of the City of London is a relevant authority for the purposes of this Act only to the extent that it exercises functions to which that Act applies,
+>
+> (b) a health service body within the meaning of that Act (see section 3(9)) is not a relevant authority for the purposes of this Act, and
+>
+> (c) a chief constable within the meaning of that Act (see section 44(1)) or the Commissioner of Police of the Metropolis is not a relevant authority for the purposes of this Act.
+
+(2) Section 8 (rights to obtain documents and information) of that Act is amended as follows.
+
+(3) In subsection (1) (right to access documents etc for purposes of examination under section 6 or 7), for “or 7” substitute “ , 7 or 7ZA ”.
+
+(4) In subsection (2) (application of subsection (1) rights)—
+
+(a) at the beginning insert “ In the case of an examination under section 6 or 7, ”,
+
+(b) after “control of” insert “ —(a) ”, and
+
+(c) at the end insert
+
+> , or
+>
+> (b) where the examination relates in whole or in part to the use of resources by the department, authority or body to fund a relevant authority, that relevant authority.
+
+(5) After subsection (2) insert—
+
+> (2A) In the case of an examination under section 7ZA, subsection (1) applies only to documents in the custody or under the control of—
+>
+> (a) a relevant authority to which the examination relates, or
+>
+> (b) where the examination is undertaken for a purpose within section 7ZA(3)(a), a department to which section 6 applies and which funds a relevant authority to which the examination relates.
+
+#### 36 Disclosure of information
+
+Schedule 11 (disclosure of information) has effect.
+
+#### 37 Social security references and reports
+
+(1) A local auditor may refer to the Secretary of State any matter arising from an audit under this Act if it appears that the matter may be relevant for the purposes of any of the functions of the Secretary of State relating to social security.
+
+(2) In section 139D(1) of the Social Security Administration Act 1992 (directions by Secretary of State following reports on social security matters)—
+
+(a) in paragraph (b), for “to an authority under section 10(1) of the Audit Commission Act 1998 and to the Secretary of State under section 39 of that Act” substitute “ to the Secretary of State under section 37(1) of or paragraph 3 of Schedule 7 to the Local Audit and Accountability Act 2014 ”, and
+
+(b) in paragraph (d) omit “section 38(7) of the Audit Commission Act 1998,”.
+
+(3) This section has effect until the coming into force of the repeal (by the Welfare Reform Act 2012) of section 139D of the Social Security Administration Act 1992.
+
+#### 38 Duty of smaller authorities to publish information
+
+In section 2 of the Local Government, Planning and Land Act 1980 (duty of authorities to publish information)—
+
+(a) after subsection (1) insert—
+
+> (1A) This section also applies to an authority which—
+>
+> (a) is not within subsection (1) above;
+>
+> (b) is not within section 4(4) below; and
+>
+> (c) is, or is treated as, a smaller authority for the purposes of section 5 of the Local Audit and Accountability Act 2014 (modification of that Act in relation to smaller authorities).
+
+, and
+
+(b) after subsection (10) insert—
+
+> (11) A code issued under this section applies to an authority within subsection (1A) above only in respect of information relating to a financial year during which the authority was within that subsection.
+>
+> (12) A function under this section or section 3 below that is expressed to be exercisable by the Secretary of State is exercisable by the Secretary of State (and not the Welsh Ministers) in relation to a person or body that—
+>
+> (a) is within subsection (1A), and
+>
+> (b) exercises functions in relation to an area that is partly in England and partly in Wales.
+
+#### 39 Code of practice on local authority publicity
+
+(1) After section 4 of the Local Government Act 1986 insert—
+
+> **4A Power to direct compliance with code**
+>
+> (1) The Secretary of State may direct one or more specified local authorities in England to comply with a code issued under section 4 that applies to that authority or those authorities.
+>
+> (2) A direction may require compliance with—
+>
+> (a) one or more specified provisions of a code, or
+>
+> (b) all of the provisions of a specified code.
+>
+> (3) A direction may—
+>
+> (a) specify the steps that an authority to which it is given must take to comply with it;
+>
+> (b) specify the time within which such an authority must comply with it.
+>
+> (4) The Secretary of State may give a direction to an authority whether or not the Secretary of State thinks that the authority is complying with the code to which it relates.
+>
+> (5) Before giving a direction to an authority, the Secretary of State must give the authority notice in writing of the proposed direction.
+>
+> (6) The Secretary of State may not give a direction to an authority before the end of the period of 14 days beginning with the day on which notice under subsection (5) was given to it.
+>
+> (7) The authority may make written representations to the Secretary of State about the proposed direction within that period.
+>
+> (8) The Secretary of State may modify or withdraw a direction under this section by notice in writing to the authority or authorities to which it was given.
+>
+> (9) Subsections (5) to (7) apply to the modification or withdrawal of a direction as they apply to the giving of a direction, but as if—
+>
+> (a) the reference to the proposed direction were to the proposed modification or proposal to withdraw the direction, and
+>
+> (b) subsection (6) permitted the Secretary of State to withdraw the direction before the end of the 14 day period with the agreement of the authorities to which it applies.
+>
+> (10) In this section “specified” means specified in a direction under this section.
+>
+> **4B Power to make order requiring compliance with code**
+>
+> (1) The Secretary of State may by order made by statutory instrument impose a duty on all local authorities in England, or all local authorities in England of a specified description, to comply with a code issued under section 4 that applies to those authorities.
+>
+> (2) An order under this section may impose a duty to comply with—
+>
+> (a) one or more specified provisions of a code, or
+>
+> (b) all of the provisions of a specified code.
+>
+> (3) An order under this section may—
+>
+> (a) specify the steps that an authority to which the duty applies must take to comply with it;
+>
+> (b) specify the time within which such an authority must comply with the duty.
+>
+> (4) The Secretary of State may make an order under this section which applies to an authority whether or not the Secretary of State thinks that the authority is complying with the code to which the order relates.
+>
+> (5) An order under this section—
+>
+> (a) may make different provision for different cases or classes of case, including different provision for different descriptions of local authority;
+>
+> (b) may make incidental, supplementary, consequential, transitional or transitory provision or savings.
+>
+> (6) A statutory instrument containing an order under this section may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+>
+> (7) In this section “specified” means specified in an order under this section.
+
+(2) In section 12(3) of that Act (extent), after “Part II” insert “ , other than sections 4A and 4B, ”.
+
+#### 40 Access to local government meetings and documents
+
+(1) The Secretary of State may by regulations make provision for and in connection with allowing persons—
+
+(a) to film, photograph or make sound recordings of proceedings at a meeting of a body to which this section applies, or of a committee or sub-committee of such a body;
+
+(b) to use other means for enabling persons not present at such a meeting to see or hear proceedings at the meeting, as it takes place or later;
+
+(c) to report or provide commentary on the proceedings at such a meeting, orally or in writing, so that the report or commentary is available, as the meeting takes place or later, to persons not present at the meeting.
+
+(2) Regulations under subsection (1) may, in particular, make provision—
+
+(a) for allowing persons to make available to the public or a section of the public using any medium (including the internet) things produced as a result of activities within that subsection;
+
+(b) about the facilities to be made available by bodies to which the regulations apply to enable persons to carry on such activities;
+
+(c) about the steps to be taken by persons before carrying on such activities;
+
+(d) about the circumstances in which persons may not carry on such activities, including for enabling a person specified in the regulations to prevent them from doing so in the circumstances specified in the regulations.
+
+(3) The Secretary of State may by regulations make provision—
+
+(a) for requiring written records to be kept of decisions that are of a kind specified in the regulations and are taken by an officer of a body to which this section applies,
+
+(b) with respect to the information that is to be included in those written records (including information as to the reasons for any decision);
+
+(c) for requiring any such written records, or any documents connected with the decisions to which they relate, to be supplied or made available to members of the body, to the public or to other persons;
+
+(d) for the creation of offences in respect of any rights or requirements conferred or imposed by the regulations.
+
+(4) The Secretary of State may by regulations provide that any of the following may or must be given or made available by electronic means—
+
+(a) any notice which is required by the Public Bodies (Admission to Meetings) Act 1960, Part 5A of the Local Government Act 1972 (access to meetings and documents of certain authorities etc) or regulations under this section to be given by a body to which this section applies;
+
+(b) any document relating to such a body which is required by that Part or those regulations to be open to inspection.
+
+(5) Regulations under this section may, in particular, amend or repeal any provision of—
+
+(a) the Public Bodies (Admission to Meetings) Act 1960,
+
+(b) Part 5A or section 228 (inspection of documents) of the Local Government Act 1972, or
+
+(c) section 58 of the Greater London Authority Act 1999 (application of Part 5A to the London Assembly).
+
+(6) Subject to subsections (7) and (8), this section applies to—
+
+(a) a district council,
+
+(b) a county council in England,
+
+(c) a London borough council,
+
+(d) the London Assembly,
+
+(e) the Common Council of the City of London in its capacity as a local authority or police authority,
+
+[[^F40](f) the London Fire Commissioner,]
+
+(g) Transport for London,
+
+(h) a joint authority established under Part 4 of the Local Government Act 1985,
+
+(i) an economic prosperity board,
+
+(j) a combined authority,
+
+[[^F41](ja) a sub-national transport body,]
+
+[[^F42](jb) a combined county authority,]
+
+(k) a fire and rescue authority in England constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies,
+
+(l) a National Park authority for a National Park in England,
+
+(m) the Broads Authority,
+
+(n) the Council of the Isles of Scilly,
+
+(o) a parish council, and
+
+(p) a parish meeting.
+
+(7) In its application to subsection (1), subsection (6) is to be read as if it included a reference to an executive of an authority within paragraph (a), (b) or (c) of that subsection.
+
+(8) In its application to subsection (3), subsection (6) is to be read as if the reference in paragraph (d) to the London Assembly were to the Greater London Authority.
+
+(9) References in this section to a committee or sub-committee of a body include any committee or sub-committee of that body to which Part 5A of the Local Government Act 1972 applies or is treated as applying.
+
+(10) References in this section to Part 5A of the Local Government Act 1972 include a reference to that Part as it applies to the London Assembly by virtue of section 58 of the Greater London Authority Act 1999.
+
+(11) In paragraph 4(2) of Schedule 12 to the Local Government Act 1972 (notice of meeting of principal council), for “Three clear days” substitute “ Five clear days ”.
+
+#### 41 Council tax referendums
+
+(1) Chapter 4ZA of Part 1 of the Local Government Finance Act 1992 (referendums relating to council tax increases) is amended as follows.
+
+(2) In section 52ZG (arrangements for referendum on billing authority's council tax increase), after subsection (5) insert—
+
+> (5A) As soon as is reasonably practicable after determining that it is required to hold a referendum in relation to its relevant basic amount of council tax for the financial year, the billing authority must notify that fact in writing to any body that has issued a levy or a special levy to it for the financial year.
+
+(3) In section 52ZH(1) (duty to inform Secretary of State of result of referendum), after “the Secretary of State” insert “ , and any body the authority was required to notify under section 52ZG(5A), ”.
+
+(4) Section 52ZK (major precepting authority's duty to notify billing authority of excessive council tax increase) is amended as follows.
+
+(5) After subsection (1) insert—
+
+> (1A) As soon as is reasonably practicable after determining that its relevant basic amount of council tax for the financial year is excessive, the major precepting authority must also notify the matters mentioned in subsection (1) in writing to any body that—
+>
+> (a) has issued a levy to it for the financial year, or
+>
+> (b) in the case of the Greater London Authority, has issued a levy to any constituent body for the financial year.
+
+(6) In subsection (2) (requirement for notification under section to include precept), for “this section” substitute “ subsection (1) ”.
+
+(7) In subsection (8) (requirement for Secretary of State to prescribe date by which notification under section must be made), for “this section” substitute “ subsection (1) ”.
+
+(8) In section 52ZO(1) (duty to inform Secretary of State of result of referendum on precepting authority's excessive council tax increase), after “the Secretary of State” insert “ , and any body the authority was required to notify under section 52ZK(1A), ”.
+
+(9) Section 52ZX (meaning of relevant basic amount of council tax) is amended as follows.
+
+(10) In subsection (1) (billing authority's relevant basic amount of council tax), for paragraphs (a) and (b) (disregard of precepts and levies in calculation) substitute “the amount of any precepts—
+
+(a) issued to it for the year by local precepting authorities, or
+
+(b) anticipated by it in pursuance of regulations under section 41 above.”
+
+(11) In subsection (2) (relevant basic amount of council tax of major precepting authority other than county council or Greater London Authority) omit “a county council or”.
+
+(12) Omit subsection (3) (county council's relevant basic amount of council tax).
+
+(13) In subsection (4) (Greater London Authority's relevant basic amount of council tax), for paragraphs (a) and (b) substitute—
+
+> (a) the amount calculated by it in relation to the year under section 88(2) of the Greater London Authority Act 1999 (referred to in this Chapter as the Greater London Authority's unadjusted relevant basic amount of council tax for the year), or
+>
+> (b) any amount calculated by it in relation to the year under section 89(3) of that Act (referred to in this Chapter as the Greater London Authority's adjusted relevant basic amount of council tax for the year).
+
+(14) Subsections (15) to (17) apply (and subsections (19) to (21) do not apply) if, in accordance with section 49(3), this section comes into force on the day on which this Act is passed.
+
+(15) Section 52ZC of the Local Government Finance Act 1992 (determination of whether council tax increase is excessive) applies with the following modifications to the determination of a set of principles for the financial year beginning with 1 April 2014.
+
+(16) The Secretary of State may, in particular, determine categories of authority for that financial year on the basis of whether an authority's relevant basic amount of council tax for the financial year beginning with 1 April 2013 would have been excessive if that amount for that year and for the immediately preceding financial year had been determined under section 52ZX of the Local Government Finance Act 1992 as amended by this section.
+
+(17) In subsection (3)(b) of section 52ZC the reference to an authority's relevant basic amount of council tax for the financial year immediately preceding the year under consideration is to the amount that would have been calculated by the authority for that year under section 52ZX of the Local Government Finance Act 1992 if the amendments made to it by this section had been in force for that year.
+
+(18) Subsections (19) to (21) apply (and subsections (15) to (17) do not apply) if this section comes into force on a day appointed by the Secretary of State by order under section 49(3).
+
+(19) Section 52ZC of the Local Government Finance Act 1992 applies with the following modifications to the determination of a set of principles for the financial year beginning with 1 April 2015.
+
+(20) The Secretary of State may, in particular, determine categories of authority for that financial year—
+
+(a) on the basis of whether an authority's relevant basic amount of council tax for the financial year beginning with 1 April 2013 would have been excessive if that amount for that year and for the immediately preceding financial year had been determined under section 52ZX of the Local Government Finance Act 1992 as amended by this section,
+
+(b) on the basis of whether an authority's relevant basic amount of council tax for the financial year beginning with 1 April 2014 would have been excessive if that amount for that year and for the immediately preceding financial year had been determined under that section as so amended, or
+
+(c) on the basis set out in paragraph (a) and on the basis set out in paragraph (b).
+
+(21) In subsection (3)(b) of section 52ZC the reference to an authority's relevant basic amount of council tax for the financial year immediately preceding the year under consideration is to the amount that would have been calculated by the authority for that year under section 52ZX of the Local Government Finance Act 1992 if the amendments made to it by this section had been in force for that year.
+
+#### 42 Parish meetings: parish polls (prospective)
+
+(1) In Part 3 of Schedule 12 to the Local Government Act 1972 (procedure in parish meetings), paragraph 18 is amended as follows.
+
+(2) Omit sub-paragraphs (4) to (6).
+
+(3) At the end insert—
+
+> (7) A poll may be demanded before the conclusion of a parish meeting on any question arising at the meeting, subject to regulations made under sub-paragraph (8).
+>
+> (8) The Secretary of State may by regulations make provision about polls consequent on parish meetings, in particular about—
+>
+> (a) the questions arising at a meeting on which a poll may be demanded,
+>
+> (b) the circumstances in which a poll may or must be taken (including provision as to the number of local government electors who must demand a poll for a poll to be taken), and
+>
+> (c) the conduct of a poll.
+>
+> (9) Regulations under sub-paragraph (8)(c) may apply any electoral enactment (with or without modifications) to polls consequent on parish meetings.
+>
+> (10) In sub-paragraph (9) “electoral enactment” means an enactment which relates to elections or referendums.
+>
+> (11) A statutory instrument containing regulations under sub-paragraph (8) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) In section 243 of that Act (computation of time and timing of elections, etc)—
+
+(a) in subsection (2) for “rules under paragraph 18 or” substitute “ regulations under paragraph 18 or rules under paragraph 34 ”,
+
+(b) in subsection (4) before “rules” (in both places it occurs) insert “ regulations or ”, and
+
+(c) in subsection (5) before “rules” (in both places it occurs) insert “ regulations or ”.
+
+### Supplementary
+
+#### 43 Orders and regulations
+
+(1) Any power of the Secretary of State or the Minister for the Cabinet Office to make regulations or an order under this Act is exercisable by statutory instrument.
+
+(2) Any power of the Secretary of State or the Minister for the Cabinet Office to make regulations or an order under this Act includes—
+
+(a) power to make different provision for different cases or classes of case, including different provision for different authorities;
+
+(b) power to make incidental, supplementary, consequential, transitional or transitory provision or savings.
+
+(3) A statutory instrument containing regulations or an order to which subsection (4) applies (whether alone or with other provision) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(4) This subsection applies to—
+
+(a) regulations under section 2(3) (power to amend list of relevant authorities in Schedule 2),
+
+(b) regulations or an order under section 2(5) (power to make provision about application of Act to a person or body coming to fall within Schedule 2) which amends this Act,
+
+(c) regulations under section 3(5)(a) (power to modify financial year of relevant authority) which amend this Act,
+
+(d) regulations under section 5(1) (modification of Act in relation to smaller authorities),
+
+(e) regulations under section 6(5) (power to amend definition of “smaller authority”),
+
+(f) regulations under section 7(4) (power to amend intervals at which local auditor must be appointed),
+
+[[^F43](fa) regulations under section 7(8) (power to make provision about appointment arrangements for health service bodies),]
+
+(g) regulations under section 17 (appointment of auditor by specified person),
+
+(h) regulations under section 18(2) (power to amend Schedule 5),
+
+[[^F44](ha) regulations under section 33A(4) (power to apply enactments to certain audit committees),]
+
+(i) regulations under section 40 (access to local government meetings and documents) which amend or repeal any provision of an Act,
+
+[[^F45](ia) regulations under section 43A(3) (power to amend definition of “connected entity”),]
+
+(j) regulations under section 46 (power to make consequential provision) which amend or repeal any provision of an Act,
+
+[[^F46](ja) regulations under paragraph 9(1) of Schedule 1D (delegation of powers in respect of recognised qualifying bodies);]
+
+(k) regulations under paragraph 2(9) of Schedule 4 (power to amend definition of “independent” member of auditor panel),
+
+(l) regulations under paragraph 5(1)(a) of that Schedule (power to amend etc local authority enactments in their application to auditor panels),
+
+(m) regulations under paragraph 8(3) of that Schedule (power to amend definition of “connected entity”), and
+
+(n) regulations under paragraph 8 of Schedule 9 (power to amend data-matching provisions).
+
+(5) Any other statutory instrument containing regulations or an order under this Act is subject to annulment in pursuance of a resolution of either House of Parliament, subject to subsection (6).
+
+(6) Subsection (5) does not apply to a statutory instrument containing only—
+
+(a) an order under section 49 (commencement),
+
+[^F47]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F48]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) If a draft of a statutory instrument containing regulations or an order under section 2 would, apart from this subsection, be treated for the purposes of the standing orders of either House of Parliament as a hybrid instrument, it is to proceed in that House as if it were not such an instrument.
+
+#### 43A [[^F49]Connected entities
+
+(1) For the purposes of this Act, an entity (“E”) is connected with a relevant authority at any time if E is an entity other than the relevant authority and the relevant authority considers that, in accordance with proper practices in force at that time—
+
+(a) the financial transactions, reserves, assets and liabilities of E are to be consolidated into the relevant authority’s statement of accounts for the financial year in which that time falls,
+
+(b) the relevant authority’s share of the financial transactions, reserves, assets and liabilities of E is to be consolidated into the relevant authority’s statement of accounts for that financial year, or
+
+(c) the relevant authority’s share of the net assets or net liabilities of E, and of the profit or loss of E, are to be brought into the relevant authority’s statement of accounts for that financial year.
+
+(2) In subsection (1), “entity” means any entity, whether or not a legal person.
+
+(3) The Secretary of State may by regulations amend subsection (1) or (2).
+
+(4) In subsection (1) as it applies in relation to a health service body, the reference to the relevant authority’s statement of accounts is to be read as a reference to the body’s accounts.]
+
+#### 44 Interpretation of Act
+
+(1) In this Act (unless the context otherwise requires)—
+
+- “accounts” is to be construed in accordance with section 4(3) to [[^F50](6)];
+
+- “area”—
+
+  - (a) in relation to a chief constable, means the police area of the chief constable's police force;
+  - (b) [[^F51]in relation to an integrated care board, means the area specified in the board’s constitution (see Schedule 1B to the National Health Service Act 2006);]
+
+- “charter trustees” means charter trustees constituted—
+
+  - (a) under section 246 of the Local Government Act 1972,
+  - (b) by the Charter Trustees Regulations 1996 (SI 1996/263), or
+  - (c) under Part 1 of the Local Government and Public Involvement in Health Act 2007;
+
+- “chief constable” means a chief constable for a police force for a police area;
+
+- “code of audit practice” means a code of audit practice under Schedule 6;
+
+- “combined authority” means a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009;
+
+- [[^F52]“combined county authority” means a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023;]
+
+- “the Common Council” means the Common Council of the City of London;
+
+- “costs”, in relation to anything done by a local auditor, means the costs of the auditor's time to do that thing, whether or not the auditor charges on the basis of the time taken to do it;
+
+- “enactment” includes an enactment contained in subordinate legislation as defined in section 21(1) of the Interpretation Act 1978;
+
+- “executive” and “executive arrangements” have the same meaning as in Part 1A of the Local Government Act 2000;
+
+- “expenses”, in relation to anything done by a local auditor, means the expenses incurred by the auditor in doing that thing, including the auditor's costs of doing it;
+
+- “financial year” has the meaning given by section 3(4) (subject to provision made under section 3(5));
+
+- “functional body” has the same meaning as in the Greater London Authority Act 1999 (see section 424(1) of that Act);
+
+- “health service body” has the meaning given by section 3(9);
+
+- “item of account” has the meaning given by section 28(9);
+
+- “local auditor” has the meaning given by section 4(1)(b);
+
+- “local government elector” means a person registered as a local government elector in the register of electors in accordance with the Representation of the People Acts (but see subsection (6));
+
+- “officer”, in relation to a relevant authority—
+
+  - (a) includes a member of the staff of the authority, but
+  - (b) does not include a local auditor appointed to audit the authority's accounts;
+
+- “parish meeting” means a parish meeting of a parish which does not have a separate parish council;
+
+- “police area” means a police area listed in Schedule 1 to the Police Act 1996 (police areas outside London);
+
+- “public interest report” has the meaning given by paragraph 1(2) of Schedule 7;
+
+- “recognised qualifying body” has the meaning given by 1219(12) of the Companies Act 2006 as it has effect by virtue of Schedule 5 to this Act;
+
+- “recognised supervisory body” is to be construed in accordance with section 1217(4) of and Schedule 10 to the Companies Act 2006 as they have effect by virtue of Schedule 5 to this Act;
+
+- “recommendation” means a recommendation under paragraph 2(1) of Schedule 7;
+
+- “related authority” has the meaning given by paragraph 2(6) of Schedule 7;
+
+- “relevant authority” has the meaning given by section 2(1);
+
+- [^F53]...
+
+- “[[^F54]sub-national transport body” means a sub-national transport body established under section 102E of the Local Transport Act 2008.]
+
+(2) References in this Act to a function under this Act or a Part of this Act include a function under regulations under this Act or that Part.
+
+(3) References in this Act to provision made under it include provision made under Part 42 of the Companies Act 2006 as it has effect by virtue of Schedule 5.
+
+(4) References in this Act to an entity connected with a relevant authority or to a connected entity are to be construed in accordance with paragraph 8 of Schedule 4.
+
+[[^F55](5) References in this Act to the group of people for whom an integrated care board has core responsibility are to be read in accordance with section 14Z31 of the National Health Service Act 2006.]
+
+(6) A reference in this Act to a local government elector for any area—
+
+(a) in relation to a Passenger Transport Executive, is a reference to a local government elector for the area of the Integrated Transport Authority or combined authority for the area for which the Executive is established;
+
+(b) in relation to the Broads Authority, is a reference to a local government elector for the area of any participating authority (as defined by section 25 of the Norfolk and Suffolk Broads Act 1988);
+
+(c) in relation to a National Park authority which is the local planning authority for a National Park, is a reference to a local government elector for any area the whole or any part of which is comprised in that Park.
+
+(7) Any function conferred or imposed on the Greater London Authority under or by virtue of this Act is exercisable by the Mayor of London acting on behalf of the Authority.
+
+(8) Subsection (7) does not apply in relation to any function expressly conferred on—
+
+(a) the London Assembly, or
+
+(b) the Mayor of London and the London Assembly acting jointly on behalf of the Greater London Authority.
+
+(9) Any function conferred or imposed on a parish meeting under or by virtue of this Act, other than a function expressly conferred on the parish meeting itself, is exercisable by the chairman of the parish meeting acting on behalf of the authority.
+
+(10) References in this Act to accounts, accounting records or statements of account in relation to the Common Council are to its accounts, accounting records or statements of account so far as relating to—
+
+(a) the collection fund of the Common Council,
+
+(b) the City Fund, or
+
+(c) a pension fund maintained and administered by the Common Council under regulations under section 1 of the Public Service Pensions Act 2013.
+
+#### 45 Related amendments
+
+Schedule 12 (related amendments) has effect.
+
+#### 46 Power to make consequential provision
+
+(1) The Secretary of State may by regulations make such consequential, incidental or supplementary provision as the Secretary of State considers appropriate in connection with any provision of, or made under, this Act.
+
+(2) The power in subsection (1) includes power to amend, repeal or revoke any provision of or made under an Act (including this Act) whenever passed or made.
+
+#### [^F56]47 Application to NHS trusts and trustees for NHS trusts
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 48 Extent
+
+(1) This Act extends to England and Wales only, subject as follows.
+
+(2) An amendment, repeal or revocation made by this Act, other than one mentioned in subsection (3), has the same extent as the relevant part of the Act or instrument amended, repealed or revoked.
+
+(3) Subsection (2) does not apply to the amendment made by section 39(1) (power to require compliance with local authority publicity code), which extends to England and Wales only.
+
+(4) The following provisions of this Act extend to England and Wales, Scotland and Northern Ireland—
+
+(a) section 43 (orders and regulations) so far as it applies to regulations under section 46 or an order under section 49;
+
+(b) section 45 (related amendments) so far as it applies to amendments, repeals and revocations within subsection (2) of this section;
+
+(c) section 46 (power to make consequential provision);
+
+(d) this section;
+
+(e) section 49 (commencement);
+
+(f) section 50 (short title).
+
+#### 49 Commencement
+
+(1) The provisions of this Act come into force on such day as the Secretary of State may by order appoint, subject to subsections (2) to (4).
+
+(2) Sections 39 and 40 come into force at the end of the period of 2 months beginning with the day on which this Act is passed.
+
+(3) If this Act is passed before 5 February 2014, section 41 comes into force on the day on which this Act is passed; otherwise that section comes into force on such day as the Secretary of State may by order appoint.
+
+(4) The following provisions come into force on the day on which this Act is passed—
+
+(a) section 43;
+
+(b) section 44;
+
+(c) section 46;
+
+(d) section 48;
+
+(e) this section;
+
+(f) section 50.
+
+(5) An order under this section may—
+
+(a) appoint different days for different purposes or different areas;
+
+(b) make transitional, transitory or saving provision.
+
+(6) Provision under subsection (5)(b) may, in particular, enable a function of the Audit Commission under—
+
+(a) a provision that is amended or repealed by this Act, or
+
+(b) any of sections 139A to 139C of the Social Security Administration Act 1992,
+
+to be exercised by a person or body, or by the persons or bodies, specified in the order for a period specified in or determined under the order.
+
+(7) Where provision under subsection (5)(b) made by virtue of subsection (6) enables a function to be exercised by a Minister of the Crown, an order under this section may enable the Minister to delegate the exercise of that function to another person or body or other persons or bodies.
+
+(8) An order under this section which makes provision under subsection (5)(b) by virtue of subsection (6) or (7) may in particular provide for references in an enactment to the Audit Commission to be read as references to the person or body or persons or bodies by whom the function may be exercised.
+
+(9) Provision under subsection (5)(b) may, in particular, provide for the first local auditor appointed by a relevant authority under subsection (1) of section 7 to be appointed on a date later than that specified in that subsection.
+
+(10) In this section “the Audit Commission” means the Audit Commission for Local Authorities and the National Health Service in England.
+
+#### 50 Short title
+
+This Act may be cited as the Local Audit and Accountability Act 2014.
+
+## SCHEDULE 1 — Abolition of Audit Commission: supplementary provision
+
+*Section 1*
+
+### Part 1 — Arrangements in connection with abolition of Audit Commission
+
+#### Transfer of property, rights and liabilities
+
+**1** (1) The Secretary of State may make one or more schemes for the transfer of property, rights and liabilities of the Audit Commission to a person or persons specified in the scheme.
+
+(2) The things that may be transferred under a transfer scheme include—
+
+(a) property, rights and liabilities that could not otherwise be transferred;
+
+(b) property acquired, and rights and liabilities arising, after the making of the scheme.
+
+(3) A transfer scheme may make consequential, supplementary, incidental or transitional provision and may in particular—
+
+(a) create rights, or impose liabilities, in relation to property or rights transferred;
+
+(b) make provision about the continuing effect of things done by the transferor in respect of anything transferred;
+
+(c) make provision about the continuation of things (including legal proceedings) in the process of being done by, on behalf of or in relation to the transferor, in respect of anything transferred;
+
+(d) make provision for references to the transferor in an instrument or other document in respect of anything transferred to be treated as references to the transferee;
+
+(e) make provision for the shared ownership or use of property;
+
+(f) if the TUPE regulations do not apply in relation to the transfer, make provision which is the same or similar.
+
+(4) A transfer scheme may, in such cases as may be specified in the scheme, provide for a person's period of employment before the person was employed by the Audit Commission (as well as the person's period of employment by the Audit Commission) to be treated as a period of employment with the transferee for the purposes of the scheme or, if they apply in relation to the transfer, the TUPE regulations.
+
+(5) A transfer scheme may provide—
+
+(a) for modification by agreement;
+
+(b) for modifications to have effect from the date when the original scheme came into effect.
+
+(6) In this paragraph—
+
+(a) “TUPE regulations” means the Transfer of Undertakings (Protection of Employment) Regulations 2006 (SI 2006/246), and
+
+(b) references to rights and liabilities include rights and liabilities under a contract of employment.
+
+#### Reduction in membership pending abolition
+
+**2** Until the coming into force of section 1, in section 1(2) of the Audit Commission Act 1998 (Audit Commission to consist of not less than 10 nor more than 15 members) there is omitted the words “less than 10 nor”.
+
+#### Final accounts
+
+**3** (1) As soon as is reasonably practicable after the abolition date, the Secretary of State must prepare—
+
+(a) a statement of account for the Audit Commission for the last financial year to end before the abolition date, and
+
+(b) a statement of account for the Audit Commission for the period (if any) beginning immediately after the end of that financial year and ending immediately before the abolition date.
+
+(2) A statement of account under this paragraph must be prepared in accordance with the last direction given by the Secretary of State to the Audit Commission under paragraph 11(1) of Schedule 1 to the Audit Commission Act 1998.
+
+(3) The Secretary of State must, as soon as is reasonably practicable after preparing a statement of account under this paragraph, send a copy of it to the Comptroller and Auditor General.
+
+(4) The Comptroller and Auditor General must—
+
+(a) examine, certify and report on the statement of account, and
+
+(b) make arrangements for a copy of the statement and the report to be laid before Parliament.
+
+(5) Sub-paragraph (1)(a) does not apply if the Audit Commission has already sent a copy of the statement of account for that year to the Comptroller and Auditor General.
+
+(6) In that case, the repeal by this Act of paragraph 11 of Schedule 1 to the Audit Commission Act 1998 does not remove the obligation of the Comptroller and Auditor General to take the steps specified in that paragraph in relation to the statement of account if the Comptroller has not already done so.
+
+(7) In this paragraph “financial year” means the period of 12 months ending with 31st March in any year.
+
+#### Final annual report
+
+**4** (1) As soon as is reasonably practicable after the abolition date, the Secretary of State must publish a report on the discharge of the functions of the Audit Commission.
+
+(2) The report must relate to the period—
+
+(a) beginning immediately after the period covered by the last annual report published by the Audit Commission, and
+
+(b) ending immediately before the abolition date.
+
+(3) The Secretary of State must lay an annual report published under this paragraph before Parliament.
+
+(4) The repeal by this Act of paragraph 14(2) of Schedule 1 to the Audit Commission Act 1998 does not remove the obligation of the Secretary of State to lay copies of an annual report received from the Audit Commission before each House of Parliament if the Secretary of State has not already done so.
+
+#### Payments in respect of pension liabilities
+
+**5** The Secretary of State may make payments to any person to enable that person to meet—
+
+(a) liabilities arising as the result of provision made under paragraph 5(2) of Schedule 1 to the Audit Commission Act 1998 for the payment of sums by way of pension, allowances or gratuities, or
+
+(b) liabilities under the pension scheme established under paragraph 7(4)(c) of that Schedule.
+
+#### Meaning of “the abolition date”
+
+**6** In this Schedule “the abolition date” means the date on which section 1(1) (abolition of Audit Commission) comes into force.
+
+### Part 2 — Repeal of Audit Commission Act 1998: consequential repeals and revocations
+
+<table>
+<tbody>
+<tr><th><i>Reference</i></th><th><i>Extent of repeal or revocation</i></th></tr>
+<tr><td>School Standards and Framework Act 1998 (c. 31)</td><td>In Schedule 30, paragraph 225.</td></tr>
+<tr><td>Local Government Act 1999 (c. 27)</td><td>Section 22(3) to (6).</td></tr>
+<tr><td rowspan="2">Greater London Authority Act 1999 (c. 29)</td><td>Section 133.</td></tr>
+<tr><td>Schedule 8.</td></tr>
+<tr><td rowspan="2">Local Government Act 2000 (c. 22)</td><td>Section 91(1).</td></tr>
+<tr><td>In Schedule 5, paragraph 30.</td></tr>
+<tr><td>Countryside and Rights of Way Act 2000 (c. 37)</td><td>In Schedule 13, paragraph 8.</td></tr>
+<tr><td rowspan="3">Local Government Act 2003 (c. 26)</td><td>Sections 107 and 108.</td></tr>
+<tr><td>Sections 110 and 111.</td></tr>
+<tr><td>In Schedule 7, paragraph 65.</td></tr>
+<tr><td>Health and Social Care (Community Health and Standards) Act 2003 (c. 43)</td><td>In Schedule 9, paragraph 12.</td></tr>
+<tr><td>Fire and Rescue Services Act 2004 (c. 21)</td><td>In Schedule 1, paragraph 88.</td></tr>
+<tr><td>Public Audit (Wales) Act 2004 (c. 23)</td><td>In Schedule 2, paragraphs 21 to 26 and 32 to 38.</td></tr>
+<tr><td>Freedom of Information (Removal and Relaxation of Statutory Prohibitions on Disclosure of Information) Order 2004 (SI 2004/3363)</td><td>Article 8.</td></tr>
+<tr><td>Public Services Ombudsman (Wales) Act 2005 (c. 10)</td><td>In Schedule 6, paragraph 59.</td></tr>
+<tr><td>Serious Organised Crime and Police Act 2005 (c. 15)</td><td>In Schedule 4, paragraph 111.</td></tr>
+<tr><td>Education Act 2005 (c. 18)</td><td>In Schedule 14, paragraph 18.</td></tr>
+<tr><td>Regulatory Reform (National Health Service Charitable and Non-Charitable Trust Accounts and Audit) Order 2005 (SI 2005/1074)</td><td>Article 4.</td></tr>
+<tr><td>Health Act 2006 (c. 28)</td><td>In Schedule 8, paragraphs 39 to 42.</td></tr>
+<tr><td>Education and Inspections Act 2006 (c. 40)</td><td>In Schedule 14, paragraphs 26 to 28, 30 and 31.</td></tr>
+<tr><td>National Health Service (Consequential Provisions) Act 2006 (c. 43)</td><td>In Schedule 1, paragraphs 186 to 189.</td></tr>
+<tr><td>Serious Crime Act 2007 (c. 27)</td><td>Part 1 of Schedule 7.</td></tr>
+<tr><td rowspan="11">Local Government and Public Involvement in Health Act 2007 (c. 28)</td><td>Sections 145 and 146.</td></tr>
+<tr><td>Section 149.</td></tr>
+<tr><td>Section 151(1).</td></tr>
+<tr><td>Section 153.</td></tr>
+<tr><td>Section 155(3).</td></tr>
+<tr><td>Section 157.</td></tr>
+<tr><td>Sections 159 to 165.</td></tr>
+<tr><td>Section 201(5).</td></tr>
+<tr><td>Schedule 9.</td></tr>
+<tr><td>Schedule 11.</td></tr>
+<tr><td>In Schedule 13, paragraph 52.</td></tr>
+<tr><td>Health and Social Care Act 2008 (c. 14)</td><td>In Schedule 5, paragraphs 64 to 69.</td></tr>
+<tr><td>Housing and Regeneration Act 2008 (c. 17)</td><td>In Schedule 9, paragraphs 20 to 27.</td></tr>
+<tr><td>Local Transport Act 2008 (c. 26)</td><td>In Schedule 4, paragraph 61.</td></tr>
+<tr><td>Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2008 (SI 2008/817)</td><td>Article 4.</td></tr>
+<tr><td>Offender Management Act 2007 (Consequential Amendments) Order 2008 (SI 2008/912)</td><td>In Schedule 1, paragraphs 26(2)(c) and (d) and 27(2)(c).</td></tr>
+<tr><td>Companies Act 2006 (Consequential Amendments etc) Order 2008 (SI 2008/948)</td><td>In Schedule 1, paragraph 23.</td></tr>
+<tr><td>London Waste and Recycling Board Order 2008 (SI 2008/2038)</td><td>Article 21(1).</td></tr>
+<tr><td>Local Democracy, Economic Development and Construction Act 2009 (c. 20)</td><td>In Schedule 6, paragraph 89.</td></tr>
+<tr><td>Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (SI 2009/1941)</td><td>In Schedule 1, paragraph 173.</td></tr>
+<tr><td>Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (SI 2010/844)</td><td>In Schedule 2, paragraph 24.</td></tr>
+<tr><td>Apprenticeship, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (SI 2010/1080)</td><td>In Schedule 1, paragraph 98.</td></tr>
+<tr><td>Police Reform and Social Responsibility Act 2011 (c. 13)</td><td>In Schedule 16, paragraphs 226 to 230.</td></tr>
+<tr><td>Localism Act 2011 (c. 20)</td><td>In Schedule 20, paragraph 3.</td></tr>
+<tr><td>Education Act 2011 (c. 21)</td><td>In Schedule 5, paragraph 13.</td></tr>
+<tr><td>Local Government Finance Act 2012 (c. 17)</td><td>In Schedule 3, paragraph 31.</td></tr>
+<tr><td>Crime and Courts Act 2013 (c. 22)</td><td>In Schedule 9, paragraph 62.</td></tr>
+<tr><td>Health and Social Care Act 2012 (Consequential Amendments) Order 2013 (SI 2013/594)</td><td>Article 4.</td></tr>
+</tbody>
+</table>
+
+## [[^F57]Schedule 1A — Local Audit Office: constitution, proceedings etc
+
+*Section 1A(2)*
+
+### Composition
+
+**1** (1) The Local Audit Office is to consist of—
+
+(a) the Chair (who is to be a non-executive member),
+
+(b) at least 5 other non-executive members,
+
+(c) the Controller of Local Audit (being an executive member by virtue of paragraph 4), and
+
+(d) any individuals who are executive members by virtue of paragraph 5.
+
+(2) The Secretary of State and the Office must, so far as practicable, exercise their powers so as to ensure that the number of non-executive members is at all times greater than the number of executive members.
+
+### Non-executive members: appointment and tenure
+
+**2** (1) The non-executive members (including the Chair) are to be appointed by the Secretary of State.
+
+(2) An employee of the Office may not be appointed.
+
+(3) Appointment is to be for a fixed term not exceeding 5 years.
+
+(4) An individual may be appointed no more than twice.
+
+(5) Subject to the other provisions of this Schedule, an individual is to hold office as a non-executive member in accordance with the terms of the individual’s appointment.
+
+(6) A non-executive member may resign by giving written notice to the Secretary of State.
+
+(7) The Secretary of State may by written notice remove a non-executive member from office on the grounds that—
+
+(a) the member has without reasonable excuse failed to carry out the functions of the office, or
+
+(b) in the opinion of the Secretary of State, the member is otherwise unable, unfit or unwilling to carry out those functions.
+
+(8) A non-executive member who becomes an employee of the Office ceases to be a non-executive member.
+
+### Non-executive members: remuneration
+
+**3** (1) The Local Audit Office must make, or make provision for, such of the following payments (in such amounts and in such circumstances) as the Secretary of State may determine.
+
+(2) The payments are those of—
+
+(a) remuneration, pensions, allowances and gratuities in respect of an individual’s service as a non-executive member, and
+
+(b) compensation in respect of an individual’s ceasing to be a non-executive member.
+
+(3) The Secretary of State may determine that a payment within sub-paragraph (2)(b) is to be made only in a case where the Secretary of State considers there to be special circumstances.
+
+### Controller of Local Audit
+
+**4** (1) The Local Audit Office must employ an individual to act as its chief executive officer.
+
+(2) That individual—
+
+(a) is to have the title of the Controller of Local Audit, and
+
+(b) is by virtue of the individual’s employment an executive member of the Office.
+
+(3) The Office must consult the Secretary of State before appointing the Controller.
+
+### Other executive members
+
+**5** (1) The Local Audit Office may from time to time—
+
+(a) designate for the purposes of this paragraph roles in which individuals are or are to be employed by the Office;
+
+(b) revoke such a designation.
+
+(2) The Office must consult the Secretary of State before making or revoking a designation.
+
+(3) An individual employed by the Office in a designated role is by virtue of that employment an executive member of the Office.
+
+### Staff
+
+**6** (1) The Local Audit Office may employ staff and make other arrangements for its staffing.
+
+(2) That employment, or those arrangements, may be on whatever terms the Office considers appropriate (including terms as to remuneration, pensions or other financial matters).
+
+(3) The Secretary of State may from time to time—
+
+(a) designate for the purposes of sub-paragraph (4) roles in which individuals serve or are to serve as staff of the Office;
+
+(b) revoke such a designation.
+
+(4) The Office may not make a payment in respect of an individual’s service in a designated role except in accordance with an agreement whose terms, so far as they relate to such payments, have been approved by the Secretary of State.
+
+### Committees
+
+**7** (1) The Local Audit Office may appoint committees.
+
+(2) A committee of the Office may appoint sub-committees.
+
+(3) Members of a committee or sub-committee do not have to be members of the Office.
+
+(4) Members of a sub-committee do not have to be members of the appointing committee.
+
+(5) The Office may pay such remuneration and allowances as it may determine to any person who—
+
+(a) is a member of a committee or a sub-committee, but
+
+(b) is not a member of the Office or a member of its staff.
+
+### Delegation
+
+**8** (1) The Local Audit Office may (subject to sub-paragraph (5)) delegate any of its functions to—
+
+(a) a committee or sub-committee,
+
+(b) a member of the Office, or
+
+(c) a member of the Office’s staff.
+
+(2) A committee may delegate any of its functions to—
+
+(a) a sub-committee appointed by it,
+
+(b) a member of the committee, or
+
+(c) a member of the Office’s staff.
+
+(3) A sub-committee may delegate any of its functions to—
+
+(a) a member of the sub-committee, or
+
+(b) a member of the Office’s staff.
+
+(4) A delegation under this paragraph—
+
+(a) may be limited in extent or made subject to conditions, and
+
+(b) does not prevent the delegator from exercising the function concerned.
+
+(5) The Office may not delegate its function of—
+
+(a) appointing the Controller of Local Audit,
+
+(b) making or revoking the designation of a role for the purposes of paragraph 5, or
+
+(c) adopting—
+
+(i) a statement of accounts under paragraph 13,
+
+(ii) a business plan or corporate strategy under paragraph 14, or
+
+(iii) an annual report under paragraph 15.
+
+### Procedure
+
+**9** (1) The Local Audit Office may determine its own procedure (including quorum) and that of its committees and sub-committees.
+
+(2) The validity of any proceedings of the Office is not affected by any vacancy or defective appointment.
+
+### General power
+
+**10** The Local Audit Office may do anything it thinks appropriate for the purposes of, or in connection with, its functions.
+
+### Status
+
+**11** (1) The Local Audit Office is not to be regarded—
+
+(a) as the servant or agent of the Crown, or
+
+(b) as enjoying any status, immunity or privilege of the Crown.
+
+(2) The Office’s property is not to be regarded as property of, or property held on behalf of, the Crown.
+
+(3) Service as a member, or a member of staff, of the Office is not service in the civil service of the State.
+
+### Seal and evidence
+
+**12** (1) The application of the Local Audit Office’s seal must be authenticated by a signature of—
+
+(a) a member of the Office, or
+
+(b) another person authorised for that purpose by the Office.
+
+(2) A document purporting to be duly executed under the Office’s seal or signed on its behalf—
+
+(a) is to be received in evidence, and
+
+(b) is to be taken to be executed or signed in that way, unless the contrary is shown.
+
+### Accounts
+
+**13** (1) The Local Audit Office must—
+
+(a) keep proper accounts and proper records in relation to them, and
+
+(b) prepare and adopt a statement of accounts in respect of each financial year.
+
+(2) The Office must send a copy of each statement of accounts to the Secretary of State and the Comptroller and Auditor General as soon as practicable after the end of the financial year to which the statement relates.
+
+(3) The Comptroller and Auditor General must—
+
+(a) examine, certify and report on each statement of accounts, and
+
+(b) send a copy of each report and certified statement to the Secretary of State.
+
+(4) The Secretary of State must lay before Parliament a copy of each such report and certified statement.
+
+### Business planning
+
+**14** (1) The Local Audit Office must have—
+
+(a) a business plan, and
+
+(b) a corporate strategy.
+
+(2) The business plan is to relate to a single financial year and is to be published before the start of that year.
+
+(3) The corporate strategy is to relate to a period of between 3 and 5 years and must be published before the expiry of the previous strategy.
+
+(4) The Office may revise its business plan or corporate strategy, and must publish any revision.
+
+### Annual report
+
+**15** (1) As soon as reasonably practicable after the end of each financial year, the Local Audit Office must prepare and adopt a report on the exercise of its functions during that financial year.
+
+(2) The Office must send the report to the Secretary of State.
+
+(3) The Secretary of State must lay the report before Parliament.]
+
+## [[^F58]Schedule 1B — External registration bodies
+
+*Section 6B(7)*
+
+### Provision of information to the Local Audit Office
+
+**1** (1) An external registration body must comply with any written request by the Local Audit Office to be provided with information.
+
+(2) Such a request may relate to information as it exists in the future (for instance, information about a future occurrence once it has occurred or about a future period once it has elapsed).
+
+(3) The Office may make such a request only if the Office reasonably requires the information concerned in connection with the performance of its functions.
+
+### Directions to secure compliance
+
+**2** (1) If the Local Audit Office considers that an external registration body has failed to comply with a requirement under—
+
+(a) this Act, or
+
+(b) an agreement under section 6B(5),
+
+the Office may give the body a direction under this paragraph.
+
+(2) A direction under this paragraph is one directing the body to take steps that the Office considers will—
+
+(a) secure that the requirement in question is complied with, or
+
+(b) mitigate the effect, or prevent the recurrence, of the failure of compliance.
+
+(3) Such a step—
+
+(a) must be one that the body has the power to take;
+
+(b) may consist of not doing something.
+
+(4) A direction under this paragraph must—
+
+(a) explain the Office’s reasons for giving the direction, and
+
+(b) specify the time by which the direction must be complied with.
+
+### Financial penalties
+
+**3** (1) If the Local Audit Office considers that an external registration body has failed to comply with a requirement under—
+
+(a) this Act, or
+
+(b) an agreement under section 6B(5),
+
+the Office may impose a financial penalty on the body.
+
+(2) A financial penalty is imposed by giving the body a written notice requiring the body to pay the Office a financial penalty of a sum specified in the notice.
+
+(3) Such a notice must—
+
+(a) explain the Office’s reasons for imposing the penalty, and
+
+(b) specify the time by which, and manner in which, the penalty must be paid.
+
+(4) An external registration body must, as soon as practicable after the end of a financial year, notify the Office of its total income in that year from fees charged under section 6A(5).
+
+(5) The amount of a penalty imposed on a body under this paragraph may not exceed 30% of the sum last notified by the body under sub-paragraph (4).
+
+### Directions and penalties: procedure etc
+
+**4** (1) Before giving a direction under paragraph 2 or imposing a penalty under paragraph 3, the Local Audit Office must—
+
+(a) give the body a notice of intent, and
+
+(b) consider any representations made by the body in response to (and in accordance with) that notice.
+
+(2) A notice of intent is a notice that—
+
+(a) states the Office’s intention to give the direction or impose the penalty,
+
+(b) sets out the intended terms of the direction or of the notice imposing the penalty,
+
+(c) explains the Office’s reasons for intending to give the direction or impose the penalty, and
+
+(d) specifies the time by which, and manner in which, representations may be made.
+
+(3) Where the Office has given a direction under paragraph 2 or imposed a penalty under paragraph 3, the Office may by written notice given to that body—
+
+(a) cancel the direction or penalty, or
+
+(b) vary the direction, or the notice imposing the penalty, in any way that does not make it more onerous.
+
+(4) The Office must publish—
+
+(a) a direction under paragraph 2,
+
+(b) a notice imposing a penalty under paragraph 3, and
+
+(c) any notice cancelling or varying such a direction or notice.
+
+(5) But it must do so only after the direction or penalty can no longer be cancelled or varied on appeal (ignoring any possibility of an appeal out of time).
+
+(6) If a penalty imposed under paragraph 3 is not paid in time—
+
+(a) the penalty (or the unpaid part of it) carries interest at the rate for the time being specified in section 17 of the Judgments Act 1838;
+
+(b) the Office may recover the penalty (or the unpaid part of it), with the interest, as a debt.
+
+### Directions and penalties: appeals
+
+**5** (1) An external registration body may appeal to the High Court against a direction given to it under paragraph 2 or a penalty imposed on it under paragraph 3.
+
+(2) The grounds on which an appeal may be brought are—
+
+(a) that the failure of compliance on the grounds of which the direction was given or the penalty was imposed did not occur, or
+
+(b) that any of the following is unreasonable—
+
+(i) the decision to give the direction or impose the penalty;
+
+(ii) any of the terms of the direction;
+
+(iii) the amount of the penalty, or the time or manner of its payment.
+
+(3) If satisfied that any of those grounds is made out, the court must allow the appeal and do whichever of the following it considers appropriate—
+
+(a) cancel the direction or penalty, or
+
+(b) vary the direction or the notice imposing the penalty.
+
+(4) Otherwise, the court must dismiss the appeal.
+
+(5) The court may—
+
+(a) make an interim order suspending the effect of a direction or penalty appealed against under this paragraph;
+
+(b) if it allows an appeal under this paragraph against a penalty, make any order as to interest that it considers appropriate (including an order varying the effect of paragraph 4(6)(a)).
+
+### Compliance orders by the court
+
+**6** (1) This paragraph applies if the High Court is satisfied, on an application by the Local Audit Office, that an external registration body has failed to comply with a requirement under—
+
+(a) this Act, or
+
+(b) an agreement under section 6B(5).
+
+(2) The court may order the body to take steps that the court considers will secure that the requirement in question is complied with.
+
+(3) Such a step—
+
+(a) must be one that the body has the power to take;
+
+(b) may consist of not doing something.
+
+(4) This court may not make an order under this paragraph in respect of the requirement to comply with a direction under paragraph 2 unless it is satisfied that the failure of compliance on the ground of which the direction was given did in fact occur.
+
+### Directions with respect to international obligations
+
+**7** (1) If it appears to the Secretary of State or the Local Audit Office—
+
+(a) that any action proposed to be taken by an external registration body would be incompatible with assimilated obligations or any other international obligations of the United Kingdom, or
+
+(b) that any action which an external registration body has power to take is required for the purpose of implementing any such obligations,
+
+the Secretary of State or the Office may direct the body not to take or, as the case may be, to take the action in question.
+
+(2) A direction under this paragraph—
+
+(a) may include such supplementary or incidental requirements as the Secretary of State or the Office thinks necessary or expedient, and
+
+(b) may be varied or cancelled by written notice to the body concerned.
+
+(3) A direction under this paragraph is enforceable by injunction issued by the High Court on the application of the Secretary of State or the Office.
+
+### Exemption from liability in damages
+
+**8** (1) No person within sub-paragraph (2) is to be liable in damages for anything done or omitted in the discharge or purported discharge of functions to which this sub-paragraph applies.
+
+(2) The persons within this subsection are—
+
+(a) an external registration body,
+
+(b) an officer or employee of such a body, and
+
+(c) a member of the governing body of such a body.
+
+(3) Sub-paragraph (1) applies to the functions of an external registration body so far as relating to, or to matters arising out of, any of the following—
+
+(a) rules and arrangements made for the purposes of Schedule 1C or any agreement under section 6B(5)(a), or
+
+(b) any guidance or recommendation within sub-paragraph (4).
+
+(4) Guidance or a recommendation is within this sub-paragraph if—
+
+(a) it is issued or made by the external registration body to all or any class of the persons who are or are seeking to become—
+
+(i) registered in the body’s local audit register, or
+
+(ii) listed in accordance with paragraph 6 of Schedule 1C (list of firm’s lead partners), and
+
+(b) it is relevant for the purposes of this Act,
+
+including any guidance or recommendation relating to entry in or removal from the register or list.
+
+(5) Sub-paragraph (1) does not apply—
+
+(a) if the act or omission is shown to have been in bad faith, or
+
+(b) so as to prevent an award of damages in respect of the act or omission on the ground that it was unlawful as a result of section 6(1) of the Human Rights Act 1998 (acts of public authorities incompatible with Convention rights).
+
+## Schedule 1C — Eligibility and regulation of registered providers
+
+*Section 6C(1)*
+
+### Introduction
+
+**1** (1) The following paragraphs set out the requirements that have effect in relation to a local audit register as provided by section 6C(1).
+
+(2) In this Schedule as it applies in relation to a given register—
+
+- “provider” means an individual or firm entered in that register;
+- “the registration body” means the body keeping that register.
+
+### Eligibility criteria and procedures
+
+**2** (1) The registration body must have in place—
+
+(a) criteria for being entered, and remaining, in the register, and
+
+(b) procedures for entry in, and removal from, the register.
+
+(2) The procedures must allow for appeals to be made to a person who will determine the appeal independently of the maker of the decision appealed against.
+
+### Registration rules
+
+**3** (1) The registration body must secure that each provider is bound by rules determined by the body.
+
+(2) Those rules are referred to in this Schedule as “registration rules”.
+
+(3) Any changes in the body’s registration rules after its designation must be approved by the Local Audit Office.
+
+(4) The body must have arrangements for taking account, in framing its registration rules, of the cost to providers of complying with those rules and any other controls to which they are subject.
+
+### Professional qualifications
+
+**4** (1) The criteria and procedures in place under paragraph 2 must be designed to secure that—
+
+(a) an individual—
+
+(i) may be entered in the register only if the individual meets the qualification requirement, and
+
+(ii) is to be removed from the register as soon as possible after ceasing to meet that requirement;
+
+(b) a firm—
+
+(i) may be entered in the register only if the firm meets the qualified control requirement, and
+
+(ii) is to be removed from the register before the end of the period of 3 months beginning with the day on which the firm ceases to meet that requirement.
+
+(2) See Part 1 of Schedule 1D for the requirements referred to in sub-paragraph (1).
+
+### Professional integrity and independence
+
+**5** (1) The registration rules must include rules designed to secure that—
+
+(a) audits under this Act are conducted properly and with integrity, and
+
+(b) providers are not appointed as local auditors in circumstances in which they have an interest likely to conflict with the proper conduct of the audit.
+
+(2) The criteria and procedures in place under paragraph 2 must be designed to secure that a firm—
+
+(a) may be entered in the register only if the firm has in place adequate arrangements within sub-paragraph (3), and
+
+(b) is to be removed from the register as soon as possible after ceasing to have such arrangements.
+
+(3) The arrangements within this sub-paragraph are arrangements to prevent a person to whom sub-paragraph (4) applies from being able to exert any influence over the way in which an audit under this Act is conducted in circumstances in which that influence would be likely to affect the independence or integrity of the audit.
+
+(4) This sub-paragraph applies to—
+
+(a) any person who is not a member of the firm, and
+
+(b) any individual who is a member of the firm but does not meet the qualification requirement for the purposes of paragraph 4(1)(a).
+
+### Lead partners
+
+**6** (1) The registration body must secure that the register includes, for each provider that is a firm, a list of the individuals who may act as the lead partner for an audit carried out by the firm.
+
+(2) The registration body must have arrangements designed to secure that an individual appears in the list only if the individual—
+
+(a) meets the qualification requirement (see paragraph 1 of Schedule 1D),
+
+(b) otherwise has the necessary competence to act as the lead partner for an audit, and
+
+(c) is bound by rules determined by the body (which are referred to in this Schedule as “lead partner rules”).
+
+(3) Any changes in the body’s lead partner rules after its designation must be approved by the Local Audit Office.
+
+(4) The registration body must have lead partner rules designed to secure that individuals acting as lead partners for audits under this Act maintain high standards of professional conduct.
+
+### Complaints procedures
+
+**7** (1) The registration body must have effective arrangements for the investigation of complaints against providers, so far as relating to their work in connection with audits under this Act.
+
+(2) The registration body must have effective arrangements for the investigation of complaints against itself, so far as relating to its functions as a registration body.
+
+### Meeting of claims
+
+**8** (1) The registration body must have in place registration rules or other arrangements designed to secure that providers take such steps as may reasonably be expected of them to secure that they are able to meet claims against them arising out of their work in connection with audits under this Act.
+
+(2) This may be achieved by professional indemnity insurance or other appropriate arrangements.
+
+### Monitoring and inspections
+
+**9** (1) The registration body must have in place—
+
+(a) arrangements for monitoring compliance with its registration rules and lead partner rules,
+
+(b) arrangements for the inspection of providers in connection with their work in connection with audits under this Act,
+
+(c) registration rules designed to secure that providers co-operate with the monitoring and inspections, and
+
+(d) lead partner rules designed to secure that individuals bound by the rules co-operate with the monitoring.
+
+(2) The arrangements relating to inspections must be designed to secure that each provider is inspected at least once every 6 years.
+
+(3) Those arrangements must include—
+
+(a) provision for the results of any inspections not carried out by the registration body to be reported to the registration body, and
+
+(b) in the case of an external registration body, provision for the results of any inspections not carried out by the Local Audit Office to be reported to the Office.
+
+### Enforcement
+
+**10** (1) The registration body must have in place—
+
+(a) arrangements for the investigation of suspected breaches by providers or lead partners,
+
+(b) registration rules and lead partner rules designed to secure that providers and lead partners co-operate with any investigations,
+
+(c) arrangements for the imposition of sanctions in respect of breaches that are established, and
+
+(d) registration rules and lead partner rules designed to secure that providers and lead partners are bound by any sanctions.
+
+(2) In sub-paragraph (1), “breaches” means breaches of requirements imposed by or under this Act (including by registration rules or lead partner rules).
+
+(3) The available sanctions must include financial penalties.
+
+(4) The arrangements and rules must allow for appeals to be made to a person who will determine the appeal independently of the maker of the decision appealed against.
+
+(5) The arrangements and rules must allow for the Local Audit Office to be able—
+
+(a) to determine that a particular case raises or appears to raise important issues affecting the public interest, and
+
+(b) to assume enforcement responsibility in a case in which it has made such a determination.
+
+(6) For the purposes of sub-paragraph (5), the Office assumes enforcement responsibility if it assumes responsibility for the final decision (subject to any appeal) as to—
+
+(a) whether the requirement or rule in question has been breached, and
+
+(b) if so, the sanction to be imposed.
+
+### Provision and publication of information
+
+**11** (1) The registration rules must require a provider to comply with any written request for the provision of information made by the registration body or (if different) the Local Audit Office for the purposes of its functions.
+
+(2) The registration rules must require a provider to comply with any general directions published from time to time by the Local Audit Office regarding the publication of information about providers.
+
+(3) That information may, for instance, include information regarding—
+
+(a) a provider’s ownership and governance,
+
+(b) a provider’s internal controls with respect to the quality and independence of its audit work,
+
+(c) a provider’s turnover, and
+
+(d) the relevant authorities whose accounts a provider has audited under this Act.
+
+## Schedule 1D — Professional qualifications
+
+*Section 6D*
+
+### Part 1 — Requirements for registered providers
+
+#### Qualification requirement for individuals
+
+**1** (1) This paragraph applies for the purposes of paragraph 4(1)(a) of Schedule 1C.
+
+(2) An individual meets the qualification requirement if the individual—
+
+(a) holds an appropriate qualification, or
+
+(b) falls within paragraph 4 or 5 of this Schedule.
+
+#### Qualified control requirement for firms
+
+**2** (1) This paragraph applies for the purposes of paragraphs 4(1)(b) and 6(2)(a) of Schedule 1C.
+
+(2) A firm meets the qualified control requirement if—
+
+(a) a majority of the members of the firm are qualified persons, and
+
+(b) where the firm’s affairs are managed by a board of directors, committee or other management body—
+
+(i) a majority of that body are qualified persons, or
+
+(ii) if the body consists of two persons only, at least one of them is a qualified person.
+
+(3) The following provisions apply for the purposes of sub-paragraph (2).
+
+(4) An individual is a qualified person if the individual—
+
+(a) holds an appropriate qualification, or
+
+(b) falls within paragraph 4 or 5 of this Schedule.
+
+(5) A firm is a qualified person if the firm—
+
+(a) meets the criteria to become a registered local audit provider, or
+
+(b) is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006.
+
+(6) A majority of the members of a firm means—
+
+(a) where under the firm’s constitution matters are decided upon by the exercise of voting rights, members holding a majority of the rights to vote on all, or substantially all, matters;
+
+(b) in any other case, members having such rights under the constitution of the firm as enable them to direct its overall policy or alter its constitution.
+
+(7) A majority of the members of the management body of a firm means—
+
+(a) where matters are decided at meetings of the management body by the exercise of voting rights, members holding a majority of the rights to vote on all, or substantially all, matters at such meetings;
+
+(b) in any other case, members having such rights under the constitution of the firm as enable them to direct its overall policy or alter its constitution.
+
+(8) Paragraphs 5 to 11 of Schedule 7 to the Companies Act 2006 (rights to be taken into account and attribution of rights) apply for the purposes of sub-paragraphs (6) and (7) as they apply for the purposes of section 1162 of that Act.
+
+#### “Appropriate qualification”
+
+**3** (1) The Secretary of State may by regulations provide for a qualification to be an appropriate qualification for the purposes of paragraphs 1 and 2 if—
+
+(a) it is a professional qualification in accountancy,
+
+(b) it is obtained from a body established in the United Kingdom (whether a body corporate or an unincorporated association), and
+
+(c) it meets, or the Secretary of State thinks that it meets, specified requirements.
+
+(2) The regulations may, in particular, provide for a qualification to be an appropriate qualification if it is recognised in accordance with the regulations.
+
+(3) Regulations under this paragraph that contain provision under sub-paragraph (2) may in particular—
+
+(a) provide for the making (by the Secretary or State or otherwise) of an order (a “recognition order”) recognising a qualification;
+
+(b) make provision about applications for a recognition order;
+
+(c) provide for the giving of directions or imposition of requirements in connection with such applications;
+
+(d) make provision about the circumstances in which the making of a recognition order may or must be refused;
+
+(e) make provision about the steps to be taken on making or refusing to make a recognition order;
+
+(f) provide for a recognition order to be revoked by a further order (a “revocation order”);
+
+(g) make provision about the circumstances in which a revocation order may or must be made;
+
+(h) make provision about the date on which a revocation order may or must take effect;
+
+(i) provide for a revocation order to contain transitional provision;
+
+(j) make provision about the steps to be taken by the person making a revocation order before or on making it.
+
+(4) The requirements that may be specified for a qualification to be an appropriate qualification or to be the subject of a recognition order include, in particular, requirements as to—
+
+(a) the persons to whom the qualification is open;
+
+(b) the course of instruction undertaken by persons to whom the qualification is awarded;
+
+(c) the professional experience of such persons;
+
+(d) the examinations passed by such persons;
+
+(e) the practical training undertaken by such persons;
+
+(f) the rules and arrangements of the body offering the qualification for ensuring or monitoring compliance with other specified requirements.
+
+(5) Regulations under this paragraph may in particular—
+
+(a) provide for exceptions to a specified requirement;
+
+(b) confer power to give or withhold recognition or approval for the purposes of a specified requirement.
+
+(6) In this paragraph, “specified” means specified in regulations under this paragraph.
+
+#### Cases in which an individual need not hold appropriate qualification: domestic cases
+
+**4** (1) An individual falls within this paragraph if any of the following sub-paragraphs applies in respect of the individual.
+
+(2) This sub-paragraph applies where the individual holds an appropriate qualification for the purposes of Chapter 2 of Part 42 of the Companies Act 2006 (eligibility of individuals and firms to act as statutory auditors) (see section 1219 of that Act).
+
+(3) This sub-paragraph applies where, immediately before 16 December 2014, the individual was qualified for appointment as an auditor under section 3 of the Audit Commission Act 1998 by virtue of the individual’s membership of a body listed in subsection (7) of that section.
+
+(4) This sub-paragraph applies where—
+
+(a) before 16 December 2014, the individual began a course of study or practical training leading to a professional qualification in accountancy offered by a body listed in section 3(7) of the Audit Commission Act 1998,
+
+(b) the person would have been qualified for appointment as an auditor under section 3 of that Act by virtue of subsection (5)(b) of that section if that qualification had been obtained before that date, and
+
+(c) the person obtained that qualification within the period of 6 years beginning with that date.
+
+#### Cases in which an individual need not hold appropriate qualification: overseas cases
+
+**5** (1) An individual falls within this paragraph if any of the following sub-paragraphs applies in respect of the individual.
+
+(2) This sub-paragraph applies where the individual—
+
+(a) is eligible to conduct audits of the accounts of bodies corporate incorporated or formed under the law of a third country in accordance with the law of that country, and
+
+(b) holds a professional qualification which covers all the subjects that—
+
+(i) are covered by an appropriate qualification, and
+
+(ii) are subjects of which knowledge is essential for the pursuit of the profession of local auditor.
+
+(3) This sub-paragraph applies where the individual is a specified state auditor who—
+
+(a) holds professional qualifications obtained in a specified state that are comparable to an appropriate qualification, and
+
+(b) has met a requirement to take an aptitude test or to complete an adaptation period, or to undertake both, imposed on the individual in accordance with Part 2 of the principal Recognition Regulations, if such a requirement is so imposed.
+
+(4) This sub-paragraph applies where the individual is an EEA auditor who, on or before 31 December 2020, was eligible for appointment as a local auditor by virtue of paragraph 6(1)(b) of Schedule 10 to the Companies Act 2006 as substituted by paragraph 28(3) of Schedule 5 to this Act.
+
+(5) This sub-paragraph applies where the individual has been authorised to act as a local auditor pursuant to the European Communities (Recognition of Professional Qualifications) Regulations 2007 (S.I. 2007/2781), and complies with the requirements of those Regulations that apply to a person acting as a local auditor.
+
+(6) In this paragraph—
+
+- “EEA auditor” has the meaning given by paragraph 20A(1) of Schedule 10 to the Companies Act 2006;
+- “the principal Recognition Regulations” means the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286);
+- “specified state” means one of the states specified in Schedule 1 to the principal Recognition Regulations;
+- “specified state auditor” means an individual who is eligible to conduct audits of the accounts of bodies corporate that are incorporated or formed under the law of a specified state in accordance with the law of that state;
+- “third country” means a country or territory outside the United Kingdom.
+
+### Part 2 — Recognised qualifying bodies
+
+#### “Recognised qualifying body”
+
+**6** In this Act, “recognised qualifying body” means a body that offers a qualification that is an appropriate qualification by virtue of regulations under paragraph 3(1) of Schedule 1C.
+
+#### Fees
+
+**7** The Secretary of State may by regulations provide for the payment of fees by a body in respect of its—
+
+(a) making an application that would result in its becoming a recognised qualifying body, or
+
+(b) becoming such a body further to an application made by it, or
+
+(c) remaining such a body, having become so further to an application made by it.
+
+#### Directions to secure compliance with international obligations
+
+**8** (1) If it appears to the Secretary of State—
+
+(a) that any action proposed to be taken by a recognised qualifying body would be incompatible with assimilated obligations or any other international obligations of the United Kingdom, or
+
+(b) that any action which a recognised qualifying body has power to take is required for the purpose of implementing any such obligations,
+
+the Secretary of State may direct the body not to take or, as the case may be, to take the action in question.
+
+(2) A direction under this paragraph may include such supplementary or incidental requirements as the Secretary of State thinks necessary or expedient.
+
+(3) A direction under this paragraph is enforceable by injunction by the High Court on the application of the Secretary of State.
+
+#### Delegation of functions
+
+**9** (1) The Secretary of State may by regulations—
+
+(a) provide for the Secretary of State’s functions under paragraph 7 or 8 to be exercisable, concurrently with the Secretary of State, by another person designated in the regulations;
+
+(b) make the designated person’s ability to exercise the functions subject to exceptions or reservations;
+
+(c) confer on the designated person such other functions supplementary or incidental to those under this paragraph as appear to the Secretary of State to be appropriate;
+
+(d) make provision about the application of the Freedom of Information Act 2000 to the designated person.
+
+(2) Regulations under this paragraph do not have the effect that—
+
+(a) the designated person is to be regarded as acting on behalf of the Crown, or
+
+(b) that its members, officers or employees are to be regarded as Crown servants.
+
+(3) Where regulations under this paragraph apply to the making of regulations under paragraph 7—
+
+(a) section 43(1) and (5) does not apply to regulations made by the designated person;
+
+(b) the designated person may not make regulations without the approval of the Secretary of State;
+
+(c) the Secretary of State may, after consultation with the body, by regulations vary or revoke any regulations made by the designated person;
+
+(d) any regulations made by the designated person must be published immediately after they are made;
+
+(e) a person is not to be taken to have contravened such regulations if the person shows that at the time of the alleged contravention the regulations had not been published;
+
+(f) the production of a printed copy of regulations purporting to be made by the designated person on which is endorsed a certificate signed by or on behalf of that person and stating—
+
+(i) that the regulations were made by the person,
+
+(ii) that the copy is a true copy of the regulations, and
+
+(iii) that on a specified date the regulations were published,
+
+is evidence of the facts stated in the certificate;
+
+(g) a certificate purporting to be signed as mentioned in paragraph (f) is to be deemed to have been duly signed unless the contrary is shown;
+
+(h) any person wishing in any legal proceedings to cite regulations made by the designated person may require that person to cause a copy of them to be endorsed with a certificate as mentioned in paragraph (f).]
+
+## SCHEDULE 2 — Relevant authorities
+
+*Section 2*
+
+**1** A county council in England.
+
+**2** A district council.
+
+**3** A London borough council.
+
+**4** A parish council.
+
+**5** A joint authority established under Part 4 of the Local Government Act 1985.
+
+**6** A Passenger Transport Executive.
+
+**7** The Greater London Authority.
+
+**8** A functional body.
+
+**9** The London Pensions Fund Authority.
+
+**10** The London Waste and Recycling Board.
+
+**11** The Common Council.
+
+**NOTE:** This Act applies to the Common Council only to the extent that it exercises functions in relation to—
+
+- (a) the collection fund of the Common Council,
+- (b) the City Fund, or
+- (c) a pension fund maintained and administered by the Common Council under regulations under section 1 of the Public Service Pensions Act 2013.
+
+**12** A parish meeting.
+
+**13** The Council of the Isles of Scilly.
+
+**14** Charter trustees.
+
+**15** A port health authority for a port health district that is wholly in England.
+
+**16** The Broads Authority.
+
+**17** A National Park authority for a National Park in England.
+
+**18** A conservation board established by order of the Secretary of State under section 86 of the Countryside and Rights of Way Act 2000.
+
+**19** A police and crime commissioner for a police area in England.
+
+**20** A chief constable for an area in England.
+
+**21** The Commissioner of Police of the Metropolis.
+
+**22** A fire and rescue authority in England constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies.
+
+**[[^F59]22A** A fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004.]
+
+**[[^F60]23** An integrated care board.]
+
+**[[^F61]23A** An NHS trust all or most of whose hospitals, establishments and facilities are situated in England.]
+
+**[^F62]24** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F63]25** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**26** An internal drainage board for an internal drainage district that is wholly in England.
+
+**27** An economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009.
+
+**28** A combined authority.
+
+**[[^F64]28ZA** A combined county authority.]
+
+**[[^F65]28A** A sub-national transport body.]
+
+**29** Any person or body exercising functions in relation to an area wholly in England or partly in England and partly in Wales—
+
+(a) which was originally subject to audit provisions contained in an enactment passed before the Audit Commission Act 1998, and
+
+(b) to which the audit provisions of that Act applied by virtue of paragraph 4(1) or 7 of Schedule 4 to that Act immediately before the repeal of section 2(1) of that Act by this Act.
+
+## SCHEDULE 3 — Further provisions about appointment of local auditors
+
+*Section 7*
+
+### Provisions applying to certain local authorities
+
+**1** (1) If a relevant authority is a local authority operating executive arrangements, the function of appointing a local auditor to audit its accounts is not the responsibility of an executive of the authority under those arrangements.
+
+(2) If a relevant authority is a local authority within the meaning of section 101 of the Local Government Act 1972 (arrangements for discharge of functions), that section does not apply to the authority's function of appointing a local auditor to audit its accounts.
+
+(3) A local auditor appointed to audit the accounts of the Greater London Authority must be appointed by the Mayor of London and the London Assembly acting jointly on behalf of the Authority.
+
+(4) A local auditor appointed to audit the accounts of a parish meeting must be appointed by the parish meeting itself (and not by its chairman on behalf of the parish meeting).
+
+### Provisions applying to chief constables
+
+**2** (1) This paragraph applies to the accounts for a financial year of a chief constable for an area.
+
+(2) The chief constable must not appoint a local auditor to audit the accounts.
+
+(3) The accounts must be audited by the local auditor appointed by the police and crime commissioner for the area to audit the commissioner's accounts for the financial year.
+
+(4) The police and crime commissioner must consult and take into account the advice of the commissioner's auditor panel on the selection and appointment of the local auditor.
+
+### Provisions applying to the Commissioner of Police of the Metropolis
+
+**3** (1) This paragraph applies to the accounts for a financial year of the Commissioner of Police of the Metropolis.
+
+(2) The Commissioner of Police of the Metropolis must not appoint a local auditor to audit the accounts.
+
+(3) The accounts must be audited by the local auditor appointed by the Mayor's Office for Policing and Crime to audit the Office's accounts for the financial year.
+
+(4) The Mayor's Office for Policing and Crime must consult and take into account the advice of the Office's auditor panel on the selection and appointment of the auditor.
+
+### Provisions applying to other authorities
+
+**4** (1) The Secretary of State may by regulations make provision about the appointment of a local auditor to audit the accounts of a relevant authority—
+
+(a) which is not an authority to which any of paragraphs 1 to 3 applies, and
+
+(b) which is specified, or of a description specified, in the regulations.
+
+(2) Regulations under sub-paragraph (1) may, in particular—
+
+(a) make further provision about the operation of this Act or any provision made under it in relation to a relevant authority to which the regulations apply;
+
+(b) provide for any provision of or made under this Act not to apply, or to apply with modifications, in relation to a relevant authority to which the regulations apply.
+
+## SCHEDULE 4 — Further provisions about auditor panels
+
+*Section 9*
+
+### Options for auditor panels
+
+**1** (1) The auditor panel of a relevant authority (“R”) must be—
+
+(a) a panel appointed as an auditor panel by R,
+
+(b) a panel appointed as an auditor panel by R and one or more other relevant authorities,
+
+(c) a committee of R to which sub-paragraph (2) applies, or
+
+(d) a panel to which sub-paragraph (3) applies.
+
+(2) This sub-paragraph applies to a committee of R (however described) which has not been appointed as an auditor panel if—
+
+(a) R determines that the committee should be R's auditor panel,
+
+(b) the committee agrees to be R's auditor panel, and
+
+(c) the committee complies with the other provisions applying to auditor panels made by or under this Schedule.
+
+(3) This sub-paragraph applies to a panel if—
+
+(a) the panel is (by virtue of any of paragraphs (a) to (c) of sub-paragraph (1)) the auditor panel of a relevant authority other than R,
+
+(b) R determines that the panel should be R's auditor panel,
+
+(c) the panel agrees to be R's auditor panel, and
+
+(d) the panel complies (as regards R) with the other provisions applying to auditor panels made by or under this Schedule.
+
+(4) References in sub-paragraphs (1) and (2) to a committee of R include a sub-committee of a committee of R.
+
+(5) The function of appointing a panel or making a determination under this paragraph is to be exercised in the case of the Greater London Authority by the Mayor of London and the London Assembly acting jointly on behalf of the Authority.
+
+(6) The function of appointing a panel or making a determination under this paragraph is to be exercised in the case of a parish meeting by the parish meeting itself (and not by its chairman on behalf of the parish meeting).
+
+### Constitution of auditor panels
+
+**2** (1) A relevant authority's auditor panel, other than a health service body's auditor panel—
+
+(a) must consist of a majority of independent members (or wholly of independent members), and
+
+(b) must be chaired by an independent member.
+
+[[^F66](2) A member of a relevant authority’s auditor panel, other than a health service body’s auditor panel, is “independent” at any given time if the following conditions are met—
+
+(a) the panel member has not been a member or officer of the authority within the period of 5 years ending with that time (the “last 5 years”),
+
+(b) the panel member has not, within the last 5 years, been a member or officer of another relevant authority that is (at the given time) connected with the authority or with which (at the given time) the authority is connected,
+
+(c) the panel member has not, within the last 5 years, been an officer or employee of an entity, other than a relevant authority, that is (at the given time) connected with the authority,
+
+(d) the panel member is not a relative or close friend of—
+
+(i) a member or officer of the authority,
+
+(ii) a member or officer of another relevant authority that is connected with the authority or with which the authority is connected, or
+
+(iii) an officer or employee of an entity, other than a relevant authority, that is connected with the authority,
+
+(e) the panel member is not the authority’s elected mayor,
+
+(f) neither the panel member, nor any body in which the panel member has a beneficial interest, has entered into a contract with the authority—
+
+(i) under which goods or services are to be provided or works are to be executed, and
+
+(ii) which has not been fully discharged,
+
+(g) the panel member is not a current or prospective auditor of the authority, and
+
+(h) the panel member has not, within the last 5 years, been—
+
+(i) an employee of a person who is (at the given time) a current or prospective auditor of the authority,
+
+(ii) a partner in a firm that is (at the given time) a current or prospective auditor of the authority, or
+
+(iii) a director of a body corporate that is (at the given time) a current or prospective auditor of the authority.]
+
+[[^F67](4) Sub-paragraphs (5) to (6D) modify the application of sub-paragraph (2) in relation to—
+
+(a) cases where the relevant authority referred to in the opening words of sub-paragraph (2) (the “relevant authority concerned”) is a police and crime commissioner, the Mayor’s Office for Policing and Crime, another functional body or the Greater London Authority, and
+
+(b) relevant authorities that are corporations sole (including, but not limited to, corporations sole mentioned in paragraph (a)).
+
+(5) Where the relevant authority concerned is the police and crime commissioner for an area, references to “the authority” include the chief constable for the area.
+
+(6) Where the relevant authority concerned is the Mayor’s Office for Policing and Crime, references to “the authority” include the Commissioner of Police of the Metropolis and the Greater London Authority.
+
+(6A) Where the relevant authority concerned is a functional body other than the Mayor’s Office for Policing and Crime, references to “the authority” include the Greater London Authority.
+
+(6B) Where the relevant authority concerned is the Greater London Authority, references to “the authority” include a functional body and the Commissioner of Police of the Metropolis.
+
+(6C) Where a relevant authority is a corporation sole, references to “a member” of the relevant authority are to a holder of that office of corporation sole.
+
+(6D) Sub-paragraph (6C) applies regardless of whether the relevant authority is—
+
+(a) the relevant authority concerned,
+
+(b) a relevant authority treated under any of sub-paragraphs (5) to (6B) as included in a reference to the relevant authority concerned, or
+
+(c) a relevant authority that is connected with an authority falling within paragraph (a) or (b), or with which such an authority is connected.
+
+(7) In sub-paragraph (2)—
+
+- “elected mayor” has the same meaning as in Part 1A of the Local Government Act 2000;
+- “officer”, in relation to an entity other than a relevant authority, means a person elected or appointed as, or to, that entity.]
+
+(8) For the purposes of [[^F68]sub-paragraph (2)(d)], a person (“R”) is a relative of another person (“P”) if R is—
+
+(a) P's partner,
+
+(b) P's parent or grandparent,
+
+(c) P's son, daughter, stepson, stepdaughter or grandchild,
+
+(d) P's brother or sister,
+
+(e) P's uncle, aunt, nephew or niece,
+
+(f) a parent, son, daughter, brother or sister of P's partner, or
+
+(g) a partner of any person within paragraphs (b) to (f),
+
+and for this purpose “partner” means a spouse, civil partner or someone a person lives with as if they were husband and wife or civil partners.
+
+[[^F69](8A) For the purposes of sub-paragraph (2)(f) to (h)—
+
+- “body in which the panel member has a beneficial interest” means a body in which the panel member is a partner, or of which the panel member is a director, or in the securities of which the panel member has a beneficial interest;
+
+- “current or prospective auditor”, in relation to a relevant authority, means—
+
+  - the person appointed to act as the authority’s local auditor, or
+  - a person who has made a bid, which has not been declined or withdrawn, for a contract of appointment as the authority’s local auditor;
+
+- “director” includes a member of the management committee or other directing body of a registered society, and a member of a limited liability partnership;
+
+- “registered society” means a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014;
+
+- “securities” means shares, debentures, debenture stock, loan stock, bonds, units of a collective investment scheme within the meaning of the Financial Services and Markets Act 2000 and other securities of any description, other than money deposited with a building society.]
+
+(9) The Secretary of State may by regulations amend this paragraph so as to make provision about the members of a relevant authority's auditor panel who are or are not independent for the purposes of sub-paragraph (1).
+
+### Constitution of auditor panels: health service bodies
+
+**3** The Secretary of State may by regulations make provision about—
+
+(a) whether any of the members of a health service body's auditor panel must be independent and, if so, the proportion which must be independent;
+
+(b) whether the chair of a health service body's auditor panel must be independent;
+
+(c) the meaning of “independent” for the purposes of this paragraph.
+
+### Power to make further provision about constitution of auditor panels
+
+**4** (1) The Secretary of State may by regulations make provision about the constitution of an auditor panel.
+
+(2) This includes further provision about the matters mentioned in paragraph 2(1) and provision about—
+
+(a) the number of members of an auditor panel;
+
+(b) the appointment of members of an auditor panel (including to fill casual vacancies);
+
+(c) the term of office of members of an auditor panel;
+
+(d) the removal or resignation of members of an auditor panel, or of its chair;
+
+(e) the payment of remuneration or allowances to members of an auditor panel;
+
+(f) the proceedings and validity of proceedings of an auditor panel.
+
+(3) The regulations may provide for any of those matters to be determined for a relevant authority's auditor panel by the authority.
+
+### Application of local authority enactments to auditor panels
+
+**5** (1) The Secretary of State may by regulations—
+
+(a) amend or otherwise modify any local authority enactment in its application to auditor panels or members of auditor panels;
+
+(b) apply any local authority enactment (with or without modifications) to auditor panels or members of auditor panels if, or to the extent that, it does not otherwise apply.
+
+(2) In this paragraph—
+
+- “local authority” means a county council, a district council, a London borough council, the Common Council or the Council of the Isles of Scilly;
+
+- “local authority enactment” means an enactment which relates to—
+
+  - (a) local authorities or committees or joint committees of local authorities, or
+  - (b) members of such authorities, committees or joint committees.
+
+### Status of auditor panels
+
+**6** (1) Where a relevant authority other than a health service body has determined that a committee of that authority should be its auditor panel, the panel when acting as such is not to be treated as a committee of the authority for the purposes of any enactment.
+
+(2) Sub-paragraph (1) is subject to provision made by regulations under paragraph 5.
+
+(3) References in this paragraph to a committee of a relevant authority include a sub-committee of such a committee.
+
+### Expenses of auditor panels
+
+**7** A relevant authority must meet the reasonable expenses of its auditor panel incurred by the panel when acting as such.
+
+### [[^F70]Connected entities]
+
+**8** (1) For the purposes of this Act, an entity (“E”) is connected with a relevant authority at any time if E is an entity other than the relevant authority and the relevant authority considers that, in accordance with proper practices in force at that time—
+
+(a) the financial transactions, reserves, assets and liabilities of E are to be consolidated into the relevant authority's statement of accounts for the financial year in which that time falls,
+
+(b) the relevant authority's share of the financial transactions, reserves, assets and liabilities of E is to be consolidated into the relevant authority's statement of accounts for that financial year, or
+
+(c) the relevant authority's share of the net assets or net liabilities of E, and of the profit or loss of E, are to be brought into the relevant authority's statement of accounts for that financial year.
+
+(2) In sub-paragraph (1) “entity” means any entity, whether or not a legal person.
+
+(3) The Secretary of State may by regulations amend sub-paragraph (1) or (2).
+
+(4) In sub-paragraph (1) as it applies in relation to a health service body, the reference to the relevant authority's statement of accounts is to be read as a reference to the body's accounts.
+
+## SCHEDULE 5 — Eligibility and regulation of local auditors
+
+*Section 18*
+
+**1** (1) Part 42 of the Companies Act 2006 (statutory auditors) applies in relation to local audits as it applies in relation to statutory audits within the meaning of that Part, subject to—
+
+(a) the general modifications to that Part in paragraph 2, and
+
+(b) the specific modifications to that Part in the rest of this Schedule.
+
+(2) For the purposes of this Schedule—
+
+- a “local audit” means an audit under this Act of the accounts of a relevant authority;
+- “local audit work” means work in connection with such audits.
+
+[[^F71](3) The reference in sub-paragraph (1) to Part 42 of the Companies Act 2006—
+
+(a) includes sections 1288, 1289, 1290 and 1292 of that Act (regulations and orders) as they apply in relation to that Part;
+
+(b) does not include the amendments made to that Part by the Statutory Auditors and Third Country Auditors Regulations 2016 [[^F72]and the Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019].]
+
+**2** (1) The general modifications are that—
+
+(a) references to a statutory auditor are to a local auditor,
+
+(b) references to an audited person are to a relevant authority,
+
+(c) references to a statutory audit are to a local audit,
+
+(d) references to statutory audit work are to local audit work, and
+
+(e) references (however expressed) to Part 42 of the Companies Act 2006 or any provision of that Part are to that Part or provision as it has effect by virtue of this Schedule.
+
+(2) Sub-paragraph (1) does not apply to a provision that—
+
+(a) is treated as forming part of Part 42 of the Companies Act 2006 by virtue of any of the following provisions of this Schedule, and
+
+(b) provides for an expression listed in sub-paragraph (1) to have the meaning it would have under that Part apart from its application by virtue of this Schedule.
+
+**3** Omit the following provisions—
+
+(a) Chapter 1 (introductory);
+
+(b) sections 1220 (qualifying bodies and recognised professional qualifications), 1221 (approval of third country qualifications) and 1222 (eligibility of individuals retaining only 1967 Act authorisation);
+
+(c) section 1223A (notification of matters relevant to other EEA States);
+
+(d) sections 1224A (restrictions on disclosure) and 1224B (offence of disclosure in contravention of section 1224A);
+
+(e) Chapter 3 (Auditors General);
+
+(f) Chapter 5 (registered third country auditors);
+
+(g) sections 1253A to 1253F (co-operation with foreign competent authorities);
+
+(h) section 1264 (consequential amendments);
+
+(i) Schedule 11 (recognised professional qualifications);
+
+(j) Schedule 11A (specified persons, descriptions, disclosures etc for purposes of section 1224A);
+
+(k) Schedule 12 (arrangements in which registered third country auditors are required to participate);
+
+(l) Schedule 14 (statutory auditors: consequential amendments).
+
+**4** In section 1212 (individuals and firms: eligibility for appointment as a statutory auditor) omit subsection (2).
+
+**5** For section 1214 (independence requirement) substitute—
+
+> **Independence requirement**
+>
+> **1214** (1) A person (“P”) may not act as local auditor of the accounts of a relevant authority if one or more of subsections (2), [^F73]... [[^F74](3A),] (4) and (5) apply to P.
+>
+> (2) This subsection applies if—
+>
+> (a) P is a member or officer of the relevant authority,
+>
+> (b) where the relevant authority is a corporation sole, P is the holder of that office, or
+>
+> (c) P is a partner or employee of a person within paragraph (a) or (b), or a partnership of which such a person is a partner.
+>
+> [[^F75](3) In relation to a relevant authority that is an integrated care board, subsection (2)(a) has effect as if “or officer” were omitted.]
+>
+> [[^F76](3A) This subsection applies if—
+>
+> (a) the relevant authority is an NHS trust, and
+>
+> (b) P is a director of that NHS trust.]
+>
+> (4) This subsection applies if—
+>
+> (a) P is a person elected or appointed—
+>
+> (i) as an entity connected with the relevant authority,
+>
+> (ii) to such an entity, or
+>
+> (iii) to an office of such an entity,
+>
+> (b) P is an employee of such an entity, or
+>
+> (c) P is a partner or employee of a person within paragraph (a) or (b), or a partnership of which such a person is a partner.
+>
+> (5) This subsection applies if there exists a connection of a prescribed description between—
+>
+> (a) P or an associate of P, and
+>
+> (b) the relevant authority or an entity connected with the relevant authority.
+>
+> (6) In subsection (5) “prescribed” means prescribed by regulations made by the Secretary of State.
+>
+> (7) Regulations under subsection (6) are subject to negative resolution procedure.
+
+**6** In section 1215 (effect of lack of independence) omit subsections (2) to (7).
+
+**7** In section 1216 (effect of appointment of a partnership), after subsection (5) insert—
+
+> (5A) The consent or agreement of a parish meeting under subsection (5) must be given by the parish meeting itself (and not by its chairman on behalf of the parish meeting).
+
+**8** In section 1217 (supervisory bodies), for subsection (1A) substitute—
+
+> (1A) The rules referred to in paragraph 9(3)(b) (confidentiality of information) of Schedule 10 must also be binding on persons who—
+>
+> (a) have sought appointment or acted as a local auditor, and
+>
+> (b) have been members of the body at any time after the commencement of Schedule 5 to the Local Audit and Accountability Act 2014.
+
+**9** For section 1219 (appropriate qualifications) substitute—
+
+> **Appropriate qualifications**
+>
+> **1219** (1) A person holds an appropriate qualification for the purposes of this Chapter only if—
+>
+> (a) the person holds a qualification that is an appropriate qualification by virtue of this section, or
+>
+> (b) the person holds an appropriate qualification for the purposes of this Chapter as it has effect apart from its application by virtue of Schedule 5 to the Local Audit and Accountability Act 2014.
+>
+> (2) The Secretary of State may by regulations provide for a qualification to be an appropriate qualification for the purposes of this Chapter if—
+>
+> (a) it is a professional qualification in accountancy,
+>
+> (b) it is obtained from a body established in the United Kingdom, and
+>
+> (c) it meets, or the Secretary of State thinks that it meets, specified requirements.
+>
+> (3) Regulations under this section may, in particular, provide for a qualification to be an appropriate qualification if—
+>
+> (a) it is offered by a body (a “qualifying body”) established in the United Kingdom (whether a body corporate or an unincorporated association), and
+>
+> (b) it is recognised by the Secretary of State in accordance with the regulations.
+>
+> (4) Regulations under this section that contain provision under subsection (3) may in particular—
+>
+> (a) provide for the Secretary of State to make an order (a “recognition order”) recognising a qualification offered by a qualifying body;
+>
+> (b) make provision about the application by a qualifying body for a recognition order;
+>
+> (c) provide for the Secretary of State to give directions or impose requirements in connection with the application;
+>
+> (d) make provision about the circumstances in which the Secretary of State may or must make or refuse to make a recognition order;
+>
+> (e) make provision about the steps to be taken by the Secretary of State on making or refusing to make a recognition order;
+>
+> (f) provide for a recognition order to be revoked by a further order (a “revocation order”);
+>
+> (g) make provision about the circumstances in which a revocation order may or must be made;
+>
+> (h) make provision about the date on which a revocation order may or must take effect;
+>
+> (i) provide for a revocation order to contain transitional provision;
+>
+> (j) make provision about the steps to be taken by the Secretary of State before or on making a revocation order.
+>
+> (5) The requirements that may be specified for a qualification to be an appropriate qualification or to be the subject of a recognition order include, in particular, requirements as to—
+>
+> (a) the persons to whom the qualification is open;
+>
+> (b) the course of instruction undertaken by persons to whom the qualification is awarded;
+>
+> (c) the professional experience of such persons;
+>
+> (d) the examinations passed by such persons;
+>
+> (e) the practical training undertaken by such persons;
+>
+> (f) the rules and arrangements of the body offering the qualification for ensuring or monitoring compliance with other specified requirements.
+>
+> (6) Regulations under this section may in particular—
+>
+> (a) provide for exceptions to a specified requirement;
+>
+> (b) confer power on the Secretary of State to give or withhold recognition or approval for the purposes of a specified requirement.
+>
+> (7) A person holds an appropriate qualification for the purposes of this Chapter if, immediately before the relevant time, the person was qualified for appointment as an auditor under section 3 of the Audit Commission Act 1998 by virtue of the person's membership of a body listed in subsection (7) of that section.
+>
+> (8) A person holds an appropriate qualification for the purposes of this Chapter if—
+>
+> (a) before the relevant time, the person began a course of study or practical training leading to a professional qualification in accountancy offered by a body listed in section 3(7) of the Audit Commission Act 1998,
+>
+> (b) the person would have been qualified for appointment as an auditor under section 3 of that Act by virtue of subsection (5)(b) of that section if that qualification had been obtained before that time, and
+>
+> (c) the person obtained that qualification within the period of 6 years beginning with that time.
+>
+> (9) In subsections (7) and (8) “the relevant time” means the time at which paragraph 9 of Schedule 5 to the Local Audit and Accountability Act 2014 comes into force.
+>
+> (10) Regulations under this section are subject to negative resolution procedure.
+>
+> (11) In this section “specified” means specified in regulations under this section.
+>
+> (12) In this Part “recognised professional qualification” means a professional qualification that is—
+>
+> (a) offered by a qualifying body, and
+>
+> (b) recognised by the Secretary of State in accordance with regulations under this section.
+>
+> (13) In this Part “recognised qualifying body” means a qualifying body offering a recognised professional qualification.
+
+**10** After section 1224 insert—
+
+> **Provision of documents to the Secretary of State**
+>
+> **1224ZA** (1) For the purpose of assisting a person listed in subsection (2) to maintain proper standards in the auditing of the accounts of a relevant authority, the person may require the authority to make available for inspection by that person—
+>
+> (a) the accounts concerned, and
+>
+> (b) the other documents relating to the relevant authority that might reasonably be required by a local auditor for the purposes of the audit.
+>
+> (2) Those persons are—
+>
+> (a) the Secretary of State,
+>
+> (b) a body designated by order under section 1252 (delegation of Secretary of State's functions under this Part), and
+>
+> (c) a recognised supervisory body.
+
+**11** (1) Section 1225 (enforcement: general) applies with the following modifications.
+
+(2) In subsection (1)(b), for “any requirement of Part 2 of Schedule 11 is not satisfied” substitute “ any requirement under regulations under section 1219 applying to the qualification is not satisfied ”.
+
+(3) In subsection (3), for “paragraph 3 of Schedule 11 (revocation of recognition orders)” substitute “ any power of the Secretary of State to make a revocation order under regulations under section 1219 ”.
+
+**12** In section 1225C(3) (compliance orders) omit “or, in Scotland, the Court of Session”.
+
+**13** In section 1225F(10) (appeals against financial penalties) omit “or, in Scotland, the Court of Session”.
+
+**14** (1) Section 1239 (the register of auditors) applies with the following modifications.
+
+(2) In subsection (1) omit paragraph (b) and the “and” preceding it.
+
+(3) In subsection (2)—
+
+(a) at the end of paragraph (d) insert “ , and ”, and
+
+(b) omit paragraph (f) and the “and” preceding it.
+
+(4) After subsection (4) insert—
+
+> (4A) The regulations may provide for the register to be kept with the register under regulations under this section in its original form.
+
+(5) For subsection (5) substitute—
+
+> (5) The regulations may impose such obligations as the Secretary of State thinks fit on—
+>
+> (a) recognised supervisory bodies,
+>
+> (b) recognised supervisory bodies within the meaning of this Part in its original form,
+>
+> (c) any body designated by order under section 1252 (delegation of Secretary of State's functions under this Part),
+>
+> (d) any body designated by order under that section in its original form,
+>
+> (e) persons eligible for appointment as a local auditor,
+>
+> (f) persons eligible for appointment as a statutory auditor in accordance with this Part in its original form,
+>
+> (g) any person with whom arrangements are made by one or more recognised supervisory bodies, or by any body designated by order under section 1252, with respect to the keeping of the register, or
+>
+> (h) any person with whom arrangements are made by one or more recognised supervisory bodies within the meaning of this Part in its original form, or by any body designated by order under section 1252 in its original form, with respect to the keeping of the register under regulations under this section in its original form.
+
+(6) Omit subsection (7).
+
+(7) In subsection (8)—
+
+(a) for “(5)(b) or (e)” substitute “ (5)(c), (d), (g) or (h) ”, and
+
+(b) omit “or, in Scotland, by an order under section 45 of the Court of Session Act 1988 (c. 36)”.
+
+(8) After subsection (9) insert—
+
+> (9A) References in subsections (4A) and (5) to this Part or a provision of this Part in its original form are to this Part or that provision as it has effect apart from its application by virtue of Schedule 5 to the Local Audit and Accountability Act 2014.
+
+**15** In section 1240(1)(b) (information to be made available to public), for “audit work” substitute “ local audit work ”.
+
+**16** For section 1248 (Secretary of State's power to require second audit of company) substitute—
+
+> **Secretary of State's power to require second audit**
+>
+> **1248** (1) This section applies where a person appointed as a local auditor of the accounts of a relevant authority (“the first auditor”) was not an appropriate person for any part of the period during which the audit was conducted.
+>
+> (2) The Secretary of State may direct the relevant authority to retain an appropriate person—
+>
+> (a) to conduct a second audit of the accounts in question, or
+>
+> (b) to review the first audit and to report (giving the appropriate person's reasons) whether a second audit of those accounts is needed.
+>
+> (3) For the purposes of subsections (1) and (2) a person is “appropriate” if the person—
+>
+> (a) is eligible for appointment as a local auditor, and
+>
+> (b) is not prohibited by section 1214(1) (independence requirement) from acting as a local auditor of the accounts of the relevant authority.
+>
+> (4) The Secretary of State must send a copy of a direction under subsection (2) to the recognised supervisory body (if any) of which the first auditor is or was a member.
+>
+> (5) The relevant authority must—
+>
+> (a) send a copy of a report under subsection (2)(b) to the recognised supervisory body (if any) of which the first auditor is or was a member, and
+>
+> (b) if the report states that a second audit is needed, take such steps as are necessary for the carrying out of that audit.
+>
+> (6) A direction under subsection (2) may specify when the authority must comply with—
+>
+> (a) the requirements of the direction, or
+>
+> (b) any requirement of subsection (5).
+>
+> (7) A person appointed under this section to conduct a second audit of the accounts of a parish meeting, or to review and report on the first audit of such accounts, must be appointed by the parish meeting itself (and not by its chairman on behalf of the parish meeting).
+
+**17** For section 1249 (supplementary provision about second audits) substitute—
+
+> **Supplementary provisions about second audits**
+>
+> **1249** (1) If a person accepts an appointment, or continues to act, as a local auditor of the accounts of a relevant authority at a time when the person knows the person is not appropriate, the relevant authority may recover from the person any costs incurred by it in complying with the requirements of section 1248.
+>
+> For this purpose “appropriate” is to be construed in accordance with subsection (3) of that section.
+>
+> (2) Where a second audit is carried out under section 1248, any statutory or other provision applying in relation to the first audit applies also, in so far as practicable, in relation to the second audit.
+
+**18** (1) Section 1250 (misleading, false and deceptive statements) applies with the following modifications.
+
+(2) Omit subsection (3).
+
+(3) In subsection (5)(b)—
+
+(a) in sub-paragraph (i) omit “in England and Wales,”, and
+
+(b) omit sub-paragraph (ii).
+
+(4) In subsection (6)—
+
+(a) omit “, (3)”,
+
+(b) in paragraph (a) omit “in England and Wales,”, and
+
+(c) omit paragraph (b).
+
+(5) In each of subsections (7) and (8) omit “, (3)”.
+
+**19** (1) Section 1251 (fees) applies with the following modifications.
+
+(2) In subsection (1), after “a recognition order under this Part” insert “ or under regulations under this Part ”.
+
+(3) In subsection (2)—
+
+(a) at the end of paragraph (a) insert “ and ”, and
+
+(b) omit paragraphs (c) and (d).
+
+**20** In section 1251A (duty of Secretary of State to report on inspections) omit paragraph (a).
+
+**21** (1) Section 1252 (delegation of the Secretary of State's functions) applies with the following modifications.
+
+(2) For subsection (3) substitute—
+
+> (3) A delegation order may provide that it has the effect of making the body designated under section 5 of the Freedom of Information Act 2000 (further power to designate public authorities), subject to subsection (3A).
+>
+> (3A) A delegation order may only provide that the body is so designated to the extent that it is exercising functions transferred or conferred by the order (so that nothing in Parts 1 to 5 of that Act applies by virtue of the order to information held by the body which does not relate to the exercise of those functions).
+
+(3) In subsection (4)(b) omit sub-paragraph (ii) and the “and” preceding it.
+
+(4) In subsection (6) omit paragraph (b).
+
+(5) Omit subsection (7).
+
+**22** In section 1253(5) (delegation of functions to an existing body)—
+
+(a) for “to 22B” substitute “ , 22 ”,
+
+(b) omit “, 23A(1)”, and
+
+(c) omit “or paragraph 1 or 2 of Schedule 12”.
+
+**23** (1) Section 1254 (directions to comply with international obligations) applies with the following modifications.
+
+(2) In [[^F77]subsection (1)(a)]—
+
+[[^F78](a)] omit “, the Independent Supervisor” [[^F79], and
+
+(b) for “EU obligations” substitute [[^F80]assimilated] obligations”].
+
+(3) For subsection (3) substitute—
+
+> (3) A direction under this section given to a body designated by order under section 1252 is enforceable on the application of the Secretary of State by injunction.
+
+**24** (1) Section 1256 (time limits for prosecution of offences) applies with the following modifications.
+
+(2) In subsection (1) omit “in England and Wales”.
+
+(3) Omit subsections (2) to (4).
+
+(4) For subsection (5) substitute—
+
+> (5) This section does not authorise the trial of an information laid more than 3 years after the commission of the offence.
+
+(5) In subsection (6) omit “, the Lord Advocate, the Director of Public Prosecutions for Northern Ireland”.
+
+(6) In subsection (7) omit the words from “, section 331” to the end.
+
+**25** (1) Section 1257 (jurisdiction and procedure in respect of offences) applies with the following modifications.
+
+(2) In subsection (1), in each of paragraphs (a) and (b), after “at any place” insert “ in England and Wales ”.
+
+(3) Omit subsections (4) and (5).
+
+**26** (1) Section 1261 (minor definitions) applies with the following modifications.
+
+(2) In subsection (1) omit the following definitions—
+
+- “audit working papers”;
+- “company”;
+- “parent undertaking” and “subsidiary undertaking”;
+- “third country”;
+- “third country auditor”;
+- “third country competent authority”;
+- “transfer”.
+
+(3) In subsection (1) [[^F81]—
+
+(a) in the definition of “EEA competent authority”, omit “other than the United Kingdom”, [^F82]...
+
+(b)] in the definition of “officer”, after “a body corporate” insert “ other than a relevant authority ” [[^F83]and
+
+(c) after the definition of “officer”, insert—
+
+> - “specified state” means one of the states specified in Schedule 1 to the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023;
+> - “specified state auditor” means an individual who is eligible to conduct audits of the accounts of bodies corporate that are incorporated or formed under the law of a specified state in accordance with the law of that state;
+
+.]
+
+(4) After subsection (1) insert—
+
+> (1A) Expressions used in this Part that are defined in the Local Audit and Accountability Act 2014 have the same meaning as in that Act.
+
+[[^F84](5) In subsection (2A), after “EEA State” insert “and subject to the Audit Directive.”.]
+
+**27** (1) Section 1262 (index of defined expressions) applies with the following modifications.
+
+(2) Omit the following entries—
+
+- “approved third country competent authority”;
+- “audit working papers”;
+- “audited person”;
+- “Auditor General”;
+- “company”;
+- “enactment”;
+- “main purposes of this Part”;
+- “parent undertaking”;
+- “recognised, in relation to a qualifying body”;
+- “registered third country auditor”;
+- “rules of a qualifying body”;
+- “statutory auditor, statutory audit and statutory audit work”;
+- “subsidiary undertaking”;
+- “third country”;
+- “third country auditor”;
+- “third country competent authority”;
+- “transfer (in relation to audit working papers)”;
+- “UK-traded non EEA company”.
+
+(3) At the appropriate places insert—
+
+> |  |  |
+> |---|---|
+> | enactment | section 44(1) of the Local Audit and Accountability Act 2014”; |
+> | “local audit | paragraph 1(2) of Schedule 5 to the Local Audit and Accountability Act 2014”; |
+> | “local auditor | section 4(1)(b) of the Local Audit and Accountability Act 2014”; |
+> | “local audit work | paragraph 1(2) of Schedule 5 to the Local Audit and Accountability Act 2014”; |
+> | “officer, in relation to a relevant authority | section 44(1) of the Local Audit and Accountability Act 2014”; |
+> | “parish meeting | section 44(1) of the Local Audit and Accountability Act 2014”; |
+> | “recognised qualifying body | section 1219(13)”; |
+> | “relevant authority | section 2(1) of the Local Audit and Accountability Act 2014 |
+> | [[^F85]“specified state” | section 1261(1) |
+> | “specified state auditor” | section 1261(1)] |
+
+.
+
+(4) In the entry for “officer”, after “officer” insert “ , in relation to a body corporate other than a relevant authority ”.
+
+(5) In the entry for “qualifying body” for “section 1220(1)” substitute “ section 1219(3)(a) ”.
+
+(6) For the entry for “recognised, in relation to a professional qualification” substitute—
+
+> |  |  |
+> |---|---|
+> | recognised professional qualification | section 1219(12) |
+
+.
+
+**28** (1) Schedule 10 (recognised supervisory bodies) applies with the following modifications.
+
+(2) Omit the following paragraphs—
+
+(a) paragraph 4 (recognition orders under old companies legislation to have effect under Schedule);
+
+(b) paragraphs 10B and 10C (public interest entity reporting and independence requirements);
+
+(c) paragraphs 16A to 16AB (transfer of papers to third countries);
+
+(d) paragraph 20A (definition of public interest entity etc);
+
+(e) paragraphs 22A and 22B (arrangements for setting standards relating to public interest entity reporting and independence requirements);
+
+(f) paragraph 23A (arrangements for independent monitoring of third country audits).
+
+(3) For paragraph 6 (holding of appropriate qualification) substitute—
+
+> **Holding of appropriate qualification**
+>
+> **6** (1) The body must have rules to the effect that an individual is not eligible for appointment as a local auditor unless the individual—
+>
+> (a) holds an appropriate qualification,
+>
+> (b) is an EEA auditor who has passed an aptitude test in accordance with sub-paragraph (3) [[^F86]on or before 31 December 2020], unless an aptitude test is not required (see [[^F87]sub-paragraph (4)]), [^F88]...
+>
+> [[^F89](ba) is a specified state auditor who—
+>
+> (i) holds professional qualifications obtained in a specified state that are comparable to an appropriate qualification; and
+>
+> (ii) has met a requirement to take an aptitude test or to complete an adaptation period, or to undertake both, imposed on the individual by the body in accordance with Part 2 of the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023, if such a requirement is so imposed, or]
+>
+> (c) has been authorised to act as a local auditor by the body pursuant to the European Communities (Recognition of Professional Qualifications) Regulations 2007 (SI 2007/2781), and complies with the requirements of those Regulations that apply to a person acting as a local auditor.
+>
+> (2) The body must have rules to the effect that a firm is not eligible for appointment as a local auditor unless—
+>
+> (a) each individual responsible for local audit work on behalf of the firm is eligible for appointment as a local auditor, and
+>
+> (b) the firm is controlled by qualified persons (see paragraph 7 below).
+>
+> (3) The aptitude test—
+>
+> (a) must test the individual's knowledge of subjects—
+>
+> (i) that are covered by a recognised professional qualification,
+>
+> (ii) that are not covered by the professional qualification already held by that individual, and
+>
+> (iii) the knowledge of which is essential for the pursuit of the profession of local auditor;
+>
+> (b) may test the individual's knowledge of rules of professional conduct;
+>
+> (c) must not test the individual's knowledge of any other matters.
+>
+> (4) No aptitude test is required if—
+>
+> [^F90]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (b) the subjects that are covered by a recognised professional qualification and the knowledge of which is essential for the pursuit of the profession of local auditor are covered by the professional qualification already held by the individual.
+>
+> [^F90]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (6) A firm which has ceased to comply with the conditions mentioned in sub-paragraph (2) may be permitted to remain eligible for appointment as a local auditor for a period of not more than three months.
+
+(4) In paragraph 7 (meaning of control by qualified persons)—
+
+(a) in sub-paragraph (1) (introductory), for “paragraph 6(1)(b)” substitute “ paragraph 6(2)(b) ”, [^F91]...
+
+[[^F92](aa) in sub-paragraph (2)(a)(ii), omit “, other than the United Kingdom”,]
+
+(b) in sub-paragraph (2)(b)(i), (requirement for firm to be eligible for appointment as statutory auditor), for “statutory auditor” substitute “ local auditor, or as a statutory auditor in accordance with this Part of this Act as it has effect apart from its application by virtue of Schedule 5 to the Local Audit and Accountability Act 2014 ” [[^F93], and]
+
+[[^F93](c) in sub-paragraph (2)(b)(ii), omit “, other than the United Kingdom”.]
+
+(5) After paragraph 7 insert—
+
+> **Auditors to have sufficient skill and experience**
+>
+> **7A** (1) The body must have rules to the effect that a person is not eligible for appointment as a local auditor unless—
+>
+> (a) in the case of a firm, the key audit partner, or each of the key audit partners, has an appropriate level of competence to carry out local audits, and
+>
+> (b) in the case of an individual, the individual has an appropriate level of competence to carry out local audits.
+>
+> (2) Rules under sub-paragraph (1) must comply with guidance issued by the Secretary of State.
+>
+> (3) In sub-paragraph (1) “key audit partner” means an individual identified by the firm as being primarily responsible for local audits.
+
+(6) For paragraph 10A substitute—
+
+> **Technical standards for group audit**
+>
+> **10A** (1) The body must have rules and practices as to technical standards ensuring that local auditors undertaking a group audit—
+>
+> (a) review for the purposes of the audit the audit work conducted by other persons, and
+>
+> (b) record that review.
+>
+> (2) The body must participate in arrangements within paragraph 22 (arrangements for setting standards), and the rules and practices mentioned in sub-paragraph (1) must include provision requiring compliance with any standards for the time being determined under those arrangements.
+>
+> (3) In this paragraph “group audit” means an audit that relates to the statement of accounts of a relevant authority, or, where the relevant authority is a health service body, the accounts of the body, in a case where, in accordance with proper practices, the financial transactions of an entity other than the authority must be consolidated into the statement or (as the case may be) the accounts.
+>
+> (4) In sub-paragraph (3) “entity” means any entity, whether or not a legal person.
+
+(7) For paragraph 13 substitute—
+
+> **Monitoring of audits**
+>
+> **13** (1) The body must—
+>
+> (a) have adequate arrangements for enabling the performance by its members of local audit functions, other than functions in respect of major local audits, to be monitored by means of inspections,
+>
+> (b) in the case of members of the body who perform any local audit functions in respect of major local audits—
+>
+> (i) participate in arrangements within paragraph 23(1), and
+>
+> (ii) have rules and practices designed to ensure that a sanction determined under paragraph 23(1)(b) is to be treated as if it were a sanction which the body had determined under arrangements for enforcement within paragraph 12(1A), and
+>
+> (c) have rules designed to ensure that members of the body take reasonable steps to enable their performance of any local audit functions to be monitored by means of inspections.
+>
+> (2) Any monitoring of members of the body under the arrangements within paragraph 23(1) is to be regarded (so far as their performance of local audit functions in respect of major local audits is concerned) as monitoring of compliance with the body's rules for the purposes of paragraph 12(1) and (1A).
+>
+> (3) The arrangements referred to in sub-paragraph (1)(a) must include an inspection which is conducted in relation to each person eligible for appointment as a local auditor at least once every six years.
+>
+> (4) The inspection must be conducted by persons who—
+>
+> (a) have an appropriate professional education,
+>
+> (b) have experience of—
+>
+> (i) local audit work,
+>
+> (ii) statutory audit work within the meaning of this Part of this Act as it has effect apart from its application by virtue of Schedule 5 to the Local Audit and Accountability Act 2014,
+>
+> (iii) other audit work relating to any body whose accounts form part of a group for which the Treasury prepares accounts under section 9(1) of the Government Resources and Accounts Act 2000, or
+>
+> [[^F94](iv) work equivalent to that within any of sub-paragraphs (i) to (iii) on the audit of accounts under the law of—
+>
+> (aa) an equivalent third country, or part of an equivalent third country, or
+>
+> (bb) a transitional third country, or part of a transitional third country,]
+>
+> (c) have received adequate training in the conduct of inspections concerning the audits of relevant authorities, and
+>
+> (d) do not have any interests likely to conflict with the proper conduct of the inspection.
+>
+> [[^F95](4A) For the purposes of sub-paragraph (4)—
+>
+> - “equivalent third country” means a third country granted approval or provisional approval as an equivalent third country in accordance with section 1240A(1), as that section applies in relation to statutory audits;
+> - “third country” means a country or territory other than the United Kingdom;
+> - “transitional third country” means a third country granted approval or provisional approval as a transitional third country in accordance with section 1240A(1), as that section applies in relation to statutory audits.]
+>
+> (5) The inspection must review one or more local audits in which the person to whom the inspection relates has participated.
+>
+> (6) The inspection must include an assessment of—
+>
+> (a) the person's compliance with the body's rules established for the purposes of paragraphs 9 (professional integrity and independence), 10 (technical standards) and 10A (technical standards for group audits),
+>
+> (b) the resources allocated by the person to local audit work,
+>
+> (c) in the case of an inspection in relation to a firm, its internal quality control system, and
+>
+> (d) the remuneration received by the person in respect of local audit work.
+>
+> (7) An inspection conducted in relation to a firm may be treated as an inspection of all individuals responsible for local audit work on behalf of that firm, if the firm has a common quality assurance policy with which each of those individuals is required to comply.
+>
+> (8) The main conclusions of the inspection must be recorded in a report which is made available to—
+>
+> (a) the person to whom the inspection relates, and
+>
+> (b) the body.
+>
+> (9) The body must, at least once every calendar year, give to the Secretary of State a summary of the results of inspections conducted under this paragraph.
+>
+> (10) For the purposes of this Schedule a local audit of the accounts of a relevant authority is a “major local audit” if the authority is specified in, or of a description specified in—
+>
+> (a) regulations made for the purposes of this sub-paragraph by the Secretary of State, or
+>
+> (b) a direction (which has not been revoked) given by the Secretary of State to the body.
+>
+> (11) Regulations under sub-paragraph (10)(a) may in particular specify a description of relevant authority by reference to its income or expenditure.
+>
+> (12) Regulations under sub-paragraph (10)(a) are subject to negative resolution procedure.
+>
+> (13) A direction may be given under sub-paragraph (10)(b) only if the Secretary of State thinks that there is significant public interest in the authority, or in authorities of the description, specified in the direction.
+>
+> (14) In this Schedule “local audit function” means any function performed as a local auditor.
+
+(8) In paragraph 23 (arrangements for independent monitoring of audits of listed companies and other major bodies)—
+
+(a) in the heading, for “audits of listed companies and other major bodies” substitute “ major local audits ”,
+
+(b) for “statutory audit functions” in each place substitute “ local audit functions ”,
+
+(c) for “major audits” in each place substitute “ major local audits ”, and
+
+(d) omit sub-paragraph (2).
+
+(9) In paragraph 24 (arrangements for independent investigation for disciplinary purposes of public interest cases)—
+
+(a) in sub-paragraph (1)(a) omit “or third country audit functions”, and
+
+(b) in sub-paragraph (2) omit the definitions of “statutory audit function” and “third country audit function”.
+
+(10) In paragraph 25(1) (supplementary: arrangements to operate independently of body)—
+
+(a) at the end of paragraph (c) insert “ , or ”, and
+
+(b) omit paragraph (ca).
+
+(11) In paragraph 26 (supplementary: funding of arrangements) omit “, 23A”.
+
+(12) In paragraph 27 (supplementary: scope of arrangement) omit “, 23A”.
+
+**29** In Schedule 13 (supplementary provision with respect to delegation order)—
+
+(a) in paragraph 9 (legislative functions) omit “(or, in Scotland, sufficient evidence)”, and
+
+(b) in paragraph 10(6) (requirement for auditor of body established by order to be eligible for appointment as statutory auditor), for “a statutory auditor” substitute “ a local auditor, or a statutory auditor in accordance with this Part of this Act as it has effect apart from its application by virtue of Schedule 5 to the Local Audit and Accountability Act 2014 ”.
+
+## SCHEDULE 6 — Codes of audit practice and guidance
+
+*Section 19*
+
+### Duty to prepare code
+
+**1** (1) The Comptroller and Auditor General must prepare one or more codes of audit practice prescribing the way in which local auditors are to carry out their functions under this Act.
+
+(2) Different codes may be prepared for different relevant authorities (but the Comptroller and Auditor General must ensure that each kind of relevant authority is covered by a code).
+
+(3) A code may contain different provision for different relevant authorities.
+
+(4) A code must embody what the Comptroller and Auditor General considers to be the best professional practice with respect to the standards, procedures and techniques to be adopted by local auditors.
+
+(5) Before preparing a code, the Comptroller and Auditor General must consult—
+
+(a) such associations or representatives of relevant authorities as the Comptroller and Auditor General thinks appropriate,
+
+(b) the recognised supervisory bodies,
+
+(c) the persons appearing on the register of auditors kept under regulations under section 1239 of the Companies Act 2006 as it has effect by virtue of Schedule 5,
+
+(d) the Secretary of State,
+
+(e) the Treasury,
+
+(f) each body to whom the Secretary of State has delegated functions under section 1252 of the Companies Act 2006 as it has effect by virtue of Schedule 5, and
+
+(g) such other bodies or persons as the Comptroller and Auditor General thinks appropriate.
+
+### Procedure for code
+
+**2** (1) After preparing a code of audit practice, the Comptroller and Auditor General must—
+
+(a) publish it in draft, and
+
+(b) send it to a Minister of the Crown, who must lay it before Parliament.
+
+(2) If, within the 40-day period, either House of Parliament resolves not to approve the code—
+
+(a) it must not be published by the Comptroller and Auditor General, and
+
+(b) the Comptroller and Auditor General must prepare another code.
+
+(3) If no such resolution is made within that period, the Comptroller and Auditor General must publish the code.
+
+(4) This paragraph does not apply to a code of audit practice prepared to replace an existing code of audit practice (but see paragraph 5).
+
+### Duty to keep code under review
+
+**3** The Comptroller and Auditor General must keep each code of audit practice under review.
+
+### Alteration of code
+
+**4** (1) The Comptroller and Auditor General may prepare alterations to a code of audit practice.
+
+(2) Paragraph 1(5) applies to alterations to a code as it applies to a code.
+
+(3) After preparing alterations to a code, the Comptroller and Auditor General must—
+
+(a) publish the code as altered in draft, and
+
+(b) send the code as altered to a Minister of the Crown, who must lay it before Parliament.
+
+(4) If, within the 40-day period, either House of Parliament resolves not to approve the code as altered, it must not be published by the Comptroller and Auditor General.
+
+(5) If no such resolution is made within that period, the Comptroller and Auditor General must publish the code as altered.
+
+(6) A code published under sub-paragraph (3)(a) or (5) must show the alterations that are proposed to be made to it or (as the case may be) have been made to it in such manner as the Comptroller and Auditor General thinks appropriate.
+
+### Replacement of code
+
+**5** (1) The Comptroller and Auditor General may prepare a code of audit practice to replace a code published under paragraph 2(3) or sub-paragraph (7).
+
+(2) The Comptroller and Auditor General must—
+
+(a) use reasonable endeavours to ensure that a code is published under sub-paragraph (7) to replace a code published under paragraph 2(3) or that sub-paragraph (“the original code”) before the end of 5 years beginning with the date on which the original code was so published, or
+
+(b) if it does not prove possible to comply with paragraph (a), ensure that a code of the kind referred to in that paragraph is published under sub-paragraph (7) as soon as is reasonably practicable after the end of the period referred in that paragraph.
+
+(3) Sub-paragraphs (1) and (2) apply regardless of whether the original code has been published with alterations under paragraph 4 in the meantime.
+
+(4) A replacement code prepared to comply with sub-paragraph (2) need not make different provision from that made by the original code.
+
+(5) After preparing a replacement code, the Comptroller and Auditor General must—
+
+(a) publish it in draft, and
+
+(b) send it to a Minister of the Crown, who must lay it before Parliament.
+
+(6) If, within the 40-day period, either House of Parliament resolves not to approve the replacement code—
+
+(a) the code must not be published by the Comptroller and Auditor General, and
+
+(b) if the period of 5 years beginning with the date on which the original code was published under paragraph 2(3) or sub-paragraph (7) has expired, the Comptroller and Auditor General must prepare another replacement code.
+
+(7) If no such resolution is made within that period, the Comptroller and Auditor General must publish the replacement code.
+
+### Publication of code
+
+**6** (1) A code of audit practice may be published in such manner as the Comptroller and Auditor General thinks fit.
+
+(2) A code comes into force on the day on which it is published under paragraph 2(3) or 5(7) unless it specifies a different commencement date.
+
+(3) Alterations to a code come into force on the day on which the code as altered is published under paragraph 4(5) unless it specifies a different commencement date for those alterations.
+
+(4) A code may—
+
+(a) specify different commencement dates for different purposes;
+
+(b) include transitional provisions and savings.
+
+(5) A code may, in particular, provide that all or part of an existing code of audit practice has effect until all or part of the new code comes into force.
+
+### Assistance from relevant authority
+
+**7** A relevant authority must provide the Comptroller and Auditor General with the information that the Comptroller and Auditor General reasonably requires for the purposes of this Schedule.
+
+### Saving for codes of practice under Audit Commission Act 1998
+
+**8** (1) Despite the repeal of section 4 of the Audit Commission Act 1998 by this Act, a provision of a code of audit practice under that section continues in force until it is replaced by a provision of a code of audit practice under this Schedule.
+
+(2) A provision of a code under that section is to be read subject to the modifications necessary for it to have effect in relation to the functions of a local auditor under this Act.
+
+(3) A code under that section—
+
+(a) is not to be treated as a code of audit practice for the purposes of this Schedule (other than this paragraph), but,
+
+(b) is otherwise to be treated as a code of audit practice for the purposes of this Act.
+
+### Guidance
+
+**9** (1) The Comptroller and Auditor General may issue guidance as to the exercise by local auditors of their functions under this Act.
+
+(2) Guidance under this paragraph may, in particular, explain or supplement the provisions of a code of practice under this Schedule.
+
+### Application to auditors of NHS foundation trusts
+
+**10** (1) The duty imposed on the Comptroller and Auditor General by paragraph 1 includes a duty to prepare one or more codes of audit practice prescribing the way in which auditors of accounts of NHS foundation trusts are to carry out their functions in relation to such accounts.
+
+(2) This Schedule, apart from paragraph 1(2) and (3), paragraph 8 and this paragraph, applies in relation to a code relating to auditors of accounts of NHS foundation trusts as it applies in relation to a code relating to local auditors, subject to the following sub-paragraphs.
+
+(3) Paragraph 1(4) is to be read as if the reference to “local auditors” were a reference to auditors of accounts of NHS foundation trusts.
+
+(4) Paragraph 1(5) applies as if—
+
+(a) it required the Comptroller and Auditor General to consult [[^F96]NHS England] (as well as the other persons mentioned in that sub-paragraph), and
+
+(b) paragraph (a) of that sub-paragraph required the Comptroller and Auditor General to consult such associations or representatives of NHS foundation trusts as the Comptroller and Auditor General thinks appropriate.
+
+(5) Paragraph 7 is to be read as if the reference to “a relevant authority” were a reference to an NHS foundation trust.
+
+(6) Paragraph 9(1) is to be read as if the reference to “the exercise by local auditors of their functions under this Act” were a reference to “the exercise by auditors of accounts of NHS foundation trusts of their functions in relation to such accounts”.
+
+### Meaning of “40-day period”
+
+**11** (1) In this Schedule “the 40-day period”, in relation to a code laid before Parliament, means the period of 40 days beginning with—
+
+(a) the day on which the code is laid, or
+
+(b) if it is not laid before each House of Parliament on the same day, the later of the 2 days on which it is laid.
+
+(2) In calculating that period, no account is to be taken of any period during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than 4 days.
+
+## SCHEDULE 7 — Reports and recommendations
+
+*Section 24*
+
+### Public interest reports
+
+**1** (1) A local auditor of the accounts of a relevant authority must consider whether, in the public interest, the auditor should make a report on any matter coming to the auditor's notice during the audit and relating to the authority or an entity connected with the authority, so it can be considered in accordance with this Schedule or brought to the public's attention.
+
+(2) A report under sub-paragraph (1) is referred to in this Act as a public interest report.
+
+(3) A public interest report may be made during or after the end of an audit.
+
+(4) A local auditor must notify a relevant authority's auditor panel (if it has one) as soon as is reasonably practicable after making a public interest report relating to the authority or an entity connected with it.
+
+(5) A local auditor may recover from a relevant authority—
+
+(a) the reasonable costs of determining whether to make a public interest report relating to the authority or an entity connected with it, and
+
+(b) the reasonable costs of making a public interest report relating to the authority or an entity connected with it.
+
+(6) Sub-paragraph (5)(a) applies regardless of whether the report is in fact made.
+
+### Written recommendations
+
+**2** (1) A local auditor of the accounts of a relevant authority may make a written recommendation to the authority relating to the authority or an entity connected with it, so that the recommendation can be considered under this Schedule.
+
+(2) A recommendation may be made during or at the end of an audit.
+
+(3) A recommendation must be sent at the time it is made—
+
+(a) to the Secretary of State,
+
+(b) where the recommendation relates to an entity connected with the relevant authority, to that entity and to any other relevant authority with which the entity is connected,
+
+(c) where the relevant authority is itself a connected entity, to its related authority or authorities,
+
+(d) where the relevant authority is a [[^F97]health service body], to [[^F98]NHS England], and
+
+(e) where the relevant authority is—
+
+(i) a functional body,
+
+(ii) an entity connected with a functional body, or
+
+(iii) the London Pensions Fund Authority,
+
+to the Greater London Authority.
+
+(4) A local auditor may recover from a relevant authority—
+
+(a) the reasonable costs of determining whether to make a recommendation relating to the authority or an entity connected with it, and
+
+(b) the reasonable costs of making a recommendation relating to the authority or an entity connected with it.
+
+(5) Sub-paragraph (4)(a) applies regardless of whether the recommendation is in fact made.
+
+(6) In this Act “related authority”, in relation to a connected entity, means the relevant authority with which the entity is connected.
+
+### Supply of public interest reports
+
+**3** (1) If a local auditor makes a public interest report arising out of the audit of the accounts of a relevant authority, the auditor must send the report to—
+
+(a) the authority, and
+
+(b) where the report relates to an entity connected with the authority, to that entity and to any other relevant authority with which the entity is connected.
+
+(2) The local auditor must also send the report—
+
+(a) to the Secretary of State,
+
+(b) where the relevant authority is itself a connected entity, to its related authority or authorities,
+
+(c) where the relevant authority is a [[^F99]health service body], to [[^F98]NHS England], and
+
+(d) where the relevant authority is—
+
+(i) a functional body,
+
+(ii) an entity connected with a functional body, or
+
+(iii) the London Pensions Fund Authority,
+
+to the Greater London Authority.
+
+(3) A report required to be sent under sub-paragraph (1) or (2) must be sent as soon as is reasonably practicable after it is made.
+
+(4) If a relevant authority to which a report is sent under this paragraph is a health service body, it must take the report into consideration as soon as is reasonably practicable after receiving it.
+
+(5) If paragraph 5 applies to a relevant authority to which a report is sent under this paragraph, it must, if required by that paragraph to do so, take the report into consideration in accordance with that paragraph.
+
+(6) If a relevant authority to which a report is sent under this paragraph is the Greater London Authority, it must, if required by that paragraph to do so, take the report into consideration in accordance with paragraph 6.
+
+### Publicity for public interest reports
+
+**4** (1) This paragraph applies to a relevant authority if a local auditor has made a public interest report relating to the authority or an entity connected with it.
+
+(2) As soon as is practicable after receiving the report, the relevant authority must publish the report and a notice that—
+
+(a) identifies the subject matter of the report, and
+
+(b) unless the authority is a health service body, states that any member of the public may inspect the report and make a copy of it or any part of it between the times and at the place or places specified in the notice.
+
+(3) As soon as is practicable after receiving the report, the relevant authority must supply a copy of the report to—
+
+(a) each of its members (if it has members), and
+
+(b) its auditor panel (if it has one).
+
+(4) Sub-paragraph (3)(a) does not apply in relation to a parish meeting.
+
+(5) From the time when the report is received, the relevant authority, unless it is a health service body, must ensure that any member of the public may—
+
+(a) inspect the report at all reasonable times without payment,
+
+(b) make a copy of it, or any part of it, and
+
+(c) be supplied with a copy of it, or any part of it, on payment of a reasonable sum.
+
+(6) The local auditor may—
+
+(a) notify any person the auditor thinks fit of the fact that the auditor has made the report, and
+
+(b) supply a copy of it or any part of it to any person the auditor thinks fit.
+
+(7) A notice or report required to be published under this paragraph must be published—
+
+(a) if the authority has a website, on its website;
+
+(b) otherwise, in accordance with sub-paragraph (8).
+
+(8) A relevant authority publishes a notice or report in accordance with this sub-paragraph if—
+
+(a) in the case of an authority other than a health service body, it publishes the notice or report in such manner as it thinks is likely to bring the notice or report to the attention of persons who live in its area;
+
+[[^F100](b) in the case of an integrated care board, it publishes the notice or report in such manner as it thinks is likely to bring the notice or report to the attention of—
+
+(i) the group of people for whom it has core responsibility, and
+
+(ii) anyone who lives within its area but does not fall within sub-paragraph (i)]
+
+[^F101]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F102](d) in the case of an NHS trust, it publishes the notice in such manner as it thinks is likely to bring the notice to the attention of persons to whom the trust provides services for the purposes of the health service in England.]
+
+(9) Nothing in this paragraph affects the operation of paragraph 9.
+
+### Consideration of report or recommendation
+
+**5** (1) Subject to sub-paragraphs (2) and (4), this paragraph applies to a relevant authority if—
+
+(a) a local auditor has made a public interest report relating to the authority or an entity connected with it, or
+
+(b) a local auditor has made a recommendation relating to the authority or an entity connected with it.
+
+(2) This paragraph does not apply to a relevant authority which is itself a connected entity, subject to sub-paragraph (3).
+
+(3) This paragraph applies to the Mayor's Office for Policing and Crime where a local auditor has made a report or recommendation relating to the Commissioner of Police of the Metropolis regardless of whether the Office is a connected entity or was such an entity at the time to which the report or recommendation relates.
+
+(4) This paragraph does not apply to—
+
+(a) the Greater London Authority (but see paragraph 6), and
+
+(b) health service bodies.
+
+(5) The relevant authority must consider the report or recommendation at a meeting held before the end of the period of one month beginning with the day on which it was sent to the authority.
+
+(6) At that meeting the relevant authority must decide—
+
+(a) whether the report requires the authority to take any action or whether the recommendation is to be accepted, and
+
+(b) what, if any, action to take in response to the report or recommendation.
+
+(7) Where the relevant authority is a police and crime commissioner [[^F103], the Mayor’s Office for Policing and Crime [[^F104], a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 or the London Fire Commissioner]], the authority must, before the end of the period of one month beginning with the day on which the report or recommendation was sent to the authority, decide—
+
+(a) whether the report requires the authority to take any action or whether the recommendation is to be accepted, and
+
+(b) what, if any, action to take in response to the report or recommendation.
+
+(8) If the local auditor is satisfied that it is reasonable to allow more time for the relevant authority to comply with sub-paragraph (5) or (7), the auditor may extend or further extend the period of one month mentioned in that sub-paragraph.
+
+(9) This paragraph does not affect any duties (so far as they relate to the subject-matter of a report or recommendation sent to a relevant authority) which are imposed by or under—
+
+(a) this Act,
+
+(b) sections 114 to 116 of the Local Government Finance Act 1988 (functions and reports of finance officers),
+
+(c) section 5 of the Local Government and Housing Act 1989 (functions of monitoring officers), or
+
+(d) any other enactment.
+
+(10) The Secretary of State may by regulations provide for this paragraph to apply with modifications in relation to a relevant authority specified, or of a description specified, in the regulations.
+
+(11) The Secretary of State may by regulations provide for any provisions of the following that do not otherwise apply to a meeting of a relevant authority under this paragraph to apply (with or without modifications) to such a meeting—
+
+(a) the Public Bodies (Admission to Meetings) Act 1960;
+
+(b) Part 5A of the Local Government Act 1972 (access to meetings and documents);
+
+(c) Schedule 12 to that Act (meetings and proceedings of local authorities).
+
+### Consideration of report or recommendation: Greater London Authority
+
+**6** (1) This paragraph applies if—
+
+(a) a local auditor has made a public interest report relating to the Greater London Authority (“the Authority”) or an entity connected with it, or
+
+(b) a local auditor has made a recommendation relating to the Authority or an entity connected with it.
+
+(2) This paragraph does not apply where a local auditor has made a report or recommendation relating to the Commissioner of Police of the Metropolis regardless of whether the Commissioner is connected with the Authority or was so connected at the time to which the report or recommendation relates.
+
+(3) The London Assembly (“the Assembly”) must consider the report or recommendation at a meeting.
+
+(4) The Mayor of London (“the Mayor”) must attend the meeting.
+
+(5) At the meeting, the Assembly must decide what recommendations to make to the Mayor about the decisions to be made under sub-paragraph (6).
+
+(6) Having considered the report or recommendation, and the Assembly's recommendations under sub-paragraph (5), the Mayor must decide—
+
+(a) whether the report requires the Authority to take any action or whether the recommendation is to be accepted, and
+
+(b) what, if any, action to take in response to the report or recommendation.
+
+(7) The Mayor and the Assembly must comply with sub-paragraphs (3) to (6) before the end of the period of one month beginning with the day on which the report or recommendation was sent to the Authority.
+
+(8) If the local auditor is satisfied that it is reasonable to allow more time for the Mayor or the Assembly to comply with sub-paragraphs (3) to (6), the auditor may extend or further extend the period of one month mentioned in sub-paragraph (7).
+
+(9) This paragraph does not affect any duties (so far as they relate to the subject-matter of a report or recommendation sent to the Authority) which are imposed by or under—
+
+(a) this Act,
+
+(b) sections 114 to 116 of the Local Government Finance Act 1988 (functions and reports of finance officers),
+
+(c) section 5 of the Local Government and Housing Act 1989 (functions of monitoring officers), or
+
+(d) any other enactment.
+
+### Bar on delegation of functions relating to meetings
+
+**7** (1) If a relevant authority is a local authority operating executive arrangements, the authority's functions under paragraph 5 are not the responsibility of an executive of the authority under those arrangements.
+
+(2) If a relevant authority is a local authority within the meaning of section 101 of the Local Government Act 1972 (arrangements for discharge of functions), that section does not apply to its functions under paragraph 5.
+
+(3) The functions of a parish meeting under paragraph 5 are to be exercised by the parish meeting itself (and not by its chairman on behalf of the parish meeting).
+
+(4) Any functions of the Mayor of London under paragraph 6 must be exercised by the Mayor personally.
+
+(5) Section 54 of the Greater London Authority Act 1999 (discharge of London Assembly functions by committees etc) does not apply in relation to any function of the London Assembly under paragraph 6.
+
+### Publicity for meetings
+
+**8** (1) If a relevant authority is required to hold a meeting under paragraph 5, it must publish a notice in compliance with sub-paragraphs (2) to (4).
+
+(2) The notice must be published—
+
+(a) if the relevant authority has a website, on its website;
+
+(b) otherwise, in such manner as the authority thinks is likely to bring the notice to the attention of persons who live in its area.
+
+(3) The notice must—
+
+(a) state the time and place of the meeting,
+
+(b) indicate that the meeting is to be held to consider a local auditor's report or recommendation (as the case may be),
+
+(c) if the meeting is to be held to consider a report, describe the subject matter of the report, and
+
+(d) if the meeting is to be held to consider a recommendation, set out the recommendation or, where this is not reasonably practicable, describe its subject matter.
+
+(4) The notice must be published before the beginning of the period of 8 days ending with the day of the meeting.
+
+(5) The agenda supplied to the members of the relevant authority for the meeting must be accompanied by a copy of the report or recommendation (as the case may be).
+
+(6) Sub-paragraph (5) does not apply in relation to a parish meeting.
+
+(7) If the London Assembly is required to hold a meeting under paragraph 6, the Greater London Authority must publish on its website a notice in compliance with sub-paragraphs (3) and (4).
+
+(8) The agenda supplied to the members of the London Assembly for the meeting must be accompanied by a copy of the report or recommendation (as the case may be).
+
+(9) This paragraph applies in addition to any provision made in relation to the relevant authority in question by or under the Public Bodies (Admission to Meetings) Act 1960, the Local Government Act 1972 or any other enactment.
+
+### Access to meetings and documents
+
+**9** (1) Where a public interest report or a recommendation is to be considered under paragraph 5 by a relevant authority to which the Public Bodies (Admission to Meetings) Act 1960 applies, the report or recommendation is not to be excluded from the matter supplied under section 1(4)(b) of that Act (supply of agenda etc to newspapers).
+
+(2) Part 5A (access to meetings and documents) of the Local Government Act 1972 applies to a meeting of the London Pensions Fund Authority under paragraph 5 as if the Authority were a principal council.
+
+(3) Sub-paragraphs (4) to (6) apply in relation to the consideration under paragraph 5 or 6 of a public interest report or a recommendation by a relevant authority to which Part 5A (access to meetings and documents) of the Local Government Act 1972 applies.
+
+(4) Information contained in the report or recommendation is not to be treated as exempt information for the purposes of that Part.
+
+(5) The report or recommendation is not to be excluded—
+
+(a) from the documents open to inspection under section 100B(1) of that Act (public access to agenda and reports before meetings), or
+
+(b) from the matter supplied under section 100B(7) of that Act (supply of agenda etc to newspapers).
+
+(6) Part 5A of the Local Government Act 1972 has effect in relation to the report or recommendation as if section 100C(1)(d) of that Act (public access to copies of reports for six years after meeting) were not limited to so much of the report or recommendation as relates to an item during which the meeting was open to the public.
+
+(7) Information contained in a public interest report or a recommendation is not to be treated as exempt information for the purposes of any Act or instrument made under an Act that applies in relation to exempt information within the meaning of Part 5A of the Local Government Act 1972.
+
+(8) References in this paragraph to a public interest report or a recommendation include any report on the report or recommendation.
+
+### Publicity for decisions under paragraph 5 or 6
+
+**10** (1) As soon as is practicable after making decisions under paragraph 5(6) or (7) or 6(6), a relevant authority must—
+
+(a) notify the authority's local auditor of those decisions, and
+
+(b) publish a notice containing a summary of those decisions which has been approved by the auditor.
+
+(2) The notice under sub-paragraph (1)(b) must be published—
+
+(a) if the relevant authority has a website, on its website;
+
+(b) otherwise, in such manner as the authority thinks is likely to bring the notice to the attention of persons who live in its area.
+
+(3) The notice required by sub-paragraph (1)(b) in relation to a meeting need not summarise any decision made while the public were excluded from the meeting—
+
+(a) as the result of a resolution under section 1(2) of the Public Bodies (Admission to Meetings) Act 1960 (protection of public interest),
+
+(b) under section 100A(2) of the Local Government Act 1972 (confidential matters), or
+
+(c) as the result of a resolution under section 100A(4) of that Act (exempt information).
+
+(4) If sections 100C and 100D of the Local Government Act 1972 (availability for inspection after meetings of minutes etc) apply in relation to a meeting under paragraph 5 or 6, the notice required by sub-paragraph (1)(b) must indicate the documents in relation to the meeting that are open for inspection in accordance with those paragraphs.
+
+(5) This paragraph applies in addition to any provision made in relation to the relevant authority by or under the Public Bodies (Admission to Meetings) Act 1960, the Local Government Act 1972 or any other enactment.
+
+## SCHEDULE 8 — Advisory notices
+
+*Section 29*
+
+### Power to issue advisory notice
+
+**1** (1) A local auditor of the accounts of a relevant authority, other than a health service body, may issue a notice under this paragraph (an “advisory notice”) if the auditor thinks that the authority or an officer of the authority—
+
+(a) is about to make or has made a decision which involves or would involve the authority incurring unlawful expenditure,
+
+(b) is about to take or has begun to take a course of action which, if followed to its conclusion, would be unlawful and likely to cause a loss or deficiency, or
+
+(c) is about to enter an item of account, the entry of which is unlawful.
+
+(2) An advisory notice is a notice which—
+
+(a) is addressed to the authority or officer concerned,
+
+(b) specifies the paragraph of sub-paragraph (1) which is relevant and the decision, course of action or item of account to which the notice relates,
+
+(c) specifies that the notice will take effect on the day on which a copy of the notice is served on the person to whom it is addressed, and
+
+(d) requires the authority or officer to give the authority's local auditor at least the specified number of days' notice in writing of the intention of the authority or officer to—
+
+(i) make or implement the decision,
+
+(ii) take or continue to take the course of action, or
+
+(iii) enter the item of account,
+
+(as the case may be).
+
+(3) In sub-paragraph (2)(d) “the specified number” means the number of days specified in the notice, which may not be more than 21.
+
+(4) For the purposes of this Schedule the actions of the following are to be treated as actions of the relevant authority itself—
+
+(a) a committee or sub-committee of the authority;
+
+(b) any other person (other than an officer) authorised to act on behalf of the authority.
+
+### Service and withdrawal of notice
+
+**2** (1) A copy of an advisory notice—
+
+(a) in the case of a notice addressed to a relevant authority, must be served on the relevant authority,
+
+(b) in the case of a notice addressed to an officer, must be served on the relevant authority concerned and the officer, and
+
+(c) may be served on any other person the local auditor thinks appropriate.
+
+(2) If the relevant authority referred to in sub-paragraph (1)(a) or (b) is a connected entity, a copy of the notice must also be served on its related authority or authorities.
+
+(3) The local auditor must serve a statement of the auditor's reasons for the belief referred to in paragraph 1(1)—
+
+(a) on the relevant authority concerned,
+
+(b) on any officer on whom a copy of the notice was served under sub-paragraph (1)(b), and
+
+(c) if a copy of the notice was served on a related authority or authorities under sub-paragraph (2), on that authority or those authorities.
+
+(4) The statement must be served before the end of the period of 7 days beginning with the day on which a copy of the notice was served on the person to whom it is addressed.
+
+(5) Where this paragraph requires a document to be served on an officer of a relevant authority, it must be served by addressing it to the officer and delivering it to the officer or leaving it at, or sending it by post to, the office where the officer is employed.
+
+(6) An advisory notice may at any time be withdrawn by the local auditor of the accounts of the relevant authority to which, or to an officer of which, the notice was addressed.
+
+(7) The local auditor must give notice in writing of the withdrawal to any person on whom a copy of the advisory notice was served under sub-paragraph (1) or (2).
+
+(8) In this Schedule “the relevant authority concerned”, in relation to an advisory notice, means the relevant authority to which, or to any officer of which, the notice is addressed.
+
+### Effect of an advisory notice
+
+**3** (1) While an advisory notice has effect, it is not lawful for the relevant authority concerned or any officer of that authority—
+
+(a) if the notice relates to a decision, to make or implement the decision,
+
+(b) if the notice relates to a course of action, to take or continue to take the course of action, or
+
+(c) if the notice relates to an item of account, to enter the item of account.
+
+(2) Sub-paragraph (1) does not apply if—
+
+(a) the relevant authority has considered, in the light of the advisory notice and the statement under paragraph 2(3), the consequences of doing the thing mentioned in sub-paragraph (1) which is relevant,
+
+(b) the relevant authority or officer has given the authority's local auditor and (where applicable) its related authority or each of its related authorities the period of notice in writing required by the advisory notice under paragraph 1(2)(d), and
+
+(c) that period has expired.
+
+(3) The condition in paragraph (a) of sub-paragraph (2) is met in relation to a parish meeting only if the matters referred to in that paragraph are considered by the parish meeting itself (and not by its chairman on behalf of the parish meeting).
+
+(4) An advisory notice takes effect on the day on which a copy of the notice is served on the person to whom it is addressed, and ceases to have effect—
+
+(a) if a statement of reasons is not served in accordance with paragraph 2(3), at the end of the period specified in paragraph 2(4), or
+
+(b) when it is withdrawn under paragraph 2(6).
+
+(5) A local auditor may recover from a relevant authority—
+
+(a) the reasonable costs of determining whether to issue an advisory notice to that authority or an officer of that authority, and
+
+(b) the reasonable costs of issuing an advisory notice to that authority or an officer of that authority.
+
+(6) Sub-paragraph (5)(a) applies regardless of whether the notice is in fact issued.
+
+### Further provisions about advisory notices
+
+**4** (1) Sub-paragraph (2) applies if—
+
+(a) before an advisory notice is served, a relevant authority enters into a contract to dispose of or acquire an interest in land, and
+
+(b) before the disposal or acquisition is completed, an advisory notice takes effect as a result of which it is unlawful for the authority to complete the disposal or acquisition.
+
+(2) The existence of the advisory notice does not affect any remedy in damages which may be available to any person by reason of the relevant authority's failure to complete the contract.
+
+(3) No action lies against a local auditor in respect of loss or damage alleged to have been caused by reason of the issue of an advisory notice which was issued in good faith.
+
+## SCHEDULE 9 — Data matching
+
+*Section 33*
+
+### Power to conduct data matching exercises
+
+**1** (1) A relevant minister may conduct data matching exercises or arrange for them to be conducted on the minister's behalf.
+
+(2) “Relevant minister” means the Secretary of State or the Minister for the Cabinet Office.
+
+(3) A data matching exercise is an exercise involving the comparison of sets of data to determine how far they match (including the identification of any patterns and trends).
+
+(4) The power in sub-paragraph (1) is exercisable for the purpose of assisting in the prevention and detection of fraud.
+
+(5) A data matching exercise may not be used to identify patterns and trends in an individual's characteristics or behaviour which suggest nothing more than the individual's potential to commit fraud in the future.
+
+(6) In this Schedule, any reference to a data matching exercise is to an exercise conducted or arranged to be conducted under this paragraph.
+
+### Mandatory provision of data
+
+**2** (1) A relevant minister may require a person within sub-paragraph (2) to provide the minister or a person acting on the minister's behalf with such data (and in such form) as the minister or that person may reasonably require for the purpose of conducting data matching exercises.
+
+(2) The persons within this sub-paragraph are—
+
+(a) a relevant authority,
+
+(b) a best value authority which is not a relevant authority, and
+
+(c) an NHS foundation trust.
+
+(3) “Best value authority” has the meaning given by section 1 of the Local Government Act 1999.
+
+### Voluntary provision of data
+
+**3** (1) If a relevant minister thinks it appropriate to conduct a data matching exercise using data held by or on behalf of a body or person in England, the data may be disclosed to the minister or a person acting on the minister's behalf.
+
+(2) Sub-paragraph (1) applies to the disclosure of data by a relevant authority, a best value authority or an NHS foundation trust otherwise than in response to a requirement under paragraph 2 as it applies to other disclosures of data.
+
+(3) Sub-paragraph (1) does not authorise—
+
+(a) a disclosure which contravenes [[^F105]the data protection legislation], or
+
+(b) a disclosure prohibited by [[^F106]any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016 ].
+
+[[^F107](3A) “The data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).]
+
+(4) Data may not be disclosed under sub-paragraph (1) if the data [[^F108]comprises or includes] patient data.
+
+(5) “Patient data” means data relating to an individual which are held for medical purposes (within the meaning of section 251 of the National Health Service Act 2006) and from which the individual can be identified.
+
+(6) A disclosure under sub-paragraph (1) does not breach—
+
+(a) any obligation of confidence owed by a person making the disclosure, or
+
+(b) any other restriction on the disclosure of information (however imposed).
+
+(7) This paragraph does not limit the circumstances in which data may be disclosed apart from this paragraph.
+
+(8) Data matching exercises may include data provided by a body or person outside England.
+
+### Disclosure of results of data matching etc
+
+**4** (1) This paragraph applies to the following information—
+
+(a) information relating to a particular body or person obtained by or on behalf of a relevant minister for the purpose of conducting a data matching exercise, and
+
+(b) the results of any such exercise.
+
+(2) Information to which this paragraph applies may be disclosed by or on behalf of the minister if the disclosure—
+
+(a) is for or in connection with a purpose for which the data matching exercise is conducted,
+
+(b) is to a local auditor and is made for or in connection with the auditor's functions,
+
+(c) is in pursuance of a duty imposed by or under an enactment, or
+
+(d) is within sub-paragraph (3).
+
+(3) A disclosure is within this sub-paragraph if it is—
+
+(a) to a relevant audit authority or a related party, and
+
+(b) for or in connection with a function of the relevant audit authority corresponding or similar to—
+
+(i) the functions of a local auditor, or
+
+(ii) the functions of a relevant minister under this Schedule.
+
+(4) “Relevant audit authority” means—
+
+(a) the Auditor General for Wales;
+
+(b) the Auditor General for Scotland;
+
+(c) the Accounts Commission for Scotland;
+
+(d) Audit Scotland;
+
+(e) the Comptroller and Auditor General for Northern Ireland;
+
+(f) a person designated as a local government auditor under Article 4 of the Local Government (Northern Ireland) Order 2005 (SI 2005/1968 (N.I.18)).
+
+(5) The related parties in relation to a relevant audit authority are—
+
+(a) a body or person acting on the authority's behalf,
+
+(b) a body whose accounts are required to be audited by the authority or by a person appointed by the authority, and
+
+(c) a person appointed by the authority to audit those accounts.
+
+(6) If the data used for a data matching exercise include patient data—
+
+(a) sub-paragraph (2)(a) applies only so far as the purpose for which the disclosure is made relates to—
+
+[[^F109](i)] a relevant NHS body [[^F110], or
+
+(ii) in relation to patient data which are held for the purposes of local authority social care provided to individuals aged 18 or over, a local authority;]
+
+(b) sub-paragraph (2)(b) or (d) applies only so far as the function for or in connection with which the disclosure is made relates to a relevant NHS body.
+
+(7) Information disclosed under sub-paragraph (2) may not be further disclosed except—
+
+(a) in the case of information disclosed under sub-paragraph (2)(a), for or in connection with the purpose for which it was disclosed under that sub-paragraph,
+
+(b) in the case of information disclosed under sub-paragraph (2)(b) or under sub-paragraphs (2)(d) and (3), for or in connection with the function for which it was disclosed under that sub-paragraph or those sub-paragraphs,
+
+(c) for the investigation or prosecution of an offence (so far as the disclosure does not fall within paragraph (a) or (b)), or
+
+(d) in pursuance of a duty imposed by or under an enactment.
+
+(8) A person who discloses information to which this paragraph applies, except so far as that disclosure is authorised by sub-paragraph (2) or (7), is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(9) If section 85(1) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 comes into force on or before the day on which this Act is passed—
+
+(a) section 85 of that Act (removal of limit on certain fines on conviction by magistrates' court) applies in relation to the offence in sub-paragraph (8) as if it were a relevant offence (as defined in section 85(3) of that Act), and
+
+(b) regulations described in section 85(11) of that Act may amend or otherwise modify sub-paragraph (8).
+
+(10) Schedule 11 (restriction on disclosure of information obtained under this Act) does not apply to information to which this paragraph applies.
+
+(11) In this paragraph “enactment” includes—
+
+(a) an enactment contained in, or in an instrument made under, a Measure or Act of the National Assembly for Wales,
+
+(b) an enactment contained in, or in an instrument made under, an Act of the Scottish Parliament, and
+
+(c) an enactment contained in, or in an instrument made under, Northern Ireland legislation.
+
+(12) In sub-paragraph (6) [[^F111]and this sub-paragraph]—
+
+- [[^F112]“local authority” has the meaning given by section 275(1) of the National Health Service Act 2006;”;]
+
+- [[^F112]““local authority social care” means—
+
+  - social care provided or arranged for by a local authority; or
+  - social care all or part of the cost of which is paid for with funds provided by a local authority;”;]
+
+- “patient data” has the same meaning as in paragraph 3(5);
+
+- “relevant NHS body” means—
+
+  - (a) a health service body;
+  - (b) an NHS foundation trust;
+  - (c) [[^F113]NHS England;]
+  - (d) a Welsh NHS body as defined in section 60 of the Public Audit (Wales) Act 2004;
+  - (e) an NHS body as defined in section 22(1) of the Community Care and Health (Scotland) Act 2002;
+  - (f) a health and social care body mentioned in paragraphs (a) to (e) of section 1(5) of the Health and Social Care (Reform) Act (Northern Ireland) 2009.
+
+- [[^F112]“social care” has the meaning given by section 251(12A) of the National Health Service Act 2006.]
+
+### Publication
+
+**5** (1) Nothing in paragraph 4 prevents a relevant minister from publishing a report on a data matching exercise (including on the results of the exercise).
+
+(2) But the report may not include information relating to a particular body or person if—
+
+(a) the body or person is the subject of any data included in the data matching exercise,
+
+(b) the body or person can be identified from the information, and
+
+(c) the information is not otherwise in the public domain.
+
+(3) A report published under this paragraph may be published in such manner as the relevant minister considers appropriate for bringing it to the attention of those members of the public who may be interested.
+
+### Fees for data matching
+
+**6** (1) A relevant minister must prescribe a scale or scales of fees in respect of data matching exercises.
+
+(2) A person within paragraph 2(2) who is required under that paragraph to provide data for a data matching exercise must pay to the relevant minister by whom or on whose behalf the exercise is conducted the fee applicable to that exercise in accordance with the appropriate scale.
+
+(3) But if it appears to the relevant minister that the work involved in the exercise was substantially more or less than that envisaged by the appropriate scale, the minister may charge the person a fee which is larger or smaller than that referred to in sub-paragraph (2).
+
+(4) Before prescribing a scale of fees under this paragraph, a relevant minister must consult—
+
+(a) the persons within paragraph 2(2),
+
+(b) such representatives of persons within paragraph 2(2) as the minister thinks appropriate, and
+
+(c) such other bodies or persons as the minister thinks appropriate.
+
+(5) In addition to the power under sub-paragraph (2), a relevant minister may charge a fee to any body or person providing data for or receiving the results of a data matching exercise.
+
+(6) A fee under sub-paragraph (5) is payable in accordance with terms agreed between the relevant minister and that body or person.
+
+### Code of data matching practice
+
+**7** (1) A relevant minister must prepare, and keep under review, a code of practice with respect to data matching exercises.
+
+(2) Regard must be had to the code in conducting and participating in any data matching exercise.
+
+(3) Before preparing or altering the code, the relevant minister must consult—
+
+(a) the persons within paragraph 2(2),
+
+(b) such representatives of persons within paragraph 2(2) as the minister thinks appropriate,
+
+(c) the [[^F114]Information Commission], and
+
+(d) such other bodies or persons as the minister thinks appropriate.
+
+(4) The relevant minister must—
+
+(a) lay a copy of the code, and of any alterations made to it, before Parliament, and
+
+(b) from time to time publish the code as for the time being in force.
+
+### Powers to amend this Schedule
+
+**8** (1) A relevant minister may by regulations amend this Schedule—
+
+(a) to add a purpose mentioned in sub-paragraph (2) to the purposes for which data matching exercises may be conducted (see paragraph 1(4));
+
+(b) to modify the application of this Schedule in relation to a purpose so added.
+
+(2) The purposes which may be added are—
+
+(a) to assist in the prevention and detection of crime (other than fraud),
+
+(b) to assist in the apprehension and prosecution of offenders,
+
+(c) to assist in the prevention and detection of errors and inaccuracies, and
+
+(d) to assist in the recovery of debt owing to public bodies.
+
+(3) Before making regulations under sub-paragraph (1), a relevant minister must consult—
+
+(a) the persons within paragraph 2(2),
+
+(b) such representatives of persons within paragraph 2(2) as the minister thinks appropriate, and
+
+(c) such other bodies or persons as the minister thinks appropriate.
+
+(4) A relevant minister may by regulations amend this Schedule—
+
+(a) to add a public body to the list in paragraph 2(2);
+
+(b) to modify the application of this Schedule in relation to a body so added;
+
+(c) to remove a person from that list.
+
+(5) Before making regulations under sub-paragraph (4), a relevant minister must consult—
+
+(a) the body or person who is to be the subject of the regulations,
+
+(b) such representatives of persons within paragraph 2(2) as the minister thinks appropriate, and
+
+(c) such other bodies or persons as the minister thinks appropriate.
+
+(6) In this paragraph, “public body” means a body or person whose functions—
+
+(a) are functions of a public nature, or
+
+(b) include functions of that nature,
+
+but, in the latter case, the body or person is a public body only to the extent of those functions.
+
+## SCHEDULE 10 — Best value inspections (prospective)
+
+*Section 34*
+
+**1** The Local Government Act 1999 is amended as follows.
+
+**2** For section 10 substitute—
+
+> **Inspections**
+>
+> **10** (1) The Secretary of State may appoint a person to carry out an inspection of a specified best value authority's compliance with the requirements of this Part in relation to specified functions.
+>
+> (2) The Secretary of State may appoint assistant inspectors for the purposes of the inspection.
+>
+> (3) The appointment of an assistant inspector must be made on the recommendation of the inspector, unless the Secretary of State thinks that the urgency of the inspection makes it necessary to dispense with this requirement.
+>
+> (4) In carrying out an inspection, the inspector and any assistant inspector must—
+>
+> (a) have regard to any guidance issued by the Secretary of State generally in relation to inspections, and
+>
+> (b) comply with any directions issued by the Secretary of State in relation to that inspection.
+
+**3** In section 11(7) (powers and duties: definition of “inspector”), for paragraph (a) substitute “ an inspector or assistant inspector appointed under section 10(1) or (2). ”
+
+**4** For section 12 substitute—
+
+> **Fees**
+>
+> **12** An authority inspected under section 10 must pay the reasonable fees of the inspector for carrying out the inspection.
+
+**5** (1) Section 13 (reports) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “the Audit Commission” substitute “ an inspector ”, and
+
+(b) for “it” substitute “ the inspector ”.
+
+(3) In subsection (2)(a), for “Commission” substitute “ inspector ”.
+
+(4) In subsection (3)—
+
+(a) for “Commission” substitute “ inspector ”, and
+
+(b) in paragraph (a), after “to the authority concerned” insert “ and to the Secretary of State ”.
+
+(5) After subsection (3) insert—
+
+> (3A) The Secretary of State may publish a report and any information in respect of a report.
+
+(6) In subsection (4)—
+
+(a) for “Commission” substitute “ inspector ”, and
+
+(b) omit paragraph (b) and the word “and” preceding it.
+
+(7) In subsection (4A)—
+
+(a) for “Commission” substitute “ inspector ”, and
+
+(b) for “it” substitute “ the inspector ”.
+
+**6** In section 15 (Secretary of State's powers)—
+
+(a) omit subsection (10), and
+
+(b) in subsections (11) and (12) omit “or (10)”.
+
+**7** Omit section 22(1) (Audit Commission).
+
+**8** In section 25(2) (coordination of inspections: persons to whom the section applies), for paragraph (a) substitute—
+
+> (a) an inspector or assistant inspector appointed under section 10(1) or (2);
+
+.
+
+**9** Omit section 26(3) (consultation with Audit Commission before issuing guidance).
+
+**10** In section 33 (grants to Audit Commission and Wales Audit Office) omit subsections (2) and (3)(a).
+
+**11** On the coming into force of the repeal (by the Welfare Reform Act 2012) of section 139D of the Social Security Administration Act 1992 omit—
+
+(a) section 13(4A) of the Local Government Act 1999, and
+
+(b) the amendments made to it by paragraph 5(7) of this Schedule.
+
+## SCHEDULE 11 — Disclosure of information
+
+*Section 36*
+
+### Information to which this Schedule applies
+
+**1** (1) This Schedule applies to information relating to a particular body or person—
+
+(a) that is obtained by a local auditor, or a person acting on behalf of a local auditor, under or by virtue of this Act or in the course of an audit under this Act, or
+
+(b) that is obtained by an inspector or an assistant inspector, or a person acting on behalf of an inspector or an assistant inspector, under Part 1 of the Local Government Act 1999 (inspection of best value authorities) or in the course of an inspection under that Part.
+
+(2) This Schedule also applies to information relating to a particular body or person that is obtained by an authority within sub-paragraph (3) in connection with the exercise of the authority's functions under or by virtue of this Act.
+
+(3) Those authorities are—
+
+(a) a recognised supervisory body,
+
+(b) a recognised qualifying body,
+
+(c) a body performing functions for the purposes of arrangements within paragraph 23(1) (independent monitoring of certain audits) or 24(1) (independent investigation of public interest cases) of Schedule 10 to the Companies Act 2006 as it has effect by virtue of Schedule 5,
+
+(d) the Secretary of State, and
+
+(e) a body designated by the Secretary of State under section 1252 of the Companies Act 2006 (delegation of the Secretary of State's functions) as it has effect by virtue of Schedule 5.
+
+### General bar on disclosure and exceptions
+
+**2** (1) Information to which this Schedule applies may not be disclosed except—
+
+(a) with the consent of the body or person to whom the information relates,
+
+(b) for the purposes of any functions of a person under or by virtue of this Act or Part 1 of the Local Government Act 1999,
+
+(c) for the purposes of any function of a person under or by virtue of Part 42 of the Companies Act 2006,
+
+(d) in the case of information relating to a health service body, for the purposes of—
+
+(i) the functions of the Secretary of State, [[^F115]NHS England] or the Comptroller and Auditor General under the National Health Service Act 2006, or
+
+(ii) the functions of the Welsh Ministers under Chapter 4 of Part 2 of the Health and Social Care (Community Health and Standards) Act 2003,
+
+(e) to Her Majesty's Chief Inspector of Education, Children's Services and Skills for the purposes of the Chief Inspector's functions under Chapter 4 of Part 8 of the Education and Inspections Act 2006,
+
+(f) for the purposes of the functions of the Regulator of Social Housing under Part 2 of the Housing and Regeneration Act 2008,
+
+(g) for the purposes of the functions of the Secretary of State relating to social security,
+
+(h) for the purposes of any function of the Auditor General for Wales under the Public Audit (Wales) Act 2004,
+
+(i) to the Mayor of London, where the information relates to the Greater London Authority or a functional body,
+
+(j) for the purposes of the functions of the Public Services Ombudsman for Wales under Part 3 of the Local Government Act 2000, or
+
+(k) for the purposes of the functions of a monitoring officer under that Part or regulations made under that Part.
+
+(2) This paragraph does not prohibit the disclosure of information if the information is or has been available to the public from any other source.
+
+(3) This paragraph does not limit the circumstances in which information may be disclosed apart from this Schedule (and see in particular section 17 of the Anti-terrorism, Crime and Security Act 2001 (extension of disclosure powers under other Acts: criminal proceedings and investigations)).
+
+### Further exceptions
+
+**3** (1) A person who is, or acts on behalf of a person who is, a public authority for the purposes of the Freedom of Information Act 2000 may also disclose information to which this Schedule applies unless the disclosure would, or would be likely to, prejudice the effective performance of a function imposed or conferred on the person by or under an enactment.
+
+(2) A local auditor, or a person acting on the auditor's behalf, may also disclose information to which this Schedule applies except where the disclosure would, or would be likely to, prejudice the effective performance of a function imposed or conferred on the auditor by or under an enactment.
+
+### Disclosure with consent of local auditor
+
+**4** (1) A person who does not fall within paragraph 3 may also disclose information to which this Schedule applies in accordance with consent given by a local auditor under this paragraph.
+
+(2) A person requesting consent (“the applicant”) must make a request for consent which—
+
+(a) is in writing,
+
+(b) states the name of the applicant and an address for correspondence,
+
+(c) describes the information in relation to which consent is requested, and
+
+(d) identifies the person to whom the information will be disclosed.
+
+(3) Consent must be given except where the disclosure would, or would be likely to, prejudice the effective performance of a function imposed or conferred on a local auditor by or under an enactment.
+
+(4) Consent may be given or refused orally or in writing; but where it is given or refused orally the consent or refusal must be confirmed in writing.
+
+(5) A refusal (or, where the refusal is given orally, the confirmation of the refusal) must contain the reasons for the refusal.
+
+(6) A local auditor to whom a request for consent is made must give or refuse consent not later than the twentieth working day following the day on which the request is received.
+
+(7) “Working day” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom.
+
+### Offence of wrongful disclosure
+
+**5** (1) A person who discloses information in breach of this Schedule is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(2) If section 85(1) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 comes into force on or before the day on which this Act is passed—
+
+(a) section 85 of that Act (removal of limit on certain fines on conviction by magistrates' court) applies in relation to the offence in sub-paragraph (1) as if it were a relevant offence (as defined in section 85(3) of that Act), and
+
+(b) regulations described in section 85(11) of that Act may amend or otherwise modify sub-paragraph (1).
+
+### Meaning of “enactment”
+
+**6** In this Schedule “enactment” includes—
+
+(a) an enactment contained in, or in an instrument made under, a Measure or Act of the National Assembly for Wales,
+
+(b) an enactment contained in, or in an instrument made under, an Act of the Scottish Parliament, and
+
+(c) an enactment contained in, or in an instrument made under, Northern Ireland legislation.
+
+## SCHEDULE 12 — Related amendments
+
+*Section 45*
+
+### Public Health Act 1875 (c. 55)
+
+**1** In section 265 of the Public Health Act 1875 (protection of members etc of authorities: exception for liability under section 17 or 18 of the Audit Commission Act 1998), omit the words from “Provided that” to “Audit Commission Act 1998”.
+
+### Prison Act 1952 (c. 52)
+
+**2** (1) Schedule A1 to the Prison Act 1952 (further provision about Her Majesty's Chief Inspector of Prisons) is amended as follows.
+
+(2) In paragraph 2(2) (duty to consult on inspection programme or inspection framework) omit paragraph (h) (the Audit Commission).
+
+(3) In paragraph 3(2) (power to prevent inspection by other person or body) omit paragraph (e) (the Audit Commission).
+
+(4) In paragraph 4 (duty to co-operate) omit paragraph (h) (the Audit Commission).
+
+(5) In paragraph 6 (assistance for other public authorities)—
+
+(a) after sub-paragraph (1) insert—
+
+> (1A) The Chief Inspector may do anything the Chief Inspector thinks appropriate to facilitate the carrying out of an inspection under section 10 of the Local Government Act 1999 (inspection of best value authorities).
+
+, and
+
+(b) for sub-paragraph (2) substitute—
+
+> (2) Anything done under this paragraph may be done on such terms (including terms as to payment) as the Chief Inspector thinks fit.
+
+### Transport Act 1968 (c. 73)
+
+**3** In section 14 of the Transport Act 1968 (accounts of Passenger Transport Executives), for the subsection (3) that extends to England and Wales substitute—
+
+> (3) As soon as the accounts of the Executive for any accounting period have been audited in accordance with the Local Audit and Accountability Act 2014, they must send a copy of the statement of accounts prepared by them for that period under section 3 of that Act, together with a copy of the auditor's opinion on that statement—
+>
+> (a) to the Secretary of State,
+>
+> (b) to the Authority, and
+>
+> (c) to each of the councils of the districts comprised in the county which is coterminous with or includes the Executive's area.
+
+### Local Government Act 1972 (c. 70)
+
+**4** The Local Government Act 1972 is amended as follows.
+
+**5** In section 86(1)(b) (disqualifications from being local authority member that do not trigger a declaration of vacancy), for the words from “under the Audit Commission Act 1998” to “or by virtue of” substitute “ under section 79 of the Local Government Act 2000 or section 34 of the Localism Act 2011 or by virtue of ”.
+
+**6** In section 87(1)(d) (date of vacancy in local authority membership in case of disqualification under the Audit Commission Act 1998)—
+
+(a) for the words from “under the Audit Commission Act 1998” to “or by virtue of a” substitute “ by virtue of a ”, and
+
+(b) omit “relevant order or decision under that Act or (as the case may be) that”.
+
+**7** In section 137(7A) (requirement for separate account for expenditure under that section)—
+
+(a) for “section 14 of the Audit Commission Act 1998 (rights of inspection)” substitute “ section 25 of the Local Audit and Accountability Act 2014 (inspection of statements of accounts etc) ”, and
+
+(b) for “regulations under section 27” substitute “ section 3(3) ”.
+
+**8** Section 246(15) of the Local Government Act 1972 continues to have effect with the amendment made by paragraph 5(5) of Schedule 5 to the Local Government Finance Act 1982, that is with the substitution for “Sections 154 to 168 above” of “Section 168 above”.
+
+### House of Commons Disqualification Act 1975 (c. 24)
+
+**9** In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975—
+
+(a) omit the entry for the Controller of Audit appointed under paragraph 7(1) of Schedule 1 to the Audit Commission Act 1998, and
+
+(b) omit the entry for any member of the Audit Commission for Local Authorities and the National Health Service in England in receipt of remuneration.
+
+### Local Government, Planning and Land Act 1980 (c. 65)
+
+**10** In section 2(7) of the Local Government, Planning and Land Act 1980 (recommended ways for local authorities to publish information), for paragraph (b) substitute—
+
+> (b) its inclusion in a statement of accounts prepared by an authority to which this section applies in accordance with section 3 of the Local Audit and Accountability Act 2014 or regulations under section 39 of the Public Audit (Wales) Act 2004 or in an abstract of accounts prepared by such an authority in accordance with regulations under section 105 of the Local Government (Scotland) Act 1973; or
+
+.
+
+### Building Act 1984 (c. 55)
+
+**11** In section 115 of the Building Act 1984 (protection of members etc of authorities) omit subsection (3) (exception for liability under section 17 or 18 of the Audit Commission Act 1998).
+
+### Further Education Act 1985 (c. 47)
+
+**12** In section 3(4) of the Further Education Act 1985 (duty of local authorities to keep accounts in addition to accounts under Audit Commission Act 1998), for “section 27 of the Audit Commission Act 1998” substitute “ section 3 of the Local Audit and Accountability Act 2014 ”.
+
+### Transport Act 1985 (c. 67)
+
+**13** (1) Section 76 of the Transport Act 1985 (audit of accounts of public transport companies) is amended as follows.
+
+(2) For subsection (1) substitute—
+
+> (1A) In a case where a public transport company's controlling authority are—
+>
+> (a) a county council or county borough council in Wales, or
+>
+> (b) a composite authority of which both or all the constituent councils are county councils or county borough councils in Wales,
+>
+> it shall be the duty of the controlling authority to exercise their control over that company so as to ensure that the company appoints as auditors of the company only persons who, in addition to meeting the requirements of Part 42 of the Companies Act 2006 (statutory auditors), are approved for appointment as such auditors by the Auditor General for Wales.
+>
+> (1B) In any other case, it shall be the duty of a public transport company's controlling authority to exercise their control over that company so as to ensure that the company appoints as auditors of the company only persons who meet the requirements of Part 42 of the Companies Act 2006 (statutory auditors).
+
+(3) In subsection (2), after “(1)” insert “ or (as the case may be) (1A) ”.
+
+### Housing Associations Act 1985 (c. 69)
+
+**14** In section 75 of the Housing Associations Act 1985 (general functions) omit subsections (1A) and (1B) (function of the Housing Corporation of giving assistance to the Audit Commission).
+
+### Local Government Act 1986 (c. 10)
+
+**15** In section 5(4) of the Local Government Act 1986 (separate account of expenditure on publicity: application of section 27(1)(e) of the Audit Commission Act 1998 to right of inspection) for “section 27(1)(e) of the Audit Commission Act 1998” substitute “ section 32(1)(e) of the Local Audit and Accountability Act 2014 ”.
+
+### Airports Act 1986 (c. 31)
+
+**16** The Airports Act 1986 is amended as follows.
+
+**17** (1) Section 22 (other local authority capital controls in England and Wales) is amended as follows.
+
+(2) For subsection (5) substitute—
+
+> (5) In a case where the controlling authority of a public airport company are—
+>
+> (a) a county council or county borough council in Wales, or
+>
+> (b) a composite authority of which both or all the constituent councils are county councils or county borough councils in Wales,
+>
+> it shall be the duty of the controlling authority to exercise their control over the public airport company so as to ensure that the company appoints as auditors of the company only persons who, in addition to meeting the requirements of Part 42 of the Companies Act 2006 (statutory auditors), are approved for appointment as such auditors by the Auditor General for Wales.
+>
+> (5A) In any other case, it shall be the duty of the controlling authority of a public airport company to exercise their control over the company so as to ensure that the company appoints as auditors of the company only persons who meet the requirements of Part 42 of the Companies Act 2006 (statutory auditors).
+
+(3) In subsection (6), after “(5)” insert “ or (as the case may be) (5A) ”.
+
+**18** In section 24(3)(a) (provision of services by principal council for public airport companies: requirement for separate account)—
+
+(a) for “section 14 of the Audit Commission Act 1998 (rights of inspection)” substitute “ section 25 of the Local Audit and Accountability Act 2014 (inspection of statements of accounts etc) ”, and
+
+(b) for “regulations under section 27” substitute “ section 3(3) ”.
+
+### Norfolk and Suffolk Broads Act 1988 (c. 4)
+
+**19** In section 17 of the Norfolk and Suffolk Broads Act 1988 (accounts and auditing), in the second subsection (11), for “section 27 of the Audit Commission Act 1998 (accounts and audit regulations)” substitute “ section 32 of the Local Audit and Accountability Act 2014 (accounts and audit regulations) ”.
+
+### Education Reform Act 1988 (c. 40)
+
+**20** The Education Reform Act 1988 is amended as follows.
+
+**21** In section 124B, omit subsection (5) (duty of certain higher education corporations to consult Audit Commission before appointing auditor in respect of first financial year).
+
+**22** In paragraph 18 of Schedule 7 (higher education corporations)—
+
+(a) omit sub-paragraph (4) (duty of certain higher education corporations to consult Audit Commission before appointing auditor in respect of first financial year),
+
+(b) in sub-paragraph (5) for “that sub-paragraph” substitute “ sub-paragraph (3) above ”, and
+
+(c) in sub-paragraph (6) omit the definitions of “the first financial year” and “financial year” and insert—
+
+> “financial year” means—
+>
+> (a) the period commencing with the date on which the corporation is established and ending with the second 31st March following that date, and
+>
+> (b) each successive period of twelve months.
+
+### Local Government and Housing Act 1989 (c. 42)
+
+**23** (1) Section 11 of the Local Government and Housing Act 1989 is amended as follows.
+
+(2) In subsection (1)—
+
+(a) omit “section 79 of the Local Government Act 1985 (public inspection of accounts etc) or in”, and
+
+(b) for “(which makes corresponding provision for Scotland)” insert “ (public inspection of accounts etc) ”.
+
+(3) In subsection (3) (confidentiality of staff records: definitions), in the definition of “relevant body” omit—
+
+(a) “the Audit Commission Act 1998 or”, and
+
+(b) “or, as the case may be, the Common Council of the City of London”.
+
+**24** (1) Until the coming into force of the repeal of Part 5 of the Local Government and Housing Act 1989 by section 216(1) of the Local Government and Public Involvement in Health Act 2007, section 70 of the Local Government and Housing Act 1989 (requirements for companies under control or subject to influence of local authorities) has effect with the following modifications.
+
+(2) In each of subsections (2) and (4), for “the Audit Commission Act 1998” substitute “ the Local Audit and Accountability Act 2014 ”.
+
+(3) In subsection (5) omit “or of the Audit Commission for Local Authorities and the National Health Service in England,”.
+
+### Town and Country Planning Act 1990 (c. 8)
+
+**25** In section 2(6B) of the Town and Country Planning Act 1990 (application of certain provisions to joint planning boards) omit paragraph (a).
+
+### Environmental Protection Act 1990 (c. 43)
+
+**26** In paragraph 5 of Schedule 3 to the Environmental Protection Act 1990 (protection of members etc of authorities) omit the words “(other than any liability under section 17 or 18 of the Audit Commission Act 1998 (powers of district auditor and court))”.
+
+### Social Security Administration Act 1992 (c. 5)
+
+**27** The Social Security Administration Act 1992 is amended as follows.
+
+**28** In section 123(8) (unauthorised disclosure of information relating to particular persons: “persons employed in audit” etc)—
+
+(a) after paragraph (jza) insert—
+
+> (jzb) a local auditor within the meaning of the Local Audit and Accountability Act 2014;
+
+, and
+
+(b) omit paragraph (ja).
+
+**29** Omit section 139BA (interaction with Audit Commission).
+
+### Social Security Administration (Northern Ireland) Act 1992 (c. 8)
+
+**30** In section 117(8) of the Social Security Administration (Northern Ireland) Act 1992 (unauthorised disclosure of information relating to particular persons: Audit Commission)—
+
+(a) omit paragraph (gb), and
+
+(b) after paragraph (gc) insert—
+
+> (gd) a local auditor within the meaning of the Local Audit and Accountability Act 2014;
+>
+> (ge) the Auditor General for Wales and any member of the Auditor General's staff;
+>
+> (gf) any member of the staff of the Wales Audit Office, and any person providing services to that Office;
+
+.
+
+### Police Act 1996 (c. 16)
+
+**31** (1) Schedule 4A to the Police Act 1996 (further provisions about Her Majesty's Inspectors of Constabulary) is amended as follows.
+
+(2) In paragraph 2(2) (duty to consult on inspection programme or inspection framework) omit paragraph (h) (the Audit Commission).
+
+(3) In paragraph 3(2) (power to prevent inspection by other person or body) omit paragraph (e) (the Audit Commission).
+
+(4) In paragraph 4 (duty to co-operate) omit paragraph (h) (the Audit Commission).
+
+(5) In paragraph 6 (assistance for other public authorities)—
+
+(a) after sub-paragraph (1) insert—
+
+> (1A) The chief inspector of constabulary may do anything the chief inspector thinks appropriate to facilitate the carrying out of an inspection under section 10 of the Local Government Act 1999 (inspection of best value authorities).
+
+, and
+
+(b) for sub-paragraph (2) substitute—
+
+> (2) Anything done under this paragraph may be done on such terms (including terms as to payment) as the chief inspector of constabulary thinks fit.
+
+### Noise Act 1996 (c. 37)
+
+**32** The Noise Act 1996 is amended as follows.
+
+**33** In section 12 (protection of members etc of authorities) omit subsection (2) (exception for liability under section 17 or 18 of the Audit Commission Act 1998).
+
+**34** In section 14(4) (application of Act to Northern Ireland), in paragraph (g), for “for subsection (2) there is substituted” substitute “ after subsection (1) there is inserted ”.
+
+### Local Government (Contracts) Act 1997 (c. 65)
+
+**35** (1) Section 8 of the Local Government (Contracts) Act 1997 (audit reviews) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) in paragraph (a), for “section 17 of the Audit Commission Act 1998” substitute “ section 28 of the Local Audit and Accountability Act 2014 ”,
+
+(b) omit paragraphs (b) and (c), and
+
+(c) in the closing words, for “any of paragraphs (a) to (c)” substitute “ that paragraph ”.
+
+(3) Omit subsection (2).
+
+### Local Government Act 1999 (c. 27)
+
+**36** (1) Section 23 of the Local Government Act 1999 (accounts of best value authorities) is amended as follows.
+
+(2) In subsection (4) omit paragraph (a).
+
+(3) In subsection (7) for “an auditor appointed by the Audit Commission” substitute “ a local auditor appointed in accordance with the Local Audit and Accountability Act 2014 or provision made under it ”.
+
+### Greater London Authority Act 1999 (c. 29)
+
+**37** The Greater London Authority Act 1999 is amended as follows.
+
+**38** In section 7(b) (disqualifications from being an Assembly member that do not trigger a declaration of vacancy) omit sub-paragraph (i) (disqualification under the Audit Commission Act 1998).
+
+**39** In section 9(1)(f) (date of vacancy in Assembly membership in case of disqualification under the Audit Commission Act 1998)—
+
+(a) omit “the Audit Commission Act 1998 or”, and
+
+(b) omit “that Act of 1998 or”.
+
+**40** In section 14(a) (disqualifications from being Mayor that do not trigger a declaration of vacancy) omit sub-paragraph (i) (disqualification under the Audit Commission Act 1998).
+
+**41** In section 21(1)(e) (disqualification from election as Assembly member or the Mayor) omit sub-paragraph (ii) and the “or” immediately preceding that sub-paragraph (disqualification under the Audit Commission Act 1998).
+
+**42** In section 125(2) (certification of information)—
+
+(a) omit “in one or both of the following ways”, and
+
+(b) omit paragraph (b) and the “and” which precedes it.
+
+**43** (1) Section 134 (summary statement of accounts of Authority and other bodies) is amended as follows.
+
+(2) In subsection (4) (application of section 14 of the Audit Commission Act 1998 to summary statement of accounts)—
+
+(a) for “Section 14 of the Audit Commission Act 1998 (inspection of statements of accounts and auditors' reports)” substitute “ Section 25 of the Local Audit and Accountability Act 2014 (inspection of statements of accounts etc) ”, and
+
+(b) for “regulations under section 27” substitute “ section 3(3) ”.
+
+(3) In subsection (5) (disapplication of public inspection etc provisions in Audit Commission Act 1998 in relation to summary statement of accounts), for “Sections 15 to 24 of the Audit Commission Act 1998” substitute “ Sections 26 to 31 of the Local Audit and Accountability Act 2014, and Schedule 8 to that Act ”.
+
+(4) In subsection (6) (application of section 27 of the Audit Commission Act 1998 to summary statement of accounts)—
+
+(a) for “Section 27 of the Audit Commission Act 1998” substitute “ Section 32 of the Local Audit and Accountability Act 2014 ”, and
+
+(b) omit “accounts or”.
+
+### Crown Prosecution Service Inspectorate Act 2000 (c. 10)
+
+**44** (1) The Schedule to the Crown Prosecution Service Inspectorate Act 2000 (further provisions about Her Majesty's Chief Inspector of the Crown Prosecution Service) is amended as follows.
+
+(2) In paragraph 2(2) (duty to consult on inspection programme or inspection framework) omit paragraph (h) (the Audit Commission).
+
+(3) In paragraph 4 (duty to co-operate) omit paragraph (h) (the Audit Commission).
+
+(4) In paragraph 6 (assistance for other public authorities)—
+
+(a) after sub-paragraph (1) insert—
+
+> (1A) The Chief Inspector may do anything the Chief Inspector thinks appropriate to facilitate the carrying out of an inspection under section 10 of the Local Government Act 1999 (inspection of best value authorities).
+
+, and
+
+(b) for sub-paragraph (2) substitute—
+
+> (2) Anything done under this paragraph may be done on such terms (including terms as to payment) as the Chief Inspector thinks fit.
+
+### Freedom of Information Act 2000 (c. 36)
+
+**45** In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (other public bodies and offices to which the Act applies) omit the entry for the Audit Commission for Local Authorities and the National Health Service in England.
+
+### Criminal Justice and Court Services Act 2000 (c. 43)
+
+**46** (1) Schedule 1A to the Criminal Justice and Court Services Act 2000 (further provisions about Her Majesty's Inspectorate of Probation) is amended as follows.
+
+(2) In paragraph 2(2) (duty to consult on inspection programme or inspection framework) omit paragraph (h) (the Audit Commission).
+
+(3) In paragraph 3(2) (power to prevent inspection by other person or body) omit paragraph (e) (the Audit Commission).
+
+(4) In paragraph 4 (duty to co-operate) omit paragraph (h) (the Audit Commission).
+
+(5) In paragraph 6 (assistance for other public authorities)—
+
+(a) after sub-paragraph (1) insert—
+
+> (1A) The chief inspector may do anything the chief inspector thinks appropriate to facilitate the carrying out of an inspection under section 10 of the Local Government Act 1999 (inspection of best value authorities).
+
+, and
+
+(b) for sub-paragraph (2) substitute—
+
+> (2) Anything done under this paragraph may be done on such terms (including terms as to payment) as the chief inspector thinks fit.
+
+### Public Finance and Accountability (Scotland) Act 2000 (ASP 1)
+
+**47** (1) Section 26D of the Public Finance and Accountability (Scotland) Act 2000 (disclosure of results of data matching etc) is amended as follows.
+
+(2) In subsection (4) for paragraph (b) substitute—
+
+> (b) the Secretary of State,
+>
+> (ba) the Minister for the Cabinet Office,
+>
+> (bb) a local auditor within the meaning of the Local Audit and Accountability Act 2014,
+
+.
+
+(3) In subsection (7) in the definition of “relevant NHS body” for paragraph (b) substitute—
+
+> (b) a body mentioned in paragraph (a), (b) or (c) of paragraph 4(12) of Schedule 9 to the Local Audit and Accountability Act 2014 (“relevant NHS body”);
+
+.
+
+### Anti-terrorism, Crime and Security Act 2001 (c. 24)
+
+**48** In Part 1 of Schedule 4 to the Anti-terrorism, Crime and Security Act 2001 (extension of existing disclosure powers under other Acts)—
+
+(a) omit paragraph 41 (application to Audit Commission Act 1998), and
+
+(b) after paragraph 53E insert—
+
+> **53F** Paragraph 2 of Schedule 11 to the Local Audit and Accountability Act 2014.
+
+### Local Government Act 2003 (c. 26)
+
+**49** The Local Government Act 2003 is amended as follows.
+
+**50** (1) Section 21 (accounting practices) is amended as follows.
+
+(2) In subsection (4) (enactments to which definition of proper practices applies) omit paragraph (d) (the Audit Commission Act 1998).
+
+(3) For subsection (6) (local authorities to which the section applies) substitute—
+
+> (6) In this section, “local authority” includes—
+>
+> (a) a parish council,
+>
+> (b) a parish meeting of a parish which does not have a separate parish council,
+>
+> (c) a community council,
+>
+> (d) a Passenger Transport Executive,
+>
+> (e) the London Waste and Recycling Board,
+>
+> (f) charter trustees (within the meaning of the Local Audit and Accountability Act 2014),
+>
+> (g) a port health authority for a port health district that is wholly in England,
+>
+> (h) a conservation board established by order of the Secretary of State under section 86 of the Countryside and Rights of Way Act 2000,
+>
+> (i) a chief constable for a police force for a police area in England,
+>
+> (j) the Commissioner of Police of the Metropolis,
+>
+> (k) an internal drainage board for an internal drainage district—
+>
+> (i) wholly in England, or
+>
+> (ii) partly in England and partly in Wales, and
+>
+> (l) any other person or body which for the time being is a relevant authority for the purposes of the Local Audit and Accountability Act 2014 and—
+>
+> (i) is not listed in paragraphs (a) to (k) or section 23(1),
+>
+> (ii) is not a health service body (within the meaning of that Act),
+>
+> (iii) is not specified in regulations under section 23(2), and
+>
+> (iv) does not fall within a class of bodies so specified.
+
+**51** In section 22 (meaning of “revenue account” for the purposes of certain enactments), for subsection (3) (local authorities to which the section applies) substitute—
+
+> (3) In this section, “local authority” includes—
+>
+> (a) a parish council,
+>
+> (b) a parish meeting of a parish which does not have a separate parish council,
+>
+> (c) a community council,
+>
+> (d) a Passenger Transport Executive,
+>
+> (e) the London Waste and Recycling Board,
+>
+> (f) charter trustees (within the meaning of the Local Audit and Accountability Act 2014),
+>
+> (g) a port health authority for a port health district that is wholly in England,
+>
+> (h) a conservation board established by order of the Secretary of State under section 86 of the Countryside and Rights of Way Act 2000,
+>
+> (i) a chief constable for a police force for a police area in England,
+>
+> (j) the Commissioner of Police of the Metropolis,
+>
+> (k) an internal drainage board for an internal drainage district—
+>
+> (i) wholly in England, or
+>
+> (ii) partly in England and partly in Wales, and
+>
+> (l) any other person or body which for the time being is a relevant authority for the purposes of the Local Audit and Accountability Act 2014 and—
+>
+> (i) is not listed in paragraphs (a) to (k) or section 23(1),
+>
+> (ii) is not a health service body (within the meaning of that Act),
+>
+> (iii) is not specified in regulations under section 23(2), and
+>
+> (iv) does not fall within a class of bodies so specified.
+
+**52** In section 24 (by which, in the application of Part 1 to Wales, references to the Welsh Ministers are substituted for references to the Secretary of State), after subsection (1) insert—
+
+> (1A) Subsection (1) does not apply to section 21 to the extent that it confers functions on the Secretary of State in relation to a person or body that—
+>
+> (a) is a relevant authority for the purposes of the Local Audit and Accountability Act 2014, and
+>
+> (b) exercises functions in relation to an area that is partly in England and partly in Wales.
+
+**53** Omit section 99 (categorisation of English local authorities by reference to performance).
+
+**54** (1) Section 100 (exercise of powers by reference to authorities' performance categories) is amended as follows.
+
+(2) Omit subsections (1) and (2).
+
+(3) In subsection (3), for “those powers” substitute “ certain powers ”.
+
+(4) Omit subsections (4) to (8).
+
+### Health and Social Care (Community Health and Standards) Act 2003 (c. 43)
+
+**55** The Health and Social Care (Community Health and Standards) Act 2003 is amended as follows.
+
+**56** In section 95 (studies as to economy, efficiency etc), omit subsection (4).
+
+**57** In section 148 (interpretation of Part 2) omit the definition of “the Audit Commission”.
+
+### Audit and Accountability (Northern Ireland) Order 2003 (SI 2003/418 (NI 5))
+
+**58** (1) Article 4D of the Audit and Accountability (Northern Ireland) Order 2003 (disclosure of results of data matching etc) is amended as follows.
+
+(2) In paragraph (2)(b) after “body”, in each place, insert “ or person ”.
+
+(3) In paragraph (3) after “bodies” insert “ and persons ”.
+
+(4) In that paragraph, for sub-paragraph (a) substitute—
+
+> (a) the Secretary of State,
+>
+> (aa) the Minister for the Cabinet Office,
+>
+> (ab) a local auditor within the meaning of the Local Audit and Accountability Act 2014,
+
+.
+
+(5) In paragraph (4) after “body”, where it first occurs, insert “ or person ”.
+
+(6) In paragraph (6)(b) for paragraph (ii) substitute—
+
+> (ii) a body mentioned in paragraph (a), (b) or (c) of paragraph 4(12) of Schedule 9 to the Local Audit and Accountability Act 2014 (“relevant NHS body”);
+
+.
+
+### Public Audit (Wales) Act 2004 (c. 23)
+
+**59** The Public Audit (Wales) Act 2004 is amended as follows.
+
+**60** Omit section 43 (co-operation with Audit Commission).
+
+**61** Omit section 57 (provision of information to Audit Commission).
+
+**62** (1) Section 62 (co-operation) is amended as follows.
+
+(2) Omit paragraph (b).
+
+(3) In the heading (in its original form and as substituted by paragraph 61(3) of Schedule 4 to the Public Audit (Wales) Act 2013 (anaw 3)) omit “ , Audit Commission ”.
+
+**63** (1) Section 64D (disclosure of results of data matching etc) is amended as follows.
+
+(2) In subsection (2)(b) after “body”, in each place, insert “ or person ”.
+
+(3) In subsection (3) after “bodies” insert “ and persons ”.
+
+(4) In that subsection, for paragraph (a) substitute—
+
+> (a) the Secretary of State,
+>
+> (aa) the Minister for the Cabinet Office,
+>
+> (ab) a local auditor within the meaning of the Local Audit and Accountability Act 2014,
+
+.
+
+(5) In subsection (4) after “body”, where it first occurs, insert “ or person ”.
+
+(6) In subsection (6)(b) for sub-paragraph (ii) substitute—
+
+> (ii) a body mentioned in paragraph (a), (b) or (c) of paragraph 4(12) of Schedule 9 to the Local Audit and Accountability Act 2014 (“relevant NHS body”);
+
+.
+
+**64** Omit sections 69 and 70 (transitional provision: local government bodies in Wales and Welsh NHS bodies).
+
+**65** (1) Schedule 3 (transfer schemes) is amended as follows.
+
+(2) In paragraph 1(1), omit paragraph (b) and the “and” preceding it.
+
+(3) In paragraph 2—
+
+(a) at the end of paragraph (a) insert “ and ”,
+
+(b) in paragraph (b) omit “in the case of an order containing a scheme within paragraph 1(1)(a),”, and
+
+(c) omit paragraph (c) and the “and” preceding it.
+
+**66** (1) The amendments of Schedule 3 to the Public Audit (Wales) Act 2004 by paragraph 65 do not affect—
+
+(a) the transfers of property, rights and liabilities of the Audit Commission in accordance with a scheme under that Schedule, or
+
+(b) the operation of that Schedule or of such a scheme in relation to those transfers.
+
+(2) In this paragraph “the Audit Commission” means the Audit Commission for Local Authorities and the National Health Service in England.
+
+### Companies (Audit, Investigations and Community Enterprise) Act 2004 (c. 27)
+
+**67** In section 16 of the Companies (Audit, Investigations and Community Enterprise) Act 2004 (grants to bodies concerned with accounting standards etc) after subsection (6) insert—
+
+> (6A) References in this section to Part 42 of the Companies Act 2006 or to paragraph 21, 22, 23(1) or 24(1) of Schedule 10 to that Act include that Part or paragraph as it has effect by virtue of Schedule 5 to the Local Audit and Accountability Act 2014 (which applies Part 42 with modifications in relation to audits of local authorities etc).
+>
+> (6B) The reference in the definition of “professional accountancy body” in subsection (5) to section 1220 of the Companies Act 2006 includes a reference to section 1219 of that Act as it has effect by virtue of Schedule 5 to the Local Audit and Accountability Act 2014.
+
+### Children Act 2004 (c. 31)
+
+**68** In section 20(4) of the Children Act 2004 (joint area review: persons to whom that section applies) omit paragraph (e).
+
+### Education and Inspections Act 2006 (c. 40)
+
+**69** (1) Schedule 13 to the Education and Inspections Act 2006 (interaction between Her Majesty's Chief Inspector of Education, Children's Services and Skills and other authorities) is amended as follows.
+
+(2) In paragraph 1 (meaning of inspection authorities)—
+
+(a) in sub-paragraph (2)—
+
+(i) at the end of paragraph (d) insert “ , and ”, and
+
+(ii) omit paragraph (h) and the “and” preceding it, and
+
+(b) in sub-paragraph (3), for paragraph (f) substitute—
+
+> (f) the Care Quality Commission.
+
+(3) In paragraph 8 (advice or assistance for other public authorities)—
+
+(a) after sub-paragraph (1) insert—
+
+> (1A) The Chief Inspector may do anything the Chief Inspector thinks appropriate to facilitate the carrying out of an inspection under section 10 of the Local Government Act 1999 (inspection of best value authorities).
+
+, and
+
+(b) for sub-paragraph (2) substitute—
+
+> (2) Anything done under this paragraph may be done on such terms as the Chief Inspector thinks fit.
+
+(4) In paragraph 10(a) (charges for advice or assistance) for “providing advice or assistance” substitute “ doing anything ”.
+
+### National Health Service Act 2006 (c. 41)
+
+**70** The National Health Service Act 2006 is amended as follows.
+
+**71** In Schedule 1A (clinical commissioning groups), in paragraph 17(5), for the words from “Audit Commission Act 1998” to the end substitute “ Local Audit and Accountability Act 2014 ”.
+
+**72** Schedule 7 (constitution of public benefit corporations: auditors) is amended as follows.
+
+**73** (1) Paragraph 23 is amended as follows.
+
+(2) In sub-paragraph (3)—
+
+(a) after “may be” insert “ an individual or a firm ”, and
+
+(b) omit paragraphs (a) to (c).
+
+(3) In sub-paragraph (4)—
+
+(a) after paragraph (a) insert—
+
+> (aa) eligible for appointment as a local auditor (see Part 4 of the Local Audit and Accountability Act 2014), or
+
+,
+
+(b) omit paragraph (b), and
+
+(c) in paragraph (c) for “any other” substitute “ a ”.
+
+(4) Omit sub-paragraph (5).
+
+(5) In sub-paragraph (7)—
+
+(a) omit the definition of “the Audit Commission” (and the “and” which follows it), and
+
+(b) in the definition of “firm” for “the Audit Commission Act 1998 (see section 51(3) of that Act)” substitute “ section 1261(1) of the Companies Act 2006 ”.
+
+**74** (1) Paragraph 24 is amended as follows.
+
+(2) After sub-paragraph (4) insert—
+
+> (4A) The auditor must, in carrying out functions in relation to the accounts—
+>
+> (a) comply with the code of audit practice applicable to the accounts that is for the time being in force (see Schedule 6 to the Local Audit and Accountability Act 2014), and
+>
+> (b) have regard to guidance issued by the Comptroller and Auditor General under paragraph 9 of that Schedule (as it has effect by virtue of paragraph 10(6) of that Schedule).
+>
+> (4B) The auditor of the accounts must comply with any directions given by the Secretary of State as to arrangements to monitor the standard of the work of auditors in the performance of audits under this paragraph (including arrangements to inspect that work).
+>
+> (4C) The arrangements mentioned in sub-paragraph (4B) may include arrangements made by the regulator or by any other person the Secretary of State considers appropriate.
+
+(3) Omit sub-paragraph (5).
+
+**75** In Schedule 15 (accounts and audit of certain NHS bodies), in paragraph 4—
+
+(a) in sub-paragraph (2) for the words from “Audit Commission Act 1998” to the end substitute “ Local Audit and Accountability Act 2014 ”, and
+
+(b) omit sub-paragraph (4).
+
+**76** (1) Until the repeal of Chapter 3 of Part 2 of the National Health Service Act 2006 by section 179 of the Health and Social Care Act 2012 is fully in force, Schedule 4 to the National Health Service Act 2006 (NHS trusts) has effect with the following modifications.
+
+(2) In paragraph 12 (reports and other information)—
+
+(a) in sub-paragraph (2)(b) for “section 8 of the Audit Commission Act 1998 (c. 18) or paragraph 19 of Schedule 8 to the Government of Wales Act 2006 (c. 32)” substitute “ paragraph 1 of Schedule 7 to the Local Audit and Accountability Act 2014 ”, and
+
+(b) in sub-paragraph (2A) for “section 8 of the Audit Commission Act 1998” substitute “ paragraph 1 of Schedule 7 to the Local Audit and Accountability Act 2014 ”.
+
+### National Health Service (Wales) Act 2006 (c. 42)
+
+**77** In paragraph 12(2)(b) of Schedule 3 to the National Health Service (Wales) Act 2006 (NHS trusts established under section 18 of that Act: reports and other information) omit “section 8 of the Audit Commission Act 1998 (c. 18) or”.
+
+### Companies Act 2006 (c. 46)
+
+**78** In Part 1 of Schedule 11A to the Companies Act 2006 (specified persons for the purposes of the disclosure provisions in section 1224A of that Act), after paragraph 17 insert—
+
+> **17A** A recognised supervisory body as defined in section 1217(4) and Schedule 10 as they have effect by virtue of Schedule 5 to the Local Audit and Accountability Act 2014.
+>
+> **17B** A recognised qualifying body as defined in section 1219(13) as it has effect by virtue of that Schedule.
+>
+> **17C** A body designated by the Secretary of State under section 1252 (delegation of the Secretary of State's functions) as it has effect by virtue of that Schedule.
+>
+> **17D** A body with which a recognised supervisory body within the meaning of that Act is participating in arrangements for the purposes of paragraph 23 (independent monitoring of certain audits) or 24 (independent investigation of public interest cases) of Schedule 10 as it has effect by virtue of that Schedule.
+
+### Serious Crime Act 2007 (c. 27)
+
+**79** In paragraph 9 of Schedule 13 to the Serious Crime Act 2007 (modification of section 32D(8)(b) of the Audit Commission Act 1998 pending increase in magistrates' court sentencing powers) omit paragraph (a).
+
+### Local Government and Public Involvement in Health Act 2007 (c. 28)
+
+**80** The Local Government and Public Involvement in Health Act 2007 is amended as follows.
+
+**81** Omit section 148 (Benefit Fraud Inspectorate: transfers to the Audit Commission).
+
+**82** In section 212(7) (entities controlled by local authorities: definitions)—
+
+(a) in the definition of “English local authority” after “England” insert “ , and includes a local authority which exercises functions in relation to an area which is partly in England and partly in Wales ”,
+
+(b) for the definition of “financial year” substitute—
+
+> “financial year” means a period for which—
+>
+> (a) a statement of accounts of the local authority must be prepared by reason of section 3 of the Local Audit and Accountability Act 2014, or
+>
+> (b) accounts of the local authority must be prepared by reason of section 13 of the Public Audit (Wales) Act 2004;
+
+, and
+
+(c) in the definition of “local authority” for paragraph (b) substitute—
+
+> (b) in the case of a body in Wales, is required to prepare statements of accounts by regulations made under section 39 of the Public Audit (Wales) Act 2004;
+
+.
+
+**83** (1) Section 214 (further provision about orders under section 212) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) after “section 212” insert “ made by the Welsh Ministers ”,
+
+(b) before “local authority” insert “ Welsh ”, and
+
+(c) for “the appropriate person” substitute “ the Auditor General for Wales ”.
+
+(3) Omit subsection (2).
+
+(4) In subsection (9) after “qualifying person” insert— “ Welsh local authority; ”.
+
+(5) Omit subsection (10).
+
+**84** Omit Schedule 10 (Benefit Fraud Inspectorate: transfer schemes).
+
+**85** (1) The repeals of section 148 of and Schedule 10 to the Local Government and Public Involvement in Health Act 2007 by paragraphs 81 and 84 do not affect—
+
+(a) the transfers of property, rights and liabilities of the Secretary of State or a person authorised under section 139A of the Social Security Administration Act 1992 to the Audit Commission by a scheme under that section and that Schedule, or
+
+(b) the operation of that section and that Schedule or of such a scheme in relation to those transfers.
+
+(2) Sub-paragraph (1) is subject to the provisions of a transfer scheme under paragraph 1 of Schedule 1 (transfer of property, rights and liabilities to Audit Commission).
+
+(3) In this paragraph “the Audit Commission” means the Audit Commission for Local Authorities and the National Health Service in England.
+
+### Health and Social Care Act 2008 (c. 14)
+
+**86** The Health and Social Care Act 2008 is amended as follows.
+
+**87** Omit section 56 (role of Audit Commission in undertaking or promoting health care studies).
+
+**88** (1) Schedule 4 (interaction between Care Quality Commission and other authorities) is amended as follows.
+
+(2) In paragraph 1 (meaning of inspection authorities)—
+
+(a) in sub-paragraph (2)—
+
+(i) at the end of paragraph (d) insert “ , and ”, and
+
+(ii) omit paragraph (g) and the “and” preceding it, and
+
+(b) in sub-paragraph (3)—
+
+(i) at the end of paragraph (d) insert “ , and ”, and
+
+(ii) omit paragraph (g) and the “and” preceding it.
+
+(3) In paragraph 9 (advice or assistance for other public authorities)—
+
+(a) after sub-paragraph (1) insert—
+
+> (1A) The Commission may do anything it thinks appropriate to facilitate the carrying out of an inspection under section 10 of the Local Government Act 1999 (inspection of best value authorities).
+
+, and
+
+(b) for sub-paragraph (2) substitute—
+
+> (2) Anything done under this paragraph may be done on such terms, including terms as to payment, as the Commission thinks fit.
+
+### Housing and Regeneration Act 2008 (c. 17)
+
+**89** The Housing and Regeneration Act 2008 is amended as follows.
+
+**90** Omit section 106A (co-operation between the Regulator of Social Housing and the Audit Commission).
+
+**91** In section 128(4)(a) (duty of local authority which is registered provider of social housing to send reports under section 8 of the Audit Commission Act 1998 to the Regulator), for “any immediate report under section 8 of the Audit Commission Act 1998 (immediate and other reports in the public interest)” substitute “ any report under paragraph 1 of Schedule 7 to the Local Audit and Accountability Act 2014 (public interest reports) ”.
+
+**92** In section 196(1) (duty of Regulator to consult listed bodies before setting standards etc) omit paragraph (d) (the Audit Commission).
+
+**93** In section 197(4) (duty of Secretary of State to consult listed bodies before giving direction to Regulator) omit paragraph (c).
+
+**94** In section 201 (arrangements by Regulator for inspections by third party) omit subsection (7A) (inspections treated as carried out by regulator for purposes of Schedule 2A to the Audit Commission Act 1998).
+
+**95** (1) Section 210A (extraordinary report: local authorities) is amended as follows.
+
+(2) In subsection (1), for the words from “the Audit Commission” to the end substitute “ the regulator may require the local authority to allow its accounts, so far as they relate to the provision of social housing, to be audited by a local auditor appointed by the regulator. ”
+
+(3) After subsection (1) insert—
+
+> (1A) The regulator may not appoint a local auditor to audit the accounts of a local authority if that person—
+>
+> (a) is the person (or one of the persons) appointed under or by virtue of the Local Audit and Accountability Act 2014 to audit the authority's accounts, or
+>
+> (b) was the person (or one of the persons) who carried out the most recent completed audit of the authority's accounts under or by virtue of that Act.
+>
+> (1B) Sections 20(1), (2), (5) and (6), 22 and 23 of the Local Audit and Accountability Act 2014 (local auditors' general duties and right to documents etc) apply in relation to an audit under this section as they apply in relation to an audit of the local authority under or by virtue of that Act.
+>
+> (1C) On completion of the audit under this section, the local auditor must report to the regulator about such matters and in such form as the regulator determines.
+
+(4) Omit subsections (2) and (3).
+
+(5) In subsection (4) for “Audit Commission's costs of preparing the report” substitute “ costs of the audit (including the local auditor's remuneration) ”.
+
+(6) For subsection (5) substitute—
+
+> (5) In this section—
+>
+> - “accounts” has the meaning given by section 4 of the Local Audit and Accountability Act 2014;
+> - “local auditor” means a person who is eligible for appointment under or by virtue of the Local Audit and Accountability Act 2014 as an auditor of the local authority's accounts.
+
+(7) In the heading, for “report” substitute “ audit ”.
+
+**96** In section 249(1) (management transfer) after “section 210” insert “ or 210A ”.
+
+### Local Democracy, Economic Development and Construction Act 2009 (c. 20)
+
+**97** Chapter 3 of Part 2 of the Local Democracy, Economic Development and Construction Act 2009 (audit of entities connected with local authorities) is amended as follows.
+
+**98** (1) Section 36 (overview of Chapter) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “an audit authority” substitute “ the Auditor General for Wales ”, and
+
+(b) omit “English or”.
+
+(3) Omit subsections (2) and (4).
+
+(4) In subsection (6)(b) omit “section 27 of the Audit Commission Act 1998 (c. 18) or”.
+
+**99** In section 37 (notification duties of local authorities) omit subsection (1).
+
+**100** (1) Section 38 (power to appoint auditor) is amended as follows.
+
+(2) In subsection (1), for “an audit authority” substitute “ the Auditor General for Wales ”.
+
+(3) In subsection (3)(b)(ii)—
+
+(a) for “audit authority” substitute “ Auditor General for Wales ”, and
+
+(b) for “37(1)(a) or (2)(a)” substitute “ 37(2)(a) ”.
+
+(4) Omit subsection (4).
+
+(5) In subsection (6), for “appointing audit authority” substitute “ Auditor General for Wales ”.
+
+(6) Omit subsection (7).
+
+(7) In subsection (8), for “appointing audit authority” substitute “ Auditor General for Wales ”.
+
+**101** (1) Section 39 (power to appoint replacement auditor) is amended as follows.
+
+(2) In subsection (1) for “an audit authority” substitute “ the Auditor General for Wales ”.
+
+(3) For the remaining references to “audit authority” substitute “ Auditor General for Wales ”.
+
+**102** (1) Section 40 (exclusions from power to appoint auditor) is amended as follows.
+
+(2) In subsection (1), for “An audit authority” substitute “ The Auditor General for Wales ”.
+
+(3) In each of subsections (2) to (4), for “appointing audit authority” substitute “ Auditor General for Wales ”.
+
+(4) In subsection (5) for “audit authority” substitute “ Auditor General for Wales ”.
+
+**103** In section 41(1) (persons who may be appointed as auditor)—
+
+(a) in paragraph (a), for “appointing audit authority” substitute “ Auditor General for Wales ”, and
+
+(b) in paragraph (b), for “that authority” substitute “ the Auditor General for Wales ”.
+
+**104** (1) Section 42 (terms of appointment of auditor) is amended as follows.
+
+(2) In subsection (5), for “appointing audit authority” substitute “ Auditor General for Wales ”.
+
+(3) Omit subsection (6).
+
+**105** (1) Section 43 (right of entity to appoint auditor to conduct statutory audit) is amended as follows.
+
+(2) In each of subsections (3), (5) and (7), for “audit authority” substitute “ Auditor General for Wales ”.
+
+(3) In subsection (8)—
+
+(a) for “an audit authority” substitute “ the Auditor General for Wales ”,
+
+(b) in paragraph (a), for “audit authority” substitute “ Auditor General for Wales ”, and
+
+(c) for paragraph (b) substitute—
+
+> (b) the Welsh Ministers.
+
+**106** In section 44(5)(b) (functions of auditor not appointed to conduct statutory audit: duty to send report to appointing audit authority), for “appointing audit authority” substitute “ Auditor General for Wales ”.
+
+**107** In section 45(4)(b) (duty of auditor to send public interest report to audit authority), for “audit authority” substitute “ Auditor General for Wales ”.
+
+**108** In section 46 (codes of practice) omit subsections (1) to (3).
+
+**109** (1) Section 50 (fees for appointment of auditor) is amended as follows.
+
+(2) Omit subsection (1).
+
+(3) In subsection (3), for “Audit Commission or the Wales Audit Office (as the case may be)” substitute “ Wales Audit Office ”.
+
+(4) Omit subsection (4).
+
+(5) In subsection (5)—
+
+(a) omit “(4) or”, and
+
+(b) for “Audit Commission or the Wales Audit Office (as the case may be)” substitute “ Wales Audit Office ”.
+
+(6) In subsection (6), for “Audit Commission or the Wales Audit Office (as the case may be)” substitute “ Wales Audit Office ”.
+
+(7) Omit subsections (8) and (9).
+
+(8) In subsection (12)—
+
+(a) for “Audit Commission or the Wales Audit Office (as the case may be)” in each place it occurs substitute “ Wales Audit Office ”, and
+
+(b) for “(4) or (4A) (as the case may be)” substitute “ (4A) ”.
+
+**110** (1) Section 51 (power of audit authority to require information) is amended as follows.
+
+(2) In the heading, for “audit authority” substitute “ Auditor General for Wales ”.
+
+(3) In subsection (1)—
+
+(a) for “appointing audit authority” substitute “ Auditor General for Wales ”, and
+
+(b) for “it” substitute “ the Auditor General for Wales ”.
+
+(4) In subsection (2)—
+
+(a) for “an audit authority” substitute “ the Auditor General for Wales ”, and
+
+(b) for “authority” substitute “ Auditor General for Wales ”.
+
+**111** Omit section 52 (subsidiaries of Passenger Transport Executives).
+
+**112** (1) Section 53 (regulations) is amended as follows.
+
+(2) In subsection (1), for “36(4)(b) or (5)(b)” substitute “ 36(5)(b) ”.
+
+(3) Omit subsection (4).
+
+(4) In subsection (5) omit “made by the Welsh Ministers”.
+
+**113** In section 54(1) (interpretation) omit the definitions of “audit authority”, “Audit Commission” and “qualifying English local authority entity”.
+
+### Equality Act 2010 (c. 15)
+
+**114** In Part 1 of Schedule 19 to the Equality Act 2010 (general list of public authorities to whom public sector equality duty applies) omit the entry for the Audit Commission for Local Authorities and the National Health Service in England.
+
+### Police Reform and Social Responsibility Act 2011 (c. 13)
+
+**115** The Police Reform and Social Responsibility Act 2011 is amended as follows.
+
+**116** In section 18(7) (delegation of functions by police and crime commissioners: exceptions), after paragraph (f) insert—
+
+> (g) appointing a local auditor under section 7 of the Local Audit and Accountability Act 2014;
+>
+> (h) deciding whether to enter into a liability limitation agreement under section 14 of that Act.
+
+**117** In section 19(7) (delegation of functions by Mayor's Office for Policing and Crime: exceptions), after paragraph (h) insert—
+
+> (i) appointing a local auditor under section 7 of the Local Audit and Accountability Act 2014;
+>
+> (j) deciding whether to enter into a liability limitation agreement under section 14 of that Act.
+
+### Charities Act 2011 (c. 25)
+
+**118** The Charities Act 2011 is amended as follows.
+
+**119** (1) Section 149 (audit or examination of English NHS charity accounts) is amended as follows.
+
+(2) In subsection (2) for “a person appointed by the Audit Commission” substitute
+
+> a person who—
+>
+> (a) is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006,
+>
+> (b) is eligible for appointment as a local auditor (see Part 4 of the Local Audit and Accountability Act 2014), or
+>
+> (c) is a member of a body for the time being specified in regulations under section 154 and is under the rules of that body eligible for appointment as auditor of the charity.
+
+(3) In subsection (3)—
+
+(a) for “the Audit Commission” (where it first occurs) substitute “ the charity trustees ”,
+
+(b) in paragraph (a) for “a person appointed by the Audit Commission” substitute “ a person who is within subsection (2)(a), (b) or (c) ”, and
+
+(c) in paragraph (b) for “a person so appointed” substitute “ a person who is qualified to be an independent examiner ”.
+
+(4) After subsection (3) insert—
+
+> (3A) For the purposes of subsection (3)(b), a person is qualified to be an independent examiner if (and only if)—
+>
+> (a) the person is independent,
+>
+> (b) the charity trustees reasonably believe that the person has the requisite ability and practical experience to carry out a competent examination of the accounts, and
+>
+> (c) the person—
+>
+> (i) falls within a description of person for the time being included in the list in section 145(3), or
+>
+> (ii) is eligible for appointment as a local auditor (see Part 4 of the Local Audit and Accountability Act 2014).
+
+(5) Omit subsection (4).
+
+(6) For subsection (5) substitute—
+
+> (5) The Commission may—
+>
+> (a) give guidance to charity trustees of an English NHS charity in connection with the selection of a person for appointment as an independent examiner;
+>
+> (b) give such directions as it thinks appropriate with respect to the carrying out of an examination in pursuance of subsection (3)(b);
+>
+> and any such guidance or directions may either be of general application or apply to a particular charity only.
+
+(7) Omit subsection (8).
+
+**120** (1) Section 151 (audit of accounts of larger groups) is amended as follows.
+
+(2) In subsection (4)(b), for “a person appointed by the Audit Commission” substitute “ a person, appointed by the charity trustees of the parent charity, who is within section 149(2)(a), (b) or (c) ”.
+
+(3) In subsection (6)—
+
+(a) for “Subsections (4) and (6) of section 149 apply” substitute “ Section 149(6) applies ”, and
+
+(b) for “they apply” substitute “ it applies ”.
+
+**121** (1) Section 152 (examination of accounts an option for smaller groups) is amended as follows.
+
+(2) In subsection (6)—
+
+(a) for the words from “the Audit Commission” (where it first occurs) to “so appointed” substitute “ the charity trustees of the parent charity be audited by a person, appointed by those trustees, who is within section 149(2)(a), (b) or (c); or examined by a person, appointed by those trustees, who is qualified to be an independent examiner ”,
+
+(b) for “(4) to (6)” substitute “ (3A), (5) and (6) ”, and
+
+(c) after “section 149(3)” insert “; except that in subsection (3A)(b) of that section the reference to “the charity trustees” is to be read as a reference to “the charity trustees of the parent charity”.”
+
+**122** In section 154(1) (regulations relating to audits and examinations) after paragraph (a) insert—
+
+> (aa) specifying one or more bodies for the purposes of section 149(2)(c);
+
+.
+
+### Repeals and revocations in consequence of this Schedule
+
+**123** In consequence of the amendments made by this Schedule, the following provisions are repealed or revoked—
+
+(a) section 95(4) of the Traffic Management Act 2004;
+
+(b) paragraph 102 of Schedule 1 to the Fire and Rescue Services Act 2004;
+
+(c) paragraph 14 of Schedule 1 and paragraphs 9(2) and 20(b) of Schedule 2 to the Public Audit (Wales) Act 2004;
+
+(d) section 31(2) of the Legislative and Regulatory Reform Act 2006;
+
+(e) section 158 of and paragraph 5(6) of Schedule 14 to the Local Government and Public Involvement in Health Act 2007;
+
+(f) paragraphs 9 and 52 of Schedule 1 to the Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (SI 2010/844);
+
+(g) paragraph 10(6) of Schedule 17 to the Localism Act 2011;
+
+(h) section 155(2) of the Health and Social Care Act 2012;
+
+(i) paragraph 91(2) and (5) of Schedule 4 to the Public Audit (Wales) Act 2013 (anaw 3).
+
+## SCHEDULE 13 — NHS trusts and trustees for NHS trusts: transitory and saving provision
+
+*Section 47*
+
+### Operation of this Schedule
+
+**1** (1) This Act has effect in accordance with this Schedule until the coming into force of section 179(1) of the Health and Social Care Act 2012, subject to sub-paragraph (2) and any provision made under paragraph 2.
+
+(2) This Act has effect in accordance with this Schedule in relation to—
+
+(a) any body which continues to be constituted as an NHS trust by virtue of section 179(3) of that Act after the coming into force of subsection (1) of that section, and
+
+(b) any trustees for such a body, appointed under paragraph 10 of Schedule 4 to the National Health Service Act 2006,
+
+until that body has ceased to be constituted as an NHS trust (by virtue of paragraph (a), (b) or (c) of section 179(3) of the Health and Social Care Act 2012).
+
+**2** (1) The Secretary of State may by order make further transitory or saving provision for the purposes of this Schedule.
+
+(2) An order under this paragraph may, in particular, make provision about the audit of—
+
+(a) the accounts of an NHS trust prepared in respect of the period which includes the day on which the trust ceased to be constituted as an NHS trust;
+
+(b) the accounts of the trustees for an NHS trust prepared in respect of the period which includes the day on which the trust ceased to be constituted as an NHS trust.
+
+(3) An order under this paragraph may—
+
+(a) amend the modifications of this Act made by this Schedule;
+
+(b) further modify this Act.
+
+### “Relevant authorities”, “health service bodies” and “accounts”
+
+**3** (1) The following are relevant authorities for the purposes of this Act—
+
+(a) an NHS trust all or most of whose hospitals, establishments and facilities are situated in England, and
+
+(b) any trustees for such a trust, appointed under paragraph 10 of Schedule 4 to the National Health Service Act 2006[[^F116], if the trust for which they are trustees is not a charitable trust].
+
+(2) Accordingly, Schedule 2 is to be read as if it contained the following paragraphs—
+
+> **24A** An NHS trust all or most of whose hospitals, establishments and facilities are situated in England.
+>
+> **24B** Any trustees for an NHS trust within paragraph 24A, appointed under paragraph 10 of Schedule 4 to the National Health Service Act 2006 (trustees for NHS trusts established under section 25 of that Act).
+>
+> **[[^F117]NOTE:** This Act applies to trustees for an NHS trust appointed under paragraph 10 of Schedule 4 to the National Health Service Act 2006 only if the trust of which they are trustees is not a charitable trust.]
+
+**4** In section 3(9), the definition of “health service body” is to be read as if it contained the following paragraphs—
+
+> (c) an NHS trust all or most of whose hospitals, establishments and facilities are situated in England;
+>
+> (d) any trustees for such a trust, appointed under paragraph 10 of Schedule 4 to the National Health Service Act 2006.
+
+**5** (1) Section 4 is to be read as if after subsection (5) there were inserted—
+
+> (6) In relation to an NHS trust, or the trustees for an NHS trust, “accounts” means the annual accounts prepared under paragraph 3 of Schedule 15 to the National Health Service Act 2006.
+
+(2) Accordingly, in section 44(1) the definition of “accounts” is to be read as if for “(5)” there were substituted “ (6) ”.
+
+### Notice of appointment of local auditor
+
+**6** Section 8(4) (publication of notice of appointment of local auditor) is to be read as if it contained the following paragraphs—
+
+> (d) in the case of an NHS trust, it publishes the notice in such manner as it thinks is likely to bring the notice to the attention of persons to whom the trust provides services for the purposes of the health service in England;
+>
+> (e) in the case of trustees for an NHS trust, they publish the notice in such manner as they think is likely to bring the notice to the attention of persons to whom that NHS trust provides services for the purposes of the health service in England.
+
+### Functions of auditor panel
+
+**7** Section 10(10) (publication of advice of auditor panel) is to be read as if it contained the following paragraphs—
+
+> (d) in the case of an NHS trust, it publishes the advice in such manner as it thinks is likely to bring the advice to the attention of persons to whom the trust provides services for the purposes of the health service in England;
+>
+> (e) in the case of trustees for an NHS trust, they publish the advice in such manner as they think is likely to bring the advice to the attention of persons to whom that NHS trust provides services for the purposes of the health service in England.
+
+### Failure to appoint local auditor
+
+**8** (1) Section 12 does not apply in relation to an NHS trust mentioned in paragraph 3(1)(a), or the trustees for such a trust as mentioned in paragraph 3(1)(b).
+
+(2) Paragraph 9 applies in relation to such a body.
+
+**9** (1) If an NHS trust fails, or the trustees for an NHS trust fail, to appoint an auditor in accordance with Part 3, the trust or (as the case may be) the trustees must immediately inform the National Health Service Trust Development Authority (“the Authority”) of that fact.
+
+(2) If it appears to the Authority that an NHS trust has, or the trustees for an NHS trust have, failed to appoint an auditor in accordance with Part 3, the Authority must inform the Secretary of State of that fact by the end of 25 March in the financial year preceding the financial year to which the accounts to be audited relate.
+
+(3) If the Secretary of State has been informed by the Authority under sub-paragraph (2), the Secretary of State may—
+
+(a) take either of the steps in sub-paragraph (4), or
+
+(b) direct the Authority to take whichever of the steps in sub-paragraph (4) the Authority considers appropriate.
+
+(4) Those steps are—
+
+(a) to direct the trust or trustees to appoint an auditor named in the direction given under this paragraph, or
+
+(b) to appoint an auditor on behalf of the trust or trustees.
+
+(5) An appointment under sub-paragraph (4)(b) takes effect—
+
+(a) as if it had been made by the trust or trustees, and
+
+(b) on such terms as the Secretary of State or (as the case may be) the Authority may direct.
+
+(6) The Secretary of State or the Authority must—
+
+(a) inform the trust or trustees of the intention to give a direction or appoint an auditor under sub-paragraph (4) not less than 28 days before the direction is given or the appointment made, and
+
+(b) consider any representations made by the trust or trustees regarding the proposed direction or appointment.
+
+(7) But the Secretary of State or the Authority may give a direction or make an appointment under sub-paragraph (4) without having complied with sub-paragraph (6) if the Secretary of State or the Authority thinks it is likely that an auditor would have to exercise a function under this Act in relation to the trust or trustees within the period of 60 days beginning with the day on which the direction is given or the appointment is made.
+
+(8) The National Health Service Trust Development Authority is the Special Health Authority established under the National Health Service Trust Development Authority (Establishment and Constitution) Order 2012 (SI 2012/901)).
+
+### General duties of auditors
+
+**10** Section 21(3) (general duties of auditors of accounts of special trustees for a hospital) is to be read as if—
+
+(a) for “accounts of special trustees for a hospital” there were substituted “ accounts of a health service body other than a clinical commissioning group ”, and
+
+(b) in paragraph (c)—
+
+(i) for “the special trustees have” there were substituted “ the body has ”, and
+
+(ii) for “their” there were substituted “ its ”.
+
+### Independence requirement: directors of NHS trusts
+
+**11** In Schedule 5, paragraph 5 (independence requirement: modification of section 1214 of the Companies Act 2006) is to be read as if the substitution for section 1214 of the Companies Act 2006 provided (in addition to its existing provision) that a director of an NHS trust may not act as a local auditor of—
+
+(a) that NHS trust, or
+
+(b) the trustees for that NHS trust.
+
+### Public interest reports and written recommendations
+
+**12** (1) Schedule 7 is to be read in accordance with the following sub-paragraphs.
+
+(2) In paragraph 2(3) (persons to whom written recommendations must be sent) after paragraph (c) insert—
+
+> (ca) where the relevant authority is an NHS trust or the trustees for an NHS trust, to the National Health Service Trust Development Authority,
+
+.
+
+(3) In paragraph 3(2) (persons to whom public interest reports must be sent) after paragraph (c) omit “and” and insert—
+
+> (ca) where the relevant authority is an NHS trust or the trustees for an NHS trust, to the National Health Service Trust Development Authority, and
+
+.
+
+(4) In paragraph 4(8) (means of publicising public interest reports and related notices) after paragraph (c) insert—
+
+> (d) in the case of an NHS trust, it publishes the notice in such manner as it thinks is likely to bring the notice to the attention of persons to whom the trust provides services for the purposes of the health service in England;
+>
+> (e) in the case of trustees for an NHS trust, they publish the notice in such manner as they think is likely to bring the notice to the attention of persons to whom that NHS trust provides services for the purposes of the health service in England.
+
+(5) In the modifications made by this paragraph, “National Health Service Trust Development Authority” is to be construed in accordance with paragraph 9(8).
+
+### Unlawful expenditure or activity
+
+**13** (1) Section 30(2) (referral of health service bodies to certain persons as regards unlawful expenditure or activity) is to be read as if, at the end of paragraph (b), there were inserted
+
+> , and
+>
+> (c) if the health service body is an NHS trust or the trustees for an NHS trust, notify the National Health Service Trust Development Authority of the matter.
+
+(2) In the modification made by sub-paragraph (1), “National Health Service Trust Development Authority” is to be construed in accordance with paragraph 9(8).
+
+---
+
+[^F1]: Pt. 1A inserted (15.7.2026) by English Devolution and Community Empowerment Act 2026 (c. 23), ss. 89(1), 108(6); S.I. 2026/812, reg. 2(1)(b)
+[^F2]: S. 3(9) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 16; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F3]: S. 4(4) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 210; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F4]: S. 4(5) omitted (17.6.2021) by virtue of NHS (Charitable Trusts Etc) Act 2016 (c. 10), s. 5(1), Sch. 1 para. 18(b); S.I. 2021/712, reg. 3(c)
+[^F5]: S. 4(6) inserted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 17; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F6]: Words in s. 5 substituted (15.7.2026) by English Devolution and Community Empowerment Act 2026 (c. 23), ss. 96(1), 108(6); S.I. 2026/812, reg. 2(1)(d)
+[^F7]: Words in s. 6 substituted (15.7.2026) by English Devolution and Community Empowerment Act 2026 (c. 23), ss. 96(1), 108(6); S.I. 2026/812, reg. 2(1)(d)
+[^F8]: S. 6(2) substituted (17.9.2025) by The Local Audit (Amendment of Definition of Smaller Authority) Regulations 2025 (S.I. 2025/1026), regs. 1(1), 2
+[^F9]: Pt. 2A inserted (29.4.2026 for specified purposes) by English Devolution and Community Empowerment Act 2026 (c. 23), ss. 90(1), 108(1)(6)
+[^F10]: S. 7(8)(9) substituted for s. 7(8) (29.4.2026 for specified purposes) by English Devolution and Community Empowerment Act 2026 (c. 23), s. 108(1)(6), Sch. 36 para. 3(8)
+[^F11]: S. 8(4)(b) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 211; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F12]: S. 8(4)(c) omitted (17.6.2021) by virtue of NHS (Charitable Trusts Etc) Act 2016 (c. 10), s. 5(1), Sch. 1 para. 18(c); S.I. 2021/712, reg. 3(c)
+[^F13]: S. 8(4)(d) inserted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 18; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F14]: S. 10(10)(b) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 212; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F15]: S. 10(10)(c) omitted (17.6.2021) by virtue of NHS (Charitable Trusts Etc) Act 2016 (c. 10), s. 5(1), Sch. 1 para. 18(d); S.I. 2021/712, reg. 3(c)
+[^F16]: S. 10(10)(d) inserted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 19; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F17]: Words in s. 12(1) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 20; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F18]: Words in s. 12(2) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 20; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F19]: Words in s. 13 heading substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 21(2); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F20]: Words in s. 13(1) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 21(3); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F21]: Words in s. 13 substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 1 para. 1(1)(2); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F22]: Words in s. 13(2) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 21(3); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F23]: Words in s. 13(4)(a) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 21(4)(a); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F24]: Words in s. 13(4)(b) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 21(4)(b); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F25]: Words in s. 13(5)(a) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 21(5); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F26]: Words in s. 13(6)(a) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 21(6)(a); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F27]: Words in s. 13(6)(b) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 21(6)(b); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F28]: Words in s. 13(7) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 21(7); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F29]: S. 20(3) substituted (15.7.2026) by English Devolution and Community Empowerment Act 2026 (c. 23), ss. 98, 108(6); S.I. 2026/812, reg. 2(1)(f)
+[^F30]: Words in s. 21(1) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 213(a); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F31]: Words in s. 21(1)(c) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 213(b); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F32]: Words in s. 21(1)(f) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 213(b); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F33]: S. 21(2A) inserted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 22; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F34]: S. 21(3) omitted (17.6.2021) by virtue of NHS (Charitable Trusts Etc) Act 2016 (c. 10), s. 5(1), Sch. 1 para. 18(e); S.I. 2021/712, reg. 3(c)
+[^F35]: Words in s. 26(1) inserted (27.6.2017) by Local Audit (Public Access to Documents) Act 2017 (c. 25), ss. 1(2), 2(1)
+[^F36]: S. 26(1A) inserted (27.6.2017) by Local Audit (Public Access to Documents) Act 2017 (c. 25), ss. 1(3), 2(1)
+[^F37]: S. 30(2)(b) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 23; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F38]: Pt. 5A inserted (29.4.2026 for specified purposes) by English Devolution and Community Empowerment Act 2026 (c. 23), s. 108(1)(6), Sch. 36 para. 21
+[^F39]: S. 33A inserted (29.4.2026 for specified purposes, 15.7.2026 for specified purposes) by English Devolution and Community Empowerment Act 2026 (c. 23), ss. 94, 108(1)(6); S.I. 2026/812, reg. 2(1)(c)
+[^F40]: S. 40(6)(f) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 2 para. 122(2); S.I. 2018/227, reg. 4(c)
+[^F41]: S. 40(6)(ja) inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by Cities and Local Government Devolution Act 2016 (c. 1), s. 25(2), Sch. 5 para. 37(2)
+[^F42]: S. 40(6)(jb) inserted (26.12.2023) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(2)(c), Sch. 4 para. 200 (with s. 247)
+[^F43]: S. 43(4)(fa) inserted (29.4.2026 for specified purposes) by English Devolution and Community Empowerment Act 2026 (c. 23), s. 108(1)(6), Sch. 36 para. 22(b)
+[^F44]: S. 43(4)(ha) inserted (29.4.2026 for specified purposes) by English Devolution and Community Empowerment Act 2026 (c. 23), s. 108(1)(6), Sch. 36 para. 22(c)
+[^F45]: S. 43(4)(ia) inserted (29.4.2026 for specified purposes) by English Devolution and Community Empowerment Act 2026 (c. 23), s. 108(1)(6), Sch. 36 para. 22(d)
+[^F46]: S. 43(4)(ja) inserted (29.4.2026 for specified purposes) by English Devolution and Community Empowerment Act 2026 (c. 23), s. 108(1)(6), Sch. 36 para. 22(e)
+[^F47]: S. 43(6)(b) omitted (1.7.2022) by virtue of Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 24; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F48]: S. 43(6)(c) omitted (1.7.2022) by virtue of Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 24; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F49]: S. 43A inserted (29.4.2026 for specified purposes) by English Devolution and Community Empowerment Act 2026 (c. 23), s. 108(1)(6), Sch. 36 para. 23
+[^F50]: Word in s. 44 substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 25; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F51]: Words in s. 44(1) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 214(2); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F52]: Words in s. 44(1) inserted (26.12.2023) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(2)(c), Sch. 4 para. 201 (with s. 247)
+[^F53]: Words in s. 44(1) omitted (17.6.2021) by virtue of NHS (Charitable Trusts Etc) Act 2016 (c. 10), s. 5(1), Sch. 1 para. 18(g); S.I. 2021/712, reg. 3(c)
+[^F54]: Words in s. 44(1) inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by Cities and Local Government Devolution Act 2016 (c. 1), s. 25(2), Sch. 5 para. 37(3)
+[^F55]: S. 44(5) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 214(3); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F56]: S. 47 omitted (1.7.2022) by virtue of Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 26; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F57]: Sch. 1A inserted (15.7.2026 except the insertion of Sch. 1A paras. 13(1)(b)(2)-(4), 14, 15) by English Devolution and Community Empowerment Act 2026 (c. 23), s. 108(6), Sch. 34 para. 1 (with Sch. 34 Pt. 2); S.I. 2026/812, reg. 2(2)(3)
+[^F58]: Schs. 1B-1D inserted (29.4.2026 for specified purposes) by English Devolution and Community Empowerment Act 2026 (c. 23), s. 108(1)(6), Sch. 35
+[^F59]: Sch. 2 para. 22A inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 1 para. 97(2); S.I. 2017/399, reg. 2, Sch. para. 38
+[^F60]: Sch. 2 para. 23 substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 215; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F61]: Sch. 2 para. 23A inserted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 27; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F62]: Sch. 2 para. 24 and note omitted (17.6.2021) by virtue of NHS (Charitable Trusts Etc) Act 2016 (c. 10), s. 5(1), Sch. 1 para. 18(i); S.I. 2021/712, reg. 3(c)
+[^F63]: Sch. 2 para. 25 omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 13 para. 6(37); S.I. 2015/994, art. 6(g)
+[^F64]: Sch. 2 para. 28ZA inserted (26.12.2023) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(2)(c), Sch. 4 para. 202 (with s. 247)
+[^F65]: Sch. 2 para. 28A inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by Cities and Local Government Devolution Act 2016 (c. 1), s. 25(2), Sch. 5 para. 37(4)
+[^F66]: Sch. 4 para. 2(2) substituted for Sch. 4 para. 2(2)(3) (12.11.2014) by The Local Audit (Auditor Panel Independence) Regulations 2014 (S.I. 2014/2845), reg. 1, 2(2)
+[^F67]: Sch. 4 para. 2(4)-(7) substituted (12.11.2014) by The Local Audit (Auditor Panel Independence) Regulations 2014 (S.I. 2014/2845), reg. 1, 2(3)
+[^F68]: Words in Sch. 4 para. 2(8) substituted (12.11.2014) by The Local Audit (Auditor Panel Independence) Regulations 2014 (S.I. 2014/2845), reg. 1 2(4)
+[^F69]: Sch. 4 para. 2(8A) inserted (12.11.2014) by The Local Audit (Auditor Panel Independence) Regulations 2014 (S.I. 2014/2845), reg. 1, 2(5)
+[^F70]: Sch. 4 para. 8 cross-heading substituted (12.11.2014) by The Local Audit (Auditor Panel Independence) Regulations 2014 (S.I. 2014/2845), reg. 1 2(6)
+[^F71]: Sch. 5 para. 1(3) substituted (17.6.2016) by The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649), reg. 1(1)(a), Sch. 5 para. 2(2)
+[^F72]: Words in Sch. 5 para. 1(3)(b) inserted (31.12.2020) by The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177), regs. 2, 45; 2020 c. 1, Sch. 5 para. 1(1)
+[^F73]: Word in Sch. 5 para. 5 omitted (1.7.2022) by virtue of Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 216(a); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F74]: Word in Sch. 5 para. 5 inserted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 28(a); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F75]: Words in Sch. 5 para. 5 substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 216(b); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F76]: Words in Sch. 5 para. 5 inserted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 28(b); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F77]: Words in Sch. 5 para. 23(2) substituted (31.12.2020) by The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504), regs. 1(2), 4(a); 2020 c. 1, Sch. 5 para. 1(1)
+[^F78]: Words in Sch. 5 para. 23(2) renumbered as Sch. 5 para. 23(2)(a) (31.12.2020) by The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504), regs. 1(2), 4(b); 2020 c. 1, Sch. 5 para. 1(1)
+[^F79]: Sch. 5 para. 23(2)(b) and word inserted (31.12.2020) by The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504), regs. 1(2), 4(c); 2020 c. 1, Sch. 5 para. 1(1)
+[^F80]: Word in Sch. 5 para. 23(2)(b) substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 82
+[^F81]: Words in Sch. 5 para. 26(3) inserted (31.12.2020) by The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504), regs. 1(2), 5(a); 2020 c. 1, Sch. 5 para. 1(1)
+[^F82]: Word in Sch. 5 para. 26(3) omitted (1.12.2023) by virtue of The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286), reg. 1, Sch. 3 para. 91(2)(a)
+[^F83]: Sch. 5 para. 26(3)(c) and word inserted (1.12.2023) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286), reg. 1, Sch. 3 para. 91(2)(b)
+[^F84]: Sch. 5 para. 26(5) inserted (31.12.2020) by The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504), regs. 1(2), 5(b); 2020 c. 1, Sch. 5 para. 1(1)
+[^F85]: Words in Sch. 5 para. 27(3) inserted (1.12.2023) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286), reg. 1, Sch. 3 para. 91(3)
+[^F86]: Words in Sch. 5 para. 28(3) inserted (31.12.2020) by The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504), regs. 1(2), 6(1)(a)(i)(aa); 2020 c. 1, Sch. 5 para. 1(1)
+[^F87]: Words in Sch. 5 para. 28(3) substituted (1.1.2021) by The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504), regs. 1(3), 6(1)(a)(i)(bb)
+[^F88]: Word in Sch. 5 para. 28(3) omitted (1.12.2023) by virtue of The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286), reg. 1, Sch. 3 para. 91(4)(a)
+[^F89]: Words in Sch. 5 para. 28(3) inserted (1.12.2023) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286), reg. 1, Sch. 3 para. 91(4)(b)
+[^F90]: Words in Sch. 5 para. 28(3) omitted (1.1.2021) by virtue of The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504), regs. 1(3), 6(1)(a)(ii)
+[^F91]: Word in Sch. 5 para. 28(3) omitted (31.12.2020) by virtue of The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504), regs. 1(2), 6(1)(b); 2020 c. 1, Sch. 5 para. 1(1)
+[^F92]: Words in Sch. 5 para. 28(3) inserted (31.12.2020) by The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504), regs. 1(2), 6(1)(c); 2020 c. 1, Sch. 5 para. 1(1)
+[^F93]: Words in Sch. 5 para. 28(3) inserted (temp. until 1.1.2021) (31.12.2020) by The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504), regs. 1(2), 6(1)(d) (with reg. 6(2)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F94]: Words in Sch. 5 para. 28(7) substituted (31.12.2020) by The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504), regs. 1(2), 6(1)(e)(i) (with reg. 6(3)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F95]: Words in Sch. 5 para. 28(7) inserted (31.12.2020) by The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504), regs. 1(2), 6(1)(e)(ii) (with reg. 6(3)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F96]: Words in Sch. 6 para. 10(4)(a) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 5 para. 101; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F97]: Words in Sch. 7 para. 2(3)(d) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 29(2); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F98]: Words in Sch. 7 substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 1 para. 1(1)(2); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F99]: Words in Sch. 7 para. 3(2)(c) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 29(3); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F100]: Sch. 7 para. 4(8)(b) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 217; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F101]: Sch. 7 para. 4(8)(c) omitted (17.6.2021) by virtue of NHS (Charitable Trusts Etc) Act 2016 (c. 10), s. 5(1), Sch. 1 para. 18(j); S.I. 2021/712, reg. 3(c)
+[^F102]: Sch. 7 para. 4(8)(d) inserted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 7 para. 29(4); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F103]: Words in Sch. 7 para. 5(7) substituted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 1 para. 97(3); S.I. 2017/399, reg. 2, Sch. para. 38
+[^F104]: Words in Sch. 7 para. 5(7) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 2 para. 122(3); S.I. 2018/227, reg. 4(c)
+[^F105]: Words in Sch. 9 para. 3(3)(a) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 184(2) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F106]: Words in Sch. 9 para. 3(3)(b) substituted (27.6.2018) by Investigatory Powers Act 2016 (c. 25), s. 272(1), Sch. 10 para. 31 (with Sch. 9 paras. 7, 8, 10); S.I. 2018/652, reg. 12(g)(iii)
+[^F107]: Sch. 9 para. 3(3A) inserted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 184(3) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F108]: Words in Sch. 9 para. 3(4) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 184(4) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F109]: Words in Sch. 9 para. 4(6)(a) renumbered as Sch. 9 para. 4(6)(a)(i) (4.9.2025) by The Legislative Reform (Disclosure of Adult Social Care Data) Order 2025 (S.I. 2025/993), arts. 1(1), 2(2)(a)
+[^F110]: Sch. 9 para. 4(6)(a)(ii) and word inserted (4.9.2025) by The Legislative Reform (Disclosure of Adult Social Care Data) Order 2025 (S.I. 2025/993), arts. 1(1), 2(2)(b)
+[^F111]: Words in Sch. 9 para. 4(12) inserted (4.9.2025) by The Legislative Reform (Disclosure of Adult Social Care Data) Order 2025 (S.I. 2025/993), arts. 1(1), 2(3)(a)
+[^F112]: Words in Sch. 9 para. 4(12) inserted (4.9.2025) by The Legislative Reform (Disclosure of Adult Social Care Data) Order 2025 (S.I. 2025/993), arts. 1(1), 2(3)(b)
+[^F113]: Words in Sch. 9 para. 4(12) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 1 para. 23; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F114]: Words in Sch. 9 para. 7(3)(c) substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 18; S.I. 2026/1015, reg. 2(c)
+[^F115]: Words in Sch. 11 substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 1 para. 1(1)(2); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+[^F116]: Words in Sch. 13 para. 3(1)(b) inserted (1.4.2015) by The Local Audit and Accountability Act 2014 (Independent Trustees) Amendment Order 2015 (S.I. 2015/972), arts. 1, 2(2)
+[^F117]: Words in Sch. 13 para. 3(2) inserted (1.4.2015) by The Local Audit and Accountability Act 2014 (Independent Trustees) Amendment Order 2015 (S.I. 2015/972), arts. 1, 2(3)

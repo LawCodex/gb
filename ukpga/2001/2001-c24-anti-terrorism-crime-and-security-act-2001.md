@@ -1,0 +1,7960 @@
+---
+title: "Anti-terrorism, Crime and Security Act 2001"
+identifier: "ukpga/2001/24"
+citation: "2001 c.24"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2001-12-14
+last_amended: 2024-04-26
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2001/24"
+source_modified: 2024-05-22
+retrieved: 2026-10-11
+---
+
+# Anti-terrorism, Crime and Security Act 2001
+
+**2001 c.24**
+
+An Act to amend the Terrorism Act 2000; to make further provision about terrorism and security; to provide for the freezing of assets; to make provision about immigration and asylum; to amend or extend the criminal law and powers for preventing crime and enforcing that law; to make provision about the control of pathogens and toxins; to provide for the retention of communications data; to provide for implementation of Title
+
+VI
+
+of the Treaty on European Union; and for connected purposes.
+
+[14th December 2001]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — Terrorist Property
+
+### [^F1]1 Forfeiture of terrorist [[^F1]property]
+
+(1) Schedule 1 (which makes provision for enabling [[^F2]property] which—
+
+(a) is intended to be used for the purposes of terrorism,
+
+(b) consists of resources of an organisation which is a proscribed organisation, or
+
+(c) is, or represents, property obtained through terrorism,
+
+to be forfeited in civil proceedings before a magistrates’ court or (in Scotland) the sheriff) is to have effect.
+
+(2) The powers conferred by Schedule 1 are exercisable in relation to [[^F3]property] whether or not any proceedings have been brought for an offence in connection with [[^F4]the property].
+
+(3) Expressions used in this section have the same meaning as in Schedule 1.
+
+(4) Sections 24 to 31 of the Terrorism Act 2000 (c. 11) (seizure of terrorist cash) are to cease to have effect.
+
+(5) An order under section 127 bringing Schedule 1 into force may make any modifications of any code of practice then in operation under Schedule 14 to the Terrorism Act 2000 (exercise of officers’ powers) which the Secretary of State thinks necessary or expedient.
+
+### 2 Amendments relating to section 1
+
+[^F5]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F5]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F5]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Schedule 14 to the Terrorism Act 2000 (exercise of officers’ powers) is amended as follows.
+
+(5) In paragraph 1—
+
+(a) in paragraph (a), for “section 24” substitute “ the terrorist cash provisions ”, and
+
+(b) after paragraph (b) insert—
+
+> and “the terrorist cash provisions” means Schedule 1 to the Anti-terrorism, Crime and Security Act 2001.
+
+(6) In paragraphs 2, 3 and 6(1), at the end insert “or the terrorist cash provisions”.
+
+(7) In paragraph 5, after “Act” insert “ or the terrorist cash provisions ”.
+
+[^F6]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3 Terrorist property: amendments
+
+Schedule 2 contains amendments to the Terrorism Act 2000.
+
+## Part 2 — Freezing Orders
+
+### Orders
+
+#### 4 Power to make order
+
+(1) The Treasury may make a freezing order if the following two conditions are satisfied.
+
+(2) The first condition is that the Treasury reasonably believe that—
+
+(a) action to the detriment of the United Kingdom’s economy (or part of it) has been or is likely to be taken by a person or persons, or
+
+(b) action constituting a threat to the life or property of one or more nationals of the United Kingdom or residents of the United Kingdom has been or is likely to be taken by a person or persons.
+
+(3) If one person is believed to have taken or to be likely to take the action the second condition is that the person is—
+
+(a) the government of a country or territory outside the United Kingdom, or
+
+(b) a resident of a country or territory outside the United Kingdom.
+
+(4) If two or more persons are believed to have taken or to be likely to take the action the second condition is that each of them falls within paragraph (a) or (b) of subsection (3); and different persons may fall within different paragraphs.
+
+#### 5 Contents of order
+
+(1) A freezing order is an order which prohibits persons from making funds available to or for the benefit of a person or persons specified in the order.
+
+(2) The order must provide that these are the persons who are prohibited—
+
+(a) all persons in the United Kingdom, and
+
+(b) all persons elsewhere who are nationals of the United Kingdom or are bodies incorporated under the law of any part of the United Kingdom or are Scottish partnerships.
+
+(3) The order may specify the following (and only the following) as the person or persons to whom or for whose benefit funds are not to be made available—
+
+(a) the person or persons reasonably believed by the Treasury to have taken or to be likely to take the action referred to in section 4;
+
+(b) any person the Treasury reasonably believe has provided or is likely to provide assistance (directly or indirectly) to that person or any of those persons.
+
+(4) A person may be specified under subsection (3) by—
+
+(a) being named in the order, or
+
+(b) falling within a description of persons set out in the order.
+
+(5) The description must be such that a reasonable person would know whether he fell within it.
+
+(6) Funds are financial assets and economic benefits of any kind.
+
+#### 6 Contents: further provisions
+
+Schedule 3 contains further provisions about the contents of freezing orders.
+
+#### 7 Review of order
+
+The Treasury must keep a freezing order under review.
+
+#### 8 Duration of order
+
+A freezing order ceases to have effect at the end of the period of 2 years starting with the day on which it is made.
+
+### Interpretation
+
+#### 9 Nationals and residents
+
+(1) A national of the United Kingdom is an individual who is—
+
+(a) a British citizen, a British Dependent Territories citizen, a British National (Overseas) or a British Overseas citizen,
+
+(b) a person who under the British Nationality Act 1981 (c. 61) is a British subject, or
+
+(c) a British protected person within the meaning of that Act.
+
+(2) A resident of the United Kingdom is—
+
+(a) an individual who is ordinarily resident in the United Kingdom,
+
+(b) a body incorporated under the law of any part of the United Kingdom, or
+
+(c) a Scottish partnership.
+
+(3) A resident of a country or territory outside the United Kingdom is—
+
+(a) an individual who is ordinarily resident in such a country or territory, or
+
+(b) a body incorporated under the law of such a country or territory.
+
+(4) For the purposes of subsection (3)(b) a branch situated in a country or territory outside the United Kingdom of—
+
+(a) a body incorporated under the law of any part of the United Kingdom, or
+
+(b) a Scottish partnership,
+
+is to be treated as a body incorporated under the law of the country or territory where the branch is situated.
+
+(5) This section applies for the purposes of this Part.
+
+### Orders: procedure etc.
+
+#### 10 Procedure for making freezing orders
+
+(1) A power to make a freezing order is exercisable by statutory instrument.
+
+(2) A freezing order—
+
+(a) must be laid before Parliament after being made;
+
+(b) ceases to have effect at the end of the relevant period unless before the end of that period the order is approved by a resolution of each House of Parliament (but without that affecting anything done under the order or the power to make a new order).
+
+(3) The relevant period is a period of 28 days starting with the day on which the order is made.
+
+(4) In calculating the relevant period no account is to be taken of any time during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than 4 days.
+
+(5) If the Treasury propose to make a freezing order in the belief that the condition in section 4(2)(b) is satisfied, they must not make the order unless they consult the Secretary of State.
+
+#### 11 Procedure for making certain amending orders
+
+(1) This section applies if—
+
+(a) a freezing order is made specifying by description (rather than by name) the person or persons to whom or for whose benefit funds are not to be made available,
+
+(b) it is proposed to make a further order which amends the freezing order only so as to make it specify by name the person or persons (or any of the persons) to whom or for whose benefit funds are not to be made available, and
+
+(c) the Treasury reasonably believe that the person or persons named fall within the description contained in the freezing order and the further order contains a statement of the Treasury’s belief.
+
+(2) This section also applies if—
+
+(a) a freezing order is made specifying by name the person or persons to whom or for whose benefit funds are not to be made available,
+
+(b) it is proposed to make a further order which amends the freezing order only so as to make it specify by name a further person or further persons to whom or for whose benefit funds are not to be made available, and
+
+(c) the Treasury reasonably believe that the further person or persons fall within the same description as the person or persons specified in the freezing order and the further order contains a statement of the Treasury’s belief.
+
+(3) This section also applies if—
+
+(a) a freezing order is made, and
+
+(b) it is proposed to make a further order which amends the freezing order only so as to make it specify (whether by name or description) fewer persons to whom or for whose benefit funds are not to be made available.
+
+(4) If this section applies, a statutory instrument containing the further order is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 12 Procedure for revoking orders
+
+A statutory instrument containing an order revoking a freezing order (without re-enacting it) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 13 De-hybridisation
+
+If apart from this section an order under this Part would be treated for the purposes of the standing orders of either House of Parliament as a hybrid instrument, it is to proceed in that House as if it were not such an instrument.
+
+#### 14 Orders: supplementary
+
+(1) Where this Part confers a power to make provision, different provision may be made for different purposes.
+
+(2) An order under this Part may include supplementary, incidental, saving or transitional provisions.
+
+(3) Nothing in this Part affects the generality of subsection (2).
+
+### Miscellaneous
+
+#### 15 The Crown
+
+(1) A freezing order binds the Crown, subject to the following provisions of this section.
+
+(2) No contravention by the Crown of a provision of a freezing order makes the Crown criminally liable; but the High Court or in Scotland the Court of Session may, on the application of a person appearing to the Court to have an interest, declare unlawful any act or omission of the Crown which constitutes such a contravention.
+
+(3) Nothing in this section affects Her Majesty in her private capacity; and this is to be construed as if section 38(3) of the Crown Proceedings Act 1947 (c. 44) (meaning of Her Majesty in her private capacity) were contained in this Act.
+
+#### 16 Repeals
+
+(1) These provisions shall cease to have effect—
+
+(a) section 2 of the Emergency Laws (Re-enactments and Repeals) Act 1964 (c. 60) (Treasury’s power to prohibit action on certain orders as to gold etc);
+
+(b) section 55 of the Finance Act 1968 (c. 44) (meaning of security in section 2 of 1964 Act).
+
+(2) Subsection (1) does not affect a reference which—
+
+(a) is to a provision referred to in that subsection, and
+
+(b) is contained in a provision made under an Act.
+
+## Part 3 — Disclosure of Information
+
+### 17 Extension of existing disclosure powers
+
+(1) This section applies to the provisions listed in Schedule 4, so far as they authorise the disclosure of information.
+
+(2) Each of the provisions to which this section applies shall have effect, in relation to the disclosure of information by or on behalf of a public authority, as if the purposes for which the disclosure of information is authorised by that provision included each of the following—
+
+(a) the purposes of any criminal investigation whatever which is being or may be carried out, whether in the United Kingdom or elsewhere;
+
+(b) the purposes of any criminal proceedings whatever which have been or may be initiated, whether in the United Kingdom or elsewhere;
+
+(c) the purposes of the initiation or bringing to an end of any such investigation or proceedings;
+
+(d) the purpose of facilitating a determination of whether any such investigation or proceedings should be initiated or brought to an end.
+
+(3) The Treasury may by order made by statutory instrument add any provision contained in any subordinate legislation to the provisions to which this section applies.
+
+(4) The Treasury shall not make an order under subsection (3) unless a draft of it has been laid before Parliament and approved by a resolution of each House.
+
+(5) No disclosure of information shall be made by virtue of this section unless the public authority by which the disclosure is made is satisfied that the making of the disclosure is proportionate to what is sought to be achieved by it.
+
+(6) Nothing in this section shall be taken to prejudice any power to disclose information which exists apart from this section.
+
+(7) The information that may be disclosed by virtue of this section includes information obtained before the commencement of this section.
+
+### 18 Restriction on disclosure of information for overseas purposes
+
+(1) Subject to subsections (2) and (3), the Secretary of State may give a direction which—
+
+(a) specifies any overseas proceedings or any description of overseas proceedings; and
+
+(b) prohibits the making of any relevant disclosure for the purposes of those proceedings or, as the case may be, of proceedings of that description.
+
+(2) In subsection (1) the reference, in relation to a direction, to a relevant disclosure is a reference to a disclosure authorised by any of the provisions to which section 17 applies which—
+
+(a) is made for a purpose mentioned in subsection (2)(a) to (d) of that section; and
+
+(b) is a disclosure of any such information as is described in the direction.
+
+(3) The Secretary of State shall not give a direction under this section unless it appears to him that the overseas proceedings in question, or that overseas proceedings of the description in question, relate or would relate—
+
+(a) to a matter in respect of which it would be more appropriate for any jurisdiction or investigation to be exercised or carried out by a court or other authority of the United Kingdom, or of a particular part of the United Kingdom;
+
+(b) to a matter in respect of which it would be more appropriate for any jurisdiction or investigation to be exercised or carried out by a court or other authority of a third country; or
+
+(c) to a matter that would fall within paragraph (a) or (b)—
+
+(i) if it were appropriate for there to be any exercise of jurisdiction or investigation at all; and
+
+(ii) if (where one does not exist) a court or other authority with the necessary jurisdiction or functions existed in the United Kingdom, in the part of the United Kingdom in question or, as the case may be, in the third country in question.
+
+(4) A direction under this section shall not have the effect of prohibiting—
+
+(a) the making of any disclosure by a Minister of the Crown or by the Treasury; or
+
+(b) the making of any disclosure in pursuance of [[^F7][[^F8]an assimilated] obligation].
+
+(5) A direction under this section—
+
+(a) may prohibit the making of disclosures absolutely or in such cases, or subject to such conditions as to consent or otherwise, as may be specified in it; and
+
+(b) must be published or otherwise issued by the Secretary of State in such manner as he considers appropriate for bringing it to the attention of persons likely to be affected by it.
+
+(6) A person who, knowing of any direction under this section, discloses any information in contravention of that direction shall be guilty of an offence and liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine or to both;
+
+(b) on summary conviction, to imprisonment for a term not exceeding three months or to a fine not exceeding the statutory maximum or to both.
+
+(7) The following are overseas proceedings for the purposes of this section—
+
+(a) criminal proceedings which are taking place, or will or may take place, in a country or territory outside the United Kingdom;
+
+(b) a criminal investigation which is being, or will or may be, conducted by an authority of any such country or territory.
+
+(8) References in this section, in relation to any proceedings or investigation, to a third country are references to any country or territory outside the United Kingdom which is not the country or territory where the proceedings are taking place, or will or may take place or, as the case may be, is not the country or territory of the authority which is conducting the investigation, or which will or may conduct it.
+
+(9) In this section “court” includes a tribunal of any description.
+
+### 19 Disclosure of information held by revenue departments
+
+(1) This section applies to information which is held by or on behalf of the Commissioners of Inland Revenue or by or on behalf of the Commissioners of Customs and Excise, including information obtained before the coming into force of this section.
+
+(2) No obligation of secrecy imposed by statute or otherwise prevents the disclosure, in accordance with the following provisions of this section, of information to which this section applies if the disclosure is made—
+
+[^F9]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) for the purposes of any criminal investigation whatever which is being or may be carried out, whether in the United Kingdom or elsewhere;
+
+(c) for the purposes of any criminal proceedings whatever which have been or may be initiated, whether in the United Kingdom or elsewhere;
+
+(d) for the purposes of the initiation or bringing to an end of any such investigation or proceedings; or
+
+(e) for the purpose of facilitating a determination of whether any such investigation or proceedings should be initiated or brought to an end.
+
+(3) No disclosure of information to which this section applies shall be made by virtue of this section unless the person by whom the disclosure is made is satisfied that the making of the disclosure is proportionate to what is sought to be achieved by it.
+
+(4) Information to which this section applies shall not be disclosed by virtue of this section except by the Commissioners by or on whose behalf it is held or with their authority.
+
+(5) Information obtained by means of a disclosure authorised by subsection (2) shall not be further disclosed except—
+
+(a) for a purpose mentioned in that subsection; and
+
+(b) with the consent of the Commissioners by whom or with whose authority it was initially disclosed;
+
+and information so obtained otherwise than by or on behalf of any of the intelligence services shall not be further disclosed (with or without such consent) to any of those services, or to any person acting on behalf of any of those services, except for a purpose mentioned in paragraphs (b) to (e) of that subsection.
+
+(6) A consent for the purposes of subsection (5) may be given either in relation to a particular disclosure or in relation to disclosures made in such circumstances as may be specified or described in the consent.
+
+(7) Nothing in this section authorises the making of any disclosure which is prohibited by any provision of [[^F10]the data protection legislation] .
+
+(8) References in this section to information which is held on behalf of the Commissioners of Inland Revenue or of the Commissioners of Customs and Excise include references to information which—
+
+(a) is held by a person who provides services to the Commissioners of Inland Revenue or, as the case may be, to the Commissioners of Customs and Excise; and
+
+(b) is held by that person in connection with the provision of those services.
+
+(9) In this section[[^F11]—
+
+- “the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);]
+- “intelligence service” has the same meaning as in the Regulation of Investigatory Powers Act 2000 (c. 23).
+
+(10) Nothing in this section shall be taken to prejudice any power to disclose information which exists apart from this section.
+
+### 20 Interpretation of Part 3
+
+(1) In this Part—
+
+- “criminal investigation” means an investigation of any criminal conduct, including an investigation of alleged or suspected criminal conduct and an investigation of whether criminal conduct has taken place;
+
+- “information” includes—
+
+  - (a) documents; and
+  - (b) in relation to a disclosure authorised by a provision to which section 17 applies, anything that falls to be treated as information for the purposes of that provision;
+
+- “public authority” has the same meaning as in section 6 of the Human Rights Act 1998 (c. 42); and
+
+- “subordinate legislation” has the same meaning as in the Interpretation Act 1978 (c. 30).
+
+(2) Proceedings outside the United Kingdom shall not be taken to be criminal proceedings for the purposes of this Part unless the conduct with which the defendant in those proceedings is charged is criminal conduct or conduct which, to a substantial extent, consists of criminal conduct.
+
+(3) In this section—
+
+- “conduct” includes acts, omissions and statements; and
+
+- “criminal conduct” means any conduct which—
+
+  - (a) constitutes one or more criminal offences under the law of a part of the United Kingdom; or
+  - (b) is, or corresponds to, conduct which, if it all took place in a particular part of the United Kingdom, would constitute one or more offences under the law of that part of the United Kingdom.
+
+## Part 4 — Immigration and Asylum
+
+### Suspected international terrorists
+
+#### 21 Suspected international terrorist: certification
+
+[^F12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 22 Deportation, removal, &c.
+
+[^F13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 23 Detention
+
+[^F14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 24 Bail
+
+[^F15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 25 Certification: appeal
+
+[^F16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 26 Certification: review
+
+[^F17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 27 Appeal and review: supplementary
+
+[^F18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 28 Review of sections 21 to 23
+
+[^F19]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 29 Duration of sections 21 to 23
+
+[^F20]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 30 Legal proceedings: derogation
+
+[^F21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 31 Interpretation
+
+[^F22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 32 Channel Islands and Isle of Man
+
+[^F23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Refugee Convention
+
+#### 33 Certificate that Convention does not apply
+
+[^F24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 34 Construction
+
+(1) Articles 1(F) and 33(2) of the Refugee Convention (exclusions: war criminals, national security, &c.) shall not be taken to require consideration of the gravity of—
+
+(a) events or fear by virtue of which Article 1(A) would or might apply to a person if Article 1(F) did not apply, or
+
+(b) a threat by reason of which Article 33(1) would or might apply to a person if Article 33(2) did not apply.
+
+(2) In this section “the Refugee Convention” means the Convention relating to the Status of Refugees done at Geneva on 28th July 1951 and the Protocol to the Convention.
+
+### Special Immigration Appeals Commission
+
+#### 35 Status of Commission
+
+At the end of section 1 of the Special Immigration Appeals Commission Act 1997 (c. 68) insert—
+
+> (3) The Commission shall be a superior court of record.
+>
+> (4) A decision of the Commission shall be questioned in legal proceedings only in accordance with—
+>
+> (a) section 7, or
+>
+> (b) section 30(5)(a) of the Anti-terrorism, Crime and Security Act 2001 (derogation).
+
+### Fingerprints
+
+#### [^F25]36 Destruction of fingerprints
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 5 — Race and Religion
+
+### [^F26]37 Meaning of racial hatred
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F27]38 Meaning of fear and hatred
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 39 Religiously aggravated offences
+
+(1) Part 2 of the Crime and Disorder Act 1998 (c. 37) is amended as set out in subsections (2) to (6).
+
+(2) In the cross-heading preceding section 28 for “Racially-aggravated” substitute “ Racially or religiously aggravated ”.
+
+(3) In section 28 (meaning of racially aggravated)—
+
+(a) in the sidenote and subsection (1) for “racially aggravated” substitute “ racially or religiously aggravated ”;
+
+(b) in subsections (1) and (2) for “racial group” substitute “ racial or religious group ”;
+
+(c) in subsection (3) for the words from “on” to the end of the subsection substitute “ on any other factor not mentioned in that paragraph. ”
+
+(4) In section 28 after subsection (4) insert—
+
+> (5) In this section “religious group” means a group of persons defined by reference to religious belief or lack of religious belief.
+
+(5) In each of the provisions listed in subsection (6)—
+
+(a) in the sidenote for “Racially-aggravated” substitute “ Racially or religiously aggravated ”;
+
+(b) in subsection (1) for “racially aggravated” substitute “ racially or religiously aggravated ”.
+
+(6) The provisions are—
+
+(a) section 29 (assaults);
+
+(b) section 30 (criminal damage);
+
+(c) section 31 (public order offences);
+
+(d) section 32 (harassment etc.).
+
+(7) [^F28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) [^F29]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 40 Racial hatred offences: penalties
+
+In section 27(3) of the Public Order Act 1986 (c. 64) (penalties for racial hatred offences) for “two years” substitute “ seven years ”.
+
+### 41 Hatred and fear offences: penalties
+
+In Article 16(1) of the Public Order (Northern Ireland) Order 1987 (S.I. 1987/ 463 (N.I. 7)) (penalties for offences involving stirring up hatred or arousing fear) for “2 years” substitute “ 7 years ”.
+
+### 42 Saving
+
+This Part does not apply to anything done before it comes into force.
+
+## Part 6 — Weapons of Mass Destruction
+
+### Amendment of the Biological Weapons Act 1974 and the Chemical Weapons Act 1996
+
+#### 43 Transfers of biological agents and toxins
+
+In section 1 of the Biological Weapons Act 1974 (c. 6) (restriction on development etc. of certain biological agents and toxins and of biological weapons), after subsection (1) insert—
+
+> (1A) A person shall not—
+>
+> (a) transfer any biological agent or toxin to another person or enter into an agreement to do so, or
+>
+> (b) make arrangements under which another person transfers any biological agent or toxin or enters into an agreement with a third person to do so,
+>
+> if the biological agent or toxin is likely to be kept or used (whether by the transferee or any other person) otherwise than for prophylactic, protective or other peaceful purposes and he knows or has reason to believe that that is the case.
+
+#### 44 Extraterritorial application of biological weapons offences
+
+After section 1 of the Biological Weapons Act 1974 insert—
+
+> **1A Extraterritorial application of section 1**
+>
+> (1) Section 1 applies to acts done outside the United Kingdom, but only if they are done by a United Kingdom person.
+>
+> (2) Proceedings for an offence committed under section 1 outside the United Kingdom may be taken, and the offence may for incidental purposes be treated as having been committed, in any place in the United Kingdom.
+>
+> (3) Her Majesty may by Order in Council extend the application of section 1, so far as it applies to acts done outside the United Kingdom, to bodies incorporated under the law of any of the Channel Islands, the Isle of Man or any colony.
+>
+> (4) In this section “United Kingdom person” means a United Kingdom national, a Scottish partnership or a body incorporated under the law of a part of the United Kingdom.
+>
+> (5) For this purpose a United Kingdom national is an individual who is—
+>
+> (a) a British citizen, a British Dependent Territories citizen, a British National (Overseas) or a British Overseas citizen;
+>
+> (b) a person who under the British Nationality Act 1981 (c. 61) is a British subject; or
+>
+> (c) a British protected person within the meaning of that Act.
+>
+> (6) Nothing in this section affects any criminal liability arising otherwise than under this section.
+
+#### 45 Customs and Excise prosecutions for biological weapons offences
+
+Before section 2 of the Biological Weapons Act 1974 (c. 6) insert—
+
+> **1B Customs and Excise prosecutions**
+>
+> (1) Proceedings for a biological weapons offence may be instituted by order of the Commissioners of Customs and Excise if it appears to them that the offence has involved—
+>
+> (a) the development or production outside the United Kingdom of any thing mentioned in section 1(1)(a) or (b) above;
+>
+> (b) the movement of any such thing into or out of any country or territory;
+>
+> (c) any proposal or attempt to do anything falling within paragraph (a) or (b) above.
+>
+> (2) In this section “biological weapons offence” means an offence under section 1 of this Act or section 50 of the Anti-terrorism, Crime and Security Act 2001 (including an offence of aiding, abetting, counselling, procuring or inciting the commission of, or attempting or conspiring to commit, such an offence).
+>
+> (3) Any proceedings for an offence which are instituted under subsection (1) above shall be commenced in the name of an officer, but may be continued by another officer.
+>
+> (4) Where the Commissioners of Customs and Excise investigate, or propose to investigate, any matter with a view to determining—
+>
+> (a) whether there are grounds for believing that a biological weapons offence has been committed, or
+>
+> (b) whether a person should be prosecuted for such an offence,
+>
+> that matter shall be treated as an assigned matter within the meaning of the Customs and Excise Management Act 1979.
+>
+> (5) Nothing in this section affects any power of any person (including any officer) apart from this section.
+>
+> (6) In this section “officer” means a person commissioned by the Commissioners of Customs and Excise.
+>
+> (7) This section does not apply to the institution of proceedings in Scotland.
+
+#### 46 Customs and Excise prosecutions for chemical weapons offences
+
+Before section 31 of the Chemical Weapons Act 1996 (c. 6) insert—
+
+> **30A Customs and Excise prosecutions**
+>
+> (1) Proceedings for a chemical weapons offence may be instituted by order of the Commissioners of Customs and Excise if it appears to them that the offence has involved—
+>
+> (a) the development or production outside the United Kingdom of a chemical weapon;
+>
+> (b) the movement of a chemical weapon into or out of any country or territory;
+>
+> (c) any proposal or attempt to do anything falling within paragraph (a) or (b).
+>
+> (2) In this section “chemical weapons offence” means an offence under section 2 above or section 50 of the Anti-terrorism, Crime and Security Act 2001 (including an offence of aiding, abetting, counselling, procuring or inciting the commission of, or attempting or conspiring to commit, such an offence).
+>
+> (3) Any proceedings for an offence which are instituted under subsection (1) shall be commenced in the name of an officer, but may be continued by another officer.
+>
+> (4) Where the Commissioners of Customs and Excise investigate, or propose to investigate, any matter with a view to determining—
+>
+> (a) whether there are grounds for believing that a chemical weapons offence has been committed, or
+>
+> (b) whether a person should be prosecuted for such an offence,
+>
+> that matter shall be treated as an assigned matter within the meaning of the Customs and Excise Management Act 1979.
+>
+> (5) Nothing in this section affects any power of any person (including any officer) apart from this section.
+>
+> (6) In this section “officer” means a person commissioned by the Commissioners of Customs and Excise.
+>
+> (7) This section does not apply to the institution of proceedings in Scotland.
+
+### Nuclear weapons
+
+#### 47 Use etc. of nuclear weapons
+
+(1) A person who—
+
+(a) knowingly causes a nuclear weapon explosion;
+
+(b) develops or produces, or participates in the development or production of, a nuclear weapon;
+
+(c) has a nuclear weapon in his possession;
+
+(d) participates in the transfer of a nuclear weapon; or
+
+(e) engages in military preparations, or in preparations of a military nature, intending to use, or threaten to use, a nuclear weapon,
+
+is guilty of an offence.
+
+(2) Subsection (1) has effect subject to the exceptions and defences in sections 48 and 49.
+
+(3) For the purposes of subsection (1)(b) a person participates in the development or production of a nuclear weapon if he does any act which—
+
+(a) facilitates the development by another of the capability to produce or use a nuclear weapon, or
+
+(b) facilitates the making by another of a nuclear weapon,
+
+knowing or having reason to believe that his act has (or will have) that effect.
+
+(4) For the purposes of subsection (1)(d) a person participates in the transfer of a nuclear weapon if—
+
+(a) he buys or otherwise acquires it or agrees with another to do so;
+
+(b) he sells or otherwise disposes of it or agrees with another to do so; or
+
+(c) he makes arrangements under which another person either acquires or disposes of it or agrees with a third person to do so.
+
+(5) A person guilty of an offence under this section is liable on conviction on indictment to imprisonment for life.
+
+(6) In this section “nuclear weapon” includes a nuclear explosive device that is not intended for use as a weapon.
+
+(7) This section applies to acts done outside the United Kingdom, but only if they are done by a United Kingdom person.
+
+(8) Nothing in subsection (7) affects any criminal liability arising otherwise than under that subsection.
+
+(9) Paragraph (a) of subsection (1) shall cease to have effect on the coming into force of the Nuclear Explosions (Prohibition and Inspections) Act 1998 (c. 7).
+
+#### 48 Exceptions
+
+(1) Nothing in section 47 applies—
+
+(a) to an act which is authorised under subsection (2); or
+
+(b) to an act done in the course of an armed conflict.
+
+(2) The Secretary of State may—
+
+(a) authorise any act which would otherwise contravene section 47 in such manner and on such terms as he thinks fit; and
+
+(b) withdraw or vary any authorisation given under this subsection.
+
+(3) Any question arising in proceedings for an offence under section 47 as to whether anything was done in the course of an armed conflict shall be determined by the Secretary of State.
+
+(4) A certificate purporting to set out any such determination and to be signed by the Secretary of State shall be received in evidence in any such proceedings and shall be presumed to be so signed unless the contrary is shown.
+
+#### 49 Defences
+
+(1) In proceedings for an offence under section 47(1)(c) or (d) relating to an object it is a defence for the accused to show that he did not know and had no reason to believe that the object was a nuclear weapon.
+
+(2) But he shall be taken to have shown that fact if—
+
+(a) sufficient evidence is adduced to raise an issue with respect to it; and
+
+(b) the contrary is not proved by the prosecution beyond reasonable doubt.
+
+(3) In proceedings for such an offence it is also a defence for the accused to show that he knew or believed that the object was a nuclear weapon but, as soon as reasonably practicable after he first knew or believed that fact, he took all reasonable steps to inform the Secretary of State or a constable of his knowledge or belief.
+
+### Assisting or inducing weapons-related acts overseas
+
+#### 50 Assisting or inducing certain weapons-related acts overseas
+
+(1) A person who aids, abets, counsels or procures, or incites, a person who is not a United Kingdom person to do a relevant act outside the United Kingdom is guilty of an offence.
+
+(2) For this purpose a relevant act is an act that, if done by a United Kingdom person, would contravene any of the following provisions—
+
+(a) section 1 of the Biological Weapons Act 1974 (offences relating to biological agents and toxins);
+
+(b) section 2 of the Chemical Weapons Act 1996 (offences relating to chemical weapons); or
+
+(c) section 47 above (offences relating to nuclear weapons).
+
+(3) Nothing in this section applies to an act mentioned in subsection (1) which—
+
+(a) relates to a relevant act which would contravene section 47; and
+
+(b) is authorised by the Secretary of State;
+
+and section 48(2) applies for the purpose of authorising acts that would otherwise constitute an offence under this section.
+
+(4) A person accused of an offence under this section in relation to a relevant act which would contravene a provision mentioned in subsection (2) may raise any defence which would be open to a person accused of the corresponding offence ancillary to an offence under that provision.
+
+(5) A person convicted of an offence under this section is liable on conviction on indictment to imprisonment for life.
+
+(6) This section applies to acts done outside the United Kingdom, but only if they are done by a United Kingdom person.
+
+(7) Nothing in this section prejudices any criminal liability existing apart from this section.
+
+### Supplemental provisions relating to sections 47 and 50
+
+#### 51 Extraterritorial application
+
+(1) Proceedings for an offence committed under section 47 or 50 outside the United Kingdom may be taken, and the offence may for incidental purposes be treated as having been committed, in any part of the United Kingdom.
+
+(2) Her Majesty may by Order in Council extend the application of section 47 or 50, so far as it applies to acts done outside the United Kingdom, to bodies incorporated under the law of any of the Channel Islands, the Isle of Man or any colony.
+
+#### 52 Powers of entry
+
+(1) If—
+
+(a) a justice of the peace is satisfied on information on oath that there are reasonable grounds for suspecting that evidence of the commission of an offence under section 47 or 50 is to be found on any premises; or
+
+(b) in Scotland the sheriff is satisfied by evidence on oath as mentioned in paragraph (a),
+
+he may issue a warrant authorising an authorised officer to enter the premises, if necessary by force, at any time within one month from the time of the issue of the warrant and to search them.
+
+(2) The powers of a person who enters the premises under the authority of the warrant include power—
+
+(a) to take with him such other persons and such equipment as appear to him to be necessary;
+
+(b) to inspect, seize and retain any substance, equipment or document found on the premises;
+
+(c) to require any document or other information which is held in electronic form and is accessible from the premises to be produced in a form—
+
+(i) in which he can read and copy it; or
+
+(ii) from which it can readily be produced in a form in which he can read and copy it;
+
+(d) to copy any document which he has reasonable cause to believe may be required as evidence for the purposes of proceedings in respect of an offence under section 47 or 50.
+
+(3) A constable who enters premises under the authority of a warrant or by virtue of subsection (2)(a) may—
+
+(a) give such assistance as an authorised officer may request for the purpose of facilitating the exercise of any power under this section; and
+
+(b) search or cause to be searched any person on the premises who the constable has reasonable cause to believe may have in his possession any document or other thing which may be required as evidence for the purposes of proceedings in respect of an offence under section 47 or 50.
+
+(4) No constable shall search a person of the opposite sex.
+
+(5) The powers conferred by a warrant under this section shall only be exercisable, if the warrant so provides, in the presence of a constable.
+
+(6) A person who—
+
+(a) wilfully obstructs an authorised officer in the exercise of a power conferred by a warrant under this section; or
+
+(b) fails without reasonable excuse to comply with a reasonable request made by an authorised officer or a constable for the purpose of facilitating the exercise of such a power,
+
+is guilty of an offence.
+
+(7) A person guilty of an offence under subsection (6) is liable—
+
+(a) on summary conviction, to a fine not exceeding the statutory maximum; and
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine (or both).
+
+(8) In this section “authorised officer” means an authorised officer of the Secretary of State.
+
+#### 53 [[^F30]Revenue and Customs prosecutions]
+
+(1) Proceedings for a nuclear weapons offence may be instituted [[^F31]by [[^F32]the Director of Public Prosecutions] or by order of the Commissioners for Her Majesty’s Revenue and Customs][[^F33]if it appears to the Director or to the Commissioners] that the offence has involved—
+
+(a) the development or production outside the United Kingdom of a nuclear weapon;
+
+(b) the movement of a nuclear weapon into or out of any country or territory;
+
+(c) any proposal or attempt to do anything falling within paragraph (a) or (b).
+
+(2) In this section “nuclear weapons offence” means an offence under section 47 or 50 (including an offence of aiding, abetting, counselling, procuring or inciting the commission of, or attempting or conspiring to commit, such an offence).
+
+(3) Any proceedings for an offence which are instituted [[^F34]by order of the Commissioners] under subsection (1) shall be commenced in the name of an officer [[^F35]of Revenue and Customs] , but may be continued by another officer.
+
+(4) Where the Commissioners [^F36]. . . investigate, or propose to investigate, any matter with a view to determining—
+
+(a) whether there are grounds for believing that a nuclear weapons offence has been committed, or
+
+(b) whether a person should be prosecuted for such an offence,
+
+that matter shall be treated as an assigned matter within the meaning of the Customs and Excise Management Act 1979 (c. 2).
+
+(5) Nothing in this section affects any powers of any person (including any officer) apart from this section.
+
+(6) [^F37]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) This section does not apply to the institution of proceedings in Scotland.
+
+#### 54 Offences
+
+(1) A person who knowingly or recklessly makes a false or misleading statement for the purpose of obtaining (or opposing the variation or withdrawal of) authorisation for the purposes of section 47 or 50 is guilty of an offence.
+
+(2) A person guilty of an offence under subsection (1) is liable—
+
+(a) on summary conviction, to a fine of an amount not exceeding the statutory maximum;
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine (or both).
+
+(3) Where an offence under section 47, 50 or subsection (1) above committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
+
+(a) a director, manager, secretary or other similar officer of the body corporate; or
+
+(b) any person who was purporting to act in any such capacity,
+
+he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(4) In subsection (3) “director”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate.
+
+#### 55 Consent to prosecutions
+
+Proceedings for an offence under section 47 or 50 shall not be instituted—
+
+(a) in England and Wales, except by or with the consent of the Attorney General;
+
+(b) in Northern Ireland, except by or with the consent of the [[^F38]Advocate General for Northern Ireland] .
+
+#### 56 Interpretation of Part 6
+
+(1) In this Part “United Kingdom person” means a United Kingdom national, a Scottish partnership or a body incorporated under the law of a part of the United Kingdom.
+
+(2) For this purpose a United Kingdom national is an individual who is—
+
+(a) a British citizen, a British Dependent Territories citizen, a British National (Overseas) or a British Overseas citizen;
+
+(b) a person who under the British Nationality Act 1981 (c. 61) is a British subject; or
+
+(c) a British protected person within the meaning of that Act.
+
+### Extension of Part 6 to dependencies
+
+#### 57 Power to extend Part 6 to dependencies
+
+Her Majesty may by Order in Council direct that any of the provisions of this Part shall extend, with such exceptions and modifications as appear to Her Majesty to be appropriate, to any of the Channel Islands, the Isle of Man or to any British overseas territory.
+
+## Part 7 — Security of Pathogens and Toxins
+
+### 58 Pathogens and toxins in relation to which requirements under Part 7 apply
+
+(1) Schedule 5 (which lists the pathogens and toxins in relation to which the requirements of this Part apply) has effect.
+
+(2) The Secretary of State may by order modify any provision of Schedule 5 (including the notes).
+
+(3) The Secretary of State may not add any pathogen or toxin to that Schedule unless he is satisfied that the pathogen or toxin could be used in an act of terrorism to endanger life or cause serious harm to human health.
+
+(4) In this Part “dangerous substance” means—
+
+(a) anything which consists of or includes a substance for the time being mentioned in Schedule 5; or
+
+(b) anything which is infected with or otherwise carries any such substance.
+
+(5) But something otherwise falling within subsection (4) is not to be regarded as a dangerous substance if—
+
+(a) it satisfies prescribed conditions; or
+
+(b) it is kept or used in prescribed circumstances.
+
+### 59 Duty to notify Secretary of State before keeping or using dangerous substances
+
+(1) The occupier of any premises must give a notice to the Secretary of State before any dangerous substance is kept or used there.
+
+(2) Subsection (1) does not apply to premises in respect of which a notice has previously been given under that subsection (unless it has been withdrawn).
+
+(3) The occupier of any premises in respect of which a notice has been given may withdraw the notice if no dangerous substance is kept or used there.
+
+(4) A notice under this section must—
+
+(a) identify the premises in which the substance is kept or used;
+
+(b) identify any building or site of which the premises form part; and
+
+(c) contain such other particulars (if any) as may be prescribed.
+
+(5) The occupier of any premises in which any dangerous substance is kept or used on the day on which this section comes into force must give a notice under this section before the end of the period of one month beginning with that day.
+
+(6) Where—
+
+(a) a substance which is kept or used in any premises becomes a dangerous substance by virtue of a modification of Schedule 5, but
+
+(b) no other dangerous substance is kept or used there,
+
+the occupier of the premises must give a notice under this section before the end of the period of one month beginning with the day on which that modification comes into force.
+
+### 60 Information about security of dangerous substances
+
+(1) A constable may give to the occupier of any relevant premises a notice requiring him to give the chief officer of police such information as is specified or described in the notice by a time so specified and in a form and manner so specified.
+
+(2) The required information must relate to—
+
+(a) any dangerous substance kept or used in the premises; or
+
+(b) the measures taken (whether by the occupier or any other person) to ensure the security of any such substance.
+
+(3) In this Part references to measures taken to ensure the security of any dangerous substance kept or used in any relevant premises include—
+
+(a) measures taken to ensure the security of any building or site of which the premises form part; and
+
+(b) measures taken for the purpose of ensuring access to the substance is given only to those whose activities require access and only in circumstances that ensure the security of the substance.
+
+(4) In this Part “relevant premises” means any premises—
+
+(a) in which any dangerous substance is kept or used, or
+
+(b) in respect of which a notice under section 59 is in force.
+
+### 61 Information about persons with access to dangerous substances
+
+(1) A police officer of at least the rank of inspector may give to the occupier of any relevant premises a notice requiring him to give the chief officer of police a list of—
+
+(a) each person who has access to any dangerous substance kept or used there;
+
+(b) each person who, in such circumstances as are specified or described in the notice, has access to such part of the premises as is so specified or described;
+
+(c) each person who, in such circumstances as are specified or described in the notice, has access to the premises; or
+
+(d) each person who, in such circumstances as are specified or described in the notice, has access to any building or site of which the premises form part.
+
+(2) A list under subsection (1) must be given before the end of the period of one month beginning with the day on which the notice is given.
+
+(3) Where a list under subsection (1) is given, the occupier of the premises for the time being—
+
+(a) must secure that only the persons mentioned in the list are given the access identified in the list relating to them; but
+
+(b) may give a supplementary list to the chief officer of police of other persons to whom it is proposed to give access.
+
+(4) Where a supplementary list is given under subsection (3)(b), the occupier of the premises for the time being must secure that persons mentioned in that list do not have the proposed access relating to them until the end of the period of 30 days beginning with the day on which that list is given.
+
+(5) The chief officer of police may direct that a person may have such access before the end of that period.
+
+(6) The Secretary of State may by order modify the period mentioned in subsection (4).
+
+(7) Any list under this section must—
+
+(a) identify the access which the person has, or is proposed to have;
+
+(b) state the full name of that person, his date of birth, his address and his nationality; and
+
+(c) contain such other matters (if any) as may be prescribed.
+
+### 62 Directions requiring security measures
+
+(1) A constable may give directions to the occupier of any relevant premises requiring him to take such measures to ensure the security of any dangerous substance kept or used there as are specified or described in the directions by a time so specified.
+
+(2) The directions may—
+
+(a) specify or describe the substances in relation to the security of which the measures relate; and
+
+(b) require the occupier to give a notice to the chief officer of police before any other dangerous substance specified or described in the directions is kept or used in the premises.
+
+### 63 Directions requiring disposal of dangerous substances
+
+(1) Where the Secretary of State has reasonable grounds for believing that adequate measures to ensure the security of any dangerous substance kept or used in any relevant premises are not being taken and are unlikely to be taken, he may give a direction to the occupier of the premises requiring him to dispose of the substance.
+
+(2) The direction must—
+
+(a) specify the manner in which, and time by which, the dangerous substance must be disposed of; or
+
+(b) require the occupier to produce the dangerous substance to a person specified or described in the notice in a manner and by a time so specified for him to dispose of.
+
+### 64 Directions requiring denial of access
+
+(1) The Secretary of State may give directions to the occupier of any relevant premises requiring him to secure that the person identified in the directions—
+
+(a) is not to have access to any dangerous substance kept or used there;
+
+(b) is not to have, in such circumstances (if any) as may be specified or described in the directions, access to such part of the premises as is so specified or described;
+
+(c) is not to have, in such circumstances (if any) as may be specified or described in the directions, access to the premises; or
+
+(d) is not to have, in such circumstances (if any) as may be specified or described in the directions, access to any building or site of which the premises form part.
+
+(2) The directions must be given under the hand of the Secretary of State.
+
+(3) The Secretary of State may not give the directions unless he believes that they are necessary in the interests of national security.
+
+### 65 Powers of entry
+
+(1) A constable may, on giving notice under this section, enter any relevant premises, or any building or site of which the premises form part, at a reasonable time for the purpose of assessing the measures taken to ensure the security of any dangerous substance kept or used in the premises.
+
+(2) The notice must be given to the occupier of the premises, or (as the case may be) the occupier of the building or site of which the premises form part, at least 2 working days before the proposed entry.
+
+(3) The notice must set out the purpose mentioned in subsection (1).
+
+(4) A constable who has entered any premises, building or site by virtue of subsection (1) may for the purpose mentioned in that subsection—
+
+(a) search the premises, building or site;
+
+(b) require any person who appears to the constable to be in charge of the premises, building or site to facilitate any such inspection; and
+
+(c) require any such person to answer any question.
+
+(5) The powers of a constable under this section include power to take with him such other persons as appear to him to be necessary.
+
+### 66 Search warrants
+
+(1) If, in England and Wales or Northern Ireland, on an application made by a constable a justice of the peace is satisfied that there are reasonable grounds for believing—
+
+(a) that a dangerous substance is kept or used in any premises but that no notice under section 59 is in force in respect of the premises, or
+
+(b) that the occupier of any relevant premises is failing to comply with any direction given to him under section 62 or 63,
+
+and that any of the conditions mentioned in subsection (4) apply, he may issue a warrant authorising a constable to enter the premises, if necessary by force, and to search them.
+
+(2) If, in Scotland, on an application made by the procurator fiscal the sheriff is satisfied as mentioned in subsection (1), he may issue a warrant authorising a constable to enter the premises, if necessary by force, and to search them.
+
+(3) A constable may seize and retain anything which he believes is or contains a dangerous substance.
+
+(4) The conditions mentioned in subsection (1) are—
+
+(a) that it is not practicable to communicate with any person entitled to grant entry to the premises;
+
+(b) that it is practicable to communicate with a person entitled to grant entry to the premises but it is not practicable to communicate with any person entitled to grant access to any substance which may be a dangerous substance;
+
+(c) that entry to the premises will not be granted unless a warrant is produced;
+
+(d) that the purpose of a search may be frustrated or seriously prejudiced unless a constable arriving at the premises can secure immediate entry to them.
+
+### 67 Offences
+
+(1) An occupier who fails without reasonable excuse to comply with any duty or direction imposed on him by or under this Part is guilty of an offence.
+
+(2) A person who, in giving any information to a person exercising functions under this Part, knowingly or recklessly makes a statement which is false or misleading in a material particular is guilty of an offence.
+
+(3) A person guilty of an offence under this section is liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding five years or a fine (or both); and
+
+(b) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum (or both).
+
+### 68 Bodies corporate
+
+(1) If an offence under this Part committed by a body corporate is shown to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
+
+(a) any officer, or
+
+(b) any other employee of the body corporate who is in charge of any relevant premises or the access to any dangerous substance kept or used there,
+
+he, as well as the body corporate, is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(2) In this section “officer”, in relation to a body corporate, means—
+
+(a) any director, manager, secretary or other similar officer of the body corporate; or
+
+(b) any person purporting to act in any such capacity.
+
+(3) Where the affairs of a body corporate are managed by its members, this section applies in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+### 69 Partnerships and unincorporated associations
+
+(1) Proceedings for an offence alleged to have been committed by a partnership or an unincorporated association must be brought in the name of the partnership or association (and not in that of any of its members).
+
+(2) A fine imposed on the partnership or association on its conviction of an offence is to be paid out of the funds of the partnership or association.
+
+(3) Rules of court relating to the service of documents are to have effect as if the partnership or association were a body corporate.
+
+(4) In proceedings for an offence brought against the partnership or association—
+
+(a) section 33 of the Criminal Justice Act 1925 (c. 86) and Schedule 3 to the Magistrates’ Courts Act 1980 (c. 43) (procedure) apply as they do in relation to a body corporate;
+
+(b) sections 70 and 143 of the Criminal Procedure (Scotland) Act 1995 (c. 46) (procedure) apply as they do in relation to a body corporate;
+
+(c) section 18 of the Criminal Justice (Northern Ireland) Act 1945 (c. 15 (N.I.)) and Schedule 4 to the Magistrates’ Courts (Northern Ireland) Order 1981 (S.I. 1981/1675 (N.I. 26)) (procedure) apply as they do in relation to a body corporate.
+
+(5) If an offence under this Part committed by a partnership is shown to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
+
+(a) a partner or a person purporting to act as a partner, or
+
+(b) any employee of the partnership who is in charge of any relevant premises or the access to any dangerous substance kept or used there,
+
+he, as well as the partnership, is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(6) If an offence under this Part committed by an unincorporated association is shown to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
+
+(a) any officer, or
+
+(b) any employee of the association who is in charge of any relevant premises or the access to any dangerous substance kept or used there,
+
+he, as well as the association, is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(7) In subsection (6) “officer”, in relation to any association, means—
+
+(a) any officer of the association or any member of its governing body; or
+
+(b) any person purporting to act in such a capacity.
+
+### 70 Denial of access: appeals
+
+(1) There shall be a commission, to be known as the Pathogens Access Appeal Commission.
+
+(2) Any person aggrieved by directions given under section 64 may appeal to the Commission.
+
+(3) The Commission must allow an appeal if it considers that the decision to give the directions was flawed when considered in the light of the principles applicable on an application for judicial review.
+
+(4) A party to any appeal under this section which the Commission has determined may bring a further appeal on a question of law to—
+
+(a) the Court of Appeal, if the first appeal was heard in England and Wales;
+
+(b) the Court of Session, if the first appeal was heard in Scotland; or
+
+(c) the Court of Appeal in Northern Ireland, if the first appeal was heard in Northern Ireland.
+
+(5) An appeal under subsection (4) may be brought only with the permission of—
+
+(a) the Commission; or
+
+(b) where the Commission refuses permission, the court to which the appeal would be brought.
+
+(6) Schedule 6 (constitution of the Commission and procedure) has effect.
+
+### 71 Other appeals
+
+(1) Any person who is required to do any act in response to—
+
+(a) any notice under section 60, or
+
+(b) any directions under section 62 or 63,
+
+may appeal to a magistrates’ court against the requirement on the ground that, having regard to all the circumstances of the case, it is unreasonable to be required to do that act.
+
+(2) An appeal may not be brought after the end of the period of one month beginning with the day on which the notice or directions were given.
+
+(3) If the magistrates’ court allows the appeal, it may—
+
+(a) direct that the required act need not be done; or
+
+(b) make such modification of the requirement as it considers appropriate.
+
+(4) An appeal shall lie to the Crown Court against any decision of the magistrates’ court.
+
+(5) Subsections (1) to (3) apply to Scotland with the substitution for references to the magistrates’ court of references to the sheriff.
+
+(6) The appeal to the sheriff is by way of summary application.
+
+(7) A further appeal shall lie—
+
+(a) to the sheriff principal from the decision of the sheriff; and
+
+(b) with the leave of the sheriff principal, to the Court of Session from the decision of the sheriff principal.
+
+(8) In the application of this section to Northern Ireland references to a magistrates’ court are to a court of summary jurisdiction.
+
+### 72 Giving of directions or notices
+
+Any direction or notice under this Part may be given by post.
+
+### 73 Orders and regulations
+
+(1) The power to make an order or regulations under this Part is exercisable by statutory instrument.
+
+(2) A statutory instrument containing an order under section 58 shall not be made unless a draft of it has been laid before and approved by a resolution of each House of Parliament.
+
+(3) A statutory instrument containing—
+
+(a) an order under section 61, or
+
+(b) regulations under section 58, 59 or 61,
+
+shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 74 Interpretation of Part 7
+
+(1) In this Part—
+
+- “act of terrorism” has the same meaning as in the Terrorism Act 2000 (c. 11);
+
+- “chief officer of police” means—
+
+  - (a) in relation to any premises in [[^F39]England and Wales] , the chief officer of police for the area in which the premises are situated; and
+  - (aa) [[^F40]in relation to any premises in Scotland, the chief constable of the Police Service of Scotland; and]
+  - (b) in relation to any premises in Northern Ireland, the Chief Constable of the Police Service of Northern Ireland;
+
+- “dangerous substance” has the meaning given in section 58;
+
+- “direction” means a direction in writing;
+
+- “notice” means a notice in writing;
+
+- “occupier” includes a partnership or unincorporated association and, in relation to premises that are unoccupied, means any person entitled to occupy the premises;
+
+- “prescribed” means prescribed in regulations made by the Secretary of State; and
+
+- “relevant premises” has the meaning given in section 60.
+
+(2) In this Part references to measures taken to ensure the security of any dangerous substance are to be construed in accordance with section 60.
+
+### 75 Power to extend Part 7 to animal or plant pathogens, pests or toxic chemicals
+
+(1) The Secretary of State may, in relation to anything to which this section applies, make an order applying, or making provision corresponding to, any provision of this Part, with or without modifications.
+
+(2) This section applies to—
+
+(a) toxic chemicals (within the meaning of the Chemical Weapons Act 1996 (c. 6));
+
+(b) animal pathogens;
+
+(c) plant pathogens; and
+
+(d) pests.
+
+(3) The power under this section may be exercised in relation to any chemical only if the Secretary of State is satisfied that the chemical could be used in an act of terrorism to endanger life or cause serious harm to human health.
+
+(4) The power under this section may be exercised in relation to any pathogen or pest only if the Secretary of State is satisfied that there is a risk that the pathogen or pest is of a description that could be used in an act of terrorism to cause—
+
+(a) widespread damage to property;
+
+(b) significant disruption to the public; or
+
+(c) significant alarm to the public.
+
+(5) An order under this section may—
+
+(a) provide for any reference in the order to an instrument or other document to take effect as a reference to that instrument or document as revised or re-issued from time to time;
+
+(b) make different provision for different purposes; and
+
+(c) make such incidental, supplementary and transitional provision as the Secretary of State thinks fit.
+
+(6) A statutory instrument containing an order under this section shall not be made unless a draft of it has been laid before and approved by a resolution of each House of Parliament.
+
+## Part 8 — Security of Nuclear Industry
+
+### 76 Atomic Energy Authority special constables
+
+[^F41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 77 Regulation of security of civil nuclear industry
+
+(1) The Secretary of State may make regulations for the purpose of ensuring the security of—
+
+(a) nuclear sites and other nuclear premises;
+
+(b) nuclear material used or stored on nuclear sites or other nuclear premises and equipment or software used or stored on such sites or premises in connection with activities involving nuclear material;
+
+(c) other radioactive material used or stored on nuclear sites and equipment or software used or stored on nuclear sites in connection with activities involving other radioactive material;
+
+[[^F42](cza) nuclear construction sites and equipment used or stored on such sites;]
+
+[[^F43](ca) equipment or software in the United Kingdom which—
+
+(i) is capable of being used in, or in connection with, the enrichment of uranium; and
+
+(ii) is in the possession or control of a person involved in uranium enrichment activities;]
+
+[[^F44](d) sensitive nuclear information which is in the possession or control in the United Kingdom of—
+
+(i) a person who is involved in activities on or in relation to a nuclear site or nuclear premises or who is proposing or likely to become so involved;
+
+(ii) a person involved in uranium enrichment activities; or
+
+(iii) a person who is storing, transporting or transmitting the information for or on behalf of a person falling within sub-paragraph (i) or (ii);]
+
+(e) nuclear material which is being (or is expected to be)—
+
+(i) transported within the United Kingdom or its territorial sea;
+
+(ii) transported (outside the United Kingdom and its territorial sea) to or from any nuclear site or other nuclear premises in the United Kingdom; or
+
+(iii) carried on board a United Kingdom ship;
+
+(f) information relating to the security of anything mentioned in paragraphs (a) to (e).
+
+(2) The regulations may, in particular—
+
+(a) require a person to produce for the approval of the Secretary of State a plan for ensuring the security of anything mentioned in subsection (1) and to comply with the plan as approved by the Secretary of State;
+
+(b) require compliance with any directions given by the Secretary of State;
+
+(c) impose requirements in relation to any activities by reference to the approval of the Secretary of State;
+
+(d) create summary offences or offences triable either way;
+
+(e) make provision for the purposes mentioned in subsection (1) corresponding to any provision which may be made for the general purposes of Part 1 of the Health and Safety at Work etc. Act 1974 (c. 37) by virtue of section 15(2), (3)(c) and (4) to (8) of that Act (health and safety regulations);
+
+(f) make provision corresponding to any provision which may be made by virtue of section 43(2) to (5), (8) and (9) of that Act (fees), in connection with the performance by or on behalf of the Secretary of State or any other specified body or person of functions under the regulations; and
+
+(g) apply (with or without modifications), or make provision corresponding to, any provision contained in sections 19 to 42 and 44 to 47 of that Act.
+
+(3) An offence under the regulations may be made punishable—
+
+(a) in the case of an offence triable either way—
+
+(i) on conviction on indictment, with imprisonment for a term not exceeding two years or a fine (or both); and
+
+(ii) on summary conviction, with imprisonment for a term [[^F45]not exceeding 12 months (in [^F46]... or Scotland) [[^F47]or the general limit in a magistrates’ court (in England and Wales)] or 6 months (in Northern Ireland), or a fine (in England and Wales) or a fine not exceeding £20,000 (in Scotland and Northern Ireland), or both]; or
+
+(b) in the case of a summary offence, with imprisonment for a term not exceeding six months or a fine not exceeding level 5 on the standard scale (or both).
+
+[[^F48](3A) In relation to an offence committed before [[^F49]2 May 2022], the reference to [[^F50]the general limit in a magistrates’ court] in subsection (3)(a)(ii), as it has effect in England and Wales, is to be read as a reference to 6 months.]
+
+(4) The regulations may make—
+
+(a) provision applying to acts done outside the United Kingdom by United Kingdom persons;
+
+(b) different provision for different purposes; and
+
+(c) such incidental, supplementary and transitional provision as the Secretary of State considers appropriate.
+
+(5) Before making the regulations the Secretary of State shall consult—
+
+(a) [[^F51][[^F52]the Office for Nuclear Regulation]] ; and
+
+(b) such other persons as he considers appropriate.
+
+(6) The power to make the regulations is exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
+
+[[^F53](6A) References in this section to a person involved in uranium enrichment activities are references to a person who is or is proposing to become involved in any of the following activities (whether in the United Kingdom or elsewhere)—
+
+(a) the enrichment of uranium;
+
+(b) activities carried on with a view to, or in connection with, the enrichment of uranium;
+
+(c) the production, storage, transport or transmission of equipment or software for or on behalf of persons involved in uranium enrichment activities; or
+
+(d) activities that make it reasonable to assume that he will become involved in something mentioned in paragraphs (a) to (c).]
+
+(7) In this section—
+
+- [[^F54]“enrichment of uranium” means a treatment of uranium that increases the proportion of isotope 235 contained in the uranium;
+
+- “equipment” includes equipment that has not been assembled and its components;]
+
+- [[^F55]“nuclear construction site” means a site—
+
+  - (a) on which works are being carried out with a view to its becoming a nuclear site used wholly or mainly for purposes other than defence purposes; and
+  - (b) which is situated within 5 kilometres of an existing nuclear site.]
+
+- [[^F56]“nuclear material” has the same meaning as in Chapter 3 of Part 1 of the Energy Act 2004;
+
+- “nuclear site” means a licensed nuclear site within the meaning of that Chapter;]
+
+- “other nuclear premises” means premises other than a nuclear site on which nuclear material is used or stored;
+
+- “sensitive nuclear information” means—
+
+  - (a) information relating to, or capable of use in connection with, [[^F57]the enrichment of] uranium; or
+  - (b) information relating to activities carried out on or in relation to nuclear sites or other nuclear premises which appears to the Secretary of State to be information which needs to be protected in the interests of national security;
+
+- “United Kingdom ship” means a ship registered in the United Kingdom under Part 2 of the Merchant Shipping Act 1995 (c. 21)
+
+(8) Any sums received by virtue of provision made under subsection (2)(f) shall be paid into the Consolidated Fund.
+
+### 78 Repeals relating to security of civil nuclear installations
+
+(1) In Schedule 1 to the Nuclear Installations Act 1965 (c. 57) (security provisions applicable by order under section 2 of that Act), paragraphs 5 and 6 shall cease to have effect.
+
+(2) [^F58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 79 Prohibition of disclosures relating to nuclear security
+
+(1) A person is guilty of an offence if he discloses any information or thing the disclosure of which might prejudice the security of any nuclear site or of any nuclear material—
+
+(a) with the intention of prejudicing that security; or
+
+(b) being reckless as to whether the disclosure might prejudice that security.
+
+(2) The reference in subsection (1) to nuclear material is a reference to—
+
+(a) nuclear material which is being held on any nuclear site, or
+
+(b) nuclear material anywhere in the world which is being transported to or from a nuclear site or carried on board a British ship,
+
+(including nuclear material which is expected to be so held, transported or carried).
+
+(3) A person guilty of an offence under subsection (1) is liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding seven years or a fine (or both); and
+
+(b) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum (or both).
+
+(4) In this section—
+
+- “British ship” means a ship (including a ship belonging to Her Majesty) which is registered in the United Kingdom;
+- “disclose” and “disclosure”, in relation to a thing, include parting with possession of it;
+- [[^F59]“nuclear material” has the same meaning as in Chapter 3 of Part 1 of the Energy Act 2004;]
+- “nuclear site” means a site in the United Kingdom (including a site occupied by or on behalf of the Crown) which is (or is expected to be) used for any purpose mentioned in section 1(1) of the Nuclear Installations Act 1965 (c. 57).
+
+(5) This section applies to acts done outside the United Kingdom, but only if they are done by a United Kingdom person.
+
+(6) Proceedings for an offence committed outside the United Kingdom may be taken, and the offence may for incidental purposes be treated as having been committed, in any place in the United Kingdom.
+
+(7) Nothing in subsection (5) affects any criminal liability arising otherwise than under that subsection.
+
+### 80 Prohibition of disclosures of uranium enrichment technology
+
+(1) This section applies to—
+
+(a) any information about the enrichment of uranium; or
+
+(b) any information or thing which is, or is likely to be, used in connection with the enrichment of uranium;
+
+and for this purpose “the enrichment of uranium” means any treatment of uranium that increases the proportion of the isotope 235 contained in the uranium.
+
+(2) The Secretary of State may make regulations prohibiting the disclosure of information or things to which this section applies.
+
+(3) A person who contravenes a prohibition is guilty of an offence and liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding seven years or a fine (or both); and
+
+(b) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum (or both).
+
+(4) The regulations may, in particular, provide for—
+
+(a) a prohibition to apply, or not to apply—
+
+(i) to such information or things; and
+
+(ii) in such cases or circumstances,
+
+as may be prescribed;
+
+(b) the authorisation by the Secretary of State [[^F60]or the Office for Nuclear Regulation] of disclosures that would otherwise be prohibited; and
+
+(c) defences to an offence under subsection (3) relating to any prohibition.
+
+(5) The regulations may—
+
+(a) provide for any prohibition to apply to acts done outside the United Kingdom by United Kingdom persons;
+
+(b) make different provision for different purposes; and
+
+(c) make such incidental, supplementary and transitional provision as the Secretary of State thinks fit.
+
+(6) The power to make the regulations is exercisable by statutory instrument.
+
+(7) The regulations shall not be made unless a draft of the regulations has been laid before and approved by each House of Parliament.
+
+[[^F61](7A) The Secretary of State must consult the Office for Nuclear Regulation before laying a draft of the regulations, unless they give effect, without modification, to any proposals for them submitted by the Office for Nuclear Regulation under section 81(1)(a)(v) of the Energy Act 2013.]
+
+(8) In this section—
+
+- “disclosure”, in relation to a thing, includes parting with possession of it;
+- “information” includes software; and
+- “prescribed” means specified or described in the regulations.
+
+### [^F62]80A Extension of Official Secrets Acts to certain places
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 81 Part 8: supplementary
+
+(1) Proceedings for an offence under section 79 or 80 shall not be instituted—
+
+(a) in England and Wales, except by or with the consent of the Attorney General; or
+
+(b) in Northern Ireland, except by or with the consent of the [[^F63]Advocate General for Northern Ireland] .
+
+(2) In this Part “United Kingdom person” means a United Kingdom national, a Scottish partnership or a body incorporated under the law of any part of the United Kingdom.
+
+(3) For this purpose a United Kingdom national is an individual who is—
+
+(a) a British citizen, a British Dependent Territories citizen, a British National (Overseas) or a British Overseas citizen;
+
+(b) a person who under the British Nationality Act 1981 (c. 61) is a British subject; or
+
+(c) a British protected person within the meaning of that Act.
+
+## Part 9 — Aviation Security
+
+### 82 Arrest without warrant
+
+(1) [^F64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) [^F65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Where, in Scotland, a constable has reasonable grounds for suspecting that a person has committed—
+
+(a) an offence under section 21C(1) or 21D(1) of the Aviation Security Act 1982 (unauthorised presence in restricted zone or on aircraft);
+
+(b) an offence under section 39(1) of the Civil Aviation Act 1982 (trespass on aerodrome),
+
+he may arrest that person without warrant.
+
+[[^F66](3A) Where, in Scotland, a constable has reasonable grounds for suspecting that a person has committed an offence of contravening a provision of an Order in Council made under section 60 of the Civil Aviation Act 1982 (Air Navigation Orders) and the offence relates to—
+
+(a) a provision which prohibits specified behaviour by a person in an aircraft towards a member of the crew of the aircraft,
+
+(b) a provision which prohibits a person from being drunk in an aircraft, in so far as the provision applies to passengers, or
+
+(c) a provision which prohibits specified behaviour by a person, being behaviour which is likely to endanger an aircraft, or a person in an aircraft,
+
+the constable may arrest that person without warrant.]
+
+(4) This section shall have effect in relation to an offence committed or alleged to have been committed after the end of the period of two months beginning with the day on which this Act is passed.
+
+### 83 Trespass on aerodrome: penalty
+
+(1) In section 39(1) of the Civil Aviation Act 1982 (trespass on aerodrome) for “level 1 on the standard scale” substitute “ level 3 on the standard scale ”.
+
+(2) This section shall have effect in relation to an offence committed after the end of the period of two months beginning with the day on which this Act is passed.
+
+### 84 Removal of intruder
+
+(1) At the end of section 21C of the Aviation Security Act 1982 (unauthorised presence in aerodrome) add—
+
+> (4) A constable, the manager of an aerodrome or a person acting on his behalf may use reasonable force to remove a person who fails to comply with a request under subsection (1)(b) above.
+
+(2) At the end of section 21D of that Act (unauthorised presence on aircraft) add—
+
+> (3) A constable, the operator of an aircraft or a person acting on his behalf may use reasonable force to remove a person who fails to comply with a request under subsection (1)(b) above.
+
+### 85 Aviation security services
+
+After section 20 of the Aviation Security Act 1982 (c. 36) (security directions: inspection) insert—
+
+> **20A Aviation security services: approved providers**
+>
+> (1) In this section “aviation security service” means a process or activity carried out for the purpose of—
+>
+> (a) complying with a requirement of a direction under any of sections 12 to 14, or
+>
+> (b) facilitating a person’s compliance with a requirement of a direction under any of those sections.
+>
+> (2) Regulations may provide for the Secretary of State to maintain a list of persons who are approved by him for the provision of a particular aviation security service.
+>
+> (3) The regulations may—
+>
+> (a) prohibit the provision of an aviation security service by a person who is not listed in respect of that service;
+>
+> (b) prohibit the use or engagement for the provision of an aviation security service of a person who is not listed in respect of that service;
+>
+> (c) create a criminal offence;
+>
+> (d) make provision about application for inclusion in the list (including provision about fees);
+>
+> (e) make provision about the duration and renewal of entries on the list (including provision about fees);
+>
+> (f) make provision about training or qualifications which persons who apply to be listed or who are listed are required to undergo or possess;
+>
+> (g) make provision about removal from the list which shall include provision for appeal;
+>
+> (h) make provision about the inspection of activities carried out by listed persons;
+>
+> (i) confer functions on the Secretary of State or on a specified person;
+>
+> (j) confer jurisdiction on a court.
+>
+> (4) Regulations under subsection (3)(c)—
+>
+> (a) may not provide for a penalty on summary conviction greater than a fine not exceeding the statutory maximum,
+>
+> (b) may not provide for a penalty of imprisonment on conviction on indictment greater than imprisonment for a term not exceeding two years (whether or not accompanied by a fine), and
+>
+> (c) may create a criminal offence of purporting, with intent to deceive, to do something as a listed person or of doing something, with intent to deceive, which purports to be done by a listed person.
+>
+> (5) A direction under any of sections 12 to 14 may—
+>
+> (a) include a requirement to use a listed person for the provision of an aviation security service;
+>
+> (b) provide for all or part of the direction not to apply or to apply with modified effect where a listed person provides an aviation security service.
+>
+> (6) Regulations under this section—
+>
+> (a) may make different provision for different cases,
+>
+> (b) may include incidental, supplemental or transitional provision,
+>
+> (c) shall be made by the Secretary of State by statutory instrument,
+>
+> (d) shall not be made unless the Secretary of State has consulted organisations appearing to him to represent persons affected by the regulations, and
+>
+> (e) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 86 Detention of aircraft
+
+(1) After section 20A of the Aviation Security Act 1982 (c. 36) (aviation security services) (inserted by section 85)) insert—
+
+> **Detention of aircraft**
+>
+> **20B Detention direction**
+>
+> (1) An authorised person may give a detention direction in respect of an aircraft if he is of the opinion that—
+>
+> (a) a person has failed to comply or is likely to fail to comply with a requirement of a direction under section 12 or 14 of this Act in respect of the aircraft,
+>
+> (b) a person has failed to comply with a requirement of an enforcement notice in respect of the aircraft,
+>
+> (c) a threat has been made to commit an act of violence against the aircraft or against any person or property on board the aircraft, or
+>
+> (d) an act of violence is likely to be committed against the aircraft or against any person or property on board the aircraft.
+>
+> (2) A detention direction in respect of an aircraft—
+>
+> (a) shall be given in writing to the operator of the aircraft, and
+>
+> (b) shall require him to take steps to ensure that the aircraft does not fly while the direction is in force.
+>
+> (3) An authorised person who has given a detention direction in respect of an aircraft may do anything which he considers necessary or expedient for the purpose of ensuring that the aircraft does not fly while the direction is in force; in particular, the authorised person may—
+>
+> (a) enter the aircraft;
+>
+> (b) arrange for another person to enter the aircraft;
+>
+> (c) arrange for a person or thing to be removed from the aircraft;
+>
+> (d) use reasonable force;
+>
+> (e) authorise the use of reasonable force by another person.
+>
+> (4) The operator of an aircraft in respect of which a detention direction is given may object to the direction in writing to the Secretary of State.
+>
+> (5) On receipt of an objection to a detention direction under subsection (4) the Secretary of State shall—
+>
+> (a) consider the objection,
+>
+> (b) allow the person making the objection and the authorised person who gave the direction an opportunity to make written or oral representations to the Secretary of State or to a person appointed by him,
+>
+> (c) confirm, vary or cancel the direction, and
+>
+> (d) give notice of his decision in writing to the person who made the objection and to the authorised person who gave the direction.
+>
+> (6) A detention direction in respect of an aircraft shall continue in force until—
+>
+> (a) an authorised person cancels it by notice in writing to the operator of the aircraft, or
+>
+> (b) the Secretary of State cancels it under subsection (5)(c).
+>
+> (7) A person commits an offence if—
+>
+> (a) without reasonable excuse he fails to comply with a requirement of a detention direction, or
+>
+> (b) he intentionally obstructs a person acting in accordance with subsection (3).
+>
+> (8) A person who is guilty of an offence under subsection (7) shall be liable—
+>
+> (a) on summary conviction, to a fine not exceeding the statutory maximum, or
+>
+> (b) on conviction on indictment, to a fine, to imprisonment for a term not exceeding two years or to both.
+>
+> (9) A detention direction may be given in respect of—
+>
+> (a) any aircraft in the United Kingdom, and
+>
+> (b) any aircraft registered or operating in the United Kingdom.
+>
+> (10) A detention direction may be given in respect of a class of aircraft; and for that purpose—
+>
+> (a) a reference to “the aircraft” in subsection (1) shall be treated as a reference to all or any of the aircraft within the class, and
+>
+> (b) subsections (2) to (9) shall apply as if the direction were given in respect of each aircraft within the class.
+
+(2) In section 23 of the Aviation Security Act 1982 (c. 36) (annual report)—
+
+(a) in subsection (1) after “enforcement notices” insert “ and detention directions ”, and
+
+(b) in subsection (2) for “and enforcement notices” substitute “ , enforcement notices and detention directions ”.
+
+(3) At the end of section 24 of that Act add—
+
+> (9) Subsections (6) to (8) above shall apply to a detention direction as they apply to an enforcement notice.
+
+### 87 Air cargo agent: documents
+
+After section 21F of the Aviation Security Act 1982 (air cargo agents) insert—
+
+> **21F A Air cargo agents: documents**
+>
+> (1) A person commits an offence if with intent to deceive he issues a document which purports to be issued by a person on a list of approved air cargo agents maintained under section 21F(2)(a) of this Act.
+>
+> (2) A person guilty of an offence under subsection (1) shall be liable on summary conviction to imprisonment for a term not exceeding six months or to a fine not exceeding level 5 on the standard scale or to both.
+
+### 88 Extent outside United Kingdom
+
+(1) The powers in section 108(1) and (2) of the Civil Aviation Act 1982 (c. 16) (extension outside United Kingdom) apply to provisions of this Part which amend that Act.
+
+(2) The powers in section 39(3) of the Aviation Security Act 1982 (extension outside United Kingdom) apply to provisions of this Part which amend that Act.
+
+## Part 10 — Police Powers
+
+### Identification
+
+#### 89 Fingerprinting of terrorist suspects
+
+(1) Schedule 8 to the Terrorism Act 2000 (c. 11) (persons detained under terrorism provisions) is amended as follows.
+
+(2) In paragraph 10, at the beginning of sub-paragraph (6) (grounds on which officer may authorise fingerprinting or taking of sample), insert “Subject to sub-paragraph (6A)”; and after that sub-paragraph insert—
+
+> (6A) An officer may also give an authorisation under sub-paragraph (4)(a) for the taking of fingerprints if—
+>
+> (a) he is satisfied that the fingerprints of the detained person will facilitate the ascertainment of that person’s identity; and
+>
+> (b) that person has refused to identify himself or the officer has reasonable grounds for suspecting that that person is not who he claims to be.
+>
+> (6B) In this paragraph references to ascertaining a person’s identity include references to showing that he is not a particular person.
+
+(3) In paragraph 20(2), for the subsection (2) substituted by way of modification of section 18 of the Criminal Procedure (Scotland) Act 1995 (c. 46) substitute—
+
+> ’ Subject to subsection (2A), a constable may take from a detained person or require a detained person to provide relevant physical data only if—
+>
+> (a) in the case of a person detained under section 41 of the Terrorism Act 2000, he reasonably suspects that the person has been involved in an offence under any of the provisions mentioned in section 40(1)(a) of that Act and he reasonably believes that the relevant physical data will tend to confirm or disprove his involvement; or
+>
+> (b) in any case, he is satisfied that it is necessary to do so in order to assist in determining whether the person falls within section 40(1)(b).
+>
+> (2A) A constable may also take fingerprints from a detained person or require him to provide them if—
+>
+> (a) he is satisfied that the fingerprints of that person will facilitate the ascertainment of that person’s identity; and
+>
+> (b) that person has refused to identify himself or the constable has reasonable grounds for suspecting that that person is not who he claims to be.
+>
+> (2B) In this section references to ascertaining a person’s identity include references to showing that he is not a particular person.’
+
+(4) For paragraph 20(3) substitute—
+
+> (3) Subsections (3) to (5) shall not apply, but any relevant physical data or sample taken in pursuance of section 18 as applied by this paragraph may be retained but shall not be used by any person except for the purposes of a terrorist investigation or for purposes related to the prevention or detection of crime, the investigation of an offence or the conduct of a prosecution.
+>
+> (4) In this paragraph—
+>
+> (a) a reference to crime includes a reference to any conduct which—
+>
+> (i) constitutes one or more criminal offences (whether under the law of a part of the United Kingdom or of a country or territory outside the United Kingdom); or
+>
+> (ii) is, or corresponds to, any conduct which, if it all took place in any one part of the United Kingdom, would constitute one or more criminal offences; and
+>
+> (b) the references to an investigation and to a prosecution include references, respectively, to any investigation outside the United Kingdom of any crime or suspected crime and to a prosecution brought in respect of any crime in a country or territory outside the United Kingdom.
+
+#### 90 Searches, examinations and fingerprinting: England and Wales
+
+(1) After section 54 of the Police and Criminal Evidence Act 1984 (c. 60) (searches of detained persons) insert—
+
+> **54A Searches and examination to ascertain identity**
+>
+> (1) If an officer of at least the rank of inspector authorises it, a person who is detained in a police station may be searched or examined, or both—
+>
+> (a) for the purpose of ascertaining whether he has any mark that would tend to identify him as a person involved in the commission of an offence; or
+>
+> (b) for the purpose of facilitating the ascertainment of his identity.
+>
+> (2) An officer may only give an authorisation under subsection (1) for the purpose mentioned in paragraph (a) of that subsection if—
+>
+> (a) the appropriate consent to a search or examination that would reveal whether the mark in question exists has been withheld; or
+>
+> (b) it is not practicable to obtain such consent.
+>
+> (3) An officer may only give an authorisation under subsection (1) in a case in which subsection (2) does not apply if—
+>
+> (a) the person in question has refused to identify himself; or
+>
+> (b) the officer has reasonable grounds for suspecting that that person is not who he claims to be.
+>
+> (4) An officer may give an authorisation under subsection (1) orally or in writing but, if he gives it orally, he shall confirm it in writing as soon as is practicable.
+>
+> (5) Any identifying mark found on a search or examination under this section may be photographed—
+>
+> (a) with the appropriate consent; or
+>
+> (b) if the appropriate consent is withheld or it is not practicable to obtain it, without it.
+>
+> (6) Where a search or examination may be carried out under this section, or a photograph may be taken under this section, the only persons entitled to carry out the search or examination, or to take the photograph, are—
+>
+> (a) constables; and
+>
+> (b) persons who (without being constables) are designated for the purposes of this section by the chief officer of police for the police area in which the police station in question is situated;
+>
+> and section 117 (use of force) applies to the exercise by a person falling within paragraph (b) of the powers conferred by the preceding provisions of this section as it applies to the exercise of those powers by a constable.
+>
+> (7) A person may not under this section carry out a search or examination of a person of the opposite sex or take a photograph of any part of the body of a person of the opposite sex.
+>
+> (8) An intimate search may not be carried out under this section.
+>
+> (9) A photograph taken under this section—
+>
+> (a) may be used by, or disclosed to, any person for any purpose related to the prevention or detection of crime, the investigation of an offence or the conduct of a prosecution; and
+>
+> (b) after being so used or disclosed, may be retained but may not be used or disclosed except for a purpose so related.
+>
+> (10) In subsection —
+>
+> (a) the reference to crime includes a reference to any conduct which—
+>
+> (i) constitutes one or more criminal offences (whether under the law of a part of the United Kingdom or of a country or territory outside the United Kingdom); or
+>
+> (ii) is, or corresponds to, any conduct which, if it all took place in any one part of the United Kingdom, would constitute one or more criminal offences;
+>
+> and
+>
+> (b) the references to an investigation and to a prosecution include references, respectively, to any investigation outside the United Kingdom of any crime or suspected crime and to a prosecution brought in respect of any crime in a country or territory outside the United Kingdom.
+>
+> (11) In this section—
+>
+> (a) references to ascertaining a person’s identity include references to showing that he is not a particular person; and
+>
+> (b) references to taking a photograph include references to using any process by means of which a visual image may be produced, and references to photographing a person shall be construed accordingly.
+>
+> (12) In this section “mark” includes features and injuries; and a mark is an identifying mark for the purposes of this section if its existence in any person’s case facilitates the ascertainment of his identity or his identification as a person involved in the commission of an offence.
+
+(2) In section 61(4) of that Act (grounds on which fingerprinting of person detained at a police station may be authorised)—
+
+(a) in paragraph (b), after “his involvement” insert “ or will facilitate the ascertainment of his identity (within the meaning of section 54A), or both ”;
+
+(b) after that paragraph insert—
+
+> but an authorisation shall not be given for the purpose only of facilitating the ascertainment of that person’s identity except where he has refused to identify himself or the officer has reasonable grounds for suspecting that he is not who he claims to be.
+
+#### 91 Searches, examinations and fingerprinting: Northern Ireland
+
+(1) After Article 55 of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12)) (searches of detained persons) insert—
+
+> **55A Searches and examination to ascertain identity**
+>
+> (1) If an officer of at least the rank of inspector authorises it, a person who is detained in a police station may be searched or examined, or both—
+>
+> (a) for the purpose of ascertaining whether he has any mark that would tend to identify him as a person involved in the commission of an offence; or
+>
+> (b) for the purpose of facilitating the ascertainment of his identity.
+>
+> (2) An officer may only give an authorisation under paragraph (1) for the purpose mentioned in sub-paragraph (a) of that paragraph if—
+>
+> (a) the appropriate consent to a search or examination that would reveal whether the mark in question exists has been withheld; or
+>
+> (b) it is not practicable to obtain such consent.
+>
+> (3) An officer may only give an authorisation under paragraph (1) in a case in which paragraph (2) does not apply if—
+>
+> (a) the person in question has refused to identify himself; or
+>
+> (b) the officer has reasonable grounds for suspecting that that person is not who he claims to be.
+>
+> (4) An officer may give an authorisation under paragraph (1) orally or in writing but, if he gives it orally, he shall confirm it in writing as soon as is practicable.
+>
+> (5) Any identifying mark found on a search or examination under this Article may be photographed—
+>
+> (a) with the appropriate consent; or
+>
+> (b) if the appropriate consent is withheld or it is not practicable to obtain it, without it.
+>
+> (6) Where a search or examination may be carried out under this Article, or a photograph may be taken under this Article, the only persons entitled to carry out the search or examination, or to take the photograph, are—
+>
+> (a) constables; and
+>
+> (b) persons who (without being constables) are designated for the purposes of this Article by the Chief Constable;
+>
+> and Article 88 (use of force) applies to the exercise by a person falling within sub-paragraph (b) of the powers conferred by the preceding provisions of this Article as it applies to the exercise of those powers by a constable.
+>
+> (7) A person may not under this Article carry out a search or examination of a person of the opposite sex or take a photograph of any part of the body of a person of the opposite sex.
+>
+> (8) An intimate search may not be carried out under this Article.
+>
+> (9) A photograph taken under this Article—
+>
+> (a) may be used by, or disclosed to, any person for any purpose related to the prevention or detection of crime, the investigation of an offence or the conduct of a prosecution; and
+>
+> (b) after being so used or disclosed, may be retained but may not be used or disclosed except for a purpose so related.
+>
+> (10) In paragraph (9)—
+>
+> (a) the reference to crime includes a reference to any conduct which—
+>
+> (i) constitutes one or more criminal offences (whether under the law of a part of the United Kingdom or of a country or territory outside the United Kingdom); or
+>
+> (ii) is, or corresponds to, any conduct which, if it all took place in any one part of the United Kingdom, would constitute one or more criminal offences;
+>
+> and
+>
+> (b) the references to an investigation and to a prosecution include references, respectively, to any investigation outside the United Kingdom of any crime or suspected crime and to a prosecution brought in respect of any crime in a country or territory outside the United Kingdom.
+>
+> (11) In this Article—
+>
+> (a) references to ascertaining a person’s identity include references to showing that he is not a particular person; and
+>
+> (b) references to taking a photograph include references to using any process by means of which a visual image may be produced, and references to photographing a person shall be construed accordingly.
+>
+> (12) In this Article “mark” includes features and injuries; and a mark is an identifying mark for the purposes of this Article if its existence in any person’s case facilitates the ascertainment of his identity or his identification as a person involved in the commission of an offence.
+
+(2) In Article 61(4) of that Order (grounds on which fingerprinting of person detained at a police station may be authorised)—
+
+(a) in sub-paragraph (b), after “his involvement” insert “ or will facilitate the ascertainment of his identity (within the meaning of Article 55A), or both ”; and
+
+(b) after that sub-paragraph insert—
+
+> but an authorisation shall not be given for the purpose only of facilitating the ascertainment of that person’s identity except where he has refused to identify himself or the officer has reasonable grounds for suspecting that he is not who he claims to be.
+
+#### 92 Photographing of suspects etc.: England and Wales
+
+After section 64 of the Police and Criminal Evidence Act 1984 (c. 60) insert—
+
+> **64A Photographing of suspects etc.**
+>
+> (1) A person who is detained at a police station may be photographed—
+>
+> (a) with the appropriate consent; or
+>
+> (b) if the appropriate consent is withheld or it is not practicable to obtain it, without it.
+>
+> (2) A person proposing to take a photograph of any person under this section—
+>
+> (a) may, for the purpose of doing so, require the removal of any item or substance worn on or over the whole or any part of the head or face of the person to be photographed; and
+>
+> (b) if the requirement is not complied with, may remove the item or substance himself.
+>
+> (3) Where a photograph may be taken under this section, the only persons entitled to take the photograph are—
+>
+> (a) constables; and
+>
+> (b) persons who (without being constables) are designated for the purposes of this section by the chief officer of police for the police area in which the police station in question is situated;
+>
+> and section 117 (use of force) applies to the exercise by a person falling within paragraph (b) of the powers conferred by the preceding provisions of this section as it applies to the exercise of those powers by a constable.
+>
+> (4) A photograph taken under this section—
+>
+> (a) may be used by, or disclosed to, any person for any purpose related to the prevention or detection of crime, the investigation of an offence or the conduct of a prosecution; and
+>
+> (b) after being so used or disclosed, may be retained but may not be used or disclosed except for a purpose so related.
+>
+> (5) In subsection (4)—
+>
+> (a) the reference to crime includes a reference to any conduct which—
+>
+> (i) constitutes one or more criminal offences (whether under the law of a part of the United Kingdom or of a country or territory outside the United Kingdom); or
+>
+> (ii) is, or corresponds to, any conduct which, if it all took place in any one part of the United Kingdom, would constitute one or more criminal offences;
+>
+> and
+>
+> (b) the references to an investigation and to a prosecution include references, respectively, to any investigation outside the United Kingdom of any crime or suspected crime and to a prosecution brought in respect of any crime in a country or territory outside the United Kingdom.
+>
+> (6) References in this section to taking a photograph include references to using any process by means of which a visual image may be produced; and references to photographing a person shall be construed accordingly.
+
+#### 93 Photographing of suspects etc.: Northern Ireland
+
+After Article 64 of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12)) insert—
+
+> **64A Photographing of suspects etc.**
+>
+> (1) A person who is detained at a police station may be photographed—
+>
+> (a) with the appropriate consent; or
+>
+> (b) if the appropriate consent is withheld or it is not practicable to obtain it, without it.
+>
+> (2) A person proposing to take a photograph of any person under this Article—
+>
+> (a) may, for the purpose of doing so, require the removal of any item or substance worn on or over the whole or any part of the head or face of the person to be photographed; and
+>
+> (b) if the requirement is not complied with, may remove the item or substance himself.
+>
+> (3) Where a photograph may be taken under this Article, the only persons entitled to take the photograph are—
+>
+> (a) constables; and
+>
+> (b) persons who (without being constables) are designated for the purposes of this Article by the Chief Constable;
+>
+> and Article 88 (use of force) applies to the exercise by a person falling within sub-paragraph (b) of the powers conferred by the preceding provisions of this Article as it applies to the exercise of those powers by a constable.
+>
+> (4) A photograph taken under this Article—
+>
+> (a) may be used by, or disclosed to, any person for any purpose related to the prevention or detection of crime, the investigation of an offence or the conduct of a prosecution; and
+>
+> (b) after being so used or disclosed, may be retained but may not be used or disclosed except for a purpose so related.
+>
+> (5) In paragraph (4)—
+>
+> (a) the reference to crime includes a reference to any conduct which—
+>
+> (i) constitutes one or more criminal offences (whether under the law of a part of the United Kingdom or of a country or territory outside the United Kingdom); or
+>
+> (ii) is, or corresponds to, any conduct which, if it all took place in any one part of the United Kingdom, would constitute one or more criminal offences;
+>
+> and
+>
+> (b) the references to an investigation and to a prosecution include references, respectively, to any investigation outside the United Kingdom of any crime or suspected crime and to a prosecution brought in respect of any crime in a country or territory outside the United Kingdom.
+>
+> (6) References in this Article to taking a photograph include references to using any process by means of which a visual image may be produced; and references to photographing a person shall be construed accordingly.
+
+#### 94 Powers to require removal of disguises: England and Wales
+
+(1) After section 60 of the Criminal Justice and Public Order Act 1994 (c. 33) insert—
+
+> **60AA Powers to require removal of disguises**
+>
+> (1) Where—
+>
+> (a) an authorisation under section 60 is for the time being in force in relation to any locality for any period, or
+>
+> (b) an authorisation under subsection (3) that the powers conferred by subsection (2) shall be exercisable at any place in a locality is in force for any period,
+>
+> those powers shall be exercisable at any place in that locality at any time in that period.
+>
+> (2) This subsection confers power on any constable in uniform—
+>
+> (a) to require any person to remove any item which the constable reasonably believes that person is wearing wholly or mainly for the purpose of concealing his identity;
+>
+> (b) to seize any item which the constable reasonably believes any person intends to wear wholly or mainly for that purpose.
+>
+> (3) If a police officer of or above the rank of inspector reasonably believes—
+>
+> (a) that activities may take place in any locality in his police area that are likely (if they take place) to involve the commission of offences, and
+>
+> (b) that it is expedient, in order to prevent or control the activities, to give an authorisation under this subsection,
+>
+> he may give an authorisation that the powers conferred by this section shall be exercisable at any place within that locality for a specified period not exceeding twenty-four hours.
+>
+> (4) If it appears to an officer of or above the rank of superintendent that it is expedient to do so, having regard to offences which—
+>
+> (a) have been committed in connection with the activities in respect of which the authorisation was given, or
+>
+> (b) are reasonably suspected to have been so committed,
+>
+> he may direct that the authorisation shall continue in force for a further twenty-four hours.
+>
+> (5) If an inspector gives an authorisation under subsection (3) , he must, as soon as it is practicable to do so, cause an officer of or above the rank of superintendent to be informed.
+>
+> (6) Any authorisation under this section—
+>
+> (a) shall be in writing and signed by the officer giving it; and
+>
+> (b) shall specify—
+>
+> (i) the grounds on which it is given;
+>
+> (ii) the locality in which the powers conferred by this section are exercisable;
+>
+> (iii) the period during which those powers are exercisable;
+>
+> and a direction under subsection (4) shall also be given in writing or, where that is not practicable, recorded in writing as soon as it is practicable to do so.
+>
+> (7) A person who fails to remove an item worn by him when required to do so by a constable in the exercise of his power under this section shall be liable, on summary conviction, to imprisonment for a term not exceeding one month or to a fine not exceeding level 3 on the standard scale or both.
+>
+> (8) The preceding provisions of this section, so far as they relate to an authorisation by a member of the British Transport Police Force (including one who for the time being has the same powers and privileges as a member of a police force for a police area), shall have effect as if references to a locality or to a locality in his police area were references to any locality in or in the vicinity of any policed premises, or to the whole or any part of any such premises.
+>
+> (9) In this section “British Transport Police Force” and “policed premises” each has the same meaning as in section 60.
+>
+> (10) The powers conferred by this section are in addition to, and not in derogation of, any power otherwise conferred.
+>
+> (11) This section does not extend to Scotland.
+
+(2) In section 60A(1) of that Act (retention of things seized under section 60), after “section 60” insert “ or 60AA ”.
+
+(3) [^F67]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 95 Powers to require removal of disguises: Northern Ireland
+
+(1) In Part 5 of the Public Order (Northern Ireland) Order 1987 (S.I. 1987/463 (N.I. 7)), before Article 24 insert—
+
+> **Temporary powers to deal with activities in a locality**
+>
+> **23A Powers to require removal of disguises**
+>
+> (1) Where—
+>
+> (a) an authorisation under paragraph (3) that the powers conferred by paragraph (2) shall be exercisable at any place in a locality is in force for any period, or
+>
+> (b) an authorisation under Article 23B is for the time being in force in relation to any locality for any period,
+>
+> those powers shall be exercisable at any place in that locality at any time in that period.
+>
+> (2) This paragraph confers power on any constable in uniform—
+>
+> (a) to require any person to remove any item which the constable reasonably believes that person is wearing wholly or mainly for the purpose of concealing his identity;
+>
+> (b) to seize any item which the constable reasonably believes any person intends to wear wholly or mainly for that purpose.
+>
+> (3) If a police officer of or above the rank of inspector reasonably believes—
+>
+> (a) that activities may take place in any locality that are likely (if they take place) to involve the commission of offences, and
+>
+> (b) that it is expedient, in order to prevent or control the activities, to give an authorisation under this paragraph,
+>
+> he may give an authorisation that the powers conferred by this Article shall be exercisable at any place within that locality for a specified period not exceeding twenty-four hours.
+>
+> (4) If it appears to an officer of or above the rank of superintendent that it is expedient to do so, having regard to offences which—
+>
+> (a) have been committed in connection with the activities in respect of which the authorisation was given, or
+>
+> (b) are reasonably suspected to have been so committed,
+>
+> he may direct that the authorisation shall continue in force for a further twenty-four hours.
+>
+> (5) If an officer below the rank of superintendent gives an authorisation under paragraph , he must, as soon as it is practicable to do so, cause an officer of or above that rank to be informed.
+>
+> (6) Any authorisation under this Article—
+>
+> (a) shall be in writing and signed by the officer giving it; and
+>
+> (b) shall specify—
+>
+> (i) the grounds on which it is given;
+>
+> (ii) the locality in which the powers conferred by this Article are exercisable;
+>
+> (iii) the period during which those powers are exercisable;
+>
+> and a direction under paragraph (4) shall also be given in writing or, where that is not practicable, recorded in writing as soon as it is practicable to do so.
+>
+> (7) A person who fails to remove an item worn by him when required to do so by a constable in the exercise of his power under this Article shall be liable, on summary conviction, to imprisonment for a term not exceeding one month or to a fine not exceeding level 3 on the standard scale or both.
+>
+> (8) The powers conferred by this Article are in addition to, and not in derogation of, any power otherwise conferred.
+
+(2) [^F68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Powers of stop, search and seizure in Northern Ireland
+
+#### 96 Power to stop and search in anticipation of violence
+
+In the Public Order (Northern Ireland) Order 1987 (S.I. 1987/463 (N.I. 7)), after Article 23A (which is inserted by section 95) insert—
+
+> **23B Powers to stop and search in anticipation of violence**
+>
+> (1) If a police officer of or above the rank of inspector reasonably believes—
+>
+> (a) that incidents involving serious violence may take place in any locality, and that it is expedient to give an authorisation under this Article to prevent or control their occurrence, or
+>
+> (b) that persons are carrying dangerous instruments or offensive weapons in any locality without good reason,
+>
+> he may give an authorisation that the powers conferred by this Article are to be exercisable at any place within that locality for a specified period not exceeding twenty-four hours.
+>
+> (2) This Article confers power on any constable in uniform—
+>
+> (a) to stop any pedestrian and search him or anything carried by him for offensive weapons or dangerous instruments;
+>
+> (b) to stop any vehicle and search the vehicle, its driver and any passenger for offensive weapons or dangerous instruments;
+>
+> and a constable may in the exercise of those powers stop any person or vehicle and make any search he thinks fit whether or not he has any grounds for suspecting that the person or vehicle is carrying weapons or dangerous instruments.
+>
+> (3) If it appears to an officer of or above the rank of superintendent that it is expedient to do so, having regard to offences which—
+>
+> (a) have been committed in connection with the activities in respect of which the authorisation was given, or
+>
+> (b) are reasonably suspected to have been so committed,
+>
+> he may direct that the authorisation shall continue in force for a further twenty-four hours.
+>
+> (4) If an officer below the rank of superintendent gives an authorisation under paragraph () he must, as soon as it is practicable to do so, cause an officer of or above that rank to be informed.
+>
+> (5) If in the course of a search under this Article a constable discovers a dangerous instrument or an article which he has reasonable grounds for suspecting to be an offensive weapon, he may seize it.
+>
+> (6) This Article applies (with the necessary modifications) to ships, aircraft and hovercraft as it applies to vehicles.
+>
+> (7) A person who fails to stop or (as the case may be) fails to stop a vehicle when required to do so by a constable in the exercise of his powers under this Article shall be liable on summary conviction to imprisonment for a term not exceeding one month or to a fine not exceeding level 3 on the standard scale or both.
+>
+> (8) Any authorisation under this Article—
+>
+> (a) shall be in writing and signed by the officer giving it; and
+>
+> (b) shall specify—
+>
+> (i) the grounds on which it is given;
+>
+> (ii) the locality in which the powers conferred by this Article are exercisable;
+>
+> (iii) the period during which those powers are exercisable;
+>
+> and a direction under paragraph () shall also be given in writing or, where that is not practicable, recorded in writing as soon as it is practicable to do so.
+>
+> (9) Where a vehicle is stopped by a constable under this Article the driver shall be entitled to obtain a written statement that the vehicle was stopped under the powers conferred by this Article if he applies for such a statement not later than the end of the period of 12 months from the day on which the vehicle was stopped.
+>
+> (10) A person who is searched by a constable under this Article shall be entitled to obtain a written statement that he was searched under the powers conferred by this Article if he applies for such a statement not later than the end of the period of 12 months from the day on which he was searched.
+>
+> (11) The powers conferred by this Article are in addition to, and not in derogation of, any power otherwise conferred.
+>
+> (12) For the purposes of this Article, a person carries a dangerous instrument or an offensive weapon if he has it in his possession.
+>
+> (13) In this Article—
+>
+> - “caravan” has the meaning given by section 25(1) of the Caravans Act (Northern Ireland) 1963 (N.I. c. 17);
+> - “dangerous instrument” means an instrument which has a blade or is sharply pointed;
+> - “offensive weapon” has the meaning given by Article 22(1);
+> - “vehicle” includes a caravan.
+
+#### 97 Seized articles
+
+In the Public Order (Northern Ireland) Order 1987 (S.I. 1987/463 (N.I. 7)), after Article 23B insert—
+
+> **23C Retention and disposal of things seized under Article 23A and 23B**
+>
+> (1) Anything seized by a constable under Article 23A or 23B may be retained in accordance with regulations made by the Secretary of State under this Article.
+>
+> (2) The Secretary of State may make regulations regulating the retention and safe keeping, and the disposal and destruction in prescribed circumstances, of such things.
+>
+> (3) Regulations made under this Article shall be subject to annulment in pursuance of a resolution of either House of Parliament in like manner as a statutory instrument and section 5 of the Statutory Instruments Act 1946 (c. 36) shall apply accordingly.
+
+### MoD and transport police
+
+#### 98 Jurisdiction of MoD police
+
+(1) Section 2 of the Ministry of Defence Police Act 1987 (c. 4) (jurisdiction of members of the Ministry of Defence Police) is amended as follows.
+
+(2) In subsection (2) (places where members of Ministry of Defence Police have powers and privileges of constables), omit paragraph (d) (which is superseded by the amendment made by subsection (4) of this section).
+
+(3) In subsection (3) (circumstances in which members of Ministry of Defence Police have powers and privileges of constables in places in United Kingdom not mentioned in subsection (2)), after paragraph (b) insert—
+
+> (ba) in connection with offences against persons within paragraph (b) above, with the incitement of such persons to commit offences and with offences under the Prevention of Corruption Acts 1889 to 1916 in relation to such persons;
+
+.
+
+(4) After that subsection insert—
+
+> (3A) Where a member of the Ministry of Defence Police has been requested by a constable of—
+>
+> (a) the police force for any police area;
+>
+> (b) the Police Service of Northern Ireland;
+>
+> (c) the British Transport Police Force; or
+>
+> (d) the United Kingdom Atomic Energy Authority Constabulary,
+>
+> to assist him in the execution of his duties in relation to a particular incident, investigation or operation, members of the Ministry of Defence Police shall have the powers and privileges of constables for the purposes of that incident, investigation or operation but subject to subsection (3B) below.
+>
+> (3B) Members of the Ministry of Defence Police have the powers and privileges of constables for the purposes of an incident, investigation or operation by virtue of subsection (3A) above—
+>
+> (a) if the request was made under paragraph (a) of that subsection by a constable of the police force for a police area, only in that police area;
+>
+> (b) if it was made under paragraph (b) of that subsection, only in Northern Ireland;
+>
+> (c) if it was made under paragraph (c) of that subsection, only to the extent that those powers and privileges would in the circumstances be exercisable for those purposes by a constable of the British Transport Police Force by virtue of subsection (1A) or, in Scotland, subsection (4) of section 53 of the British Transport Commission Act 1949 (c. xxix); or
+>
+> (d) if it was made under paragraph (d) of that subsection, only to the extent that those powers and privileges would in the circumstances be exercisable for those purposes by a constable of the United Kingdom Atomic Energy Authority Constabulary.
+>
+> (3C) Members of the Ministry of Defence Police shall have in any police area the same powers and privileges as constables of the police force for that police area, and in Northern Ireland the same powers and privileges as constables of the Police Service of Northern Ireland,—
+>
+> (a) in relation to persons whom they suspect on reasonable grounds of having committed, being in the course of committing or being about to commit an offence; or
+>
+> (b) if they believe on reasonable grounds that they need those powers and privileges in order to save life or to prevent or minimise personal injury.
+>
+> (3D) But members of the Ministry of Defence Police have powers and privileges by virtue of subsection (3C) above only if—
+>
+> (a) they are in uniform or have with them documentary evidence that they are members of the Ministry of Defence Police; and
+>
+> (b) they believe on reasonable grounds that a power of a constable which they would not have apart from that subsection ought to be exercised and that, if it cannot be exercised until they secure the attendance of or a request under subsection (3A) above by a constable who has it, the purpose for which they believe it ought to be exercised will be frustrated or seriously prejudiced.
+
+(5) In subsection (4) (territorial waters)—
+
+(a) for “to (3)” substitute “ to (3D) ”, and
+
+(b) for “subsections (1) and (3)” substitute “ those subsections ”.
+
+(6) In subsection (5)—
+
+(a) after the definition of “appropriate Gazette” insert—
+
+> “British Transport Police Force” means the constables appointed under section 53 of the British Transport Commission Act 1949 (c. xxix);
+
+, [^F69]. . .
+
+(b) [^F69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 99 Provision of assistance by MoD police
+
+After section 2 of the Ministry of Defence Police Act 1987 (c. 4) insert—
+
+> **2A Provision of assistance to other forces**
+>
+> (1) The Chief Constable of the Ministry of Defence Police may, on the application of the chief officer of any relevant force, provide constables or other assistance for the purpose of enabling that force to meet any special demand on its resources.
+>
+> (2) Where a member of the Ministry of Defence Police is provided for the assistance of a relevant force under this section—
+>
+> (a) he shall be under the direction and control of the chief officer of that force; and
+>
+> (b) he shall have the same powers and privileges as a member of that force.
+>
+> (3) Constables are not to be regarded as provided for the assistance of a relevant force under this section in a case where assistance is provided under section 2 above.
+>
+> (4) In this section—
+>
+> - “British Transport Police Force” has the same meaning as in section 2 above;
+>
+> - “chief officer” means—
+>
+>   - (a) the chief officer of the police force for any police area;
+>   - (b) the Chief Constable of the Police Service of Northern Ireland;
+>   - (c) the Chief Constable of the British Transport Police Force; or
+>   - (d) the Chief Constable of the United Kingdom Atomic Energy Authority Constabulary;
+>
+> - “relevant force” means—
+>
+>   - (a) the police force for any police area;
+>   - (b) the Police Service of Northern Ireland;
+>   - (c) the British Transport Police Force; or
+>   - (d) the United Kingdom Atomic Energy Authority Constabulary; and
+>
+> - “United Kingdom Atomic Energy Authority Constabulary” has the same meaning as in section 2 above.
+
+#### 100 Jurisdiction of transport police
+
+(1) Where a member of the British Transport Police Force has been requested by a constable of—
+
+(a) the police force for any police area,
+
+(b) the Ministry of Defence Police, or
+
+[[^F70](c) the Civil Nuclear Constabulary,]
+
+(“the requesting force”) to assist him in the execution of his duties in relation to a particular incident, investigation or operation, members of the British Transport Police Force have for the purposes of that incident, investigation or operation the same powers and privileges as constables of the requesting force.
+
+(2) Members of the British Transport Police Force have in any police area the same powers and privileges as constables of the police force for that police area—
+
+(a) in relation to persons whom they suspect on reasonable grounds of having committed, being in the course of committing or being about to commit an offence, or
+
+(b) if they believe on reasonable grounds that they need those powers and privileges in order to save life or to prevent or minimise personal injury [[^F71]or damage to property] .
+
+(3) But members of the British Transport Police Force have powers and privileges by virtue of subsection (2) only if—
+
+(a) [^F72]they are in uniform or have with them documentary evidence that they are members of that Force, and
+
+(b) they believe on reasonable grounds that a power of a constable which they would not have apart from that subsection ought to be exercised and that, if it cannot be exercised until they secure the attendance of or a request under subsection (1) by a constable who has it, the purpose for which they believe it ought to be exercised will be frustrated or seriously prejudiced.
+
+[[^F73](3A) In the application of this section to Scotland—
+
+(a) references to a “police area” are references to Scotland; and
+
+(b) references to the “police force” for a police area are references to the Police Service of Scotland.]
+
+(4) In this section—
+
+- [^F74] “[^F74]British Transport Police Force[^F74]” means the constables appointed under section 53 of the British Transport Commission Act 1949 (c. xxix), [^F75]. . .
+- [^F75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 101 Further provisions about transport police and MoD police
+
+Schedule 7 contains amendments relating to the British Transport Police Force and the Ministry of Defence Police.
+
+## [^F76]Part 11 — Retention of Communications Data
+
+### [^F76]102 Codes and agreements about the retention of communications data
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F76]103 Procedure for codes of practice
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F76]104 Directions about retention of communications data
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F76]105 Lapsing of powers in section 104
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F76]106 Arrangements for payments
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F76]107 Interpretation of Part 11
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 12 — Bribery and Corruption
+
+### [^F77]108 Bribery and corruption: foreign officers etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F77]109 Bribery and corruption committed outside the UK
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F77]110 Presumption of corruption not to apply
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 13 — Miscellaneous
+
+### Third pillar of the European Union
+
+#### 111 Implementation of the third pillar
+
+(1) At any time before 1st July 2002, an authorised Minister may by regulations make provision—
+
+(a) for the purpose of implementing any obligation of the United Kingdom created or arising by or under any third pillar measure or enabling any such obligation to be implemented,
+
+(b) for the purpose of enabling any rights enjoyed or to be enjoyed by the United Kingdom under or by virtue of any third pillar measure to be exercised, or
+
+(c) for the purpose of dealing with matters arising out of or related to any such obligation or rights.
+
+(2) For the purposes of subsection (1), the following are third pillar measures—
+
+(a) the 1995 Convention drawn up on the basis of Article K.3 of the Treaty on European Union on Simplified Extradition Procedure between the Member States of the European Union,
+
+(b) the 1996 Convention drawn up on the basis of Article K.3 of the Treaty on European Union relating to Extradition between the Member States of the European Union,
+
+(c) any framework decision adopted under Article 34 of the Treaty on European Union on the execution in the European Union of orders freezing property or evidence, on joint investigation teams, or on combatting terrorism, and
+
+(d) the Convention on Mutual Assistance in Criminal Matters between the Member States of the European Union, and the Protocol to that Convention, established in accordance with Article 34 of the Treaty on European Union.
+
+(3) The provision that may be made under subsection (1) includes, subject to subsection (4), any such provision (of any such extent) as might be made by Act of Parliament.
+
+(4) The powers conferred by subsection (1) do not include power—
+
+(a) to make any provision imposing or increasing taxation,
+
+(b) to make any provision taking effect from a date earlier than that of the making of the instrument containing the provision,
+
+(c) to confer any power to legislate by means of orders, rules, regulations or other subordinate instrument, other than rules of procedure for a court or tribunal, or
+
+(d) to create, except in accordance with subsection (6), a criminal offence which is punishable—
+
+(i) on conviction on indictment, with imprisonment for more than two years,
+
+(ii) on summary conviction, with imprisonment for more than three months,
+
+(iii) on summary conviction, with a fine (not calculated on a daily basis) of more than level 5 on the standard scale or (for an offence triable either way) more than the statutory maximum, or
+
+(iv) on summary conviction, with a fine of more than £100 a day.
+
+(5) Subsection (4)(c) does not preclude the modification of a power to legislate conferred otherwise than under subsection (1), or the extension of any such power to purposes of the like nature as those for which it was conferred, and a power to give directions as to matters of administration is not to be regarded as a power to legislate within the meaning of subsection (4)(c).
+
+(6) Subsection (4)(d) does not preclude the creation of an offence punishable on conviction on indictment with imprisonment for a term of any length if—
+
+(a) the offence is one for which a term of that length, a term of at least that length, or a term within a range of lengths including that length, is required for the offence by an obligation created or arising by or under any third pillar measure,
+
+(b) the offence, if committed in particular circumstances, would be an offence falling within paragraph (a), or
+
+(c) the offence is not committed in the United Kingdom but would, if committed in the United Kingdom, or a part of the United Kingdom, be punishable on conviction on indictment with imprisonment for a term of that length.
+
+#### 112 Third pillar: supplemental
+
+(1) “Authorised Minister” in section 111(1) has the meaning given by subsections (2) and (3).
+
+(2) The Scottish Ministers are authorised Ministers for any purpose for which powers under section 111(1) are exercisable within devolved competence (within the meaning of the Scotland Act 1998 (c. 46)).
+
+(3) For any other purpose, the following are authorised Ministers—
+
+(a) the Secretary of State,
+
+(b) the Lord Chancellor,
+
+(c) the Treasury,
+
+(d) the National Assembly for Wales, if designated under subsection (4),
+
+(e) the First Minister and deputy First Minister acting jointly, a Northern Ireland Minister or a Northern Ireland department, if the Ministers are, or the Minister or the department is, designated under subsection (4).
+
+(4) A designation under this subsection may be made by Order in Council in relation to any matter or for any purpose, and is subject to any restriction or condition specified in the Order.
+
+(5) An Order in Council under subsection (4) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(6) The power to make regulations under section 111(1)—
+
+(a) in the case of the First Minister and deputy First Minister acting jointly, a Northern Ireland Minister or a Northern Ireland Department, is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I.1979/1573 (N.I. 12)),
+
+(b) in any other case, is exercisable by statutory instrument.
+
+(7) No regulations may be made under section 111(1) unless a draft of the regulations has been laid before and approved by a resolution of each House of Parliament.
+
+(8) Subsection (7) has effect, so far as it relates to the exercise of powers under section 111(1) by the Scottish Ministers, as if the reference to each House of Parliament were a reference to the Scottish Parliament.
+
+(9) Subsection (7) does not apply to a statutory instrument containing regulations made by the National Assembly for Wales unless the statutory instrument contains regulations—
+
+(a) made by the Secretary of State, the Lord Chancellor or the Treasury (whether or not jointly with the Assembly),
+
+(b) relating to an English border area, or
+
+(c) relating to a cross-border body (and not relating only to the exercise of functions, or the carrying on of activities, by the body in or with respect to Wales or a part of Wales);
+
+and in this subsection expressions used in the Government of Wales Act 1998 (c. 38) have the same meaning as in that Act.
+
+(10) Subsection (7) has effect, so far as it relates to the exercise of powers under section 111(1) by the First Minister and deputy First Minister acting jointly, a Northern Ireland Minister or a Northern Ireland department, as if the reference to each House of Parliament were a reference to the Northern Ireland Assembly.
+
+### Dangerous substances
+
+#### 113 Use of noxious substances or things to cause harm and intimidate
+
+(1) A person who takes any action which—
+
+(a) involves the use of a noxious substance or other noxious thing;
+
+(b) has or is likely to have an effect falling within subsection (2); and
+
+(c) is designed to influence the government [[^F78]or an international governmental organisation] or to intimidate the public or a section of the public,
+
+is guilty of an offence.
+
+(2) Action has an effect falling within this subsection if it—
+
+(a) causes serious violence against a person anywhere in the world;
+
+(b) causes serious damage to real or personal property anywhere in the world;
+
+(c) endangers human life or creates a serious risk to the health or safety of the public or a section of the public; or
+
+(d) induces in members of the public the fear that the action is likely to endanger their lives or create a serious risk to their health or safety;
+
+but any effect on the person taking the action is to be disregarded.
+
+(3) A person who—
+
+(a) makes a threat that he or another will take any action which constitutes an offence under subsection (1); and
+
+(b) intends thereby to induce in a person anywhere in the world the fear that the threat is likely to be carried out,
+
+is guilty of an offence.
+
+(4) A person guilty of an offence under this section is liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum (or both); and
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding fourteen years or a fine (or both).
+
+(5) In this section—
+
+- “the government” means the government of the United Kingdom, of a part of the United Kingdom or of a country other than the United Kingdom; and
+- “the public” includes the public of a country other than the United Kingdom.
+
+#### 113A [[^F79]Application of section 113
+
+(1) Section 113 applies to conduct done—
+
+(a) in the United Kingdom; or
+
+(b) outside the United Kingdom which satisfies the following two conditions.
+
+(2) The first condition is that the conduct is done for the purpose of advancing a political, religious [[^F80], racial] or ideological cause.
+
+(3) The second condition is that the conduct is—
+
+(a) by a United Kingdom national or a United Kingdom resident;
+
+(b) by any person done to, or in relation to, a United Kingdom national, a United Kingdom resident or a protected person; or
+
+(c) by any person done in circumstances which fall within section 63D(1)(b) and (c) or (3)(b) and (c) of the Terrorism Act 2000.
+
+(4) The following expressions have the same meaning as they have for the purposes of sections 63C and 63D of that Act—
+
+(a) “United Kingdom national”;
+
+(b) “United Kingdom resident”;
+
+(c) “protected person”.
+
+(5) For the purposes of this section it is immaterial whether a person knows that another is a United Kingdom national, a United Kingdom resident or a protected person.
+
+#### 113B Consent to prosecution for offence under section 113
+
+(1) Proceedings for an offence committed under section 113 outside the United Kingdom are not to be started—
+
+(a) in England and Wales, except by or with the consent of the Attorney General;
+
+(b) in Northern Ireland, except by or with the consent of the Advocate General for Northern Ireland.
+
+(2) Proceedings for an offence committed under section 113 outside the United Kingdom may be taken, and the offence may for incidental purposes be treated as having been committed, in any part of the United Kingdom.
+
+(3) In relation to any time before the coming into force of section 27(1) of the Justice (Northern Ireland) Act 2002, the reference in subsection (1)(b) to the Advocate General for Northern Ireland is to be read as a reference to the Attorney General for Northern Ireland.]
+
+#### 114 Hoaxes involving noxious substances or things
+
+(1) A person is guilty of an offence if he—
+
+(a) places any substance or other thing in any place; or
+
+(b) sends any substance or other thing from one place to another (by post, rail or any other means whatever);
+
+with the intention of inducing in a person anywhere in the world a belief that it is likely to be (or contain) a noxious substance or other noxious thing and thereby endanger human life or create a serious risk to human health.
+
+(2) A person is guilty of an offence if he communicates any information which he knows or believes to be false with the intention of inducing in a person anywhere in the world a belief that a noxious substance or other noxious thing is likely to be present (whether at the time the information is communicated or later) in any place and thereby endanger human life or create a serious risk to human health.
+
+(3) A person guilty of an offence under this section is liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum (or both); and
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding seven years or a fine (or both).
+
+#### 115 Sections 113 and 114: supplementary
+
+(1) For the purposes of sections 113 and 114 “substance” includes any biological agent and any other natural or artificial substance (whatever its form, origin or method of production).
+
+(2) For a person to be guilty of an offence under section 113(3) or 114 it is not necessary for him to have any particular person in mind as the person in whom he intends to induce the belief in question.
+
+### Intelligence Services Act 1994
+
+#### 116 Amendments of Intelligence Services Act 1994
+
+(1) In section 7 of the Intelligence Services Act 1994 (c. 13) (authorisation of acts outside the British Islands), in subsection (3) —
+
+(a) in paragraphs (a) and (b)(i), after “the Intelligence Service” insert, in each case, “ or GCHQ ”; and
+
+(b) in paragraph (c), after “2(2)(a)” insert “ or 4(2)(a) ”.
+
+(2) After subsection (8) of that section insert—
+
+> (9) For the purposes of this section the reference in subsection (1) to an act done outside the British Islands includes a reference to any act which—
+>
+> (a) is done in the British Islands; but
+>
+> (b) is or is intended to be done in relation to apparatus that is believed to be outside the British Islands, or in relation to anything appearing to originate from such apparatus;
+>
+> and in this subsection “apparatus” has the same meaning as in the Regulation of Investigatory Powers Act 2000 (c. 23).
+
+[^F81]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Terrorism Act 2000
+
+#### 117 Information about acts of terrorism
+
+(1) The Terrorism Act 2000 (c. 11) is amended as follows.
+
+(2) After section 38 insert—
+
+> **38B Information about acts of terrorism**
+>
+> (1) This section applies where a person has information which he knows or believes might be of material assistance—
+>
+> (a) in preventing the commission by another person of an act of terrorism, or
+>
+> (b) in securing the apprehension, prosecution or conviction of another person, in the United Kingdom, for an offence involving the commission, preparation or instigation of an act of terrorism.
+>
+> (2) The person commits an offence if he does not disclose the information as soon as reasonably practicable in accordance with subsection (3).
+>
+> (3) Disclosure is in accordance with this subsection if it is made—
+>
+> (a) in England and Wales, to a constable,
+>
+> (b) in Scotland, to a constable, or
+>
+> (c) in Northern Ireland, to a constable or a member of Her Majesty’s forces.
+>
+> (4) It is a defence for a person charged with an offence under subsection (2) to prove that he had a reasonable excuse for not making the disclosure.
+>
+> (5) A person guilty of an offence under this section shall be liable—
+>
+> (a) on conviction on indictment, to imprisonment for a term not exceeding five years, or to a fine or to both, or
+>
+> (b) on summary conviction, to imprisonment for a term not exceeding six months, or to a fine not exceeding the statutory maximum or to both.
+>
+> (6) Proceedings for an offence under this section may be taken, and the offence may for the purposes of those proceedings be treated as having been committed, in any place where the person to be charged is or has at any time been since he first knew or believed that the information might be of material assistance as mentioned in subsection (1).
+
+(3) In section 39(3) (disclosure of information etc.), after “21” insert “ or 38B ”.
+
+#### 118 Port and airport controls for domestic travel
+
+(1) Schedule 7 to the Terrorism Act 2000 (port and border controls) is amended as follows.
+
+(2) In paragraph 2(2)(b), at the end insert “or his travelling by air within Great Britain or within Northern Ireland.”
+
+(3) In paragraph 2(3), for “in Great Britain or Northern Ireland.” substitute “ at any place in Great Britain or Northern Ireland (whether from within or outside Great Britain or Northern Ireland). ”
+
+(4) For paragraph 9(2) substitute—
+
+> (2) This paragraph applies to—
+>
+> (a) goods which have arrived in or are about to leave Great Britain or Northern Ireland on a ship or vehicle, and
+>
+> (b) goods which have arrived at or are about to leave any place in Great Britain or Northern Ireland on an aircraft (whether the place they have come from or are going to is within or outside Great Britain or Northern Ireland).
+
+#### 119 Passenger information
+
+(1) Paragraph 17 of Schedule 7 to the Terrorism Act 2000 (c. 11) (port and border controls: passenger information) is amended as follows.
+
+(2) For sub-paragraph (1) substitute—
+
+> (1) This paragraph applies to a ship or aircraft which—
+>
+> (a) arrives or is expected to arrive in any place in the United Kingdom (whether from another place in the United Kingdom or from outside the United Kingdom), or
+>
+> (b) leaves or is expected to leave the United Kingdom.
+
+(3) In sub-paragraph (4)—
+
+(a) omit the “or” at the end of paragraph (b), and
+
+(b) after paragraph (c) add—
+
+> , or
+>
+> (d) to goods.
+
+#### 120 Weapons training for terrorists
+
+(1) In section 54(1) and (2) of the Terrorism Act 2000 (weapons training for terrorists), after paragraph (a) insert—
+
+> (aa) radioactive material or weapons designed or adapted for the discharge of any radioactive material,
+
+.
+
+(2) In section 55 of that Act (definitions)—
+
+(a) for the definition of “biological weapon” substitute—
+
+> “biological weapon” means a biological agent or toxin (within the meaning of the Biological Weapons Act 1974) in a form capable of use for hostile purposes or anything to which section 1(1)(b) of that Act applies,
+
+;
+
+(b) after the definition of “chemical weapon” insert—
+
+> “radioactive material” means radioactive material capable of endangering life or causing harm to human health,
+
+;
+
+and
+
+(c) the definition of “nuclear weapon” shall cease to have effect.
+
+#### 121 Crown Court judges: Northern Ireland
+
+(1) The Terrorism Act 2000 (c. 11) is amended as follows.
+
+(2) In paragraph 18 of Schedule 5 (terrorist investigations: application to Northern Ireland)—
+
+(a) omit paragraph (e);
+
+(b) in paragraph (g) for “county court judge” substitute “ Crown Court judge ”.
+
+(3) In paragraph 20 of that Schedule (powers of Secretary of State), in sub-paragraphs (2) and (3)(a) for “county court judge” substitute “ Crown Court judge ”.
+
+(4) In paragraph 3(c) of Schedule 6 (persons by whom financial information orders may be made) for “county court judge” substitute “ Crown Court judge ”.
+
+## Part 14 — Supplemental
+
+### [^F82]122 Review of Act
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F83]123 Effect of report
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 124 Consequential and supplementary provision
+
+(1) A Minister of the Crown may by order make such incidental, consequential, transitional or supplemental provision as he thinks necessary or expedient for the general purposes, or any particular purpose, of this Act or in consequence of any provision made by or under this Act or for giving full effect to this Act or any such provision.
+
+(2) An order under this section may, in particular, make provision—
+
+(a) for applying (with or without modifications) or amending, repealing or revoking any provision of or made under an Act passed before this Act or in the same Session,
+
+(b) for making savings, or additional savings, from the effect of any repeal or revocation made by or under this Act.
+
+(3) Amendments made under this section are in addition, and without prejudice, to those made by or under any other provision of this Act.
+
+(4) No other provision of this Act restricts the powers conferred by this section.
+
+(5) An order under this section may make different provision for different purposes.
+
+(6) An order under this section shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(7) In this Part, “Minister of the Crown” has the same meaning as in the Ministers of the Crown Act 1975 (c. 26).
+
+### 125 Repeals and revocation
+
+The enactments mentioned in Schedule 8 are repealed or revoked to the extent specified in the second column of that Schedule.
+
+### 126 Expenses
+
+There shall be paid out of money provided by Parliament—
+
+(a) any expenditure incurred by a Minister of the Crown by virtue of this Act, and
+
+(b) any increase attributable to this Act in the sums payable out of money so provided under any other enactment.
+
+### 127 Commencement
+
+(1) Except as provided in subsections (2) to (4), this Act comes into force on such day as the Secretary of State may appoint by order.
+
+(2) The following provisions come into force on the day on which this Act is passed—
+
+(a) Parts 2 to 6,
+
+(b) Part 8, except section 78,
+
+(c) Part 9, except sections 84 and 87,
+
+(d) sections 89 to 97,
+
+(e) sections 98 to 100, except so far as they extend to Scotland,
+
+(f) section 101 and Schedule 7, except so far as they relate to the entries in respect of the Police (Scotland) Act 1967,
+
+(g) Part 11,
+
+(h) Part 13, except section 121,
+
+(i) this Part, except section 125 and Schedule 8 so far as they relate to the entries—
+
+(i) in Part 1 of Schedule 8,
+
+(ii) in Part 5 of Schedule 8, in respect of the Nuclear Installations Act 1965,
+
+(iii) in Part 6 of Schedule 8, in respect of the British Transport Commission Act 1962 and the Ministry of Defence Police Act 1987, so far as those entries extend to Scotland,
+
+(iv) in Part 7 of Schedule 8, in respect of Schedule 5 to the Terrorism Act 2000.
+
+(3) The following provisions come into force at the end of the period of two months beginning with the day on which this Act is passed—
+
+(a) section 84,
+
+(b) section 87.
+
+(4) The following provisions come into force on such day as the Secretary of State and the Scottish Ministers, acting jointly, may appoint by order—
+
+(a) sections 98 to 100, so far as they extend to Scotland,
+
+(b) section 101 and Schedule 7, so far as they relate to the entries in respect of the Police (Scotland) Act 1967, and
+
+(c) section 125 and Schedule 8, so far as they relate to the entries in Part 6 of Schedule 8 in respect of the British Transport Commission Act 1962 and the Ministry of Defence Police Act 1987, so far as those entries extend to Scotland.
+
+(5) Different days may be appointed for different provisions and for different purposes.
+
+(6) An order under this section—
+
+(a) must be made by statutory instrument, and
+
+(b) may contain incidental, supplemental, consequential or transitional provision.
+
+### 128 Extent
+
+(1) The following provisions do not extend to Scotland—
+
+(a) Part 5,
+
+(b) Part 12,
+
+(c) in Part 6 of Schedule 8, the repeals in the Criminal Justice and Police Order Act 1994 and in the Crime and Disorder Act 1998.
+
+(2) The following provisions do not extend to Northern Ireland—
+
+(a) section 76,
+
+(b) section 100.
+
+(3) Except as provided in subsections (1) and (2), an amendment, repeal or revocation in this Act has the same extent as the enactment amended, repealed or revoked.
+
+### 129 Short title
+
+This Act may be cited as the Anti-terrorism, Crime and Security Act 2001.
+
+## SCHEDULE 1 — Forfeiture of terrorist [[^F84]property]
+
+*Section 1*
+
+### PART 1 — Introductory[[^F85]: forfeiture of terrorist cash]
+
+#### Terrorist cash
+
+**1** (1) This Schedule [[^F86](other than Parts 4A [[^F87]to 4BD])] applies to cash (“terrorist cash”) which—
+
+(a) is within subsection (1)(a) or (b) of section 1, or
+
+(b) is property earmarked as terrorist property.
+
+(2) “Cash” means—
+
+(a) coins and notes in any currency,
+
+(b) postal orders,
+
+(c) cheques of any kind, including travellers’ cheques,
+
+(d) bankers’ drafts,
+
+(e) bearer bonds and bearer shares,
+
+[[^F88](f) gaming vouchers,
+
+(g) fixed-value casino tokens,
+
+(h) betting receipts,]
+
+found at any place in the United Kingdom.
+
+(3) Cash also includes any kind of monetary instrument which is found at any place in the United Kingdom, if the instrument is specified by the Secretary of State by order.
+
+(4) The power to make an order under sub-paragraph (3) is exercisable by statutory instrument, which is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+[[^F89](5) For the purposes of sub-paragraph (2)—
+
+(a) “gaming voucher” means a voucher in physical form issued by a gaming machine that represents a right to be paid the amount stated on it;
+
+(b) “fixed-value casino token” means a casino token that represents a right to be paid the amount stated on it;
+
+(c) “betting receipt” means a receipt in physical form that represents a right to be paid an amount in respect of a bet placed with a person holding a betting licence.
+
+(6) In sub-paragraph (5)—
+
+- “bet”—
+
+  - (a) in relation to England and Wales and Scotland, has the same meaning as in section 9(1) of the Gambling Act 2005;
+  - (b) in relation to Northern Ireland, has the same meaning as in the Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985 (S.I. 1985/1204 (N.I. 11)) (see Article 2 of that Order);
+
+- “betting licence”—
+
+  - (a) in relation to England and Wales and Scotland, means a general betting operating licence issued under Part 5 of the Gambling Act 2005;
+  - (b) in relation to Northern Ireland, means a bookmaker's licence as defined in Article 2 of the Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985;
+
+- “gaming machine”—
+
+  - (a) in relation to England and Wales and Scotland, has the same meaning as in the Gambling Act 2005 (see section 235 of that Act);
+  - (b) in relation to Northern Ireland, has the same meaning as in the Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985 (see Article 2 of that Order).
+
+(7) In the application of sub-paragraph (5) to Northern Ireland references to a right to be paid an amount are to be read as references to the right that would exist but for Article 170 of the Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985 (gaming and wagering contracts void).]
+
+### PART 2 — Seizure and detention [[^F90]of terrorist cash]
+
+#### Seizure of cash
+
+**2** (1) An authorised officer may seize any cash if he has reasonable grounds for suspecting that it is terrorist cash.
+
+(2) An authorised officer may also seize cash part of which he has reasonable grounds for suspecting to be terrorist cash if it is not reasonably practicable to seize only that part.
+
+#### Detention of seized cash
+
+**3** (1) While the authorised officer continues to have reasonable grounds for his suspicion, cash seized under this Schedule may be detained initially for a period of 48 hours.
+
+[[^F91](1A) In determining the period of 48 hours specified in sub-paragraph (1) there shall be disregarded—
+
+(a) any Saturday or Sunday;
+
+(b) Christmas Day;
+
+(c) Good Friday;
+
+(d) any day that is a bank holiday under the Banking and Financial Dealings Act 1971 in the part of the United Kingdom in which the cash is seized;
+
+(e) any day prescribed under section 8(2) of the Criminal Procedure (Scotland) Act 1995 as a court holiday in the sheriff court district in which the cash is seized.]
+
+(2) The period for which the cash or any part of it may be detained may be extended by an order made by a magistrates’ court or (in Scotland) the sheriff; but the order may not authorise the detention of any of the cash—
+
+(a) beyond the end of the period of [[^F92]6] months beginning with the date of the order, and
+
+(b) in the case of any further order under this paragraph, beyond the end of the period of two years beginning with the date of the first order.
+
+(3) A justice of the peace may also exercise the power of a magistrates’ court to make the first order under sub-paragraph (2) extending the period.
+
+[[^F93](3A) An application to [[^F94]a magistrates' court,] a justice of the peace or the sheriff for an order under sub-paragraph (2) making the first extension of the period—
+
+(a) may be made and heard without notice of the application or hearing having been given to any of the persons affected by the application or to the legal representative of such a person, and
+
+(b) may be heard and determined in private in the absence of persons so affected and of their legal representatives.]
+
+(4) An order under sub-paragraph (2) must provide for notice to be given to persons affected by it.
+
+(5) An application for an order under sub-paragraph (2)—
+
+(a) in relation to England and Wales and Northern Ireland, may be made by the Commissioners of Customs and Excise or an authorised officer,
+
+(b) in relation to Scotland, may be made by a procurator fiscal,
+
+and the court, sheriff or justice may make the order if satisfied, in relation to any cash to be further detained, that one of the following conditions is met.
+
+(6) The first condition is that there are reasonable grounds for suspecting that the cash is intended to be used for the purposes of terrorism and that either—
+
+(a) its continued detention is justified while its intended use is further investigated or consideration is given to bringing (in the United Kingdom or elsewhere) proceedings against any person for an offence with which the cash is connected, or
+
+(b) proceedings against any person for an offence with which the cash is connected have been started and have not been concluded.
+
+(7) The second condition is that there are reasonable grounds for suspecting that the cash consists of resources of an organisation which is a proscribed organisation and that either—
+
+(a) its continued detention is justified while investigation is made into whether or not it consists of such resources or consideration is given to bringing (in the United Kingdom or elsewhere) proceedings against any person for an offence with which the cash is connected, or
+
+(b) proceedings against any person for an offence with which the cash is connected have been started and have not been concluded.
+
+(8) The third condition is that there are reasonable grounds for suspecting that the cash is property earmarked as terrorist property and that either—
+
+(a) its continued detention is justified while its derivation is further investigated or consideration is given to bringing (in the United Kingdom or elsewhere) proceedings against any person for an offence with which the cash is connected, or
+
+(b) proceedings against any person for an offence with which the cash is connected have been started and have not been concluded.
+
+[[^F95](9) Where an application for an order under sub-paragraph (2) relates to cash seized under paragraph 2(2), the court, sheriff or justice may make the order if satisfied that—
+
+(a) the condition in sub-paragraph (6), (7) or (8) is met in respect of part of the cash, and
+
+(b) it is not reasonably practicable to detain only that part.]
+
+#### Payment of detained cash into an account
+
+**4** (1) If cash is detained under this Schedule for more than 48 hours [[^F96](determined in accordance with paragraph 3(1A))] , it is to be held in an interest-bearing account and the interest accruing on it is to be added to it on its forfeiture or release.
+
+(2) In the case of cash seized under paragraph 2(2), the authorised officer must, on paying it into the account, release so much of the cash then held in the account as is not attributable to terrorist cash.
+
+(3) Sub-paragraph (1) does not apply if the cash is required as evidence of an offence or evidence in proceedings under this Schedule.
+
+#### Release of detained cash
+
+**5** (1) This paragraph applies while any cash is detained under [[^F97]any provision of this Schedule other than Part 2A].
+
+(2) A magistrates’ court or (in Scotland) the sheriff may direct the release of the whole or any part of the cash if satisfied, on an application by the person from whom it was seized, that the conditions in paragraph 3 for the detention of cash are no longer met in relation to the cash to be released.
+
+(3) A authorised officer or (in Scotland) a procurator fiscal may, after notifying the magistrates’ court, sheriff or justice under whose order cash is being detained, release the whole or any part of it if satisfied that the detention of the cash to be released is no longer justified.
+
+[^F98]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [[^F99]PART 2A — Forfeiture of terrorist cash without court order
+
+#### Cash forfeiture notice
+
+**5A** (1) This paragraph applies while any cash is detained in pursuance of an order under paragraph 3(2).
+
+(2) A senior officer may give a notice for the purpose of forfeiting the cash or any part of it if satisfied that the cash or part is terrorist cash.
+
+(3) A notice given under sub-paragraph (2) is referred to in this Schedule as a cash forfeiture notice.
+
+(4) A cash forfeiture notice must—
+
+(a) state the amount of cash in respect of which it is given,
+
+(b) state when and where the cash was seized,
+
+(c) confirm that the senior officer is satisfied as mentioned in sub-paragraph (2),
+
+(d) specify a period for objecting to the proposed forfeiture and an address to which any objections must be sent, and
+
+(e) explain that the cash will be forfeited unless an objection is received at that address within the period for objecting.
+
+(5) The period for objecting must be at least 30 days starting with the day after the notice is given.
+
+(6) The Secretary of State must by regulations made by statutory instrument make provision about how a cash forfeiture notice is to be given.
+
+(7) The regulations may (amongst other things) provide—
+
+(a) for a cash forfeiture notice to be given to such person or persons, and in such manner, as may be prescribed;
+
+(b) for a cash forfeiture notice to be given by publication in such manner as may be prescribed;
+
+(c) for circumstances in which, and the time at which, a cash forfeiture notice is to be treated as having been given.
+
+(8) The regulations must ensure that where a cash forfeiture notice is given it is, if possible, given to every person to whom notice of an order under paragraph 3(2) in respect of the cash has been given.
+
+(9) A statutory instrument containing regulations under this paragraph is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(10) In this Part of this Schedule—
+
+- “senior officer” means—
+
+  - (a) a senior police officer;
+  - (b) an officer of Revenue and Customs of a rank designated by the Commissioners for Her Majesty's Revenue and Customs as equivalent to that of a senior police officer;
+  - (c) an immigration officer of a rank designated by the Secretary of State as equivalent to that of a senior police officer;
+
+- “senior police officer” means a police officer of at least the rank of superintendent.
+
+#### Effect of cash forfeiture notice
+
+**5B** (1) This paragraph applies if a cash forfeiture notice is given in respect of any cash.
+
+(2) The cash is to be detained until—
+
+(a) the cash is forfeited under this paragraph,
+
+(b) the notice lapses under this paragraph, or
+
+(c) the cash is released under a power conferred by this Schedule.
+
+(3) If no objection is made within the period for objecting specified in the notice under paragraph 5A(4)(d), and the notice has not lapsed, the cash is forfeited (subject to paragraph 5D).
+
+(4) If an objection is made within the period for objecting, the notice lapses.
+
+(5) If an application is made for the forfeiture of the whole or any part of the cash under paragraph 6, the notice lapses.
+
+(6) If the cash or any part of it is released under a power conferred by this Schedule, the notice lapses or (as the case may be) lapses in relation to that part.
+
+(7) An objection may be made by anyone (whether a recipient of the notice or not).
+
+(8) An objection means a written objection sent to the address specified in the notice; and an objection is made when it is received at the address.
+
+(9) An objection does not prevent forfeiture of the cash under paragraph 6.
+
+(10) Nothing in this paragraph affects the validity of an order under paragraph 3(2).
+
+#### Detention following lapse of cash forfeiture notice
+
+**5C** (1) This paragraph applies if—
+
+(a) a cash forfeiture notice is given in respect of any cash,
+
+(b) the notice lapses under paragraph 5B(4), and
+
+(c) the period for which detention of the cash was authorised under paragraph 3(2) has expired.
+
+(2) The cash may be detained for a further period of up to 48 hours (calculated in accordance with paragraph 3(1A)).
+
+(3) But if within that period it is decided that neither of the applications mentioned in sub-paragraph (4) is to be made, the cash must be released.
+
+(4) The applications are—
+
+(a) an application for a further order under paragraph 3(2);
+
+(b) an application for forfeiture of the cash under paragraph 6.
+
+(5) If within that period an application is made for a further order under paragraph 3(2), the cash may be detained until the application is determined or otherwise disposed of.
+
+#### Application to set aside forfeiture
+
+**5D** (1) A person aggrieved by the forfeiture of cash in pursuance of paragraph 5B(3) may apply to a magistrates' court or (in Scotland) the sheriff for an order setting aside the forfeiture of the cash or any part of it.
+
+(2) The application must be made before the end of the period of 30 days starting with the day on which the period for objecting ended (“the 30-day period”).
+
+(3) But the court or sheriff may give permission for an application to be made after the 30-day period has ended if the court or sheriff thinks that there are exceptional circumstances to explain why the applicant—
+
+(a) failed to object to the forfeiture within the period for objecting, and
+
+(b) failed to make an application within the 30-day period.
+
+(4) On an application under this paragraph the court or sheriff must consider whether the cash to which the application relates could be forfeited under paragraph 6 (ignoring the forfeiture mentioned in sub-paragraph (1)).
+
+(5) If the court or sheriff is satisfied that the cash to which the application relates or any part of it could not be forfeited under that paragraph the court or sheriff must set aside the forfeiture of that cash or part.
+
+(6) Where the court or sheriff sets aside the forfeiture of any cash—
+
+(a) the court or sheriff must order the release of that cash, and
+
+(b) the cash is to be treated as never having been forfeited.
+
+#### Release of cash subject to cash forfeiture notice
+
+**5E** (1) This paragraph applies while any cash is detained under paragraph 5B or 5C.
+
+(2) The person from whom the cash was seized may apply to a magistrates' court or (in Scotland) the sheriff for the cash to be released.
+
+(3) On an application under sub-paragraph (2), the court or sheriff may direct the release of the cash or any part of it if not satisfied that the cash to be released is terrorist cash.
+
+(4) An authorised officer may release the cash or any part of it if satisfied that the detention of the cash to be released is no longer justified.
+
+#### Application of cash forfeited under cash forfeiture notice
+
+**5F** (1) Cash forfeited in pursuance of paragraph 5B(3), and any accrued interest on it—
+
+(a) if first detained in pursuance of an order under paragraph 3(2) made by a magistrates' court or a justice of the peace, is to be paid into the Consolidated Fund;
+
+(b) if first detained in pursuance of an order under paragraph 3(2) made by the sheriff, is to be paid into the Scottish Consolidated Fund.
+
+(2) But it is not to be paid in—
+
+(a) before the end of the period within which an application under paragraph 5D may be made (ignoring the possibility of an application by virtue of paragraph 5D(3)), or
+
+(b) if an application is made within that period, before the application is determined or otherwise disposed of.]
+
+### PART 3 — Forfeiture [[^F100]of terrorist cash]
+
+#### Forfeiture
+
+**6** (1) While cash is detained under this Schedule, an application for the forfeiture of the whole or any part of it may be made—
+
+(a) to a magistrates’ court by the Commissioners of Customs and Excise or an authorised officer,
+
+(b) (in Scotland) to the sheriff by the Scottish Ministers.
+
+(2) The court or sheriff may order the forfeiture of the cash or any part of it if satisfied that the cash or part is terrorist cash.
+
+(3) In the case of property earmarked as terrorist property which belongs to joint tenants one of whom is an excepted joint owner, the order may not apply to so much of it as the court or sheriff thinks is attributable to the excepted joint owner’s share.
+
+(4) An excepted joint owner is a joint tenant who obtained the property in circumstances in which it would not (as against him) be earmarked; and references to his share of the earmarked property are to so much of the property as would have been his if the joint tenancy had been severed.
+
+#### [[^F101]Appeal against decision in forfeiture proceedings
+
+**7** (1) A party to proceedings for an order under paragraph 6 (“a forfeiture order”) who is aggrieved by a forfeiture order made in the proceedings or by the decision of the court or sheriff not to make a forfeiture order may appeal—
+
+(a) in England and Wales, to the Crown Court;
+
+(b) in Scotland, to the sheriff principal;
+
+(c) in Northern Ireland, to a county court.
+
+(2) The appeal must be brought before the end of the period of 30 days beginning with the date on which the order is made or, as the case may be, the decision is given.
+
+This is subject to paragraph 7A (extended time for appealing in certain cases of deproscription).
+
+(3) The court or sheriff principal hearing the appeal may make any order that appears to the court or sheriff principal to be appropriate.
+
+(4) If an appeal against a forfeiture order is upheld, the court or sheriff principal may order the release of [[^F102]the whole or any part of] the cash.
+
+#### Extended time for appealing in certain cases where deproscription order made
+
+**7A** (1) This paragraph applies where—
+
+(a) a successful application for a forfeiture order relies (wholly or partly) on the fact that an organisation is proscribed,
+
+(b) an application under section 4 of the Terrorism Act 2000 for a deproscription order in respect of the organisation is refused by the Secretary of State,
+
+(c) the forfeited cash is seized under this Schedule on or after the date of the refusal of that application,
+
+(d) an appeal against that refusal is allowed under section 5 of that Act,
+
+(e) a deproscription order is made accordingly, and
+
+(f) if the order is made in reliance on section 123(5) of that Act, a resolution is passed by each House of Parliament under section 123(5)(b).
+
+(2) Where this paragraph applies, an appeal under paragraph 7 above against the forfeiture order may be brought at any time before the end of the period of 30 days beginning with the date on which the deproscription order comes into force.
+
+(3) In this paragraph a “deproscription order” means an order under section 3(3)(b) or (8) of the Terrorism Act 2000.]
+
+#### Application of forfeited cash
+
+**8** (1) Cash forfeited under [[^F103]paragraph 6], and any accrued interest on it—
+
+(a) if forfeited by a magistrates’ court in England and Wales or Northern Ireland, is to be paid into the Consolidated Fund,
+
+(b) if forfeited by the sheriff, is to be paid into the Scottish Consolidated Fund.
+
+(2) But it is not to be paid in—
+
+(a) before the end of the period within which an appeal under paragraph 7 may be made, or
+
+(b) if a person appeals under that paragraph, before the appeal is determined or otherwise disposed of.
+
+### PART 4 — Miscellaneous[[^F104]: terrorist cash]
+
+#### Victims
+
+**9** (1) A person who claims that any cash detained under this Schedule, or any part of it, belongs to him may apply to a magistrates’ court or (in Scotland) the sheriff for the cash or part to be released to him.
+
+(2) The application may be made in the course of proceedings under paragraph 3 or 6 or at any other time.
+
+(3) If it appears to the court or sheriff concerned that—
+
+(a) the applicant was deprived of the cash claimed, or of property which it represents, by criminal conduct,
+
+(b) the property he was deprived of was not, immediately before he was deprived of it, property obtained by or in return for criminal conduct and nor did it then represent such property, and
+
+(c) the cash claimed belongs to him,
+
+the court or sheriff may order the cash to be released to the applicant.
+
+[[^F105](4) If sub-paragraph (5) applies, the court or sheriff may order the cash to be released to the applicant or to the person from whom it was seized.
+
+(5) This sub-paragraph applies where—
+
+(a) the applicant is not the person from whom the cash claimed was seized,
+
+(b) it appears to the court or sheriff that the cash belongs to the applicant,
+
+(c) the court or sheriff is satisfied that the release condition is met in relation to the cash, and
+
+(d) no objection to the making of an order under sub-paragraph (4) has been made by the person from whom the cash was seized.
+
+(6) The release condition is met—
+
+(a) in relation to cash detained under paragraph 3, if the conditions in that paragraph for the detention of the cash are no longer met,
+
+(b) in relation to cash detained under paragraph 5B or 5C, if the cash is not terrorist cash, and
+
+(c) in relation to cash detained pending the conclusion of proceedings in pursuance of an application under paragraph 6, if the court or sheriff decides not to make an order under that paragraph in relation to the cash.]
+
+#### [[^F106]Restrictions on release
+
+**9A** Cash is not to be released under any power or duty conferred or imposed by this Schedule (and so is to continue to be detained)—
+
+(a) if an application for its forfeiture under paragraph 6, or for its release under paragraph 9, is made, until any proceedings in pursuance of the application (including any proceedings on appeal) are concluded;
+
+(b) if (in the United Kingdom or elsewhere) proceedings are started against any person for an offence with which the cash is connected, until the proceedings are concluded.]
+
+#### Compensation
+
+**10** (1) If no forfeiture order is made in respect of any cash detained under this Schedule, [[^F107]and the cash is not otherwise forfeited in pursuance of a cash forfeiture notice,] the person to whom the cash belongs or from whom it was seized may make an application to the magistrates’ court or (in Scotland) the sheriff for compensation.
+
+(2) If, for any period after the initial detention of the cash for 48 hours [[^F108](determined in accordance with paragraph 3(1A))] , the cash was not held in an interest-bearing account while detained, the court or sheriff may order an amount of compensation to be paid to the applicant.
+
+(3) The amount of compensation to be paid under sub-paragraph (2) is the amount the court or sheriff thinks would have been earned in interest in the period in question if the cash had been held in an interest-bearing account.
+
+(4) If the court or sheriff is satisfied that, taking account of any interest to be paid under this Schedule or any amount to be paid under sub-paragraph (2), the applicant has suffered loss as a result of the detention of the cash and that the circumstances are exceptional, the court or sheriff may order compensation (or additional compensation) to be paid to him .
+
+(5) The amount of compensation to be paid under sub-paragraph (4) is the amount the court or sheriff thinks reasonable, having regard to the loss suffered and any other relevant circumstances.
+
+(6) If the cash was seized by a customs officer, the compensation is to be paid by the Commissioners of Customs and Excise.
+
+(7) If the cash was seized by a constable, the compensation is to be paid as follows—
+
+(a) in the case of a constable of a police force in England and Wales, it is to be paid out of the police fund from which the expenses of the police force are met,
+
+(b) in the case of a constable of [[^F109]the Police Service of Scotland, it is to be paid by the Scottish Police Authority,]
+
+(c) in the case of a police officer within the meaning of the Police (Northern Ireland) Act 2000 (c. 32), it is to be paid out of money provided by the Chief Constable.
+
+[[^F110](7A) If the cash was seized by a counter-terrorism financial investigator, the compensation is to be paid as follows—
+
+(a) in the case of a counter-terrorism financial investigator who was—
+
+(i) a member of the civilian staff of a police force (including the metropolitan police force), within the meaning of Part 1 of the Police Reform and Social Responsibility Act 2011, or
+
+(ii) a member of staff of the City of London police force,
+
+it is to be paid out of the police fund from which the expenses of the police force are met,
+
+(b) in the case of a counter-terrorism financial investigator who was a member of staff of the Police Service of Northern Ireland, it is to be paid out of money provided by the Chief Constable of the Police Service of Northern Ireland.]
+
+(8) If the cash was seized by an immigration officer, the compensation is to be paid by the Secretary of State.
+
+[[^F111](8A) If any cash is detained under this Schedule and part only of the cash is forfeited in pursuance of a cash forfeiture notice, this paragraph has effect in relation to the other part.]
+
+(9) If a forfeiture order is made in respect only of a part of any cash detained under this Schedule, this paragraph has effect in relation to the other part.
+
+(10) This paragraph does not apply if the court or sheriff makes an order under paragraph 9.
+
+### [[^F112]PART 4A — Forfeiture of terrorist assets
+
+#### Definition of “listed asset”
+
+**10A** (1) In this Part of this Schedule, a “listed asset” means an item of property that falls within one of the following descriptions of property—
+
+(a) precious metals;
+
+(b) precious stones;
+
+(c) watches;
+
+(d) artistic works;
+
+(e) face-value vouchers;
+
+(f) postage stamps.
+
+(2) The Secretary of State may by regulations made by statutory instrument amend sub-paragraph (1)—
+
+(a) by removing a description of property;
+
+(b) by adding a description of tangible personal (or corporeal moveable) property.
+
+(3) A statutory instrument containing regulations under sub-paragraph (2) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(4) In this paragraph—
+
+(a) “precious metal” means gold, silver or platinum (whether in an unmanufactured or a manufactured state);
+
+(b) “artistic work” means a piece of work falling within section 4(1)(a) of the Copyright, Designs and Patents Act 1988;
+
+(c) “face-value voucher” means a voucher in physical form that represents a right to receive goods or services to the value of an amount stated on it.
+
+#### Seizure of listed assets
+
+**10B** (1) An authorised officer may seize any item of property if the authorised officer has reasonable grounds for suspecting that—
+
+(a) it is a listed asset, and
+
+(b) it is within subsection (1)(a) or (b) of section 1 or it is property earmarked as terrorist property.
+
+(2) An authorised officer may also seize any item of property if—
+
+(a) the authorised officer has reasonable grounds for suspecting the item to be a listed asset,
+
+(b) the authorised officer has reasonable grounds for suspecting that part of the item is within subsection (1)(a) or (b) of section 1 or is property earmarked as terrorist property, and
+
+(c) it is not reasonably practicable to seize only that part.
+
+#### Initial detention of seized property
+
+**10C** (1) Property seized under paragraph 10B may be detained for an initial period of 48 hours.
+
+(2) Sub-paragraph (1) authorises the detention of property only for so long as an authorised officer continues to have reasonable grounds for suspicion in relation to that property as described in paragraph 10B(1) or (2) (as the case may be).
+
+(3) In calculating a period of hours for the purposes of this paragraph, no account shall be taken of—
+
+(a) any Saturday or Sunday,
+
+(b) Christmas Day,
+
+(c) Good Friday,
+
+(d) any day that is a bank holiday under the Banking and Financial Dealings Act 1971 in the part of the United Kingdom within which the property is seized, or
+
+(e) any day prescribed under section 8(2) of the Criminal Procedure (Scotland) Act 1995 as a court holiday in a sheriff court in the sheriff court district within which the property is seized.
+
+#### Further detention of seized property
+
+**10D** (1) The period for which property seized under paragraph 10B, or any part of that property, may be detained may be extended by an order made—
+
+(a) in England and Wales or Northern Ireland, by a magistrates' court;
+
+(b) in Scotland, by the sheriff.
+
+(2) An order under sub-paragraph (1) may not authorise the detention of any property—
+
+(a) beyond the end of the period of 6 months beginning with the date of the order, and
+
+(b) in the case of any further order under this paragraph, beyond the end of the period of 2 years beginning with the date of the first order.
+
+(3) A justice of the peace may also exercise the power of a magistrates' court to make the first order under sub-paragraph (1) extending a particular period of detention.
+
+(4) An application to a magistrates' court, a justice of the peace or the sheriff to make the first order under sub-paragraph (1) extending a particular period of detention—
+
+(a) may be made and heard without notice of the application or hearing having been given to any of the persons affected by the application or to the legal representatives of such a person, and
+
+(b) may be heard and determined in private in the absence of persons so affected and of their legal representatives.
+
+(5) An application for an order under sub-paragraph (1) may be made—
+
+(a) in relation to England and Wales and Northern Ireland, by the Commissioners for Her Majesty's Revenue and Customs or an authorised officer;
+
+(b) in relation to Scotland, by a procurator fiscal.
+
+(6) The court, sheriff or justice may make the order if satisfied, in relation to the item of property to be further detained, that—
+
+(a) it is a listed asset, and
+
+(b) condition 1, condition 2 or condition 3 is met.
+
+(7) Condition 1 is that there are reasonable grounds for suspecting that the property is intended to be used for the purposes of terrorism and that either—
+
+(a) its continued detention is justified while its intended use is further investigated or consideration is given to bringing (in the United Kingdom or elsewhere) proceedings against any person for an offence with which the property is connected, or
+
+(b) proceedings against any person for an offence with which the property is connected have been started and have not been concluded.
+
+(8) Condition 2 is that there are reasonable grounds for suspecting that the property consists of resources of an organisation which is a proscribed organisation and that either—
+
+(a) its continued detention is justified while investigation is made into whether or not it consists of such resources or consideration is given to bringing (in the United Kingdom or elsewhere) proceedings against any person for an offence with which the property is connected, or
+
+(b) proceedings against any person for an offence with which the property is connected have been started and have not been concluded.
+
+(9) Condition 3 is that there are reasonable grounds for suspecting that the property is property earmarked as terrorist property and that either—
+
+(a) its continued detention is justified while its derivation is further investigated or consideration is given to bringing (in the United Kingdom or elsewhere) proceedings against any person for an offence with which the property is connected, or
+
+(b) proceedings against any person for an offence with which the property is connected have been started and have not been concluded.
+
+(10) Where an application for an order under sub-paragraph (1) relates to an item of property seized under paragraph 10B(2), the court, sheriff or justice may make the order if satisfied that—
+
+(a) the item of property is a listed asset,
+
+(b) condition 1, 2 or 3 is met in respect of part of the item, and
+
+(c) it is not reasonably practicable to detain only that part.
+
+(11) An order under sub-paragraph (1) must provide for notice to be given to persons affected by it.
+
+#### Testing and safekeeping of property seized under paragraph 10B
+
+**10E** (1) An authorised officer may carry out (or arrange for the carrying out of) tests on any item of property seized under paragraph 10B for the purpose of establishing whether it is a listed asset.
+
+(2) An authorised officer must arrange for any item of property seized under paragraph 10B to be safely stored throughout the period during which it is detained under this Part of this Schedule.
+
+#### Release of detained property
+
+**10F** (1) This paragraph applies while any property is detained under this Part of this Schedule.
+
+(2) A magistrates' court or (in Scotland) the sheriff may direct the release of the whole or any part of the property if satisfied, on an application by the person from whom the property was seized, that the conditions in paragraph 10C or 10D (as the case may be) for the detention of the property are no longer met in relation to the property to be released.
+
+(3) An authorised officer or (in Scotland) a procurator fiscal may, after notifying the magistrates' court, sheriff or justice under whose order property is being detained, release the whole or any part of it if satisfied that the detention of the property to be released is no longer justified.
+
+(4) But property is not to be released under this paragraph—
+
+(a) if an application for its release under paragraph 10O is made, until any proceedings in pursuance of the application (including any proceedings on appeal) are concluded;
+
+(b) if (in the United Kingdom or elsewhere) proceedings are started against any person for an offence with which the property is connected, until the proceedings are concluded.
+
+See also paragraph 10G(7).
+
+#### Forfeiture
+
+**10G** (1) While property is detained under this Part of this Schedule, an application for the forfeiture of the whole or any part of it may be made—
+
+(a) to a magistrates' court, by the Commissioners for Her Majesty's Revenue and Customs or an authorised officer;
+
+(b) to the sheriff, by the Scottish Ministers.
+
+(2) The court or sheriff may order the forfeiture of the property or any part of it if satisfied that—
+
+(a) the property is a listed asset, and
+
+(b) what is to be forfeited is within subsection (1)(a) or (b) of section 1 or is property earmarked as terrorist property.
+
+(3) An order under sub-paragraph (2) made by a magistrates' court may provide for payment under paragraph 10N of reasonable legal expenses that a person has reasonably incurred, or may reasonably incur, in respect of—
+
+(a) the proceedings in which the order is made, or
+
+(b) any related proceedings under this Part of this Schedule.
+
+(4) A sum in respect of a relevant item of expenditure is not payable under paragraph 10N in pursuance of provision under sub-paragraph (3) unless—
+
+(a) the person who applied for the order under sub-paragraph (2) agrees to its payment, or
+
+(b) the court has assessed the amount allowed in respect of that item and the sum is paid in respect of the assessed amount.
+
+(5) For the purposes of sub-paragraph (4)—
+
+(a) a “relevant item of expenditure” is an item of expenditure to which regulations under section 286B of the Proceeds of Crime Act 2002 would apply if the order under sub-paragraph (2) had instead been a recovery order made under section 266 of that Act;
+
+(b) an amount is “allowed” in respect of a relevant item of expenditure if it would have been allowed by those regulations;
+
+(c) if the person who applied for the order under sub-paragraph (2) was an authorised officer, that person may not agree to the payment of a sum unless the person is a senior officer or is authorised to do so by a senior officer.
+
+(6) Sub-paragraph (2) ceases to apply on the transfer of an application made under this paragraph in accordance with paragraph 10J(1)(a) or (b).
+
+(7) Where an application for the forfeiture of any property is made under this paragraph, the property is to be detained (and may not be released under any power conferred by this Part of this Schedule) until any proceedings in pursuance of the application (including any proceedings on appeal) are concluded.
+
+(8) Where the property to which the application relates is being detained under this Part of this Schedule as part of an item of property, having been seized under paragraph 10B(2), sub-paragraph (7) is to be read as if it required the continued detention of the whole of the item of property.
+
+(9) For the purposes of sub-paragraph (5)(c), a “senior officer” means—
+
+(a) in relation to an application made by a constable or a counter-terrorism financial investigator, a senior police officer;
+
+(b) in relation to an application made by an officer of Revenue and Customs, such an officer of a rank designated by the Commissioners for Her Majesty's Revenue and Customs as equivalent to that of a senior police officer;
+
+(c) in relation to an application made by an immigration officer, such an officer of a rank designated by the Secretary of State as equivalent to that of a senior police officer.
+
+(10) In sub-paragraph (9), a “senior police officer” means a police officer of at least the rank of superintendent.
+
+#### Associated and joint property
+
+**10H** (1) Paragraphs 10I and 10J apply if—
+
+(a) an application is made under paragraph 10G in respect of property detained under this Part of this Schedule,
+
+(b) the court or sheriff is satisfied that the property is a listed asset,
+
+(c) the court or sheriff is satisfied that all or part of the property is within subsection (1)(a) or (b) of section 1 or is property earmarked as terrorist property, and
+
+(d) there exists property that is associated with the property in relation to which the court or sheriff is satisfied as mentioned in paragraph (c).
+
+(2) Paragraphs 10I and 10J also apply in England and Wales and Northern Ireland if—
+
+(a) an application is made under paragraph 10G in respect of property detained under this Part of this Schedule,
+
+(b) the court is satisfied that the property is a listed asset,
+
+(c) the court is satisfied that all or part of the property is property earmarked as terrorist property, and
+
+(d) the property in relation to which the court or sheriff is satisfied as mentioned in paragraph (c) belongs to joint tenants and one of the tenants is an excepted joint owner.
+
+(3) In this paragraph and paragraphs 10I and 10J “associated property” means property of any of the following descriptions that is not itself the forfeitable property—
+
+(a) any interest in the forfeitable property;
+
+(b) any other interest in the property in which the forfeitable property subsists;
+
+(c) if the forfeitable property is a tenancy in common, the tenancy of the other tenant;
+
+(d) if (in Scotland) the forfeitable property is owned in common, the interest of the other owner;
+
+(e) if the forfeitable property is part of a larger property, but not a separate part, the remainder of that property.
+
+References to property being associated with forfeitable property are to be read accordingly.
+
+(4) In this paragraph and paragraphs 10I and 10J the “forfeitable property” means the property in relation to which the court or sheriff is satisfied as mentioned in sub-paragraph (1)(c) or (2)(c) (as the case may be).
+
+(5) For the purposes of this paragraph and paragraphs 10I and 10J—
+
+(a) an excepted joint owner is a joint tenant who obtained the property in circumstances in which it would not (as against him or her) be earmarked, and
+
+(b) references to the excepted joint owner's share of property are to so much of the property as would have been his or hers if the joint tenancy had been severed.
+
+#### Agreements about associated and joint property
+
+**10I** (1) Where—
+
+(a) this paragraph applies, and
+
+(b) the person who applied for the order under paragraph 10G (on the one hand) and the person who holds the associated property or who is the excepted joint owner (on the other hand) agree,
+
+the magistrates' court or sheriff may, instead of making an order under paragraph 10G(2), make an order requiring the person who holds the associated property or who is the excepted joint owner to make a payment to a person identified in the order.
+
+(2) The amount of the payment is (subject to sub-paragraph (3)) to be the amount which the persons referred to in sub-paragraph (1)(b) agree represents—
+
+(a) in a case where this paragraph applies by virtue of paragraph 10H(1), the value of the forfeitable property;
+
+(b) in a case where this paragraph applies by virtue of paragraph 10H(2), the value of the forfeitable property less the value of the excepted joint owner's share.
+
+(3) The amount of the payment may be reduced if the person who applied for the order under paragraph 10G agrees that the other party to the agreement has suffered loss as a result of the seizure of the forfeitable property and any associated property under paragraph 10B and its subsequent detention.
+
+(4) The reduction that is permissible by virtue of sub-paragraph (3) is such amount as the parties to the agreement agree is reasonable, having regard to the loss suffered and any other relevant circumstances.
+
+(5) An order under sub-paragraph (1) may, so far as required for giving effect to the agreement, include provision for vesting, creating or extinguishing any interest in property.
+
+(6) An order under sub-paragraph (1) made by a magistrates' court may provide for payment under sub-paragraph (11) of reasonable legal expenses that a person has reasonably incurred, or may reasonably incur, in respect of—
+
+(a) the proceedings in which the order is made, or
+
+(b) any related proceedings under this Part of this Schedule.
+
+(7) A sum in respect of a relevant item of expenditure is not payable under sub-paragraph (11) in pursuance of provision under sub-paragraph (6) unless—
+
+(a) the person who applied for the order under paragraph 10G agrees to its payment, or
+
+(b) the court has assessed the amount allowed in respect of that item and the sum is paid in respect of the assessed amount.
+
+(8) For the purposes of sub-paragraph (7)—
+
+(a) a “relevant item of expenditure” is an item of expenditure to which regulations under section 286B of the Proceeds of Crime Act 2002 would apply if the order under sub-paragraph (1) had instead been a recovery order made under section 266 of that Act;
+
+(b) an amount is “allowed” in respect of a relevant item of expenditure if it would have been allowed by those regulations.
+
+(9) If there is more than one item of associated property or more than one excepted joint owner, the total amount to be paid under sub-paragraph (1), and the part of that amount which is to be provided by each person who holds any such associated property or who is an excepted joint owner, is to be agreed between both (or all) of them and the person who applied for the order under paragraph 10G.
+
+(10) If the person who applied for the order under paragraph 10G was an authorised officer, that person may enter into an agreement for the purposes of any provision of this paragraph only if the person is a senior officer or is authorised to do so by a senior officer.
+
+(11) An amount received under an order under sub-paragraph (1) must be applied as follows—
+
+(a) first, it must be applied in making any payment of legal expenses which, after giving effect to sub-paragraph (7), are payable under this sub-paragraph in pursuance of provision under sub-paragraph (6);
+
+(b) second, it must be applied in payment or reimbursement of any reasonable costs incurred in storing or insuring the forfeitable property and any associated property whilst detained under this Part of this Schedule;
+
+(c) third, it must be paid—
+
+(i) if the order was made by a magistrates' court, into the Consolidated Fund;
+
+(ii) if the order was made by the sheriff, into the Scottish Consolidated Fund.
+
+#### Associated and joint property: default of agreement
+
+**10J** (1) Where this paragraph applies and there is no agreement under paragraph 10I, the magistrates' court or sheriff—
+
+(a) must transfer the application made under paragraph 10G to the relevant court if satisfied that the value of the forfeitable property and any associated property is £10,000 or more;
+
+(b) may transfer the application made under paragraph 10G to the relevant court if satisfied that the value of the forfeitable property and any associated property is less than £10,000.
+
+(2) The “relevant court” is—
+
+(a) the High Court, where the application under paragraph 10G was made to a magistrates' court;
+
+(b) the Court of Session, where the application under paragraph 10G was made to the sheriff.
+
+(3) Where (under sub-paragraph (1)(a) or (b)) an application made under paragraph 10G is transferred to the relevant court, the relevant court may order the forfeiture of the property to which the application relates, or any part of that property, if satisfied that—
+
+(a) the property is a listed asset, and
+
+(b) what is to be forfeited is within subsection (1)(a) or (b) of section 1 or is property earmarked as terrorist property.
+
+(4) An order under sub-paragraph (3) made by the High Court may include provision of the type that may be included in an order under paragraph 10G(2) made by a magistrates' court by virtue of paragraph 10G(3).
+
+(5) If provision is included in an order of the High Court by virtue of sub-paragraph (4) of this paragraph, paragraph 10G(4) and (5) apply with the necessary modifications.
+
+(6) The relevant court may, as well as making an order under sub-paragraph (3), make an order—
+
+(a) providing for the forfeiture of the associated property or (as the case may be) for the excepted joint owner's interest to be extinguished, or
+
+(b) providing for the excepted joint owner's interest to be severed.
+
+(7) Where (under sub-paragraph (1)(b)) the magistrates' court or sheriff decides not to transfer an application made under paragraph 10G to the relevant court, the magistrates' court or sheriff may, as well as making an order under paragraph 10G(2), make an order—
+
+(a) providing for the forfeiture of the associated property or (as the case may be) for the excepted joint owner's interest to be extinguished, or
+
+(b) providing for the excepted joint owner's interest to be severed.
+
+(8) An order under sub-paragraph (6) or (7) may be made only if the relevant court, the magistrates' court or the sheriff (as the case may be) thinks it just and equitable to do so.
+
+(9) An order under sub-paragraph (6) or (7) must provide for the payment of an amount to the person who holds the associated property or who is an excepted joint owner.
+
+(10) In making an order under sub-paragraph (6) or (7), and including provision in it by virtue of sub-paragraph (9), the relevant court, the magistrates' court or the sheriff (as the case may be) must have regard to—
+
+(a) the rights of any person who holds the associated property or who is an excepted joint owner and the value to that person of that property or (as the case may) of that person's share (including any value that cannot be assessed in terms of money), and
+
+(b) the interest of the person who applied for the order under paragraph 10G in realising the value of the forfeitable property.
+
+(11) If the relevant court, the magistrates' court or the sheriff (as the case may be) is satisfied that—
+
+(a) the person who holds the associated property or who is an excepted joint owner has suffered loss as a result of the seizure of the forfeitable property and any associated property under paragraph 10B and its subsequent detention, and
+
+(b) the circumstances are exceptional,
+
+an order under sub-paragraph (6) or (7) may require the payment of compensation to that person.
+
+(12) The amount of compensation to be paid by virtue of sub-paragraph (11) is the amount the relevant court, the magistrates' court or the sheriff (as the case may be) thinks reasonable, having regard to the loss suffered and any other relevant circumstances.
+
+(13) Compensation to be paid by virtue of sub-paragraph (11) is to be paid in the same way that compensation is to be paid under paragraph 10P.
+
+#### Paragraphs 10G to 10J: appeals
+
+**10K** (1) Any party to proceedings for an order for the forfeiture of property under paragraph 10G may appeal against—
+
+(a) the making of an order under paragraph 10G;
+
+(b) the making of an order under paragraph 10J(7);
+
+(c) a decision not to make an order under paragraph 10G unless the reason that no order was made is that an order was instead made under paragraph 10I;
+
+(d) a decision not to make an order under paragraph 10J(7).
+
+Paragraphs (c) and (d) do not apply if the application for the order under paragraph 10G was transferred in accordance with paragraph 10J(1)(a) or (b).
+
+(2) Where an order under paragraph 10I is made by a magistrates' court, any party to the proceedings for the order (including any party to the proceedings under paragraph 10G that preceded the making of the order) may appeal against a decision to include, or not to include, provision in the order under sub-paragraph (6) of paragraph 10I.
+
+(3) An appeal under this paragraph lies—
+
+(a) in relation to England and Wales, to the Crown Court;
+
+(b) in relation to Scotland, to the Sheriff Appeal Court;
+
+(c) in relation to Northern Ireland, to a county court.
+
+(4) An appeal under this paragraph must be made before the end of the period of 30 days starting with the day on which the court makes the order or decision.
+
+(5) Sub-paragraph (4) is subject to paragraph 10L.
+
+(6) The court hearing the appeal may make any order it thinks appropriate.
+
+(7) If the court upholds an appeal against an order forfeiting property, it may order the release of the whole or any part of the property.
+
+#### Extended time for appealing in certain cases where deproscription order made
+
+**10L** (1) This paragraph applies where—
+
+(a) a successful application for an order under paragraph 10G relies (wholly or partly) on the fact that an organisation is proscribed,
+
+(b) an application under section 4 of the Terrorism Act 2000 for a deproscription order in respect of the organisation is refused by the Secretary of State,
+
+(c) the property forfeited by the order under paragraph 10G was seized under this Part of this Schedule on or after the date of the refusal of that application,
+
+(d) an appeal against that refusal is allowed under section 5 of the Terrorism Act 2000,
+
+(e) a deproscription order is made accordingly, and
+
+(f) if the order is made in reliance on section 123(5) of the Terrorism Act 2000, a resolution is passed by each House of Parliament under section 123(5)(b) of that Act.
+
+(2) Where this paragraph applies, an appeal under paragraph 10K against the making of an order under paragraph 10G, and against the making (in addition) of any order under paragraph 10J(7), may be brought at any time before the end of the period of 30 days beginning with the date on which the deproscription order comes into force.
+
+(3) In this paragraph a “deproscription order” means an order under section 3(3)(b) or (8) of the Terrorism Act 2000.
+
+#### Realisation of forfeited property
+
+**10M** (1) If property is forfeited under paragraph 10G or 10J, an authorised officer must realise the property or make arrangements for its realisation.
+
+(2) But the property is not to be realised—
+
+(a) before the end of the period within which an appeal may be made (whether under paragraph 10K or otherwise), or
+
+(b) if an appeal is made within that period, before the appeal is determined or otherwise disposed of.
+
+(3) The realisation of property under sub-paragraph (1) must be carried out, so far as practicable, in the manner best calculated to maximise the amount obtained for the property.
+
+#### Proceeds of realisation
+
+**10N** (1) The proceeds of property realised under paragraph 10M must be applied as follows—
+
+(a) first, they must be applied in making any payment required to be made by virtue of paragraph 10J(9);
+
+(b) second, they must be applied in making any payment of legal expenses which, after giving effect to paragraph 10G(4) (including as applied by paragraph 10J(5)), are payable under this sub-paragraph in pursuance of provision under paragraph 10G(3) or, as the case may be, 10J(4);
+
+(c) third, they must be applied in payment or reimbursement of any reasonable costs incurred in storing or insuring the property whilst detained under this Part of this Schedule and in realising the property;
+
+(d) fourth, they must be paid—
+
+(i) if the property was forfeited by a magistrates' court or the High Court, into the Consolidated Fund;
+
+(ii) if the property was forfeited by the sheriff or the Court of Session, into the Scottish Consolidated Fund.
+
+(2) If what is realised under paragraph 10M represents part only of an item of property seized under paragraph 10B and detained under this Part of this Schedule, the reference in sub-paragraph (1)(c) to costs incurred in storing or insuring the property is to be read as a reference to costs incurred in storing or insuring the whole of the item of property.
+
+#### Victims
+
+**10O** (1) A person who claims that any property detained under this Part of this Schedule, or any part of it, belongs to him or her may apply for the property or part to be released.
+
+(2) An application under sub-paragraph (1) is to be made—
+
+(a) in England and Wales or Northern Ireland, to a magistrates' court;
+
+(b) in Scotland, to the sheriff.
+
+(3) The application may be made in the course of proceedings under paragraph 10D or 10G or at any other time.
+
+(4) The court or sheriff may order the property to which the application relates to be released to the applicant if it appears to the court or sheriff that—
+
+(a) the applicant was deprived of the property to which the application relates, or of property which it represents, by criminal conduct,
+
+(b) the property the applicant was deprived of was not, immediately before the applicant was deprived of it, property obtained by or in return for criminal conduct and nor did it then represent such property, and
+
+(c) the property belongs to the applicant.
+
+(5) If sub-paragraph (6) applies, the court or sheriff may order the property to which the application relates to be released to the applicant or to the person from whom it was seized.
+
+(6) This sub-paragraph applies where—
+
+(a) the applicant is not the person from whom the property to which the application relates was seized,
+
+(b) it appears to the court or sheriff that the property belongs to the applicant,
+
+(c) the court or sheriff is satisfied that the release condition is met in relation to the property, and
+
+(d) no objection to the making of an order under sub-paragraph (5) has been made by the person from whom the property was seized.
+
+(7) The release condition is met—
+
+(a) in relation to property detained under paragraph 10C or 10D, if the conditions in paragraph 10C or (as the case may be) 10D for the detention of the property are no longer met, and
+
+(b) in relation to property detained under paragraph 10G, if the court or sheriff decides not to make an order under that paragraph in relation to the property.
+
+#### Compensation
+
+**10P** (1) If no order under paragraph 10G, 10I or 10J is made in respect of any property detained under this Part of this Schedule, the person to whom the property belongs or from whom it was seized may make an application for compensation.
+
+(2) An application under sub-paragraph (1) is to be made—
+
+(a) in England and Wales or Northern Ireland, to a magistrates' court;
+
+(b) in Scotland, to the sheriff.
+
+(3) If the court or sheriff is satisfied that the applicant has suffered loss as a result of the detention of the property and that the circumstances are exceptional, the court or sheriff may order compensation to be paid to the applicant.
+
+(4) The amount of compensation to be paid is the amount the court or sheriff thinks reasonable, having regard to the loss suffered and any other relevant circumstances.
+
+(5) If the property was seized by an officer of Revenue and Customs, the compensation is to be paid by the Commissioners for Her Majesty's Revenue and Customs.
+
+(6) If the property was seized by a constable, the compensation is to be paid as follows—
+
+(a) in the case of a constable of a police force in England and Wales, it is to be paid out of the police fund from which the expenses of the police force are met;
+
+(b) in the case of a constable of the Police Service of Scotland, it is to be paid by the Scottish Police Authority;
+
+(c) in the case of a police officer within the meaning of the Police (Northern Ireland) Act 2000, it is to be paid out of money provided by the Chief Constable of the Police Service of Northern Ireland.
+
+(7) If the property was seized by a counter-terrorism financial investigator, the compensation is to be paid as follows—
+
+(a) in the case of a counter-terrorism financial investigator who was—
+
+(i) a member of the civilian staff of a police force (including the metropolitan police force), within the meaning of Part 1 of the Police Reform and Social Responsibility Act 2011, or
+
+(ii) a member of staff of the City of London police force,
+
+it is to be paid out of the police fund from which the expenses of the police force are met;
+
+(b) in the case of a counter-terrorism financial investigator who was a member of staff of the Police Service of Northern Ireland, it is to be paid out of money provided by the Chief Constable of the Police Service of Northern Ireland.
+
+(8) If the property was seized by an immigration officer, the compensation is to be paid by the Secretary of State.
+
+(9) If an order under paragraph 10G, 10I or 10J is made in respect only of a part of any property detained under this Part, this paragraph has effect in relation to the other part.
+
+(10) This paragraph does not apply if the court or sheriff makes an order under paragraph 10O.]
+
+### [[^F113]PART 4B — Forfeiture of terrorist money held in [[^F114]certain] accounts
+
+#### Application for account freezing order
+
+**10Q** (1) This paragraph applies if an enforcement officer has reasonable grounds for suspecting that money held in an account maintained with a [[^F115]relevant financial institution]—
+
+(a) is within subsection (1)(a) or (b) of section 1, or
+
+(b) is property earmarked as terrorist property.
+
+[[^F116](1A) In this Part of this Schedule, “relevant financial institution” means—
+
+(a) a bank,
+
+(b) a building society,
+
+(c) an electronic money institution, or
+
+(d) a payment institution.]
+
+(2) Where this paragraph applies the enforcement officer may apply to the relevant court for an account freezing order in relation to the account in which the money is held.
+
+(3) But—
+
+(a) an enforcement officer may not apply for an account freezing order unless the officer is a senior officer or is authorised to do so by a senior officer, and
+
+(b) the senior officer must consult the Treasury before making the application for the order or (as the case may be) authorising the application to be made, unless in the circumstances it is not reasonably practicable to do so.
+
+(4) For the purposes of this Part of this Schedule—
+
+(a) an account freezing order is an order that, subject to any exclusions (see paragraph 10U), prohibits each person by or for whom the account to which the order applies is operated from making withdrawals or payments from the account;
+
+(b) an account is operated by or for a person if the person is an account holder or a signatory or identified as a beneficiary in relation to the account.
+
+(5) An application for an account freezing order may be made without notice if the circumstances of the case are such that notice of the application would prejudice the taking of any steps under this Part of this Schedule to forfeit money that is within subsection (1)(a) or (b) of section 1 or is property earmarked as terrorist property.
+
+(6) The money referred to in sub-paragraph (1) may be all or part of the credit balance of the account.
+
+(7) In this Part of this Schedule—
+
+- “bank” has the meaning given by paragraph 10R;
+
+- “building society” has the same meaning as in the Building Societies Act 1986;
+
+- [[^F117]“electronic money institution” has the same meaning as in the Electronic Money Regulations 2011 (S.I. 2011/99) (see regulation 2 of those Regulations);]
+
+- “enforcement officer” means—
+
+  - (a) a constable, or
+  - (b) a counter-terrorism financial investigator;
+
+- [[^F117]“payment institution” means an authorised payment institution or a small payment institution (each as defined in regulation 2 of the Payment Services Regulations 2017 (S.I. 2017/752));]
+
+- “relevant court”—
+
+  - (a) in England and Wales and Northern Ireland, means a magistrates' court, and
+  - (b) in Scotland, means the sheriff;
+
+- “senior officer” means a police officer of at least the rank of superintendent.
+
+#### Meaning of “bank”
+
+**10R** (1) “Bank” means an authorised deposit-taker, other than a building society, that has its head office or a branch in the United Kingdom.
+
+(2) In sub-paragraph (1), “authorised deposit-taker” means—
+
+(a) a person who has permission under Part 4A of the Financial Services and Markets Act 2000 to accept deposits;
+
+(b) a person who—
+
+(i) is specified, or is within a class of persons specified, by an order under section 38 of that Act (exemption orders), and
+
+(ii) accepts deposits;
+
+[^F118]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) A reference in sub-paragraph (2) to a person or firm with permission to accept deposits does not include a person or firm with permission to do so only for the purposes of, or in the course of, an activity other than accepting deposits.
+
+#### Making of account freezing order
+
+**10S** (1) This paragraph applies where an application for an account freezing order is made under paragraph 10Q in relation to an account.
+
+(2) The relevant court may make the order if satisfied that there are reasonable grounds for suspecting that money held in the account (whether all or part of the credit balance of the account)—
+
+(a) is within subsection (1)(a) or (b) of section 1, or
+
+(b) is property earmarked as terrorist property.
+
+(3) An account freezing order ceases to have effect at the end of the period specified in the order (which may be varied under paragraph 10T) unless it ceases to have effect at an earlier or later time in accordance with the provision made by paragraphs 10W(6)(c), 10Y(2) to (7), 10Z2(6) to (8) and 10Z3.
+
+(4) The period specified by the relevant court for the purposes of sub-paragraph (3) (whether when the order is first made or on a variation under paragraph 10T) may not exceed the period of 2 years, starting with the day on which the account freezing order is (or was) made.
+
+(5) An account freezing order must provide for notice to be given to persons affected by the order.
+
+#### Variation and setting aside of account freezing order
+
+**10T** (1) The relevant court may at any time vary or set aside an account freezing order on an application made by—
+
+(a) an enforcement officer, or
+
+(b) any person affected by the order.
+
+(2) But an enforcement officer may not make an application under sub-paragraph (1) unless the officer is a senior officer or is authorised to do so by a senior officer.
+
+(3) Before varying or setting aside an account freezing order the court must (as well as giving the parties to the proceedings an opportunity to be heard) give such an opportunity to any person who may be affected by its decision.
+
+(4) In relation to Scotland, the references in this paragraph to setting aside an order are to be read as references to recalling it.
+
+#### Exclusions
+
+**10U** (1) The power to vary an account freezing order includes (amongst other things) power to make exclusions from the prohibition on making withdrawals or payments from the account to which the order applies.
+
+(2) Exclusions from the prohibition may also be made when the order is made.
+
+(3) An exclusion may (amongst other things) make provision for the purpose of enabling a person by or for whom the account is operated—
+
+(a) to meet the person's reasonable living expenses, or
+
+(b) to carry on any trade, business, profession or occupation.
+
+(4) An exclusion may be made subject to conditions.
+
+(5) Where a magistrates' court exercises the power to make an exclusion for the purpose of enabling a person to meet legal expenses that the person has incurred, or may incur, in respect of proceedings under this Schedule, it must ensure that the exclusion—
+
+(a) is limited to reasonable legal expenses that the person has reasonably incurred or that the person reasonably incurs,
+
+(b) specifies the total amount that may be released for legal expenses in pursuance of the exclusion, and
+
+(c) is made subject to the same conditions as would be the required conditions (see section 286A of the Proceeds of Crime Act 2002) if the order had been made under section 245A of that Act (in addition to any conditions imposed under sub-paragraph (4)).
+
+(6) A magistrates' court, in deciding whether to make an exclusion for the purpose of enabling a person to meet legal expenses in respect of proceedings under this Schedule—
+
+(a) must have regard to the desirability of the person being represented in any proceedings under this Schedule in which the person is a participant, and
+
+(b) must disregard the possibility that legal representation of the person in any such proceedings might, were an exclusion not made—
+
+(i) be made available under arrangements made for the purposes of Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012, or
+
+(ii) be funded by the Northern Ireland Legal Services Commission.
+
+(7) The sheriff's power to make exclusions may not be exercised for the purpose of enabling any person to meet any legal expenses in respect of proceedings under this Schedule.
+
+(8) The power to make exclusions must, subject to sub-paragraph (6), be exercised with a view to ensuring, so far as practicable, that there is not undue prejudice to the taking of any steps under this Part of this Schedule to forfeit money that is within subsection (1)(a) or (b) of section 1 or is property earmarked as terrorist property.
+
+#### Restriction on proceedings and remedies
+
+**10V** (1) If a court in which proceedings are pending in respect of an account maintained with a [[^F119]relevant financial institution] is satisfied that an account freezing order has been applied for or made in respect of the account, it may either stay the proceedings or allow them to continue on any terms it thinks fit.
+
+(2) Before exercising the power conferred by sub-paragraph (1), the court must (as well as giving the parties to any of the proceedings concerned an opportunity to be heard) give such an opportunity to any person who may be affected by the court's decision.
+
+(3) In relation to Scotland, the reference in sub-paragraph (1) to staying the proceedings is to be read as a reference to sisting the proceedings.
+
+#### Account forfeiture notice
+
+**10W** (1) This paragraph applies while an account freezing order has effect.
+
+(2) A senior officer may give a notice for the purpose of forfeiting money held in the frozen account (whether all or part of the credit balance of the account) if satisfied that the money—
+
+(a) is within subsection (1)(a) or (b) of section 1, or
+
+(b) is property earmarked as terrorist property.
+
+(3) A notice given under sub-paragraph (2) is referred to in this Part of this Schedule as an account forfeiture notice.
+
+(4) An account forfeiture notice must—
+
+(a) state the amount of money held in the frozen account which it is proposed be forfeited,
+
+(b) confirm that the senior officer is satisfied as mentioned in sub-paragraph (2),
+
+(c) specify a period for objecting to the proposed forfeiture and an address to which any objections must be sent, and
+
+(d) explain that the money will be forfeited unless an objection is received at that address within the period for objecting.
+
+(5) The period for objecting must be at least 30 days starting with the day after the notice is given.
+
+(6) If no objection is made within the period for objecting, and the notice has not lapsed under paragraph 10Y—
+
+(a) the amount of money stated in the notice is forfeited (subject to paragraph 10Z),
+
+(b) the [[^F120]relevant financial institution] with which the frozen account is maintained must transfer that amount of money into an interest-bearing account nominated by an enforcement officer, and
+
+(c) immediately after the transfer has been made, the account freezing order made in relation to the frozen account ceases to have effect.
+
+(7) An objection may be made by anyone (whether a recipient of the notice or not).
+
+(8) An objection means a written objection sent to the address specified in the notice; and an objection is made when it is received at the address.
+
+(9) An objection does not prevent forfeiture of the money held in the frozen account under paragraph 10Z2.
+
+#### Giving of account forfeiture notice
+
+**10X** (1) The Secretary of State must by regulations made by statutory instrument make provision about how an account forfeiture notice is to be given.
+
+(2) The regulations may (amongst other things) provide—
+
+(a) for an account forfeiture notice to be given to such person or persons, and in such manner, as may be prescribed;
+
+(b) for circumstances in which, and the time at which, an account forfeiture notice is to be treated as having been given.
+
+(3) The regulations must ensure that where an account forfeiture notice is given it is, if possible, given to every person to whom notice of the account freezing order was given.
+
+(4) A statutory instrument containing regulations under this paragraph is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### Lapse of account forfeiture notice
+
+**10Y** (1) An account forfeiture notice lapses if—
+
+(a) an objection is made within the period for objecting specified in the notice under paragraph 10W(4)(c),
+
+(b) an application is made under paragraph 10Z2 for the forfeiture of money held in the frozen account, or
+
+(c) an order is made under paragraph 10T setting aside (or recalling) the relevant account freezing order.
+
+(2) If an account forfeiture notice lapses under sub-paragraph (1)(a), the relevant account freezing order ceases to have effect at the end of the period of 48 hours starting with the making of the objection (“the 48-hour period”).
+
+(3) If within the 48-hour period an application is made—
+
+(a) for a variation of the relevant account freezing order under paragraph 10T so as to extend the period specified in the order, or
+
+(b) for forfeiture of money held in the frozen account under paragraph 10Z2,
+
+the order continues to have effect until the relevant time (and then ceases to have effect).
+
+(4) In the case of an application of the kind mentioned in sub-paragraph (3)(a), the relevant time means—
+
+(a) if an extension is granted, the time determined in accordance with paragraph 10S(3), or
+
+(b) if an extension is not granted, the time when the application is determined or otherwise disposed of.
+
+(5) In the case of an application of the kind mentioned in sub-paragraph (3)(b), the relevant time is the time determined in accordance with paragraph 10Z2(6).
+
+(6) If within the 48-hour period it is decided that no application of the kind mentioned in sub-paragraph (3)(a) or (b) is to be made, an enforcement officer must, as soon as possible, notify the [[^F121]relevant financial institution] with which the frozen account is maintained of that decision.
+
+(7) [[^F122]If the relevant financial institution] is notified in accordance with sub-paragraph (6) before the expiry of the 48-hour period, the relevant account freezing order ceases to have effect [[^F123]on the institution] being so notified.
+
+(8) In relation to an account forfeiture notice—
+
+(a) “the frozen account” is the account in which the money to which the account forfeiture notice relates is held;
+
+(b) “the relevant account freezing order” is the account freezing order made in relation to the frozen account.
+
+(9) In calculating a period of 48 hours for the purposes of this paragraph no account is to be taken of—
+
+(a) any Saturday or Sunday,
+
+(b) Christmas Day,
+
+(c) Good Friday, or
+
+(d) any day that is a bank holiday under the Banking and Financial Dealings Act 1971 in the part of the United Kingdom in which the account freezing order was made.
+
+#### Application to set aside forfeiture
+
+**10Z** (1) A person aggrieved by the forfeiture of money in pursuance of paragraph 10W(6)(a) may apply to the relevant court for an order setting aside the forfeiture of the money or any part of it.
+
+(2) The application must be made before the end of the period of 30 days starting with the day on which the period for objecting ended (“the 30-day period”).
+
+(3) But the relevant court may give permission for an application to be made after the 30-day period has ended if it thinks that there are exceptional circumstances to explain why the applicant—
+
+(a) failed to object to the forfeiture within the period for objecting, and
+
+(b) failed to make an application within the 30-day period.
+
+(4) On an application under this paragraph the relevant court must consider whether the money to which the application relates could be forfeited under paragraph 10Z2 (ignoring the forfeiture mentioned in sub-paragraph (1)).
+
+(5) If the relevant court is satisfied that the money to which the application relates or any part of it could not be forfeited under that paragraph it must set aside the forfeiture of that money or part.
+
+(6) Where the relevant court sets aside the forfeiture of any money—
+
+(a) it must order the release of that money, and
+
+(b) the money is to be treated as never having been forfeited.
+
+(7) Where money is released by virtue of sub-paragraph (6)(a), there must be added to the money on its release any interest accrued on it whilst in the account referred to in paragraph 10W(6)(b).
+
+#### Application of money forfeited under account forfeiture notice
+
+**10Z1** (1) Money forfeited in pursuance of paragraph 10W(6)(a), and any interest accrued on it whilst in the account referred to in paragraph 10W(6)(b)—
+
+(a) if, before being forfeited, the money was held in an account in relation to which an account freezing order made by a magistrates' court had effect, is to be paid into the Consolidated Fund;
+
+(b) if, before being forfeited, the money was held in an account in relation to which an account freezing order made by the sheriff had effect, is to be paid into the Scottish Consolidated Fund.
+
+(2) But it is not to be paid in—
+
+(a) before the end of the period within which an application under paragraph 10Z may be made (ignoring the possibility of an application by virtue of paragraph 10Z(3)), or
+
+(b) if an application is made within that period, before the application is determined or otherwise disposed of.
+
+#### Forfeiture order
+
+**10Z2** (1) This paragraph applies while an account freezing order has effect.
+
+(2) An application for the forfeiture of money held in the frozen account (whether all or part of the credit balance of the account) may be made—
+
+(a) to a magistrates' court, by an enforcement officer, or
+
+(b) to the sheriff, by the Scottish Ministers.
+
+(3) The court or sheriff may order the forfeiture of the money or any part of it if satisfied that the money or part—
+
+(a) is within subsection (1)(a) or (b) of section 1, or
+
+(b) is property earmarked as terrorist property.
+
+(4) But in the case of property earmarked as terrorist property which belongs to joint tenants, one of whom is an excepted joint owner, an order by a magistrates' court may not apply to so much of it as the court thinks is attributable to the excepted joint owner's share.
+
+(5) For the purposes of sub-paragraph (4)—
+
+(a) an excepted joint owner is a joint tenant who obtained the property in circumstances in which it would not (as against him or her) be earmarked, and
+
+(b) references to the excepted joint owner's share of property are to so much of the property as would have been his or hers if the joint tenancy had been severed.
+
+(6) Where an application is made under sub-paragraph (2), the account freezing order is to continue to have effect until the time referred to in sub-paragraph (7)(b) or (8).
+
+(7) Where money held in a frozen account is ordered to be forfeited under sub-paragraph (3)—
+
+(a) the [[^F124]relevant financial institution] with which the frozen account is maintained must transfer that amount of money into an interest-bearing account nominated by an enforcement officer, and
+
+(b) immediately after the transfer has been made the account freezing order made in relation to the frozen account ceases to have effect.
+
+(8) Where, other than by the making of an order under sub-paragraph (3), an application under sub-paragraph (2) is determined or otherwise disposed of, the account freezing order ceases to have effect immediately after that determination or other disposal.
+
+#### Continuation of account freezing order pending appeal
+
+**10Z3** (1) This paragraph applies where, on an application under sub-paragraph (2) of paragraph 10Z2 in relation to an account to which an account freezing order applies, the court or sheriff decides—
+
+(a) to make an order under sub-paragraph (3) of that paragraph in relation to part only of the money to which the application related, or
+
+(b) not to make an order under sub-paragraph (3) of that paragraph.
+
+(2) The person who made the application under paragraph 10Z2(2) may apply without notice to the court or sheriff that made the decision referred to in sub-paragraph (1)(a) or (b) for an order that the account freezing order is to continue to have effect.
+
+(3) Where the court or sheriff makes an order under sub-paragraph (2) the account freezing order is to continue to have effect until—
+
+(a) the end of the period of 48 hours starting with the making of the order under sub-paragraph (2), or
+
+(b) if within that period of 48 hours an appeal is brought under paragraph 10Z4 against the decision referred to in sub-paragraph (1)(a) or (b), the time when the appeal is determined or otherwise disposed of.
+
+(4) Sub-paragraph (9) of paragraph 10Y applies for the purposes of sub-paragraph (3) as it applies for the purposes of that paragraph.
+
+#### Appeal against decision under paragraph 10Z2
+
+**10Z4** (1) Any party to proceedings for an order for the forfeiture of money under paragraph 10Z2 who is aggrieved by an order under that paragraph or by the decision of the court not to make such an order may appeal—
+
+(a) from an order or decision of a magistrates' court in England and Wales, to the Crown Court;
+
+(b) from an order or decision of the sheriff, to the Sheriff Appeal Court;
+
+(c) from an order or decision of a magistrates' court in Northern Ireland, to a county court.
+
+(2) An appeal under sub-paragraph (1) must be made before the end of the period of 30 days starting with the day on which the court makes the order or decision.
+
+(3) Sub-paragraph (2) is subject to paragraph 10Z5.
+
+(4) The court hearing the appeal may make any order it thinks appropriate.
+
+(5) If the court upholds an appeal against an order forfeiting the money, it may order the release of the whole or any part of the money.
+
+(6) Where money is released by virtue of sub-paragraph (5), there must be added to the money on its release any interest accrued on it whilst in the account referred to in paragraph 10Z2(7)(a).
+
+#### Extended time for appealing in certain cases where deproscription order made
+
+**10Z5** (1) This paragraph applies where—
+
+(a) a successful application for an order under paragraph 10Z2 relies (wholly or partly) on the fact that an organisation is proscribed,
+
+(b) an application under section 4 of the Terrorism Act 2000 for a deproscription order in respect of the organisation is refused by the Secretary of State,
+
+(c) the money forfeited by the order under paragraph 10Z2 was made subject to an account freezing order on or after the date of the refusal of that application,
+
+(d) an appeal against that refusal is allowed under section 5 of the Terrorism Act 2000,
+
+(e) a deproscription order is made accordingly, and
+
+(f) if the order is made in reliance on section 123(5) of the Terrorism Act 2000, a resolution is passed by each House of Parliament under section 123(5)(b) of that Act.
+
+(2) Where this paragraph applies, an appeal under paragraph 10Z4 against the making of an order under paragraph 10Z2 may be brought at any time before the end of the period of 30 days beginning with the date on which the deproscription order comes into force.
+
+(3) In this paragraph a “deproscription order” means an order under section 3(3)(b) or (8) of the Terrorism Act 2000.
+
+#### Application of money forfeited under account forfeiture order
+
+**10Z6** (1) Money forfeited by an order under paragraph 10Z2, and any interest accrued on it whilst in the account referred to in sub-paragraph (7)(a) of that paragraph—
+
+(a) if forfeited by a magistrates' court, is to be paid into the Consolidated Fund, and
+
+(b) if forfeited by the sheriff, is to be paid into the Scottish Consolidated Fund.
+
+(2) But it is not to be paid in—
+
+(a) before the end of the period within which an appeal under paragraph 10Z4 may be made, or
+
+(b) if a person appeals under that paragraph, before the appeal is determined or otherwise disposed of.
+
+#### [[^F125]Victims etc
+
+**10Z6A** (1) A person who claims that money in respect of which an account freezing order has effect belongs to them may apply to the relevant court for the money to be released.
+
+(2) The application may be made in the course of proceedings under paragraph 10S or 10Z2 or at any other time.
+
+(3) The court may, subject to sub-paragraph (7), order the money to which the application relates to be released to the applicant if it appears to the court that—
+
+(a) the applicant was deprived of the money to which the application relates, or of property which it represents, by criminal conduct,
+
+(b) the money the applicant was deprived of was not, immediately before the applicant was deprived of it, property obtained by or in return for criminal conduct and nor did it then represent such property, and
+
+(c) the money belongs to the applicant.
+
+(4) If sub-paragraph (5) applies, the court may, subject to sub-paragraph (7), order the money to which the application relates to be released to the applicant.
+
+(5) This sub-paragraph applies where—
+
+(a) the applicant is not the person from whom the money to which the application relates was seized,
+
+(b) it appears to the court that the money belongs to the applicant,
+
+(c) the court is satisfied that the release condition is met in relation to the money, and
+
+(d) no objection to the making of an order under sub-paragraph (4) has been made by the person from whom the money was seized.
+
+(6) The release condition is met—
+
+(a) in relation to money held in a frozen account, if the conditions for making an order under paragraph 10S in relation to the money are no longer met, or
+
+(b) in relation to money held in a frozen account which is subject to an application for forfeiture under paragraph 10Z2, if the court or sheriff decides not to make an order under that paragraph in relation to the money.
+
+(7) Money is not to be released under this paragraph—
+
+(a) if an account forfeiture notice under paragraph 10W is given in respect of the money, until any proceedings in pursuance of the notice (including any proceedings on appeal) are concluded;
+
+(b) if an application for its forfeiture under paragraph 10Z2, is made, until any proceedings in pursuance of the application (including any proceedings on appeal) are concluded;
+
+(c) if (in the United Kingdom or elsewhere) proceedings are started against any person for an offence with which the cash is connected, until the proceedings are concluded.
+
+(8) In relation to money held in an account that is subject to an account freezing order, references in this paragraph to a person from whom money was seized include a reference to a person by or for whom the account was operated immediately before the account freezing order was made.]
+
+#### Compensation
+
+**10Z7** (1) This paragraph applies if—
+
+(a) an account freezing order is made, and
+
+(b) none of the money held in the account to which the order applies is forfeited in pursuance of an account forfeiture notice or by an order under paragraph 10Z2.
+
+(2) Where this paragraph applies a person by or for whom the account to which the account freezing order applies is operated may make an application to the relevant court for compensation.
+
+(3) If the relevant court is satisfied that the applicant has suffered loss as a result of the making of the account freezing order and that the circumstances are exceptional, the relevant court may order compensation to be paid to the applicant.
+
+(4) The amount of compensation to be paid is the amount the relevant court thinks reasonable, having regard to the loss suffered and any other relevant circumstances.
+
+(5) If the account freezing order was applied for by a constable, the compensation is to be paid as follows—
+
+(a) in the case of a constable of a police force in England and Wales, it is to be paid out of the police fund from which the expenses of the police force are met;
+
+(b) in the case of a constable of the Police Service of Scotland, it is to be paid by the Scottish Police Authority;
+
+(c) in the case of a police officer within the meaning of the Police (Northern Ireland) Act 2000, it is to be paid out of money provided by the Chief Constable of the Police Service of Northern Ireland.
+
+(6) If the account freezing order was applied for by a counter-terrorism financial investigator, the compensation is to be paid as follows—
+
+(a) in the case of an investigator who was—
+
+(i) a member of the civilian staff of a police force (including the metropolitan police force), within the meaning of Part 1 of the Police Reform and Social Responsibility Act 2011, or
+
+(ii) a member of staff of the City of London police force,
+
+it is to be paid out of the police fund from which the expenses of the police force are met;
+
+(b) in the case of an investigator who was a member of staff of the Police Service of Northern Ireland, it is to be paid out of money provided by the Chief Constable of the Police Service of Northern Ireland.]
+
+### [[^F126]PART 4BA — Seizure and detention of terrorist cryptoassets
+
+#### Interpretation
+
+**10Z7A** (1) In this Schedule—
+
+- “cryptoasset” means a cryptographically secured digital representation of value or contractual rights that uses a form of distributed ledger technology and can be transferred, stored or traded electronically;
+
+- “crypto wallet” means—
+
+  - software,
+  - hardware,
+  - a physical item, or
+  - any combination of the things mentioned in paragraphs (a) to (c),
+
+  which is used to store the cryptographic private key that allows cryptoassets to be accessed;
+
+- “terrorist cryptoasset” means a cryptoasset which—
+
+  - is within subsection (1)(a) or (b) of section 1, or
+  - is earmarked as terrorist property.
+
+(2) The Secretary of State may by regulations made by statutory instrument amend the definitions of “cryptoasset” and “crypto wallet” in sub-paragraph (1).
+
+(3) Regulations under sub-paragraph (2)—
+
+(a) may make different provision for different purposes;
+
+(b) may make consequential, supplementary, incidental, transitional, transitory or saving provision.
+
+(4) A statutory instrument containing regulations under sub-paragraph (2) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(5) In this Part—
+
+- “cryptoasset-related item” means an item of property that is, or that contains or gives access to information that is, likely to assist in the seizure under this Part of terrorist cryptoassets;
+
+- “senior officer” means—
+
+  - a senior police officer;
+  - an officer of Revenue and Customs of a rank designated by the Commissioners for His Majesty’s Revenue and Customs as equivalent to that of a senior police officer;
+  - an immigration officer of a rank designated by the Secretary of State as equivalent to that of a senior police officer;
+
+- “senior police officer” means a police officer of at least the rank of superintendent.
+
+#### Seizure of cryptoasset-related items
+
+**10Z7AA** (1) An authorised officer may seize any item of property if the authorised officer has reasonable grounds for suspecting that the item is a cryptoasset-related item.
+
+(2) If an authorised officer is lawfully on any premises, the officer may, for the purpose of—
+
+(a) determining whether any property is a cryptoasset-related item, or
+
+(b) enabling or facilitating the seizure under this Part of any terrorist cryptoasset,
+
+require any information which is stored in any electronic form and accessible from the premises to be produced in a form in which it can be taken away and in which it is visible and legible, or from which it can readily be produced in a visible and legible form.
+
+(3) But sub-paragraph (2) does not authorise an authorised officer to require a person to produce privileged information.
+
+(4) In this paragraph “privileged information” means information which a person would be entitled to refuse to provide—
+
+(a) in England and Wales and Northern Ireland, on grounds of legal professional privilege in proceedings in the High Court;
+
+(b) in Scotland, on grounds of confidentiality of communications in proceedings in the Court of Session.
+
+(5) Where an authorised officer has seized a cryptoasset-related item under sub-paragraph (1), the officer may use any information obtained from the item for the purpose of—
+
+(a) identifying or gaining access to a crypto wallet, and
+
+(b) by doing so, enabling or facilitating the seizure under this Part of any cryptoassets.
+
+#### Initial detention of cryptoasset-related items
+
+**10Z7AB** (1) Property seized under paragraph 10Z7AA may be detained for an initial period of 48 hours.
+
+(2) Sub-paragraph (1) authorises the detention of property only for so long as an authorised officer continues to have reasonable grounds for suspicion in relation to that property as described in paragraph 10Z7AA(1).
+
+(3) In calculating a period of 48 hours for the purposes of this paragraph, no account is to be taken of—
+
+(a) any Saturday or Sunday,
+
+(b) Christmas Day,
+
+(c) Good Friday,
+
+(d) any day that is a bank holiday under the Banking and Financial Dealings Act 1971 in the part of the United Kingdom within which the property is seized, or
+
+(e) any day prescribed by virtue of section 8(2) of the Criminal Procedure (Scotland) Act 1995 as a court holiday in a sheriff court in the sheriff court district within which the property is seized.
+
+#### Further detention of cryptoasset-related items
+
+**10Z7AC** (1) The period for which property seized under paragraph 10Z7AA may be detained may be extended by an order made—
+
+(a) in England and Wales or Northern Ireland, by a magistrates’ court;
+
+(b) in Scotland, by the sheriff.
+
+(2) An order under sub-paragraph (1) may not authorise the detention of any property—
+
+(a) beyond the end of the period of 6 months beginning with the date of the order, and
+
+(b) in the case of any further order under this paragraph, beyond the end of the period of 2 years beginning with the date of the first order; but this is subject to sub-paragraph (4).
+
+(3) A justice of the peace may also exercise the power of a magistrates’ court to make the first order under sub-paragraph (1).
+
+(4) The court or sheriff may make an order for the period of 2 years in sub-paragraph (2)(b) to be extended to a period of up to 3 years beginning with the date of the first order.
+
+(5) An application to a magistrates’ court, a justice of the peace or the sheriff to make the first order under sub-paragraph (1) extending a particular period of detention—
+
+(a) may be made and heard without notice of the application or hearing having been given to any of the persons affected by the application or to the legal representatives of such a person, and
+
+(b) may be heard and determined in private in the absence of persons so affected and of their legal representatives.
+
+(6) An application for an order under sub-paragraph (1) or (4) may be made—
+
+(a) in relation to England and Wales and Northern Ireland, by the Commissioners for His Majesty’s Revenue and Customs or an authorised officer;
+
+(b) in relation to Scotland, by a procurator fiscal.
+
+(7) The court, sheriff or justice may make an order under sub-paragraph (1) if satisfied, in relation to the item of property to be further detained, that—
+
+(a) there are reasonable grounds for suspecting that it is a cryptoasset-related item, and
+
+(b) its continuing detention is justified.
+
+(8) The court or sheriff may make an order under sub-paragraph (4) if satisfied that a request for assistance is outstanding in relation to the item of property to be further detained.
+
+(9) A “request for assistance” in sub-paragraph (8) means a request for assistance in obtaining evidence (including information in any form or article) in connection with the property to be further detained, made —
+
+(a) by a judicial authority in the United Kingdom under section 7 of the Crime (International Co-operation) Act 2003,
+
+(b) by an authorised officer, to an authority exercising equivalent functions in a foreign country,
+
+(c) by the Scottish Ministers in connection with their functions under this Schedule, to an authority exercising equivalent functions in a foreign country, or
+
+(d) by a person under section 375A or 408A of the Proceeds of Crime Act 2002 (evidence overseas).
+
+(10) An order under sub-paragraph (1) must provide for notice to be given to persons affected by the order.
+
+#### Seizure of cryptoassets
+
+**10Z7AD** (1) An authorised officer may seize cryptoassets if the authorised officer has reasonable grounds for suspecting that the cryptoassets are terrorist cryptoassets.
+
+(2) The circumstances in which a cryptoasset is “seized” for the purposes of sub-paragraph (1) include circumstances in which it is transferred into a crypto wallet controlled by the authorised officer.
+
+#### Prior authorisation for detention of cryptoassets
+
+**10Z7AE** (1) Where an order is made under paragraph 10Z7AC in respect of a cryptoasset-related item, the court, sheriff or justice making the order may, at the same time, make an order to authorise the detention of any cryptoassets that may be seized as a result of information obtained from that item.
+
+(2) An application for an order under this paragraph may be made, by a person mentioned in paragraph 10Z7AC(6), at the same time as an application for an order under paragraph 10Z7AC is made by that person.
+
+(3) The court, sheriff or justice may make an order under this paragraph if satisfied that there are reasonable grounds for suspecting that the cryptoassets that may be seized are terrorist cryptoassets.
+
+(4) An order under this paragraph authorises detention of the cryptoassets for the same period of time as the order under paragraph 10Z7AC authorises detention in respect of the cryptoasset-related item to which those cryptoassets relate.
+
+#### Initial detention of cryptoassets
+
+**10Z7AF** (1) Cryptoassets seized under paragraph 10Z7AD may be detained for an initial period of 48 hours.
+
+(2) Sub-paragraph (1) authorises the detention of cryptoassets only for so long as an authorised officer continues to have reasonable grounds for suspicion in relation to those cryptoassets as described in paragraph 10Z7AD(1).
+
+(3) In calculating a period of 48 hours for the purposes of this paragraph, no account is to be taken of—
+
+(a) any Saturday or Sunday,
+
+(b) Christmas Day,
+
+(c) Good Friday,
+
+(d) any day that is a bank holiday under the Banking and Financial Dealings Act 1971 in the part of the United Kingdom within which the property is seized, or
+
+(e) any day prescribed by virtue of section 8(2) of the Criminal Procedure (Scotland) Act 1995 as a court holiday in a sheriff court in the sheriff court district within which the property is seized.
+
+(4) This paragraph is subject to paragraph 10Z7AE.
+
+#### Further detention of cryptoassets
+
+**10Z7AG** (1) The period for which cryptoassets seized under paragraph 10Z7AD may be detained may be extended by an order made—
+
+(a) in England and Wales or Northern Ireland, by a magistrates’ court;
+
+(b) in Scotland, by the sheriff.
+
+(2) An order under sub-paragraph (1) may not authorise the detention of any cryptoassets—
+
+(a) beyond the end of the period of 6 months beginning with the date of the order, and
+
+(b) in the case of any further order under this paragraph, beyond the end of the period of 2 years beginning with the date of the first order; but this is subject to sub-paragraph (4).
+
+(3) A justice of the peace may also exercise the power of a magistrates’ court to make the first order under sub-paragraph (1).
+
+(4) The court or sheriff may make an order for the period of 2 years in sub-paragraph (2)(b) to be extended to a period of up to 3 years beginning with the date of the first order.
+
+(5) An application to a magistrates’ court, a justice of the peace or the sheriff to make the first order under sub-paragraph (1) extending a particular period of detention—
+
+(a) may be made and heard without notice of the application or hearing having been given to any of the persons affected by the application or to the legal representatives of such a person, and
+
+(b) may be heard and determined in private in the absence of persons so affected and of their legal representatives.
+
+(6) An application for an order under sub-paragraph (1) or (4) may be made—
+
+(a) in relation to England and Wales and Northern Ireland, by the Commissioners for His Majesty’s Revenue and Customs or an authorised officer;
+
+(b) in relation to Scotland, by a procurator fiscal.
+
+(7) The court, sheriff or justice may make an order under sub-paragraph (1) if satisfied, in relation to the cryptoassets to be further detained, that condition 1, condition 2 or condition 3 is met.
+
+(8) Condition 1 is that there are reasonable grounds for suspecting that the cryptoassets are intended to be used for the purposes of terrorism and that either—
+
+(a) their continued detention is justified while their intended use is further investigated or consideration is given to bringing (in the United Kingdom or elsewhere) proceedings against any person for an offence with which the cryptoassets are connected, or
+
+(b) proceedings against any person for an offence with which the cryptoassets are connected have been started and have not been concluded.
+
+(9) Condition 2 is that there are reasonable grounds for suspecting that the cryptoassets consist of resources of an organisation which is a proscribed organisation and that either—
+
+(a) their continued detention is justified while investigation is made into whether or not they consist of such resources or consideration is given to bringing (in the United Kingdom or elsewhere) proceedings against any person for an offence with which the cryptoassets are connected, or
+
+(b) proceedings against any person for an offence with which the cryptoassets are connected have been started and have not been concluded.
+
+(10) Condition 3 is that there are reasonable grounds for suspecting that the cryptoassets are property earmarked as terrorist property and that either—
+
+(a) their continued detention is justified while their derivation is further investigated or consideration is given to bringing (in the United Kingdom or elsewhere) proceedings against any person for an offence with which the cryptoassets are connected, or
+
+(b) proceedings against any person for an offence with which the cryptoassets are connected have been started and have not been concluded.
+
+(11) The court or sheriff may make an order under sub-paragraph (4) if satisfied that a request for assistance is outstanding in relation to the cryptoassets to be further detained.
+
+(12) A “request for assistance” in sub-paragraph (11) means a request for assistance in obtaining evidence (including information in any form or article) in connection with the property to be further detained, made —
+
+(a) by a judicial authority in the United Kingdom under section 7 of the Crime (International Co-operation) Act 2003,
+
+(b) by an authorised officer, to an authority exercising equivalent functions in a foreign country,
+
+(c) by the Scottish Ministers in connection with their functions under this Schedule, to an authority exercising equivalent functions in a foreign country, or
+
+(d) by a person under section 375A or 408A of the Proceeds of Crime Act 2002 (evidence overseas).
+
+(13) An order under sub-paragraph (1) must provide for notice to be given to persons affected by the order.
+
+#### Safekeeping of cryptoasset-related items and cryptoassets
+
+**10Z7AH** (1) An authorised officer must arrange for any item of property seized under paragraph 10Z7AA to be safely stored throughout the period during which it is detained under this Part.
+
+(2) An authorised officer must arrange for any cryptoassets seized under paragraph 10Z7AD to be safely stored throughout the period during which they are detained under this Part.
+
+#### Release of cryptoasset-related items and cryptoassets
+
+**10Z7AI** (1) This paragraph applies while any cryptoasset or other item of property is detained under this Part.
+
+(2) A magistrates’ court or (in Scotland) the sheriff may, subject to sub-paragraph (9), direct the release of the whole or any part of the property if the following condition is met.
+
+(3) The condition is that the court or sheriff is satisfied, on an application by the person from whom the property was seized, that the conditions for the detention of the property in this Part are no longer met in relation to the property to be released.
+
+(4) A person within sub-paragraph (5) may, subject to sub-paragraph (9) and after notifying the magistrates’ court, sheriff or justice under whose order property is being detained, release the whole or any part of the property if satisfied that the detention of the property to be released is no longer justified.
+
+(5) The following persons are within this sub-paragraph—
+
+(a) in relation to England and Wales and Northern Ireland, an authorised officer;
+
+(b) in relation to Scotland, a procurator fiscal.
+
+(6) If any cryptoasset-related item which has been released is not claimed within the period of a year beginning with the date on which it was released, an authorised officer may—
+
+(a) retain the item and deal with it as they see fit,
+
+(b) dispose of the item, or
+
+(c) destroy the item.
+
+(7) The powers in sub-paragraph (6) may be exercised only—
+
+(a) where the authorised officer has taken reasonable steps to notify—
+
+(i) the person from whom the item was seized, and
+
+(ii) any other persons who the authorised officer has reasonable grounds to believe have an interest in the item,
+
+that the item has been released, and
+
+(b) with the approval of a senior officer.
+
+(8) Any proceeds of a disposal of the item are to be paid—
+
+(a) into the Consolidated Fund if—
+
+(i) the item was directed to be released by a magistrates’ court, or
+
+(ii) a magistrates’ court or justice was notified under sub-paragraph (4) of the release;
+
+(b) into the Scottish Consolidated Fund if—
+
+(i) the item was directed to be released by the sheriff, or
+
+(ii) the sheriff was notified under sub-paragraph (4) of the release.
+
+(9) If (in the United Kingdom or elsewhere) proceedings are started against any person for an offence with which the property is connected, the property is not to be released under this paragraph (and so is to continue to be detained) until the proceedings are concluded.
+
+### PART 4BB — Terrorist cryptoassets: crypto wallet freezing orders
+
+#### Interpretation
+
+**10Z7B** (1) In this Part—
+
+(a) “cryptoasset exchange provider” means a firm or sole practitioner who by way of business provides one or more of the following services, including where the firm or sole practitioner does so as creator or issuer of any of the cryptoassets involved—
+
+(i) exchanging, or arranging or making arrangements with a view to the exchange of, cryptoassets for money or money for cryptoassets,
+
+(ii) exchanging, or arranging or making arrangements with a view to the exchange of, one cryptoasset for another, or
+
+(iii) operating a machine which utilises automated processes to exchange cryptoassets for money or money for cryptoassets;
+
+(b) “custodian wallet provider” means a firm or sole practitioner who by way of business provides services to safeguard, or to safeguard and administer—
+
+(i) cryptoassets on behalf of its customers, or
+
+(ii) private cryptographic keys on behalf of its customers in order to hold, store and transfer cryptoassets;
+
+(c) “cryptoasset service provider” includes cryptoasset exchange provider and custodian wallet provider.
+
+(2) In the definition of “cryptoasset exchange provider” in sub-paragraph (1)—
+
+(a) “cryptoasset” includes a right to, or interest in, a cryptoasset;
+
+(b) “money” means—
+
+(i) money in sterling,
+
+(ii) money in any other currency, or
+
+(iii) money in any other medium of exchange,
+
+but does not include a cryptoasset.
+
+(3) The Secretary of State may by regulations made by statutory instrument amend the definitions in sub-paragraphs (1) and (2).
+
+(4) Regulations under sub-paragraph (3)—
+
+(a) may make different provision for different purposes;
+
+(b) may make consequential, supplementary, incidental, transitional, transitory or saving provision.
+
+(5) A statutory instrument containing regulations under sub-paragraph (3) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(6) For the purposes of this Part—
+
+(a) a crypto wallet freezing order is an order that, subject to any exclusions (see paragraph 10Z7BD), prohibits each person by or for whom the crypto wallet to which the order applies is administered from—
+
+(i) making withdrawals or payments from the crypto wallet, or
+
+(ii) using the crypto wallet in any other way;
+
+(b) a crypto wallet is administered by or for a person if the person is the person to whom services are being provided by a cryptoasset service provider in relation to that crypto wallet.
+
+(7) In this Part—
+
+- “enforcement officer” means—
+
+  - a constable, or
+  - a counter-terrorism financial investigator;
+
+- “relevant court” means—
+
+  - in England and Wales and Northern Ireland, a magistrates’ court, and
+  - in Scotland, the sheriff;
+
+- “senior officer” means a police officer of at least the rank of superintendent;
+
+- “UK-connected cryptoasset service provider” means a cryptoasset service provider which—
+
+  - is acting in the course of business carried on by it in the United Kingdom,
+  - has terms and conditions with the persons to whom it provides services which provide for a legal dispute to be litigated in the courts of a part of the United Kingdom,
+  - holds, in the United Kingdom, any data relating to the persons to whom it provides services, or
+  - meets the condition in sub-paragraph (8).
+
+(8) The condition in this sub-paragraph is that—
+
+(a) the cryptoasset service provider has its registered office, or if it does not have one, its head office in the United Kingdom, and
+
+(b) the day-to-day management of the provider’s business is the responsibility of that office or another establishment maintained by it in the United Kingdom.
+
+#### Application for crypto wallet freezing order
+
+**10Z7BA** (1) This paragraph applies if an enforcement officer has reasonable grounds for suspecting that cryptoassets held in a crypto wallet administered by a UK-connected cryptoasset service provider are terrorist cryptoassets.
+
+(2) Where this paragraph applies the enforcement officer may apply to the relevant court for a crypto wallet freezing order in relation to the crypto wallet in which the cryptoassets are held.
+
+(3) But—
+
+(a) an enforcement officer may not apply for a crypto wallet freezing order unless the officer is a senior officer or is authorised to do so by a senior officer, and
+
+(b) the senior officer must consult the Treasury before making the application for the order or (as the case may be) authorising the application to be made, unless in the circumstances it is not reasonably practicable to do so.
+
+(4) An application for a crypto wallet freezing order may be made without notice if the circumstances of the case are such that notice of the application would prejudice the taking of any steps under this Schedule to forfeit cryptoassets that are terrorist cryptoassets.
+
+(5) An application for a crypto wallet freezing order under this paragraph may be combined with an application for an account freezing order under paragraph 10Q where a single entity—
+
+(a) is both a relevant financial institution for the purposes of paragraph 10Q and a cryptoasset service provider for the purposes of this Part, and
+
+(b) operates or administers, for the same person, both an account holding money and a crypto wallet.
+
+#### Making of crypto wallet freezing order
+
+**10Z7BB** (1) This paragraph applies where an application for a crypto wallet freezing order is made under paragraph 10Z7BA in relation to a crypto wallet.
+
+(2) The relevant court may make the order if satisfied that there are reasonable grounds for suspecting that some or all of the cryptoassets held in the crypto wallet are terrorist cryptoassets.
+
+(3) A crypto wallet freezing order ceases to have effect at the end of the period specified in the order (which may be varied under paragraph 10Z7BC) unless it ceases to have effect at an earlier or later time in accordance with this Part or Part 4BC or 4BD.
+
+(4) The period specified by the relevant court for the purposes of sub-paragraph (3) (whether when the order is first made or on a variation under paragraph 10Z7BC) may not exceed the period of 2 years, beginning with the day on which the crypto wallet freezing order is (or was) made; but this is subject to sub-paragraph (5).
+
+(5) The relevant court may make an order for the period of 2 years in sub-paragraph (4) to be extended to a period of up to 3 years beginning with the day on which the crypto wallet freezing order is (or was) made.
+
+(6) The relevant court may make an order under sub-paragraph (5) if satisfied that a request for assistance is outstanding in relation to some or all of the cryptoassets held in the crypto wallet.
+
+(7) A “request for assistance” in sub-paragraph (6) means a request for assistance in obtaining evidence (including information in any form or article) in connection with some or all of the cryptoassets held in the crypto wallet, made—
+
+(a) by a judicial authority in the United Kingdom under section 7 of the Crime (International Co-operation) Act 2003,
+
+(b) by an enforcement officer, to an authority exercising equivalent functions in a foreign country,
+
+(c) by the Scottish Ministers in connection with their functions under this Schedule, to an authority exercising equivalent functions in a foreign country, or
+
+(d) by a person under section 375A or 408A of the Proceeds of Crime Act 2002 (evidence overseas).
+
+(8) A crypto wallet freezing order must provide for notice to be given to persons affected by the order.
+
+#### Variation and setting aside of crypto wallet freezing order
+
+**10Z7BC** (1) The relevant court may at any time vary or set aside a crypto wallet freezing order on an application made by—
+
+(a) an enforcement officer, or
+
+(b) any person affected by the order.
+
+(2) But an enforcement officer may not make an application under sub-paragraph (1) unless the officer is a senior officer or is authorised to do so by a senior officer.
+
+(3) Before varying or setting aside a crypto wallet freezing order the court must (as well as giving the parties to the proceedings an opportunity to be heard) give such an opportunity to any person who may be affected by its decision.
+
+(4) In relation to Scotland, the references in this paragraph to setting aside an order are to be read as references to recalling it.
+
+#### Exclusions
+
+**10Z7BD** (1) The power to vary a crypto wallet freezing order includes (amongst other things) power to make exclusions from the prohibition on making withdrawals or payments from the crypto wallet to which the order applies.
+
+(2) Exclusions from the prohibition may also be made when the order is made.
+
+(3) An exclusion may (amongst other things) make provision for the purpose of enabling a person by or for whom the crypto wallet is administered—
+
+(a) to meet the person’s reasonable living expenses, or
+
+(b) to carry on any trade, business, profession or occupation.
+
+(4) An exclusion may be made subject to conditions.
+
+(5) Where a magistrates’ court exercises the power to make an exclusion for the purpose of enabling a person to meet legal expenses that the person has incurred, or may incur, in respect of proceedings under this Schedule, it must ensure that the exclusion—
+
+(a) is limited to reasonable legal expenses that the person has reasonably incurred or that the person reasonably incurs,
+
+(b) specifies the total amount that may be released for legal expenses in pursuance of the exclusion, and
+
+(c) is made subject to the same conditions as would be the required conditions (see section 286A of the Proceeds of Crime Act 2002) if the order had been made under section 245A of that Act (in addition to any conditions imposed under sub-paragraph (4)).
+
+(6) A magistrates’ court, in deciding whether to make an exclusion for the purpose of enabling a person to meet legal expenses in respect of proceedings under this Schedule—
+
+(a) must have regard to the desirability of the person being represented in any proceedings under this Schedule in which the person is a participant, and
+
+(b) must disregard the possibility that legal representation of the person in any such proceedings might, were an exclusion not made—
+
+(i) be made available under arrangements made for the purposes of Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012, or
+
+(ii) be funded by the Department of Justice in Northern Ireland.
+
+(7) The sheriff’s power to make exclusions may not be exercised for the purpose of enabling any person to meet any legal expenses in respect of proceedings under this Schedule.
+
+(8) The power to make exclusions must, subject to sub-paragraph (6), be exercised with a view to ensuring, so far as practicable, that there is not undue prejudice to the taking of any steps under this Schedule to forfeit cryptoassets that are terrorist cryptoassets.
+
+#### Restriction on proceedings and remedies
+
+**10Z7BE** (1) If a court in which proceedings are pending in respect of a crypto wallet administered by a UK-connected cryptoasset service provider is satisfied that a crypto wallet freezing order has been applied for or made in respect of the crypto wallet, it may either stay the proceedings or allow them to continue on any terms it thinks fit.
+
+(2) Before exercising the power conferred by sub-paragraph (1), the court must (as well as giving the parties to any of the proceedings concerned an opportunity to be heard) give such an opportunity to any person who may be affected by the court’s decision.
+
+(3) In relation to Scotland, the reference in sub-paragraph (1) to staying the proceedings is to be read as a reference to sisting the proceedings.
+
+### PART 4BC — Forfeiture of terrorist cryptoassets
+
+#### Interpretation
+
+**10Z7C** (1) In this Part—
+
+- “cryptoasset service provider” has the same meaning as in Part 4BB (see paragraph 10Z7B(1));
+
+- “crypto wallet freezing order” has the same meaning as in Part 4BB (see paragraph 10Z7B(6));
+
+- “senior officer” means—
+
+  - a senior police officer;
+  - an officer of Revenue and Customs of a rank designated by the Commissioners for His Majesty’s Revenue and Customs as equivalent to that of a senior police officer;
+  - an immigration officer of a rank designated by the Secretary of State as equivalent to that of a senior police officer;
+
+- “senior police officer” means a police officer of at least the rank of superintendent.
+
+(2) Paragraph 10Z7B(6)(b) (administration of crypto wallets) applies in relation to this Part as it applies in relation to Part 4BB.
+
+#### Forfeiture
+
+**10Z7CA** (1) This paragraph applies—
+
+(a) while any cryptoassets are detained under Part 4BA, or
+
+(b) while a crypto wallet freezing order made under paragraph 10Z7BB has effect.
+
+(2) An application for the forfeiture of some or all of the cryptoassets that are detained or held in the crypto wallet that is subject to the crypto wallet freezing order may be made—
+
+(a) to a magistrates’ court by the Commissioners for His Majesty’s Revenue and Customs or an authorised officer, or
+
+(b) to the sheriff by the Scottish Ministers.
+
+(3) The court or sheriff may order the forfeiture of some or all of the cryptoassets if satisfied that the cryptoassets are terrorist cryptoassets.
+
+(4) An order under sub-paragraph (3) made by a magistrates’ court may provide for payment under paragraph 10Z7CJ of reasonable legal expenses that a person has reasonably incurred, or may reasonably incur, in respect of—
+
+(a) the proceedings in which the order is made, or
+
+(b) any related proceedings under this Part.
+
+(5) A sum in respect of a relevant item of expenditure is not payable under paragraph 10Z7CJ in pursuance of provision under sub-paragraph (4) unless—
+
+(a) the person who applied for the order under sub-paragraph (3) agrees to its payment, or
+
+(b) the court has assessed the amount allowed in respect of that item and the sum is paid in respect of the assessed amount.
+
+(6) For the purposes of sub-paragraph (5)—
+
+(a) a “relevant item of expenditure” is an item of expenditure to which regulations under section 286B of the Proceeds of Crime Act 2002 would apply if the order under sub-paragraph (3) had instead been a recovery order made under section 266 of that Act;
+
+(b) an amount is “allowed” in respect of a relevant item of expenditure if it would have been allowed by those regulations;
+
+(c) if the person who applied for the order under sub-paragraph (3) was an authorised officer, that person may not agree to the payment of a sum unless the person is a senior officer or is authorised to do so by a senior officer.
+
+(7) Sub-paragraph (3) ceases to apply on the transfer of an application made under this paragraph in accordance with paragraph 10Z7CE.
+
+#### Forfeiture: supplementary
+
+**10Z7CB** (1) Sub-paragraph (2) applies where an application is made under paragraph 10Z7CA for the forfeiture of any cryptoassets detained under Part 4BA.
+
+(2) The cryptoassets are to continue to be detained under Part 4BA (and may not be released under any power conferred by this Schedule) until any proceedings in pursuance of the application (including any proceedings on appeal) are concluded.
+
+This is subject to Part 4BD (conversion to money).
+
+(3) Where an application is made under paragraph 10Z7CA in relation to cryptoassets held in a crypto wallet that is subject to a crypto wallet freezing order—
+
+(a) sub-paragraphs (4) and (5) apply, and
+
+(b) the crypto wallet freezing order is to continue to have effect until the time referred to in sub-paragraph (4)(b) or (5).
+
+(4) Where the cryptoassets are ordered to be forfeited under paragraph 10Z7CA(3) or 10Z7CE(3)—
+
+(a) the cryptoasset service provider that administers the crypto wallet must transfer the cryptoassets into a crypto wallet nominated by an authorised officer, and
+
+(b) immediately after the transfer has been made, the freezing order ceases to have effect.
+
+(5) Where the application is determined or otherwise disposed of other than by the making of an order under paragraph 10Z7CA(3) or 10Z7CE(3), the crypto wallet freezing order ceases to have effect immediately after that determination or other disposal.
+
+(6) Sub-paragraphs (4)(b) and (5) are subject to paragraph 10Z7CF and Part 4BD.
+
+(7) The Secretary of State may by regulations made by statutory instrument amend this paragraph to make provision about the forfeiture of cryptoassets held in a crypto wallet that is subject to a crypto wallet freezing order.
+
+(8) Regulations under sub-paragraph (7) may in particular make provision about—
+
+(a) the process for the forfeiture of cryptoassets;
+
+(b) the realisation of forfeited cryptoassets;
+
+(c) the application of the proceeds of such realisation.
+
+(9) Regulations under sub-paragraph (7) may—
+
+(a) make different provision for different purposes;
+
+(b) make consequential, supplementary, incidental, transitional, transitory or saving provision, including provision which makes consequential amendments to this Part.
+
+(10) A statutory instrument containing regulations under sub-paragraph (7) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+#### Associated and joint property
+
+**10Z7CC** (1) Paragraphs 10Z7CD and 10Z7CE apply if—
+
+(a) an application is made under paragraph 10Z7CA in respect of cryptoassets,
+
+(b) the court or sheriff is satisfied that some or all of the cryptoassets are terrorist cryptoassets, and
+
+(c) there exists property that is associated with the cryptoassets in relation to which the court or sheriff is satisfied as mentioned in paragraph (b).
+
+(2) Paragraphs 10Z7CD and 10Z7CE also apply in England and Wales and Northern Ireland if—
+
+(a) an application is made under paragraph 10Z7CA in respect of cryptoassets,
+
+(b) the court is satisfied that some or all of the cryptoassets are earmarked as terrorist property, and
+
+(c) the cryptoassets in relation to which the court is satisfied as mentioned in paragraph (b) belong to joint tenants and one of the tenants is an excepted joint owner.
+
+(3) In this paragraph and paragraphs 10Z7CD and 10Z7CE, “associated property” means property of any of the following descriptions that is not itself the forfeitable property—
+
+(a) any interest in the forfeitable property;
+
+(b) any other interest in the property in which the forfeitable property subsists;
+
+(c) if the forfeitable property is part of a larger property, but not a separate part, the remainder of that property.
+
+References to property being associated with forfeitable property are to be read accordingly.
+
+(4) In this paragraph and paragraphs 10Z7CD and 10Z7CE, the “forfeitable property” means the cryptoassets in relation to which the court or sheriff is satisfied as mentioned in sub-paragraph (1)(b) or (2)(b) (as the case may be).
+
+(5) For the purposes of this paragraph and paragraphs 10Z7CD and 10Z7CE—
+
+(a) an excepted joint owner is a joint tenant who obtained the property in circumstances in which it would not (as against them) be earmarked, and
+
+(b) references to the excepted joint owner’s share of property are to so much of the property as would have been theirs if the joint tenancy had been severed.
+
+#### Agreements about associated and joint property
+
+**10Z7CD** (1) Where—
+
+(a) this paragraph applies, and
+
+(b) the person who applied for the order under paragraph 10Z7CA (on the one hand) and the person who holds the associated property or who is the excepted joint owner (on the other hand) agree,
+
+the magistrates’ court or sheriff may, instead of making an order under paragraph 10Z7CA(3), make an order requiring the person who holds the associated property or who is the excepted joint owner to make a payment to a person identified in the order.
+
+(2) The amount of the payment is (subject to sub-paragraph (3)) to be the amount which the persons referred to in sub-paragraph (1)(b) agree represents—
+
+(a) in a case where this paragraph applies by virtue of paragraph 10Z7CC(1), the value of the forfeitable property;
+
+(b) in a case where this paragraph applies by virtue of paragraph 10Z7CC(2), the value of the forfeitable property less the value of the excepted joint owner’s share.
+
+(3) The amount of the payment may be reduced if the person who applied for the order under paragraph 10Z7CA agrees that the other party to the agreement has suffered loss as a result of—
+
+(a) the seizure of the forfeitable property under paragraph 10Z7AD and its subsequent detention, or
+
+(b) the making of a crypto wallet freezing order under paragraph 10Z7BB.
+
+(4) The reduction that is permissible by virtue of sub-paragraph (3) is such amount as the parties to the agreement agree is reasonable, having regard to the loss suffered and any other relevant circumstances.
+
+(5) An order under sub-paragraph (1) may, so far as required for giving effect to the agreement, include provision for vesting, creating or extinguishing any interest in property.
+
+(6) An order under sub-paragraph (1) made by a magistrates’ court may provide for payment under sub-paragraph (11) of reasonable legal expenses that a person has reasonably incurred, or may reasonably incur, in respect of—
+
+(a) the proceedings in which the order is made, or
+
+(b) any related proceedings under this Part.
+
+(7) A sum in respect of a relevant item of expenditure is not payable under sub-paragraph (11) in pursuance of provision under sub-paragraph (6) unless—
+
+(a) the person who applied for the order under paragraph 10Z7CA agrees to its payment, or
+
+(b) the court has assessed the amount allowed in respect of that item and the sum is paid in respect of the assessed amount.
+
+(8) For the purposes of sub-paragraph (7)—
+
+(a) a “relevant item of expenditure” is an item of expenditure to which regulations under section 286B of the Proceeds of Crime Act 2002 would apply if the order under sub-paragraph (1) had instead been a recovery order made under section 266 of that Act;
+
+(b) an amount is “allowed” in respect of a relevant item of expenditure if it would have been allowed by those regulations.
+
+(9) If there is more than one item of associated property or more than one excepted joint owner, the total amount to be paid under sub-paragraph (1), and the part of that amount which is to be provided by each person who holds any such associated property or who is an excepted joint owner, is to be agreed between both (or all) of them and the person who applied for the order under paragraph 10Z7CA.
+
+(10) If the person who applied for the order under paragraph 10Z7CA was an authorised officer, that person may enter into an agreement for the purposes of any provision of this paragraph only if the person is a senior officer or is authorised to do so by a senior officer.
+
+(11) An amount received under an order under sub-paragraph (1) must be applied as follows—
+
+(a) first, it must be applied in making any payment of legal expenses which, after giving effect to sub-paragraph (7), are payable under this sub-paragraph in pursuance of provision under sub-paragraph (6);
+
+(b) second, it must be applied in payment or reimbursement of any reasonable costs incurred in storing or insuring the forfeitable property and any associated property whilst detained under this Schedule;
+
+(c) third, it must be paid—
+
+(i) if the order was made by a magistrates’ court, into the Consolidated Fund;
+
+(ii) if the order was made by the sheriff, into the Scottish Consolidated Fund.
+
+#### Associated and joint property: default of agreement
+
+**10Z7CE** (1) Where this paragraph applies and there is no agreement under paragraph 10Z7CD, the magistrates’ court or sheriff may transfer the application made under paragraph 10Z7CA to the appropriate court.
+
+(2) The “appropriate court” is—
+
+(a) the High Court, where the application under paragraph 10Z7CA was made to a magistrates’ court;
+
+(b) the Court of Session, where the application under paragraph 10Z7CA was made to the sheriff.
+
+(3) Where (under sub-paragraph (1)) an application made under paragraph 10Z7CA is transferred to the appropriate court, the appropriate court may order the forfeiture of the property to which the application relates, or any part of that property, if satisfied that what is to be forfeited—
+
+(a) is within subsection (1)(a) or (b) of section 1, or
+
+(b) is property earmarked as terrorist property.
+
+(4) An order under sub-paragraph (3) made by the High Court may include provision of the type that may be included in an order under paragraph 10Z7CA(3) made by a magistrates’ court by virtue of paragraph 10Z7CA(4).
+
+(5) If provision is included in an order of the High Court by virtue of sub-paragraph (4) of this paragraph, paragraph 10Z7CA(5) and (6) apply with the necessary modifications.
+
+(6) The appropriate court may, as well as making an order under sub-paragraph (3), make an order—
+
+(a) providing for the forfeiture of the associated property or (as the case may be) for the excepted joint owner‘s interest to be extinguished, or
+
+(b) providing for the excepted joint owner‘s interest to be severed.
+
+(7) Where (under sub-paragraph (1)) the magistrates’ court or sheriff decides not to transfer an application made under paragraph 10Z7CA to the appropriate court, the magistrates’ court or sheriff may, as well as making an order under paragraph 10Z7CA(3), make an order—
+
+(a) providing for the forfeiture of the associated property or (as the case may be) for the excepted joint owner‘s interest to be extinguished, or
+
+(b) providing for the excepted joint owner‘s interest to be severed.
+
+(8) An order under sub-paragraph (6) or (7) may be made only if the appropriate court, the magistrates’ court or the sheriff (as the case may be) thinks it just and equitable to do so.
+
+(9) An order under sub-paragraph (6) or (7) must provide for the payment of an amount to the person who holds the associated property or who is an excepted joint owner.
+
+(10) In making an order under sub-paragraph (6) or (7), and including provision in it by virtue of sub-paragraph (9), the appropriate court, the magistrates’ court or the sheriff (as the case may be) must have regard to—
+
+(a) the rights of any person who holds the associated property or who is an excepted joint owner and the value to that person of that property or (as the case may be) of that person’s share (including any value that cannot be assessed in terms of money), and
+
+(b) the interest of the person who applied for the order under paragraph 10Z7CA in realising the value of the forfeitable property.
+
+(11) If the appropriate court, the magistrates’ court or the sheriff (as the case may be) is satisfied that—
+
+(a) the person who holds the associated property or who is an excepted joint owner has suffered loss as a result of—
+
+(i) the seizure of the forfeitable property under paragraph 10Z7AD and its subsequent detention, or
+
+(ii) the making of the crypto wallet freezing order under paragraph 10Z7BB, and
+
+(b) the circumstances are exceptional,
+
+an order under sub-paragraph (6) or (7) may require the payment of compensation to that person.
+
+(12) The amount of compensation to be paid by virtue of sub-paragraph (11) is the amount the appropriate court, the magistrates’ court or the sheriff (as the case may be) thinks reasonable, having regard to the loss suffered and any other relevant circumstances.
+
+(13) Compensation to be paid by virtue of sub-paragraph (11) is to be paid in the same way that compensation is to be paid under paragraph 10Z7CM.
+
+#### Continuation of crypto wallet freezing order pending appeal
+
+**10Z7CF** (1) This paragraph applies where, on an application under paragraph 10Z7CA in relation to a crypto wallet to which a crypto wallet freezing order applies—
+
+(a) the magistrates’ court or sheriff decides—
+
+(i) to make an order under paragraph 10Z7CA(3) in relation to some but not all of the cryptoassets to which the application related, or
+
+(ii) not to make an order under paragraph 10Z7CA(3), or
+
+(b) if the application is transferred in accordance with paragraph 10Z7CE(1), the High Court or Court of Session decides—
+
+(i) to make an order under paragraph 10Z7CE(3) in relation to some but not all of the cryptoassets to which the application related, or
+
+(ii) not to make an order under paragraph 10Z7CE(3).
+
+(2) The person who made the application under paragraph 10Z7CA may apply without notice to the court or sheriff that made the decision referred to in sub-paragraph (1) for an order that the crypto wallet freezing order is to continue to have effect.
+
+(3) Where the court or sheriff makes an order under sub-paragraph (2) the crypto wallet freezing order is to continue to have effect until—
+
+(a) the end of the period of 48 hours starting with the making of the order under sub-paragraph (2), or
+
+(b) if within that period of 48 hours an appeal is brought (whether under paragraph 10Z7CG or otherwise) against the decision referred to in sub-paragraph (1), the time when the appeal is determined or otherwise disposed of.
+
+(4) Sub-paragraph (3) of paragraph 10Z7AF applies for the purposes of sub-paragraph (3) as it applies for the purposes of that paragraph.
+
+#### Paragraphs 10Z7CA to 10Z7CE: appeals
+
+**10Z7CG** (1) Any party to proceedings for an order for the forfeiture of cryptoassets under paragraph 10Z7CA may appeal against—
+
+(a) the making of an order under paragraph 10Z7CA;
+
+(b) the making of an order under paragraph 10Z7CE(7);
+
+(c) a decision not to make an order under paragraph 10Z7CA unless the reason that no order was made is that an order was instead made under paragraph 10Z7CD;
+
+(d) a decision not to make an order under paragraph 10Z7CE(7).
+
+Paragraphs (c) and (d) do not apply if the application for the order under paragraph 10Z7CA was transferred in accordance with paragraph 10Z7CE(1).
+
+(2) Where an order under paragraph 10Z7CD is made by a magistrates’ court, any party to the proceedings for the order (including any party to the proceedings under paragraph 10Z7CA that preceded the making of the order) may appeal against a decision to include, or not to include, provision in the order under paragraph 10Z7CD(6).
+
+(3) An appeal under this paragraph lies—
+
+(a) in relation to England and Wales, to the Crown Court;
+
+(b) in relation to Scotland, to the Sheriff Appeal Court;
+
+(c) in relation to Northern Ireland, to a county court.
+
+(4) An appeal under this paragraph must be made before the end of the period of 30 days starting with the day on which the court or sheriff makes the order or decision.
+
+(5) Sub-paragraph (4) is subject to paragraph 10Z7CH.
+
+(6) The court hearing the appeal may make any order it thinks appropriate.
+
+(7) If the court upholds an appeal against an order forfeiting any cryptoasset or other item of property, it may, subject to sub-paragraph (8), order the release of the whole or any part of the property.
+
+(8) If (in the United Kingdom or elsewhere) proceedings are started against any person for an offence with which the property is connected, the property is not to be released under this paragraph (and so is to continue to be detained) until the proceedings are concluded.
+
+#### Extended time for appealing in certain cases where deproscription order made
+
+**10Z7CH** (1) This paragraph applies where—
+
+(a) a successful application for an order under paragraph 10Z7CA relies (wholly or partly) on the fact that an organisation is proscribed,
+
+(b) an application under section 4 of the Terrorism Act 2000 for a deproscription order in respect of the organisation is refused by the Secretary of State,
+
+(c) the property forfeited by the order under paragraph 10Z7CA was seized under this Schedule on or after the date of the refusal of that application,
+
+(d) an appeal against that refusal is allowed under section 5 of the Terrorism Act 2000,
+
+(e) a deproscription order is made accordingly, and
+
+(f) if the order is made in reliance on section 123(5) of the Terrorism Act 2000, a resolution is passed by each House of Parliament under section 123(5)(b) of that Act.
+
+(2) Where this paragraph applies, an appeal under paragraph 10Z7CG against the making of an order under paragraph 10Z7CA, and against the making (in addition) of any order under paragraph 10Z7CE(7), may be brought at any time before the end of the period of 30 days beginning with the date on which the deproscription order comes into force.
+
+(3) In this paragraph a “deproscription order” means an order under section 3(3)(b) or (8) of the Terrorism Act 2000.
+
+#### Realisation or destruction of forfeited cryptoassets etc
+
+**10Z7CI** (1) This paragraph applies where any cryptoasset or other item of property is forfeited under this Part.
+
+(2) An authorised officer must—
+
+(a) realise the property, or
+
+(b) make arrangements for its realisation.
+
+This is subject to sub-paragraphs (3) to (5).
+
+(3) The property is not to be realised—
+
+(a) before the end of the period within which an appeal may be made (whether under paragraph 10Z7CG or otherwise), or
+
+(b) if an appeal is made within that period, before the appeal is determined or otherwise disposed of.
+
+(4) The realisation of property under sub-paragraph (2) must be carried out, so far as practicable, in the manner best calculated to maximise the amount obtained for the property.
+
+(5) Where an authorised officer is satisfied that—
+
+(a) it is not reasonably practicable to realise any cryptoasset, or
+
+(b) there are reasonable grounds to believe that the realisation of any cryptoasset would be contrary to the public interest,
+
+the authorised officer may destroy the cryptoasset.
+
+(6) But—
+
+(a) the authorised officer may destroy the cryptoasset only if the officer is a senior officer or is authorised to do so by a senior officer, and
+
+(b) the cryptoasset is not to be destroyed—
+
+(i) before the end of the period within which an appeal may be made (whether under paragraph 10Z7CG or otherwise), or
+
+(ii) if an appeal is made within that period, before the appeal is determined or otherwise disposed of.
+
+(7) The question of whether the realisation of the cryptoasset would be contrary to the public interest is to be determined with particular reference to how likely it is that the entry of the cryptoasset into general circulation would facilitate criminal conduct by any person.
+
+#### Proceeds of realisation
+
+**10Z7CJ** (1) This paragraph applies where any cryptoasset or other item of property is realised under paragraph 10Z7CI.
+
+(2) The proceeds of the realisation must be applied as follows—
+
+(a) first, they must be applied in making any payment required to be made by virtue of paragraph 10Z7CE(9);
+
+(b) second, they must be applied in making any payment of legal expenses which, after giving effect to paragraph 10Z7CA(5) (including as applied by paragraph 10Z7CE(5)), are payable under this sub-paragraph in pursuance of provision under paragraph 10Z7CA(4) or, as the case may be, 10Z7CE(4);
+
+(c) third, they must be applied in payment or reimbursement of any reasonable costs incurred in storing or insuring the property whilst detained under this Schedule and in realising the property;
+
+(d) fourth, they must be paid—
+
+(i) if the property was forfeited by a magistrates’ court or the High Court, into the Consolidated Fund;
+
+(ii) if the property was forfeited by the sheriff or the Court of Session, into the Scottish Consolidated Fund.
+
+(3) If what is realised under paragraph 10Z7CI represents part only of an item of property, the reference in sub-paragraph (2)(c) to costs incurred in storing or insuring the property is to be read as a reference to costs incurred in storing or insuring the whole of the property.
+
+#### Victims etc: detained cryptoassets
+
+**10Z7CK** (1) A person who claims that any cryptoassets detained under this Schedule belong to the person may apply for some or all of the cryptoassets to be released.
+
+(2) An application under sub-paragraph (1) is to be made—
+
+(a) in England and Wales or Northern Ireland, to a magistrates’ court;
+
+(b) in Scotland, to the sheriff.
+
+(3) The application may be made in the course of proceedings under paragraph 10Z7AG or 10Z7CA or at any other time.
+
+(4) The court or sheriff may, subject to sub-paragraph (8), order the cryptoassets to which the application relates to be released to the applicant if it appears to the court or sheriff that—
+
+(a) the applicant was deprived of the cryptoassets to which the application relates, or of property which they represent, by criminal conduct,
+
+(b) the cryptoassets the applicant was deprived of were not, immediately before the applicant was deprived of them, property obtained by or in return for criminal conduct and nor did they then represent such property, and
+
+(c) the cryptoassets belong to the applicant.
+
+(5) If sub-paragraph (6) applies, the court or sheriff may, subject to sub-paragraph (8), order the cryptoassets to which the application relates to be released to the applicant or to the person from whom they were seized.
+
+(6) This sub-paragraph applies where—
+
+(a) the applicant is not the person from whom the cryptoassets to which the application relates were seized,
+
+(b) it appears to the court or sheriff that those cryptoassets belong to the applicant,
+
+(c) the court or sheriff is satisfied that the release condition is met in relation to those cryptoassets, and
+
+(d) no objection to the making of an order under sub-paragraph (5) has been made by the person from whom those cryptoassets were seized.
+
+(7) The release condition is met—
+
+(a) if the conditions in Part 4BA for the detention of the cryptoassets are no longer met, or
+
+(b) in relation to cryptoassets which are subject to an application for forfeiture under paragraph 10Z7CA, if the court or sheriff decides not to make an order under that paragraph in relation to the cryptoassets.
+
+(8) If (in the United Kingdom or elsewhere) proceedings are started against any person for an offence with which the cryptoassets are connected, the cryptoassets are not to be released under this paragraph (and so are to continue to be detained) until the proceedings are concluded.
+
+#### Victims etc: crypto wallet freezing orders
+
+**10Z7CL** (1) A person who claims that any cryptoassets held in a crypto wallet in respect of which a crypto wallet freezing order has effect belong to the person may apply for some or all of the cryptoassets to be released.
+
+(2) An application under sub-paragraph (1) is to be made—
+
+(a) in England and Wales or Northern Ireland, to a magistrates’ court;
+
+(b) in Scotland, to the sheriff.
+
+(3) The application may be made in the course of proceedings under paragraph 10Z7BB or 10Z7CA or at any other time.
+
+(4) The court or sheriff may, subject to sub-paragraph (8), order the cryptoassets to which the application relates to be released to the applicant if it appears to the court or sheriff that—
+
+(a) the applicant was deprived of the cryptoassets to which the application relates, or of property which they represent, by criminal conduct,
+
+(b) the cryptoassets the applicant was deprived of were not, immediately before the applicant was deprived of them, property obtained by or in return for criminal conduct and nor did they then represent such property, and
+
+(c) the cryptoassets belong to the applicant.
+
+(5) If sub-paragraph (6) applies, the court or sheriff may, subject to sub-paragraph (8), order the cryptoassets to which the application relates to be released to the applicant.
+
+(6) This sub-paragraph applies where—
+
+(a) the applicant is not the person from whom the cryptoassets to which the application relates were seized,
+
+(b) it appears to the court or sheriff that those cryptoassets belong to the applicant,
+
+(c) the court or sheriff is satisfied that the release condition is met in relation to those cryptoassets, and
+
+(d) no objection to the making of an order under sub-paragraph (5) has been made by the person from whom those cryptoassets were seized.
+
+(7) The release condition is met—
+
+(a) if the conditions for the making of the crypto wallet freezing order are no longer met in relation to the cryptoassets to which the application relates, or
+
+(b) in relation to cryptoassets held in a crypto wallet subject to a crypto wallet freezing order which are subject to an application for forfeiture under paragraph 10Z7CA, if the court or sheriff decides not to make an order under that paragraph in relation to the cryptoassets.
+
+(8) Cryptoassets are not to be released under this paragraph—
+
+(a) if an application for their forfeiture under paragraph 10Z7CA is made, until any proceedings in pursuance of the application (including any proceedings on appeal) are concluded;
+
+(b) if (in the United Kingdom or elsewhere) proceedings are started against any person for an offence with which the cryptoassets are connected, until the proceedings are concluded.
+
+(9) In relation to cryptoassets held in a crypto wallet that is subject to a crypto wallet freezing order, references in this paragraph to a person from whom cryptoassets were seized include a reference to a person by or for whom the crypto wallet was administered immediately before the crypto wallet freezing order was made.
+
+#### Compensation
+
+**10Z7CM** (1) This paragraph applies if no order is made under paragraph 10Z7CA, 10Z7CD or 10Z7CE in respect of cryptoassets detained under this Schedule or held in a crypto wallet that is subject to a crypto wallet freezing order under paragraph 10Z7BB.
+
+(2) Where this paragraph applies, the following may make an application to the relevant court for compensation—
+
+(a) a person to whom the cryptoassets belong or from whom they were seized;
+
+(b) a person by or for whom a crypto wallet to which the crypto wallet freezing order applies is administered.
+
+(3) If the relevant court is satisfied that the applicant has suffered loss as a result of the detention of the cryptoassets or the making of the crypto wallet freezing order and that the circumstances are exceptional, the relevant court may order compensation to be paid to the applicant.
+
+(4) The amount of compensation to be paid is the amount the relevant court thinks reasonable, having regard to the loss suffered and any other relevant circumstances.
+
+(5) If the cryptoassets were seized, or the crypto wallet freezing order was applied for, by an officer of Revenue and Customs, the compensation is to be paid by the Commissioners for His Majesty’s Revenue and Customs.
+
+(6) If the cryptoassets were seized, or the crypto wallet freezing order was applied for, by a constable, the compensation is to be paid as follows—
+
+(a) in the case of a constable of a police force in England and Wales, it is to be paid out of the police fund from which the expenses of the police force are met;
+
+(b) in the case of a constable of the Police Service of Scotland, it is to be paid by the Scottish Police Authority;
+
+(c) in the case of a police officer within the meaning of the Police (Northern Ireland) Act 2000, it is to be paid out of money provided by the Chief Constable of the Police Service of Northern Ireland.
+
+(7) If the cryptoassets were seized, or the crypto wallet freezing order was applied for, by a counter-terrorism financial investigator, the compensation is to be paid as follows—
+
+(a) in the case of a counter-terrorism financial investigator who was—
+
+(i) a member of the civilian staff of a police force (including the metropolitan police force), within the meaning of Part 1 of the Police Reform and Social Responsibility Act 2011, or
+
+(ii) a member of staff of the City of London police force,
+
+it is to be paid out of the police fund from which the expenses of the police force are met;
+
+(b) in the case of a counter-terrorism financial investigator who was a member of staff of the Police Service of Northern Ireland, it is to be paid out of money provided by the Chief Constable of the Police Service of Northern Ireland.
+
+(8) If the cryptoassets were seized, or the crypto wallet freezing order was applied for, by an immigration officer, the compensation is to be paid by the Secretary of State.
+
+(9) If an order under paragraph 10Z7BB, 10Z7CA, 10Z7CD or 10Z7CE is made in respect of some of the cryptoassets detained or held, this paragraph has effect in relation to the remainder.
+
+(10) This paragraph does not apply if the relevant court makes an order under paragraph 10Z7CK or 10Z7CL.
+
+(11) In this paragraph “relevant court” means—
+
+(a) in England and Wales and Northern Ireland, a magistrates’ court;
+
+(b) in Scotland, the sheriff.
+
+### PART 4BD — Conversion of cryptoassets
+
+#### Interpretation
+
+**10Z7D** (1) In this Part—
+
+- “converted cryptoassets” is to be read in accordance with paragraphs 10Z7DD and 10Z7DE;
+
+- “crypto wallet freezing order” has the same meaning as in Part 4BB (see paragraph 10Z7B(6));
+
+- “relevant court” means—
+
+  - in England and Wales and Northern Ireland, a magistrates’ court;
+  - in Scotland, the sheriff;
+
+- “relevant financial institution” has the same meaning as in Part 4B (see paragraph 10Q);
+
+- “UK-connected cryptoasset service provider” has the same meaning as in Part 4BB (see paragraph 10Z7B(7)).
+
+(2) Paragraph 10Z7B(6)(b) (administration of crypto wallets) applies in relation to this Part as it applies in relation to Part 4BB.
+
+(3) In this Part references to the conversion of cryptoassets into money are references to the conversion of cryptoassets into—
+
+(a) cash, or
+
+(b) money held in an account maintained with a relevant financial institution.
+
+(4) For the purposes of Parts 2 to 4, converted cryptoassets detained under this Part are not to be treated as cash detained under this Schedule.
+
+#### Detained cryptoassets: conversion
+
+**10Z7DA** (1) Sub-paragraph (2) applies while any cryptoassets are detained in pursuance of an order under paragraph 10Z7AE or 10Z7AG (including where cryptoassets are subject to forfeiture proceedings).
+
+(2) A person within sub-paragraph (3) may apply to the relevant court for an order requiring all of the cryptoassets detained pursuant to the order to be converted into money.
+
+(3) The following persons are within this sub-paragraph—
+
+(a) an authorised officer;
+
+(b) a person from whom the cryptoassets were seized.
+
+(4) In deciding whether to make an order under this paragraph, the court must have regard to whether the cryptoassets (as a whole) are likely to suffer a significant loss in value during the period before they are released or forfeited (including the period during which an appeal against an order for forfeiture may be made).
+
+(5) Before making an order under this paragraph the court must give an opportunity to be heard to—
+
+(a) the parties to the proceedings, and
+
+(b) any other person who may be affected by its decision.
+
+(6) As soon as practicable after an order is made under this paragraph, an authorised officer must convert the cryptoassets, or arrange for the cryptoassets to be converted, into money.
+
+(7) The conversion of cryptoassets under sub-paragraph (6) must be carried out, so far as practicable, in the manner best calculated to maximise the amount of money obtained for the cryptoassets.
+
+(8) At the first opportunity after the cryptoassets are converted, the authorised officer must arrange for the amount of money obtained for the cryptoassets to be paid into an interest-bearing account and held there.
+
+(9) Interest accruing on the amount is to be added to it on its forfeiture or release.
+
+(10) Where cryptoassets are converted into money in accordance with an order made under this paragraph—
+
+(a) the cryptoassets are no longer to be treated as being detained in pursuance of an order under paragraph 10Z7AE or 10Z7AG, and
+
+(b) any application made under paragraph 10Z7CA(2) in relation to the cryptoassets which has not yet been determined or otherwise disposed of (including under paragraph 10Z7CD or 10Z7CE) is to be treated as if it were an application made under paragraph 10Z7DG(2) in relation to the converted cryptoassets.
+
+(11) An order made under this paragraph must provide for notice to be given to persons affected by the order.
+
+(12) No appeal may be made against an order made under this paragraph.
+
+#### Frozen crypto wallet: conversion
+
+**10Z7DB** (1) This paragraph applies while a crypto wallet freezing order under paragraph 10Z7BB has effect (including where cryptoassets held in a crypto wallet that is subject to a crypto wallet freezing order are subject to forfeiture proceedings).
+
+(2) A person within sub-paragraph (3) may apply to the relevant court for an order requiring all of the cryptoassets held in the crypto wallet to be converted into money.
+
+(3) The following persons are within this sub-paragraph—
+
+(a) an authorised officer;
+
+(b) a person by or for whom the crypto wallet is administered.
+
+(4) In deciding whether to make an order under this paragraph, the court must have regard to whether the cryptoassets (as a whole) are likely to suffer a significant loss in value during the period before—
+
+(a) the crypto wallet freezing order ceases to have effect, or
+
+(b) the cryptoassets are forfeited (including the period during which an appeal against an order for forfeiture may be made).
+
+(5) Before making an order under this paragraph the court must give an opportunity to be heard to—
+
+(a) the parties to the proceedings, and
+
+(b) any other person who may be affected by its decision.
+
+(6) As soon as practicable after an order is made under this paragraph, the UK-connected cryptoasset service provider that administers the crypto wallet must convert the cryptoassets, or arrange for the cryptoassets to be converted, into money.
+
+(7) The conversion of cryptoassets under sub-paragraph (6) must be carried out, so far as practicable, in the manner best calculated to maximise the amount of money obtained for the cryptoassets.
+
+(8) At the first opportunity after the cryptoassets are converted, the UK-connected cryptoasset service provider must arrange for the amount of money obtained for the cryptoassets to be paid into an interest-bearing account nominated by an authorised officer and held there.
+
+(9) But—
+
+(a) the UK-connected cryptoasset service provider may deduct any reasonable expenses incurred by the provider in connection with the conversion of the cryptoassets, and
+
+(b) the amount to be treated as the proceeds of the conversion of the cryptoassets is to be reduced accordingly.
+
+(10) Interest accruing on the amount obtained for the cryptoassets is to be added to it on its forfeiture or release.
+
+(11) Where cryptoassets are converted in accordance with an order made under this paragraph—
+
+(a) the crypto wallet freezing order ceases to have effect,
+
+(b) any application made under paragraph 10Z7CA(2) in relation to the cryptoassets which has not yet been determined or otherwise disposed of (including under paragraph 10Z7CD or 10Z7CE) is to be treated as if it were an application made under paragraph 10Z7DG(2) in relation to the converted cryptoassets, and
+
+(c) any application made under paragraph 10Z7CF(2) in relation to the crypto wallet which has not yet been determined or otherwise disposed of may not be proceeded with.
+
+(12) An order made under this paragraph must provide for notice to be given to persons affected by the order.
+
+(13) No appeal may be made against an order made under this paragraph.
+
+#### Conversion: existing forfeiture proceedings
+
+**10Z7DC** (1) Where—
+
+(a) cryptoassets are forfeited under paragraph 10Z7CA or 10Z7CE, and
+
+(b) before the cryptoassets are realised or destroyed in accordance with paragraph 10Z7CI, an order is made under paragraph 10Z7DA requiring the cryptoassets to be converted into money,
+
+paragraph 10Z7DJ(1) applies in relation to the converted cryptoassets as if they had been detained under paragraph 10Z7DD and forfeited under paragraph 10Z7DG (and accordingly paragraph 10Z7CI ceases to apply).
+
+(2) Where—
+
+(a) cryptoassets are forfeited under paragraph 10Z7CA or 10Z7CE, and
+
+(b) before the cryptoassets are realised or destroyed in accordance with paragraph 10Z7CI, an order is made under paragraph 10Z7DB requiring the cryptoassets to be converted into money,
+
+paragraph 10Z7DJ(2) applies in relation to the converted cryptoassets as if they had been detained under paragraph 10Z7DE and forfeited under paragraph 10Z7DG (and accordingly paragraph 10Z7CI ceases to apply).
+
+(3) Where—
+
+(a) an appeal may be made under paragraph 10Z7CG(1) or (2) in relation to the determination of an application under paragraph 10Z7CA(2) for the forfeiture of cryptoassets (including where paragraph 10Z7CD or 10Z7CE applies), and
+
+(b) an order is made under paragraph 10Z7DA or 10Z7DB requiring the cryptoassets to be converted into money,
+
+the appeal may instead be made under paragraph 10Z7DH (within the time allowed by paragraph 10Z7CG(4)) as if it were an appeal against the determination of an application under paragraph 10Z7DG.
+
+(4) Where—
+
+(a) an appeal is made under paragraph 10Z7CG(1) or (2) in relation to the determination of an application under paragraph 10Z7CA(2) for the forfeiture of cryptoassets (including where paragraph 10Z7CD or 10Z7CE applies), and
+
+(b) before the appeal is determined or otherwise disposed of, an order is made under paragraph 10Z7DA or 10Z7DB requiring the cryptoassets to be converted into money,
+
+the appeal is to be treated as if it had been made under paragraph 10Z7DH(1) in relation to the determination of an application under paragraph 10Z7DG for the forfeiture of the converted cryptoassets.
+
+#### Detained cryptoassets: detention of proceeds of conversion
+
+**10Z7DD** (1) This paragraph applies where cryptoassets are converted into money in accordance with an order under paragraph 10Z7DA.
+
+(2) The proceeds of the conversion (the “converted cryptoassets”) may be detained initially until the end of the period that the cryptoassets could, immediately before the conversion, have been detained under Part 4BA (ignoring the possibility of any extension of that period).
+
+(3) The period for which the converted cryptoassets may be detained may be extended by an order made by the relevant court.
+
+(4) An order under sub-paragraph (3) may not authorise the detention of the converted cryptoassets beyond the end of the period of 2 years beginning with the relevant date; but this is subject to sub-paragraph (5).
+
+(5) The relevant court may make an order for the period of 2 years in sub-paragraph (4) to be extended to a period of up to 3 years beginning with the relevant date.
+
+(6) In sub-paragraphs (4) and (5) “the relevant date” means the date on which the first order under paragraph 10Z7AE or 10Z7AG (as the case may be) was made in relation to the cryptoassets.
+
+(7) An application for an order under sub-paragraph (3) or (5) may be made—
+
+(a) in relation to England and Wales and Northern Ireland, by the Commissioners for His Majesty’s Revenue and Customs or an authorised officer;
+
+(b) in relation to Scotland, by a procurator fiscal.
+
+(8) The relevant court may make an order under sub-paragraph (3) only if satisfied that there are reasonable grounds for suspecting that the converted cryptoassets to be further detained—
+
+(a) are within subsection (1)(a) or (b) of section 1, or
+
+(b) are property earmarked as terrorist property.
+
+(9) The relevant court may make an order under sub-paragraph (5) only if satisfied that a request for assistance is outstanding in relation to the cryptoassets mentioned in sub-paragraph (1).
+
+(10) A “request for assistance” in sub-paragraph (9) means a request for assistance in obtaining evidence (including information in any form or article) in connection with the cryptoassets, made—
+
+(a) by a judicial authority in the United Kingdom under section 7 of the Crime (International Co-operation) Act 2003,
+
+(b) by an authorised officer, to an authority exercising equivalent functions in a foreign country,
+
+(c) by the Scottish Ministers in connection with their functions under this Schedule, to an authority exercising equivalent functions in a foreign country, or
+
+(d) by a person under section 375A or 408A of the Proceeds of Crime Act 2002 (evidence overseas).
+
+#### Frozen crypto wallets: detention of proceeds of conversion
+
+**10Z7DE** (1) This paragraph applies where cryptoassets held in a crypto wallet subject to a crypto wallet freezing order are converted into money in accordance with an order under paragraph 10Z7DB.
+
+(2) The proceeds of the conversion (the “converted cryptoassets”) may be detained initially until the end of the period that the crypto wallet freezing order was, immediately before the conversion, due to have effect under Part 4BB (ignoring the possibility of any extension of that period).
+
+(3) The period for which the converted cryptoassets may be detained may be extended by an order made by the relevant court.
+
+(4) An order under sub-paragraph (3) may not authorise the detention of the converted cryptoassets beyond the end of the period of 2 years beginning with the day on which the crypto wallet freezing order was made; but this is subject to sub-paragraph (5).
+
+(5) The relevant court may make an order for the period of 2 years in sub-paragraph (4) to be extended to a period of up to 3 years beginning with the day on which the crypto wallet freezing order was made.
+
+(6) An application for an order under sub-paragraph (3) or (5) may be made—
+
+(a) in relation to England and Wales and Northern Ireland, by the Commissioners for His Majesty’s Revenue and Customs or an authorised officer;
+
+(b) in relation to Scotland, by a procurator fiscal.
+
+(7) The relevant court may make an order under sub-paragraph (3) only if satisfied that there are reasonable grounds for suspecting that the converted cryptoassets to be further detained—
+
+(a) are within subsection (1)(a) or (b) of section 1, or
+
+(b) are property earmarked as terrorist property.
+
+(8) The relevant court may make an order under sub-paragraph (5) only if satisfied that a request for assistance is outstanding in relation to the cryptoassets mentioned in sub-paragraph (1).
+
+(9) A “request for assistance” in sub-paragraph (8) means a request for assistance in obtaining evidence (including information in any form or article) in connection with the cryptoassets, made—
+
+(a) by a judicial authority in the United Kingdom under section 7 of the Crime (International Co-operation) Act 2003,
+
+(b) by an authorised officer, to an authority exercising equivalent functions in a foreign country,
+
+(c) by the Scottish Ministers in connection with their functions under this Schedule, to an authority exercising equivalent functions in a foreign country, or
+
+(d) by a person under section 375A or 408A of the Proceeds of Crime Act 2002 (evidence overseas).
+
+#### Release of detained converted cryptoassets
+
+**10Z7DF** (1) This paragraph applies while any converted cryptoassets are detained under paragraph 10Z7DD or 10Z7DE.
+
+(2) The relevant court may, subject to sub-paragraph (7), direct the release of the whole or any part of the converted cryptoassets if the following condition is met.
+
+(3) The condition is that, on an application by the relevant person, the court is not satisfied that there are reasonable grounds for suspecting that the converted cryptoassets to be released—
+
+(a) are within subsection (1)(a) or (b) of section 1, or
+
+(b) are property earmarked as terrorist property.
+
+(4) In sub-paragraph (3) “the relevant person” means—
+
+(a) in the case of converted cryptoassets detained under paragraph 10Z7DD, the person from whom the cryptoassets mentioned in sub-paragraph (1) of that paragraph were seized, and
+
+(b) in the case of converted cryptoassets detained under paragraph 10Z7DE, any person affected by the crypto wallet freezing order mentioned in sub-paragraph (1) of that paragraph.
+
+(5) A person within sub-paragraph (6) may, subject to sub-paragraph (7) and after notifying the magistrates’ court or sheriff under whose order converted cryptoassets are being detained, release the whole or any part of the converted cryptoassets if satisfied that the detention is no longer justified.
+
+(6) The following persons are within this sub-paragraph—
+
+(a) in relation to England and Wales or Northern Ireland, an authorised officer;
+
+(b) in relation to Scotland, a procurator fiscal.
+
+(7) Converted cryptoassets are not to be released under this paragraph (and so are to continue to be detained)—
+
+(a) if an application for their forfeiture under paragraph 10Z7DG is made, until any proceedings in pursuance of the application (including any proceedings on appeal) are concluded;
+
+(b) if (in the United Kingdom or elsewhere) proceedings are started against any person for an offence with which the converted cryptoassets are connected, until the proceedings are concluded.
+
+#### Forfeiture
+
+**10Z7DG** (1) This paragraph applies while any converted cryptoassets are detained under paragraph 10Z7DD or 10Z7DE.
+
+(2) An application for the forfeiture of some or all of the converted cryptoassets may be made—
+
+(a) to a magistrates’ court, by the Commissioners for His Majesty’s Revenue and Customs or an authorised officer;
+
+(b) to the sheriff, by the Scottish Ministers.
+
+(3) The court or sheriff may order the forfeiture of some or all of the converted cryptoassets if satisfied that the converted cryptoassets to be forfeited—
+
+(a) are within subsection (1)(a) or (b) of section 1, or
+
+(b) are property earmarked as terrorist property.
+
+(4) But in the case of property which belongs to joint tenants, one of whom is an excepted joint owner, the order may not apply to so much of it as the court thinks is attributable to the excepted joint owner’s share.
+
+(5) Where an application for forfeiture is made under this paragraph, the converted cryptoassets are to continue to be detained under paragraph 10Z7DD or 10Z7DE (and may not be released under any power conferred by this Part) until any proceedings in pursuance of the application (including any proceedings on appeal) are concluded.
+
+(6) For the purposes of this paragraph—
+
+(a) an excepted joint owner is a joint tenant who obtained the property in circumstances in which it would not (as against them) be earmarked, and
+
+(b) references to the excepted joint owner’s share of property are to so much of the property as would have been theirs if the joint tenancy had been severed.
+
+#### Forfeiture: appeals
+
+**10Z7DH** (1) Any party to proceedings for an order for the forfeiture of converted cryptoassets under paragraph 10Z7DG who is aggrieved by an order under that paragraph or by the decision of the court not to make such an order may appeal—
+
+(a) from an order or decision of a magistrates’ court in England and Wales, to the Crown Court;
+
+(b) from an order or decision of the sheriff, to the Sheriff Appeal Court;
+
+(c) from an order or decision of a magistrates’ court in Northern Ireland, to a county court.
+
+(2) An appeal under sub-paragraph (1) must be made before the end of the period of 30 days starting with the day on which the court makes the order or decision.
+
+(3) The court hearing the appeal may make any order it thinks appropriate.
+
+(4) If the court upholds an appeal against an order forfeiting the converted cryptoassets, it may, subject to sub-paragraph (5), order the release of some or all of the converted cryptoassets.
+
+(5) If (in the United Kingdom or elsewhere) proceedings are started against any person for an offence with which the converted cryptoassets are connected, the converted cryptoassets are not to be released under this paragraph (and so are to continue to be detained) until the proceedings are concluded.
+
+#### Extended time for appealing in certain cases where deproscription order made
+
+**10Z7DI** (1) This paragraph applies where—
+
+(a) a successful application for an order under paragraph 10Z7DG relies (wholly or partly) on the fact that an organisation is proscribed,
+
+(b) an application under section 4 of the Terrorism Act 2000 for a deproscription order in respect of the organisation is refused by the Secretary of State,
+
+(c) the converted cryptoassets forfeited by the order under paragraph 10Z7DG were converted from cryptoassets which were seized under this Schedule on or after the date of the refusal of that application,
+
+(d) an appeal against that refusal is allowed under section 5 of the Terrorism Act 2000,
+
+(e) a deproscription order is made accordingly, and
+
+(f) if the order is made in reliance on section 123(5) of the Terrorism Act 2000, a resolution is passed by each House of Parliament under section 123(5)(b) of that Act.
+
+(2) Where this paragraph applies, an appeal under paragraph 10Z7DH against the making of an order under paragraph 10Z7DG may be brought at any time before the end of the period of 30 days beginning with the date on which the deproscription order comes into force.
+
+(3) In this paragraph a “deproscription order” means an order under section 3(3)(b) or (8) of the Terrorism Act 2000.
+
+#### Application of forfeited converted cryptoassets
+
+**10Z7DJ** (1) Converted cryptoassets detained under paragraph 10Z7DD and forfeited under paragraph 10Z7DG, and any accrued interest on them, must be applied as follows—
+
+(a) first, they must be applied in making any payment of reasonable expenses incurred by an authorised officer in connection with the safe storage of the cryptoassets mentioned in paragraph 10Z7DD(1) during the period the cryptoassets were detained under Part 4BA;
+
+(b) second, they must be applied in making any payment of reasonable expenses incurred by an authorised officer in connection with the conversion of those cryptoassets under paragraph 10Z7DA(6);
+
+(c) third, they must be applied in making any payment of reasonable expenses incurred by an authorised officer in connection with the detention of the converted cryptoassets under this Part;
+
+(d) fourth, they must be paid—
+
+(i) if forfeited by a magistrates’ court in England and Wales or Northern Ireland, into the Consolidated Fund, and
+
+(ii) if forfeited by the sheriff, into the Scottish Consolidated Fund.
+
+(2) Converted cryptoassets detained under paragraph 10Z7DE and forfeited under paragraph 10Z7DG, and any accrued interest on them, must be applied as follows—
+
+(a) first, they must be applied in making any payment of reasonable expenses incurred by an authorised officer in connection with the detention of the converted cryptoassets under this Part;
+
+(b) second, they must be paid—
+
+(i) if forfeited by a magistrates’ court in England and Wales or Northern Ireland, into the Consolidated Fund, and
+
+(ii) if forfeited by the sheriff, into the Scottish Consolidated Fund.
+
+(3) But converted cryptoassets are not to be applied or paid under sub-paragraph (1) or (2)—
+
+(a) before the end of the period within which an appeal under paragraph 10Z7DH may be made, or
+
+(b) if a person appeals under that paragraph, before the appeal is determined or otherwise disposed of.
+
+#### Victims etc
+
+**10Z7DK** (1) This paragraph applies where converted cryptoassets are detained under this Part.
+
+(2) Where this paragraph applies, a person (“P”) who claims that the relevant cryptoassets belonged to P immediately before—
+
+(a) the relevant cryptoassets were seized, or
+
+(b) the crypto wallet freezing order was made in relation to the crypto wallet in which the relevant cryptoassets were held,
+
+may apply to the relevant court for some or all of the converted cryptoassets to be released to P.
+
+(3) The application may be made in the course of proceedings under paragraph 10Z7DD, 10Z7DE or 10Z7DG or at any other time.
+
+(4) The relevant court may, subject to sub-paragraph (9), order the converted cryptoassets to which the application relates to be released to the applicant if it appears to the relevant court that the condition in sub-paragraph (5) is met.
+
+(5) The condition in this sub-paragraph is that—
+
+(a) the applicant was deprived of the relevant cryptoassets, or of property which they represent, by criminal conduct,
+
+(b) the relevant cryptoassets the applicant was deprived of were not, immediately before the applicant was deprived of them, property obtained by or in return for criminal conduct and nor did they then represent such property, and
+
+(c) the relevant cryptoassets belonged to the applicant immediately before—
+
+(i) the relevant cryptoassets were seized, or
+
+(ii) the crypto wallet freezing order was made in relation to the crypto wallet in which the relevant cryptoassets were held.
+
+(6) If sub-paragraph (7) applies, the relevant court may, subject to sub-paragraph (9), order the converted cryptoassets to which the application relates to be released to the applicant or to the person from whom the relevant cryptoassets were seized.
+
+(7) This sub-paragraph applies where—
+
+(a) the applicant is not the person from whom the relevant cryptoassets were seized,
+
+(b) it appears to the relevant court that the relevant cryptoassets belonged to the applicant immediately before—
+
+(i) the relevant cryptoassets were seized, or
+
+(ii) the crypto wallet freezing order was made in relation to the crypto wallet in which the relevant cryptoassets were held,
+
+(c) the relevant court is satisfied that the release condition is met in relation to the converted cryptoassets, and
+
+(d) no objection to the making of an order under sub-paragraph (6) has been made by the person from whom the relevant cryptoassets were seized.
+
+(8) The release condition is met—
+
+(a) if the conditions in this Part for the detention of the converted cryptoassets are no longer met, or
+
+(b) in relation to converted cryptoassets which are subject to an application for forfeiture under paragraph 10Z7DG, if the court or sheriff decides not to make an order under that paragraph in relation to the converted cryptoassets.
+
+(9) If (in the United Kingdom or elsewhere) proceedings are started against any person for an offence with which the converted cryptoassets are connected, the converted cryptoassets are not to be released under this paragraph (and so are to continue to be detained) until the proceedings are concluded
+
+(10) Where sub-paragraph (2)(b) applies, references in this paragraph to a person from whom relevant cryptoassets were seized include a reference to a person by or for whom the crypto wallet mentioned in that provision was administered immediately before the crypto wallet freezing order was made in relation to the crypto wallet.
+
+(11) In this paragraph “the relevant cryptoassets” means—
+
+(a) in relation to converted cryptoassets detained under paragraph 10Z7DD, some or all of the cryptoassets mentioned in sub-paragraph (1) of that paragraph, and
+
+(b) in relation to converted cryptoassets detained under paragraph 10Z7DE, some or all of the cryptoassets mentioned in sub-paragraph (1) of that paragraph.
+
+#### Compensation
+
+**10Z7DL** (1) This paragraph applies if no order is made under paragraph 10Z7DG in respect of converted cryptoassets detained under this Part.
+
+(2) Where this paragraph applies, the following may make an application to the relevant court for compensation—
+
+(a) a person to whom the relevant cryptoassets belonged immediately before they were seized;
+
+(b) a person from whom the relevant cryptoassets were seized;
+
+(c) a person by or for whom the crypto wallet mentioned in paragraph 10Z7DE(1) was administered immediately before the crypto wallet freezing order was made in relation to the crypto wallet.
+
+(3) If the relevant court is satisfied that—
+
+(a) the applicant has suffered loss as a result of—
+
+(i) the conversion of the relevant cryptoassets into money, or
+
+(ii) the detention of the converted cryptoassets, and
+
+(b) the circumstances are exceptional,
+
+the relevant court may order compensation to be paid to the applicant.
+
+(4) The amount of compensation to be paid is the amount the relevant court thinks reasonable, having regard to the loss suffered and any other relevant circumstances.
+
+(5) If the relevant cryptoassets were seized, or the relevant crypto wallet freezing order was applied for, by an officer of Revenue and Customs, the compensation is to be paid by the Commissioners for His Majesty’s Revenue and Customs.
+
+(6) If the relevant cryptoassets were seized, or the relevant crypto wallet freezing order was applied for, by a constable, the compensation is to be paid as follows—
+
+(a) in the case of a constable of a police force in England and Wales, it is to be paid out of the police fund from which the expenses of the police force are met;
+
+(b) in the case of a constable of the Police Service of Scotland, it is to be paid by the Scottish Police Authority;
+
+(c) in the case of a police officer within the meaning of the Police (Northern Ireland) Act 2000, it is to be paid out of money provided by the Chief Constable of the Police Service of Northern Ireland.
+
+(7) If the relevant cryptoassets were seized, or the relevant crypto wallet freezing order was applied for, by a counter-terrorism financial investigator, the compensation is to be paid as follows—
+
+(a) in the case of a counter-terrorism financial investigator who was—
+
+(i) a member of the civilian staff of a police force (including the metropolitan police force), within the meaning of Part 1 of the Police Reform and Social Responsibility Act 2011, or
+
+(ii) a member of staff of the City of London police force,
+
+it is to be paid out of the police fund from which the expenses of the police force are met;
+
+(b) in the case of a counter-terrorism financial investigator who was a member of staff of the Police Service of Northern Ireland, it is to be paid out of money provided by the Chief Constable of the Police Service of Northern Ireland.
+
+(8) If the relevant cryptoassets were seized, or the relevant crypto wallet freezing order was applied for, by an immigration officer, the compensation is to be paid by the Secretary of State.
+
+(9) This paragraph does not apply if the relevant court makes an order under paragraph 10Z7DK.
+
+(10) In this paragraph—
+
+- “the relevant cryptoassets” means—
+
+  - in relation to converted cryptoassets detained under paragraph 10Z7DD, the cryptoassets mentioned in sub-paragraph (1) of that paragraph;
+  - in relation to converted cryptoassets detained under paragraph 10Z7DE, the cryptoassets mentioned in sub-paragraph (1) of that paragraph;
+
+- “the relevant crypto wallet freezing order”, in relation to converted cryptoassets detained under paragraph 10Z7DE, means the crypto wallet freezing order mentioned in sub-paragraph (1) of that paragraph.]
+
+### [[^F127]PART 4C — OFFENCES
+
+#### Offences in relation to counter-terrorism financial investigators
+
+**10Z8** (1) A person commits an offence if the person assaults a counter-terrorism financial investigator who is acting in the exercise of a power under this Schedule.
+
+(2) A person commits an offence if the person resists or wilfully obstructs a counter-terrorism financial investigator who is acting in the exercise of a power under this Schedule.
+
+(3) A person guilty of an offence under sub-paragraph (1) is liable—
+
+(a) on summary conviction in England and Wales, to imprisonment for a term not exceeding 51 weeks, or to a fine, or to both;
+
+(b) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 6 months, or to a fine not exceeding level 5 on the standard scale, or to both.
+
+(4) A person guilty of an offence under sub-paragraph (2) is liable—
+
+(a) on summary conviction in England and Wales, to imprisonment for a term not exceeding 51 weeks, or to a fine not exceeding level 3 on the standard scale, or to both;
+
+(b) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 1 month, or to a fine not exceeding level 3 on the standard scale, or to both.
+
+(5) In relation to an offence committed before the coming into force of section 281(5) of the Criminal Justice Act 2003 (alteration of penalties for certain summary offences: England and Wales)—
+
+(a) the reference to 51 weeks in sub-paragraph (3)(a) is to be read as a reference to 6 months;
+
+(b) the reference to 51 weeks in sub-paragraph (4)(a) is to be read as a reference to 1 month.]
+
+### [[^F128]PART 4D — Proceedings under this Schedule
+
+#### Powers for prosecutors to appear in proceedings
+
+**10Z9** (1) The Director of Public Prosecutions or the Director of Public Prosecutions for Northern Ireland may appear for a person mentioned in sub-paragraph (2) in proceedings under this Schedule if the Director—
+
+(a) is asked by, or on behalf of, the person to do so, and
+
+(b) considers it appropriate to do so.
+
+(2) The persons referred to in sub-paragraph (1) are—
+
+(a) a constable;
+
+(b) a counter-terrorism financial investigator;
+
+(c) the Commissioners for Her Majesty's Revenue and Customs;
+
+(d) an officer of Revenue and Customs;
+
+(e) an immigration officer.
+
+(3) The Director of Public Prosecutions may authorise a person (generally or specifically) to carry out the functions of the Director under sub-paragraph (1) if the person is—
+
+(a) a member of the Director's staff;
+
+(b) a person providing services under arrangements made by the Director.
+
+(4) The Director of Public Prosecutions and the Director of Public Prosecutions for Northern Ireland may charge fees for the provision of services under this paragraph.]
+
+### PART 5 — Property earmarked as terrorist property
+
+#### Property obtained through terrorism
+
+**11** (1) A person obtains property through terrorism if he obtains property by or in return for acts of terrorism, or acts carried out for the purposes of terrorism.
+
+(2) In deciding whether any property was obtained through terrorism—
+
+(a) it is immaterial whether or not any money, goods or services were provided in order to put the person in question in a position to carry out the acts,
+
+(b) it is not necessary to show that the act was of a particular kind if it is shown that the property was obtained through acts of one of a number of kinds, each of which would have been an act of terrorism, or an act carried out for the purposes of terrorism.
+
+#### Property earmarked as terrorist property
+
+**12** (1) Property obtained through terrorism is earmarked as terrorist property.
+
+(2) But if property obtained through terrorism has been disposed of (since it was so obtained), it is earmarked as terrorist property only if it is held by a person into whose hands it may be followed.
+
+(3) Earmarked property obtained through terrorism may be followed into the hands of a person obtaining it on a disposal by—
+
+(a) the person who obtained the property through terrorism, or
+
+(b) a person into whose hands it may (by virtue of this sub-paragraph) be followed.
+
+#### Tracing property
+
+**13** (1) Where property obtained through terrorism (“the original property”) is or has been earmarked as terrorist property, property which represents the original property is also earmarked.
+
+(2) If a person enters into a transaction by which—
+
+(a) he disposes of earmarked property, whether the original property or property which (by virtue of this Part) represents the original property, and
+
+(b) he obtains other property in place of it,
+
+the other property represents the original property.
+
+(3) If a person disposes of earmarked property which represents the original property, the property may be followed into the hands of the person who obtains it (and it continues to represent the original property).
+
+#### Mixing property
+
+**14** (1) Sub-paragraph (2) applies if a person’s property which is earmarked as terrorist property is mixed with other property (whether his property or another’s).
+
+(2) The portion of the mixed property which is attributable to the property earmarked as terrorist property represents the property obtained through terrorism.
+
+(3) Property earmarked as terrorist property is mixed with other property if (for example) it is used—
+
+(a) to increase funds held in a bank account,
+
+(b) in part payment for the acquisition of an asset,
+
+(c) for the restoration or improvement of land,
+
+(d) by a person holding a leasehold interest in the property to acquire the freehold.
+
+#### Accruing profits
+
+**15** (1) This paragraph applies where a person who has property earmarked as terrorist property obtains further property consisting of profits accruing in respect of the earmarked property.
+
+(2) The further property is to be treated as representing the property obtained through terrorism.
+
+#### General exceptions
+
+**16** (1) If—
+
+(a) a person disposes of property earmarked as terrorist property, and
+
+(b) the person who obtains it on the disposal does so in good faith, for value and without notice that it was earmarked,
+
+the property may not be followed into that person’s hands and, accordingly, it ceases to be earmarked.
+
+(2) If—
+
+(a) in pursuance of a judgment in civil proceedings (whether in the United Kingdom or elsewhere), the defendant makes a payment to the claimant or the claimant otherwise obtains property from the defendant,
+
+(b) the claimant’s claim is based on the defendant’s criminal conduct, and
+
+(c) apart from this sub-paragraph, the sum received, or the property obtained, by the claimant would be earmarked as terrorist property,
+
+the property ceases to be earmarked.
+
+In relation to Scotland, “claimant” and “defendant” are to be read as “pursuer” and “defender”; and, in relation to Northern Ireland, “claimant” is to be read as “plaintiff”.
+
+(3) If—
+
+(a) a payment is made to a person in pursuance of a compensation order under Article 14 of the Criminal Justice (Northern Ireland) Order 1994 (S.I. 1994/2795 (N.I. 15)), section 249 of the Criminal Procedure (Scotland) Act 1995 (c. 46) or [[^F129]Chapter 2 of Part 7 of the Sentencing Code], [[^F130]or in pursuance of a service compensation order under the Armed Forces Act 2006,] and
+
+(b) apart from this sub-paragraph, the sum received would be earmarked as terrorist property,
+
+the property ceases to be earmarked.
+
+(4) If—
+
+(a) a payment is made to a person in pursuance of a restitution order under section 27 of the Theft Act (Northern Ireland) 1969 (c.16 (NI)) [[^F131]or a restitution order within the meaning given by section 147 of the Sentencing Code] or a person otherwise obtains any property in pursuance of such an order, and
+
+(b) apart from this sub-paragraph, the sum received, or the property obtained, would be earmarked as terrorist property,
+
+the property ceases to be earmarked.
+
+(5) If—
+
+(a) in pursuance of an order made by the court under section 382(3) or 383(5) of the Financial Services and Markets Act 2000 (c. 8) (restitution orders), an amount is paid to or distributed among any persons in accordance with the court’s directions, and
+
+(b) apart from this sub-paragraph, the sum received by them would be earmarked as terrorist property,
+
+the property ceases to be earmarked.
+
+(6) If—
+
+(a) in pursuance of a requirement of the [[^F132]Financial Conduct Authority, the Prudential Regulation Authority or the Bank of England under or by virtue of] section 384(5) of the Financial Services and Markets Act 2000 (c. 8) (power [^F133]... to require restitution), an amount is paid to or distributed among any persons, and
+
+(b) apart from this sub-paragraph, the sum received by them would be earmarked as terrorist property,
+
+the property ceases to be earmarked.
+
+(7) Where—
+
+(a) a person enters into a transaction to which paragraph 13(2) applies, and
+
+(b) the disposal is one to which sub-paragraph (1) applies,
+
+this paragraph does not affect the question whether (by virtue of paragraph 13(2)) any property obtained on the transaction in place of the property disposed of is earmarked.
+
+### PART 6 — Interpretation
+
+#### Property
+
+**17** (1) Property is all property wherever situated and includes—
+
+(a) money,
+
+(b) all forms of property, real or personal, heritable or moveable,
+
+(c) things in action and other intangible or incorporeal property.
+
+(2) Any reference to a person’s property (whether expressed as a reference to the property he holds or otherwise) is to be read as follows.
+
+(3) In relation to land, it is a reference to any interest which he holds in the land.
+
+(4) In relation to property other than land, it is a reference—
+
+(a) to the property (if it belongs to him), or
+
+(b) to any other interest which he holds in the property.
+
+#### Obtaining and disposing of property
+
+**18** (1) References to a person disposing of his property include a reference—
+
+(a) to his disposing of a part of it, or
+
+(b) to his granting an interest in it,
+
+(or to both); and references to the property disposed of are to any property obtained on the disposal.
+
+(2) If a person grants an interest in property of his which is earmarked as terrorist property, the question whether the interest is also earmarked is to be determined in the same manner as it is on any other disposal of earmarked property.
+
+(3) A person who makes a payment to another is to be treated as making a disposal of his property to the other, whatever form the payment takes.
+
+(4) Where a person’s property passes to another under a will or intestacy or by operation of law, it is to be treated as disposed of by him to the other.
+
+(5) A person is only to be treated as having obtained his property for value in a case where he gave unexecuted consideration if the consideration has become executed consideration.
+
+#### General interpretation
+
+**19** (1) In this Schedule—
+
+- [[^F134]“account forfeiture notice” (in Part 4B) has the meaning given by paragraph 10W(3),]
+
+- [[^F134]“account freezing order” (in Part 4B) has the meaning given by paragraph 10Q(4)(a),]
+
+- “authorised officer” means a constable [[^F135], a counter-terrorism financial investigator] , a customs officer or an immigration officer,
+
+- [[^F134]“bank” (in Part 4B) has the meaning given by paragraph 10R,]
+
+- [[^F134]“building society” (in Part 4B) has the meaning given by paragraph 10Q(7),]
+
+- “cash” has the meaning given by paragraph 1,
+
+- [[^F136]“cash forfeiture notice” has the meaning given by paragraph 5A(3),]
+
+- “constable”, in relation to Northern Ireland, means a police officer within the meaning of the Police (Northern Ireland) Act 2000 (c. 32),
+
+- [[^F137]“counter-terrorism financial investigator” is to be read in accordance with section 63F of the Terrorism Act 2000,]
+
+- “criminal conduct” means conduct which constitutes an offence in any part of the United Kingdom, or would constitute an offence in any part of the United Kingdom if it occurred there,
+
+- [[^F138]“cryptoasset” has the meaning given by paragraph 10Z7A(1);
+
+- “crypto wallet” has the meaning given by paragraph 10Z7A(1);]
+
+- “customs officer” means an officer commissioned by the Commissioners of Customs and Excise under section 6(3) of the Customs and Excise Management Act 1979 (c. 2),
+
+- [[^F139]“electronic money institution” (in Part 4B) has the meaning given by paragraph 10Q(7),]
+
+- [[^F134]“enforcement officer” (in Part 4B) has the meaning given by paragraph 10Q(7),]
+
+- “forfeiture order” has the meaning given by paragraph 7,
+
+- “immigration officer” means a person appointed as an immigration officer under paragraph 1 of Schedule 2 to the Immigration Act 1971 (c. 77),
+
+- “interest”, in relation to land—
+
+  - (a) in the case of land in England and Wales or Northern Ireland, means any legal estate and any equitable interest or power,
+  - (b) in the case of land in Scotland, means any estate, interest, servitude or other heritable right in or over land, including a heritable security,
+
+- “interest”, in relation to property other than land, includes any right (including a right to possession of the property),
+
+- [[^F138]“justice of the peace”, in relation to Northern Ireland, means lay magistrate;]
+
+- [[^F140]“listed asset” has the meaning given by paragraph 10A,]
+
+- “part”, in relation to property, includes a portion,
+
+- [[^F139]“payment institution” (in Part 4B) has the meaning given by paragraph 10Q(7),]
+
+- “property obtained through terrorism” has the meaning given by paragraph 11,
+
+- “property earmarked as terrorist property” is to be read in accordance with Part 5,
+
+- “proscribed organisation” has the same meaning as in the Terrorism Act 2000 (c. 11),
+
+- [[^F134]“relevant court” (in Part 4B) has the meaning given by paragraph 10Q(7),]
+
+- [[^F139]“relevant financial institution” (in Part 4B) has the meaning given by paragraph 10Q(1A),]
+
+- [[^F136]“senior officer” (in Part 2A) has the meaning given by paragraph 5A(10),]
+
+- [[^F134]“senior officer” (in Part 4B) has the meaning given by paragraph 10Q(7),]
+
+- “terrorism” has the same meaning as in the Terrorism Act 2000,
+
+- “terrorist cash” has the meaning given by paragraph 1,
+
+- [[^F138]“terrorist cryptoasset” has the meaning given by paragraph 10Z7A(1);]
+
+- “value” means market value.
+
+(2) Paragraphs 17 and 18 and the following provisions apply for the purposes of this Schedule.
+
+(3) For the purpose of deciding whether or not property was earmarked as terrorist property at any time (including times before commencement), it is to be assumed that this Schedule was in force at that and any other relevant time.
+
+(4) References to anything done or intended to be done for the purposes of terrorism include anything done or intended to be done for the benefit of a proscribed organisation.
+
+(5) An organisation’s resources include any cash which is applied or made available, or is to be applied or made available, for use by the organisation.
+
+(6) Proceedings against any person for an offence are concluded when—
+
+(a) the person is convicted or acquitted,
+
+(b) the prosecution is discontinued or, in Scotland, the trial diet is deserted simpliciter, or
+
+(c) the jury is discharged without a finding [[^F141]otherwise than in circumstances where the proceedings are continued without a jury] .
+
+[[^F142](7) References (in Part 4B) to an account being operated by or for a person are to be read in accordance with paragraph 10Q(4)(b).]
+
+## SCHEDULE 2 — Terrorist property: amendments
+
+*Section 3*
+
+### PART 1 — Account monitoring orders
+
+**1** (1) The Terrorism Act 2000 is amended as follows.
+
+(2) The following section is inserted after section 38—
+
+> **Account monitoring orders**
+>
+> **38A** Schedule 6A (account monitoring orders) shall have effect.
+
+(3) The following Schedule is inserted after Schedule 6—
+
+> **SCHEDULE 6A — ACCOUNT MONITORING ORDERS**
+>
+> **Introduction**
+>
+> **1** (1) This paragraph applies for the purposes of this Schedule.
+>
+> (2) A judge is—
+>
+> (a) a Circuit judge, in England and Wales;
+>
+> (b) the sheriff, in Scotland;
+>
+> (c) a Crown Court judge, in Northern Ireland.
+>
+> (3) The court is—
+>
+> (a) the Crown Court, in England and Wales or Northern Ireland;
+>
+> (b) the sheriff, in Scotland.
+>
+> (4) An appropriate officer is—
+>
+> (a) a police officer, in England and Wales or Northern Ireland;
+>
+> (b) the procurator fiscal, in Scotland.
+>
+> (5) “Financial institution” has the same meaning as in Schedule 6.
+>
+> **Account monitoring orders**
+>
+> **2** (1) A judge may, on an application made to him by an appropriate officer, make an account monitoring order if he is satisfied that—
+>
+> (a) the order is sought for the purposes of a terrorist investigation,
+>
+> (b) the tracing of terrorist property is desirable for the purposes of the investigation, and
+>
+> (c) the order will enhance the effectiveness of the investigation.
+>
+> (2) The application for an account monitoring order must state that the order is sought against the financial institution specified in the application in relation to information which—
+>
+> (a) relates to an account or accounts held at the institution by the person specified in the application (whether solely or jointly with another), and
+>
+> (b) is of the description so specified.
+>
+> (3) The application for an account monitoring order may specify information relating to—
+>
+> (a) all accounts held by the person specified in the application for the order at the financial institution so specified,
+>
+> (b) a particular description, or particular descriptions, of accounts so held, or
+>
+> (c) a particular account, or particular accounts, so held.
+>
+> (4) An account monitoring order is an order that the financial institution specified in the application for the order must—
+>
+> (a) for the period specified in the order,
+>
+> (b) in the manner so specified,
+>
+> (c) at or by the time or times so specified, and
+>
+> (d) at the place or places so specified,
+>
+> provide information of the description specified in the application to an appropriate officer.
+>
+> (5) The period stated in an account monitoring order must not exceed the period of 90 days beginning with the day on which the order is made.
+>
+> **Applications**
+>
+> **3** (1) An application for an account monitoring order may be made ex parte to a judge in chambers.
+>
+> (2) The description of information specified in an application for an account monitoring order may be varied by the person who made the application.
+>
+> (3) If the application was made by a police officer, the description of information specified in it may be varied by a different police officer.
+>
+> **Discharge or variation**
+>
+> **4** (1) An application to discharge or vary an account monitoring order may be made to the court by—
+>
+> (a) the person who applied for the order;
+>
+> (b) any person affected by the order.
+>
+> (2) If the application for the account monitoring order was made by a police officer, an application to discharge or vary the order may be made by a different police officer.
+>
+> (3) The court—
+>
+> (a) may discharge the order;
+>
+> (b) may vary the order.
+>
+> **Rules of court**
+>
+> **5** (1) Rules of court may make provision as to the practice and procedure to be followed in connection with proceedings relating to account monitoring orders.
+>
+> (2) In Scotland, rules of court shall, without prejudice to section 305 of the Criminal Procedure (Scotland) Act 1995 (c. 46), be made by Act of Adjournal.
+>
+> **Effect of orders**
+>
+> **6** (1) In England and Wales and Northern Ireland, an account monitoring order has effect as if it were an order of the court.
+>
+> (2) An account monitoring order has effect in spite of any restriction on the disclosure of information (however imposed).
+>
+> **Statements**
+>
+> **7** (1) A statement made by a financial institution in response to an account monitoring order may not be used in evidence against it in criminal proceedings.
+>
+> (2) But sub-paragraph (1) does not apply—
+>
+> (a) in the case of proceedings for contempt of court;
+>
+> (b) in the case of proceedings under section 23 where the financial institution has been convicted of an offence under any of sections 15 to 18;
+>
+> (c) on a prosecution for an offence where, in giving evidence, the financial institution makes a statement inconsistent with the statement mentioned in sub-paragraph (1).
+>
+> (3) A statement may not be used by virtue of sub-paragraph (2)(c) against a financial institution unless—
+>
+> (a) evidence relating to it is adduced, or
+>
+> (b) a question relating to it is asked,
+>
+> by or on behalf of the financial institution in the proceedings arising out of the prosecution.
+
+### PART 2 — Restraint orders
+
+**2** (1) Part 1 of Schedule 4 to the Terrorism Act 2000 (c. 11) (forfeiture orders under section 23 of that Act: England and Wales) is amended as follows.
+
+(2) In paragraph 5 (restraint orders) for sub-paragraph (2) substitute—
+
+> (2) The High Court may also make a restraint order under this paragraph where—
+>
+> (a) a criminal investigation has been started in England and Wales with regard to an offence under any of sections 15 to 18,
+>
+> (b) an application for a restraint order is made to the High Court by the person who the High Court is satisfied will have the conduct of any proceedings for the offence, and
+>
+> (c) it appears to the High Court that a forfeiture order may be made in any proceedings for the offence.
+
+(3) In paragraph 5(3) for “the proceedings” substitute “ any proceedings ”.
+
+(4) In paragraph 5 after sub-paragraph (5) insert—
+
+> (6) In this paragraph “criminal investigation” means an investigation which police officers or other persons have a duty to conduct with a view to it being ascertained whether a person should be charged with an offence.
+
+(5) For paragraph 6(3) substitute—
+
+> (3) A restraint order made under paragraph 5(1) shall in particular be discharged on an application under sub-paragraph (2) if the proceedings for the offence have been concluded.
+>
+> (4) A restraint order made under paragraph 5(2) shall in particular be discharged on an application under sub-paragraph (2)—
+>
+> (a) if no proceedings in respect of offences under any of sections 15 to 18 are instituted within such time as the High Court considers reasonable, and
+>
+> (b) if all proceedings in respect of offences under any of sections 15 to 18 have been concluded.
+
+(6) In paragraph 8(3) for “the proposed proceedings” substitute “ any proceedings for an offence under any of sections 15 to 18 ”.
+
+(7) In paragraph 9(1) (compensation where restraint order discharged) for “paragraph 6(3)(a)” substitute “ paragraph 6(4)(a) ”.
+
+**3** (1) Part 2 of Schedule 4 to the Terrorism Act 2000 (c. 11) (forfeiture orders under section 23 of that Act: Scotland) is amended as follows.
+
+(2) In paragraph 18 (restraint orders) for sub-paragraph (2) substitute—
+
+> (2) The Court of Session may also make a restraint order on such an application where—
+>
+> (a) a criminal investigation has been instituted in Scotland with regard to an offence under any of sections 15 to 18, and
+>
+> (b) it appears to the Court of Session that a forfeiture order may be made in any proceedings for the offence.
+
+(3) In paragraph 18(3) for “the proceedings” substitute “ any proceedings ”.
+
+(4) In paragraph 18 after sub-paragraph (5) insert—
+
+> (6) In this paragraph “criminal investigation” means an investigation which police officers or other persons have a duty to conduct with a view to it being ascertained whether a person should be charged with an offence.
+
+(5) For paragraph 19(3) substitute—
+
+> (3) A restraint order made under paragraph 18(1) shall in particular be recalled on an application under sub-paragraph (2) if the proceedings for the offence have been concluded.
+>
+> (3A) A restraint order made under paragraph 18(2) shall in particular be discharged on an application under sub-paragraph (2)—
+>
+> (a) if no proceedings in respect of offences under any of sections 15 to 18 are instituted within such time as the Court of Session considers reasonable, and
+>
+> (b) if all proceedings in respect of offences under any of sections 15 to 18 have been concluded.
+
+(6) In paragraph 23(1) for “19(3)(a)” substitute “ 19(3A)(a) ”.
+
+**4** (1) Part 3 of Schedule 4 to the Terrorism Act 2000 (forfeiture orders under section 23 of that Act: Northern Ireland) is amended as follows.
+
+(2) In paragraph 33 (restraint orders) for sub-paragraph (2) substitute—
+
+> (2) The High Court may also make a restraint order under this paragraph where—
+>
+> (a) a criminal investigation has been started in Northern Ireland with regard to an offence under any of sections 15 to 18,
+>
+> (b) an application for a restraint order is made to the High Court by the person who the High Court is satisfied will have the conduct of any proceedings for the offence, and
+>
+> (c) it appears to the High Court that a forfeiture order may be made in any proceedings for the offence.
+
+(3) In paragraph 33(3) for “the proceedings” substitute “ any proceedings ”.
+
+(4) In paragraph 33 after sub-paragraph (5) insert—
+
+> (6) In this paragraph “criminal investigation” means an investigation which police officers or other persons have a duty to conduct with a view to it being ascertained whether a person should be charged with an offence.
+
+(5) For paragraph 34(3) substitute—
+
+> (3) A restraint order made under paragraph 33(1) shall in particular be discharged on an application under sub-paragraph (2) if the proceedings for the offence have been concluded.
+>
+> (4) A restraint order made under paragraph 33(2) shall in particular be discharged on an application under sub-paragraph (2)—
+>
+> (a) if no proceedings in respect of offences under any of sections 15 to 18 are instituted within such time as the High Court considers reasonable, and
+>
+> (b) if all proceedings in respect of offences under any of sections 15 to 18 have been concluded.
+
+(6) In paragraph 38(4), in the definition of “prosecutor”, for “the proposed proceedings” substitute “ any proceedings for an offence under any of sections 15 to 18 ”.
+
+(7) In paragraph 39(1) (compensation where restraint order discharged) for “paragraph 34(3)(a)” substitute “ paragraph 34(4)(a) ”.
+
+### PART 3 — Disclosure of information
+
+**5** (1) The Terrorism Act 2000 (c. 11) is amended as follows.
+
+(2) The following sections are inserted after section 21—
+
+> **Failure to disclose: regulated sector**
+>
+> **21A** (1) A person commits an offence if each of the following three conditions is satisfied.
+>
+> (2) The first condition is that he—
+>
+> (a) knows or suspects, or
+>
+> (b) has reasonable grounds for knowing or suspecting,
+>
+> that another person has committed an offence under any of sections 15 to 18.
+>
+> (3) The second condition is that the information or other matter—
+>
+> (a) on which his knowledge or suspicion is based, or
+>
+> (b) which gives reasonable grounds for such knowledge or suspicion,
+>
+> came to him in the course of a business in the regulated sector.
+>
+> (4) The third condition is that he does not disclose the information or other matter to a constable or a nominated officer as soon as is practicable after it comes to him.
+>
+> (5) But a person does not commit an offence under this section if—
+>
+> (a) he has a reasonable excuse for not disclosing the information or other matter;
+>
+> (b) he is a professional legal adviser and the information or other matter came to him in privileged circumstances.
+>
+> (6) In deciding whether a person committed an offence under this section the court must consider whether he followed any relevant guidance which was at the time concerned—
+>
+> (a) issued by a supervisory authority or any other appropriate body,
+>
+> (b) approved by the Treasury, and
+>
+> (c) published in a manner it approved as appropriate in its opinion to bring the guidance to the attention of persons likely to be affected by it.
+>
+> (7) A disclosure to a nominated officer is a disclosure which—
+>
+> (a) is made to a person nominated by the alleged offender’s employer to receive disclosures under this section, and
+>
+> (b) is made in the course of the alleged offender’s employment and in accordance with the procedure established by the employer for the purpose.
+>
+> (8) Information or other matter comes to a professional legal adviser in privileged circumstances if it is communicated or given to him—
+>
+> (a) by (or by a representative of) a client of his in connection with the giving by the adviser of legal advice to the client,
+>
+> (b) by (or by a representative of) a person seeking legal advice from the adviser, or
+>
+> (c) by a person in connection with legal proceedings or contemplated legal proceedings.
+>
+> (9) But subsection (8) does not apply to information or other matter which is communicated or given with a view to furthering a criminal purpose.
+>
+> (10) Schedule 3A has effect for the purpose of determining what is—
+>
+> (a) a business in the regulated sector;
+>
+> (b) a supervisory authority.
+>
+> (11) For the purposes of subsection (2) a person is to be taken to have committed an offence there mentioned if—
+>
+> (a) he has taken an action or been in possession of a thing, and
+>
+> (b) he would have committed the offence if he had been in the United Kingdom at the time when he took the action or was in possession of the thing.
+>
+> (12) A person guilty of an offence under this section is liable—
+>
+> (a) on conviction on indictment, to imprisonment for a term not exceeding five years or to a fine or to both;
+>
+> (b) on summary conviction, to imprisonment for a term not exceeding six months or to a fine not exceeding the statutory maximum or to both.
+>
+> (13) An appropriate body is any body which regulates or is representative of any trade, profession, business or employment carried on by the alleged offender.
+>
+> (14) The reference to a constable includes a reference to a person authorised for the purposes of this section by the Director General of the National Criminal Intelligence Service.
+>
+> **Protected disclosures**
+>
+> **21B** (1) A disclosure which satisfies the following three conditions is not to be taken to breach any restriction on the disclosure of information (however imposed).
+>
+> (2) The first condition is that the information or other matter disclosed came to the person making the disclosure (the discloser) in the course of a business in the regulated sector.
+>
+> (3) The second condition is that the information or other matter—
+>
+> (a) causes the discloser to know or suspect, or
+>
+> (b) gives him reasonable grounds for knowing or suspecting,
+>
+> that another person has committed an offence under any of sections 15 to 18.
+>
+> (4) The third condition is that the disclosure is made to a constable or a nominated officer as soon as is practicable after the information or other matter comes to the discloser.
+>
+> (5) A disclosure to a nominated officer is a disclosure which—
+>
+> (a) is made to a person nominated by the discloser’s employer to receive disclosures under this section, and
+>
+> (b) is made in the course of the discloser’s employment and in accordance with the procedure established by the employer for the purpose.
+>
+> (6) The reference to a business in the regulated sector must be construed in accordance with Schedule 3A.
+>
+> (7) The reference to a constable includes a reference to a person authorised for the purposes of this section by the Director General of the National Criminal Intelligence Service.
+
+(3) In section 19 after subsection (1) insert—
+
+> (1A) But this section does not apply if the information came to the person in the course of a business in the regulated sector.
+
+(4) In section 19 after subsection (7) insert—
+
+> (7A) The reference to a business in the regulated sector must be construed in accordance with Schedule 3A.
+>
+> (7B) The reference to a constable includes a reference to a person authorised for the purposes of this section by the Director General of the National Criminal Intelligence Service.
+
+(5) In section 20 after subsection (4) insert—
+
+> (5) References to a constable include references to a person authorised for the purposes of this section by the Director General of the National Criminal Intelligence Service.
+
+(6) The following Schedule is inserted after Schedule 3—
+
+> **SCHEDULE 3A — REGULATED SECTOR AND SUPERVISORY AUTHORITIES**
+>
+> **PART 1 — REGULATED SECTOR**
+>
+> **Business in the regulated sector**
+>
+> **1** (1) A business is in the regulated sector to the extent that it engages in any of the following activities—
+>
+> (a) accepting deposits by a person with permission under Part 4 of the Financial Services and Markets Act 2000 (c. 8) to accept deposits (including, in the case of a building society, the raising of money from members of the society by the issue of shares);
+>
+> (b) the business of the National Savings Bank;
+>
+> (c) business carried on by a credit union;
+>
+> (d) any home-regulated activity carried on by a European institution in respect of which the establishment conditions in paragraph 13 of Schedule 3 to the Financial Services and Markets Act 2000, or the service conditions in paragraph 14 of that Schedule, are satisfied;
+>
+> (e) any activity carried on for the purpose of raising money authorised to be raised under the National Loans Act 1968 (c. 13) under the auspices of the Director of Savings;
+>
+> (f) the activity of operating a bureau de change, transmitting money (or any representation of monetary value) by any means or cashing cheques which are made payable to customers;
+>
+> (g) any activity falling within sub-paragraph (2);
+>
+> (h) any of the activities in points 1 to 12 or 14 of Annex 1 to the Banking Consolidation Directive, ignoring an activity described in any of paragraphs (a) to (g) above;
+>
+> (i) business which consists of effecting or carrying out contracts of long term insurance by a person who has received official authorisation pursuant to Article 6 or 27 of the First Life Directive.
+>
+> (2) An activity falls within this sub-paragraph if it constitutes any of the following kinds of regulated activity in the United Kingdom—
+>
+> (a) dealing in investments as principal or as agent;
+>
+> (b) arranging deals in investments;
+>
+> (c) managing investments;
+>
+> (d) safeguarding and administering investments;
+>
+> (e) sending dematerialised instructions;
+>
+> (f) establishing (and taking other steps in relation to) collective investment schemes;
+>
+> (g) advising on investments.
+>
+> (3) Paragraphs (a) and (i) of sub-paragraph (1) and sub-paragraph (2) must be read with section 22 of the Financial Services and Markets Act 2000 (c. 8), any relevant order under that section and Schedule 2 to that Act.
+>
+> **2** (1) This paragraph has effect for the purposes of paragraph 1.
+>
+> (2) “Building society” has the meaning given by the Building Societies Act 1986.
+>
+> (3) “Credit union” has the meaning given by the Credit Unions Act 1979 (c. 34) or the Credit Unions (Northern Ireland) Order 1985 (S.I. 1985/1205 (N.I. 12)).
+>
+> (4) “European institution” means an EEA firm of the kind mentioned in paragraph 5(b) or (c) of Schedule 3 to the Financial Services and Markets Act 2000 which qualifies for authorisation for the purposes of that Act under paragraph 12 of that Schedule.
+>
+> (5) “Home-regulated activity” in relation to a European institution, means an activity—
+>
+> (a) which is specified in Annex 1 to the Banking Consolidation Directive and in respect of which a supervisory authority in the home State of the institution has regulatory functions, and
+>
+> (b) if the institution is an EEA firm of the kind mentioned in paragraph 5(c) of Schedule 3 to the Financial Services and Markets Act 2000, which the institution carries on in its home State.
+>
+> (6) “Home State”, in relation to a person incorporated in or formed under the law of another member State, means that State.
+>
+> (7) The Banking Consolidation Directive is the Directive of the European Parliament and Council relating to the taking up and pursuit of the business of credit institutions (No. 2000/12 EC).
+>
+> (8) The First Life Directive is the First Council Directive on the co-ordination of laws, regulations and administrative provisions relating to the taking up and pursuit of the business of direct life assurance (No. 79/267/EEC).
+>
+> **Excluded activities**
+>
+> **3** A business is not in the regulated sector to the extent that it engages in any of the following activities—
+>
+> (a) the issue of withdrawable share capital within the limit set by section 6 of the Industrial and Provident Societies Act 1965 (c. 12) by a society registered under that Act;
+>
+> (b) the acceptance of deposits from the public within the limit set by section 7(3) of that Act by such a society;
+>
+> (c) the issue of withdrawable share capital within the limit set by section 6 of the Industrial and Provident Societies Act (Northern Ireland) 1969 (N.I. c. 24) by a society registered under that Act;
+>
+> (d) the acceptance of deposits from the public within the limit set by section 7(3) of that Act by such a society;
+>
+> (e) activities carried on by the Bank of England;
+>
+> (f) any activity in respect of which an exemption order under section 38 of the Financial Services and Markets Act 2000 (c. 8) has effect if it is carried on by a person who is for the time being specified in the order or falls within a class of persons so specified .
+>
+> **PART 2 — SUPERVISORY AUTHORITIES**
+>
+> **4** (1) Each of the following is a supervisory authority—
+>
+> (a) the Bank of England;
+>
+> (b) the Financial Services Authority;
+>
+> (c) the Council of Lloyd’s;
+>
+> (d) the Director General of Fair Trading;
+>
+> (e) a body which is a designated professional body for the purposes of Part 20 of the Financial Services and Markets Act 2000.
+>
+> (2) The Secretary of State is also a supervisory authority in the exercise, in relation to a person carrying on a business in the regulated sector, of his functions under the enactments relating to companies or insolvency or under the Financial Services and Markets Act 2000.
+>
+> (3) The Treasury are also a supervisory authority in the exercise, in relation to a person carrying on a business in the regulated sector, of their functions under the enactments relating to companies or insolvency or under the Financial Services and Markets Act 2000.
+>
+> **PART 3 — POWER TO AMEND**
+>
+> **5** (1) The Treasury may by order amend Part 1 or 2 of this Schedule.
+>
+> (2) An order under sub-paragraph (1) must be made by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### PART 4 — Financial information orders
+
+**6** (1) Paragraph 1 of Schedule 6 to the Terrorism Act 2000 (c. 11) (financial information orders) is amended as follows.
+
+(2) In sub-paragraph (1) after “financial institution” insert “ to which the order applies ”.
+
+(3) After sub-paragraph (1) insert—
+
+> (1A) The order may provide that it applies to—
+>
+> (a) all financial institutions,
+>
+> (b) a particular description, or particular descriptions, of financial institutions, or
+>
+> (c) a particular financial institution or particular financial institutions.
+
+## SCHEDULE 3 — Freezing orders
+
+*Section 6*
+
+### Interpretation
+
+**1** References in this Schedule to a person specified in a freezing order as a person to whom or for whose benefit funds are not to be made available are to be read in accordance with section 5(4).
+
+### Funds
+
+**2** A freezing order may include provision that funds include gold, cash, deposits, securities (such as stocks, shares and debentures) and such other matters as the order may specify.
+
+### Making funds available
+
+**3** (1) A freezing order must include provision as to the meaning (in relation to funds) of making available to or for the benefit of a person.
+
+(2) In particular, an order may provide that the expression includes—
+
+(a) allowing a person to withdraw from an account;
+
+(b) honouring a cheque payable to a person;
+
+(c) crediting a person’s account with interest;
+
+(d) releasing documents of title (such as share certificates) held on a person’s behalf;
+
+(e) making available the proceeds of realisation of a person’s property;
+
+(f) making a payment to or for a person’s benefit (for instance, under a contract or as a gift or under any enactment such as the enactments relating to social security);
+
+(g) such other acts as the order may specify.
+
+### Licences
+
+**4** (1) A freezing order must include—
+
+(a) provision for the granting of licences authorising funds to be made available;
+
+(b) provision that a prohibition under the order is not to apply if funds are made available in accordance with a licence.
+
+(2) In particular, an order may provide—
+
+(a) that a licence may be granted generally or to a specified person or persons or description of persons;
+
+(b) that a licence may authorise funds to be made available to or for the benefit of persons generally or a specified person or persons or description of persons;
+
+(c) that a licence may authorise funds to be made available generally or for specified purposes;
+
+(d) that a licence may be granted in relation to funds generally or to funds of a specified description;
+
+(e) for a licence to be granted in pursuance of an application or without an application being made;
+
+(f) for the form and manner in which applications for licences are to be made;
+
+(g) for licences to be granted by the Treasury or a person authorised by the Treasury;
+
+(h) for the form in which licences are to be granted;
+
+(i) for licences to be granted subject to conditions;
+
+(j) for licences to be of a defined or indefinite duration;
+
+(k) for the charging of a fee to cover the administrative costs of granting a licence;
+
+(l) for the variation and revocation of licences.
+
+### Information and documents
+
+**5** (1) A freezing order may include provision that a person—
+
+(a) must provide information if required to do so and it is reasonably needed for the purpose of ascertaining whether an offence under the order has been committed;
+
+(b) must produce a document if required to do so and it is reasonably needed for that purpose.
+
+(2) In particular, an order may include—
+
+(a) provision that a requirement to provide information or to produce a document may be made by the Treasury or a person authorised by the Treasury;
+
+(b) provision that information must be provided, and a document must be produced, within a reasonable period specified in the order and at a place specified by the person requiring it;
+
+(c) provision that the provision of information is not to be taken to breach any restriction on the disclosure of information (however imposed);
+
+(d) provision restricting the use to which information or a document may be put and the circumstances in which it may be disclosed;
+
+(e) provision that a requirement to provide information or produce a document does not apply to privileged information or a privileged document;
+
+(f) provision that information is privileged if the person would be entitled to refuse to provide it on grounds of legal professional privilege in proceedings in the High Court or (in Scotland) on grounds of confidentiality of communications in proceedings in the Court of Session;
+
+(g) provision that a document is privileged if the person would be entitled to refuse to produce it on grounds of legal professional privilege in proceedings in the High Court or (in Scotland) on grounds of confidentiality of communications in proceedings in the Court of Session;
+
+(h) provision that information or a document held with the intention of furthering a criminal purpose is not privileged.
+
+### Disclosure of information
+
+**6** (1) A freezing order may include provision requiring a person to disclose information as mentioned below if the following three conditions are satisfied.
+
+(2) The first condition is that the person required to disclose is specified or falls within a description specified in the order.
+
+(3) The second condition is that the person required to disclose knows or suspects, or has grounds for knowing or suspecting, that a person specified in the freezing order as a person to whom or for whose benefit funds are not to be made available—
+
+(a) is a customer of his or has been a customer of his at any time since the freezing order came into force, or
+
+(b) is a person with whom he has dealings in the course of his business or has had such dealings at any time since the freezing order came into force.
+
+(4) The third condition is that the information—
+
+(a) on which the knowledge or suspicion of the person required to disclose is based, or
+
+(b) which gives grounds for his knowledge or suspicion,
+
+came to him in the course of a business in the regulated sector.
+
+(5) The freezing order may require the person required to disclose to make a disclosure to the Treasury of that information as soon as is practicable after it comes to him.
+
+(6) The freezing order may include—
+
+(a) provision that Schedule 3A to the Terrorism Act 2000 (c. 11) is to have effect for the purpose of determining what is a business in the regulated sector;
+
+(b) provision that the disclosure of information is not to be taken to breach any restriction on the disclosure of information (however imposed);
+
+(c) provision restricting the use to which information may be put and the circumstances in which it may be disclosed by the Treasury;
+
+(d) provision that the requirement to disclose information does not apply to privileged information;
+
+(e) provision that information is privileged if the person would be entitled to refuse to disclose it on grounds of legal professional privilege in proceedings in the High Court or (in Scotland) on grounds of confidentiality of communications in proceedings in the Court of Session;
+
+(f) provision that information held with the intention of furthering a criminal purpose is not privileged.
+
+### Offences
+
+**7** (1) A freezing order may include any of the provisions set out in this paragraph.
+
+(2) A person commits an offence if he fails to comply with a prohibition imposed by the order.
+
+(3) A person commits an offence if he engages in an activity knowing or intending that it will enable or facilitate the commission by another person of an offence under a provision included under sub-paragraph (2).
+
+(4) A person commits an offence if—
+
+(a) he fails without reasonable excuse to provide information, or to produce a document, in response to a requirement made under the order;
+
+(b) he provides information, or produces a document, which he knows is false in a material particular in response to such a requirement or with a view to obtaining a licence under the order;
+
+(c) he recklessly provides information, or produces a document, which is false in a material particular in response to such a requirement or with a view to obtaining a licence under the order;
+
+(d) he fails without reasonable excuse to disclose information as required by a provision included under paragraph 6.
+
+(5) A person does not commit an offence under a provision included under sub-paragraph (2) or (3) if he proves that he did not know and had no reason to suppose that the person to whom or for whose benefit funds were made available, or were to be made available, was the person (or one of the persons) specified in the freezing order as a person to whom or for whose benefit funds are not to be made available.
+
+(6) A person guilty of an offence under a provision included under sub-paragraph (2) or (3) is liable—
+
+[[^F143](a) on summary conviction—
+
+(i) in England and Wales, to imprisonment for a term not exceeding [[^F144]the general limit in a magistrates’ court] (or, in relation to offences committed before [[^F145]2 May 2022], 6 months) or to a fine, or to both;
+
+(ii) in Scotland, to imprisonment for a term not exceeding 12 months, or to a fine not exceeding the statutory maximum, or to both;
+
+(iii) in Northern Ireland, to imprisonment for a term not exceeding 6 months, or to a fine not exceeding the statutory maximum, or to both;
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding 7 years or to a fine, or to both.]
+
+(7) A person guilty of an offence under a provision included under sub-paragraph (4) is liable [[^F146]—
+
+(a) on summary conviction—
+
+(i) in England and Wales, to imprisonment for a term not exceeding [[^F147]the general limit in a magistrates’ court] (or, in relation to offences committed before [[^F148]2 May 2022], 6 months) or to a fine, or to both;
+
+(ii) in Scotland, to imprisonment for a term not exceeding 12 months, or to a fine not exceeding the statutory maximum, or to both;
+
+(iii) in Northern Ireland, to imprisonment for a term not exceeding 6 months, or to a fine not exceeding the statutory maximum, or to both;
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding 2 years or to a fine, or to both.]
+
+### Offences: procedure
+
+**8** (1) A freezing order may include any of the provisions set out in this paragraph.
+
+(2) Proceedings for an offence under the order are not to be instituted in England and Wales except by or with the consent of the Treasury or the Director of Public Prosecutions.
+
+(3) Proceedings for an offence under the order are not to be instituted in Northern Ireland except by or with the consent of the Treasury or the Director of Public Prosecutions for Northern Ireland.
+
+(4) Despite anything in section 127(1) of the Magistrates’ Courts Act 1980 (c. 43) (information to be laid within 6 months of offence) an information relating to an offence under the order which is triable by a magistrates’ court in England and Wales may be so tried if it is laid at any time in the period of one year starting with the date of the commission of the offence.
+
+(5) In Scotland summary proceedings for an offence under the order may be commenced at any time in the period of one year starting with the date of the commission of the offence.
+
+(6) In its application to an offence under the order Article 19(1)(a) of the Magistrates’ Courts (Northern Ireland) Order 1981 (S.I. 1981/1675 (N.I. 26)) (time limit within which complaint charging offence must be made) is to have effect as if the reference to six months were a reference to twelve months.
+
+### Offences by bodies corporate etc.
+
+**9** (1) A freezing order may include any of the provisions set out in this paragraph.
+
+(2) If an offence under the order—
+
+(a) is committed by a body corporate, and
+
+(b) is proved to have been committed with the consent or connivance of an officer, or to be attributable to any neglect on his part,
+
+he as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(3) These are officers of a body corporate—
+
+(a) a director, manager, secretary or other similar officer of the body;
+
+(b) any person purporting to act in any such capacity.
+
+(4) If the affairs of a body corporate are managed by its members sub-paragraph (2) applies in relation to the acts and defaults of a member in connection with his functions of management as if he were an officer of the body.
+
+(5) If an offence under the order—
+
+(a) is committed by a Scottish partnership, and
+
+(b) is proved to have been committed with the consent or connivance of a partner, or to be attributable to any neglect on his part,
+
+he as well as the partnership is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+### Compensation
+
+**10** (1) A freezing order may include provision for the award of compensation to or on behalf of a person on the grounds that he has suffered loss as a result of—
+
+(a) the order;
+
+(b) the fact that a licence has not been granted under the order;
+
+(c) the fact that a licence under the order has been granted on particular terms rather than others;
+
+(d) the fact that a licence under the order has been varied or revoked.
+
+(2) In particular, the order may include—
+
+(a) provision about the person who may make a claim for an award;
+
+(b) provision about the person to whom a claim for an award is to be made (which may be provision that it is to be made to the High Court or, in Scotland, the Court of Session);
+
+(c) provision about the procedure for making and deciding a claim;
+
+(d) provision that no compensation is to be awarded unless the claimant has behaved reasonably (which may include provision requiring him to mitigate his loss, for instance by applying for a licence);
+
+(e) provision that compensation must be awarded in specified circumstances or may be awarded in specified circumstances (which may include provision that the circumstances involve negligence or other fault);
+
+(f) provision about the amount that may be awarded;
+
+(g) provision about who is to pay any compensation awarded (which may include provision that it is to be paid or reimbursed by the Treasury);
+
+(h) provision about how compensation is to be paid (which may include provision for payment to a person other than the claimant).
+
+### Treasury’s duty to give reasons
+
+**11** [[^F149](1)] A freezing order must include provision that if—
+
+(a) a person is specified in the order as a person to whom or for whose benefit funds are not to be made available, and
+
+(b) he makes a written request to the Treasury to give him the reason why he is so specified,
+
+as soon as is practicable the Treasury must give the person the reason in writing.
+
+[[^F150](2) Sub-paragraph (1) does not apply if, or to the extent that, particulars of the reason would not be required to be disclosed to the applicant in proceedings to set aside the freezing order.]
+
+## SCHEDULE 4 — Extension of existing disclosure powers
+
+*Section 17*
+
+### PART 1 — Enactments to which section 17 applies
+
+#### Agricultural Marketing Act 1958 (c. 47)
+
+**1** Section 47(2) of the Agricultural Marketing Act 1958.
+
+#### Harbours Act 1964 (c. 40)
+
+**2** Section 46(1) of the Harbours Act 1964.
+
+#### Cereals Marketing Act 1965 (c. 14)
+
+**3** Section 17(2) of the Cereals Marketing Act 1965.
+
+#### Agriculture Act 1967 (c. 22)
+
+**4** Section 24(1) of the Agriculture Act 1967.
+
+#### Trade Descriptions Act 1968 (c. 29)
+
+**5** [^F151]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Sea Fish Industry Act 1970 (c. 11)
+
+**6** Section 14(2) of the Sea Fish Industry Act 1970.
+
+#### National Savings Bank Act 1971 (c. 29)
+
+**7** Section 12(2) of the National Savings Bank Act 1971.
+
+#### Employment Agencies Act 1973 (c. 35)
+
+**8** Section 9(4) of the Employment Agencies Act 1973.
+
+#### Fair Trading Act 1973 (c. 41)
+
+**9** [^F152]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Prices Act 1974 (c. 24)
+
+**10** [^F153]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Consumer Credit Act 1974 (c. 39)
+
+**11** [^F154]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Health and Safety at Work etc. Act 1974 (c. 37)
+
+**12** Section 28(7) of the Health and Safety at Work etc. Act 1974.
+
+#### Sex Discrimination Act 1975 (c. 65)
+
+**13** [^F155]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Race Relations Act 1976 (c. 74)
+
+**14** [^F156]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Energy Act 1976 (c. 76)
+
+**15** Paragraph 7 of Schedule 2 to the Energy Act 1976.
+
+#### National Health Service Act 1977 (c. 49)
+
+**16** [^F157]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Estate Agents Act 1979 (c. 38)
+
+**17** [^F158]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Public Passenger Vehicles Act 1981 (c. 14)
+
+**18** Section 54(8) of the Public Passenger Vehicles Act 1981.
+
+#### Fisheries Act 1981 (c. 29)
+
+**19** Section 12(2) of the Fisheries Act 1981.
+
+#### Merchant Shipping (Liner Conferences) Act 1982 (c. 37)
+
+**20** Section 10(2) of the Merchant Shipping (Liner Conferences) Act 1982.
+
+#### Civil Aviation Act 1982 (c. 16)
+
+**21** Section 23(4) of the Civil Aviation Act 1982.
+
+#### Diseases of Fish Act 1983 (c. 30)
+
+**22** Section 9(1) of the Diseases of Fish Act 1983.
+
+#### Telecommunications Act 1984 (c. 12)
+
+**23** Section 101(2) of the Telecommunications Act 1984.
+
+#### Companies Act 1985 (c. 6)
+
+**24** Section [[^F159]449] of the Companies Act 1985.
+
+#### Airports Act 1986 (c. 31)
+
+**25** Section 74(2) of the Airports Act 1986.
+
+#### Legal Aid (Scotland) Act 1986 (c. 47)
+
+**26** Section 34(2) of the Legal Aid (Scotland) Act 1986.
+
+#### Consumer Protection Act 1987 (c. 43)
+
+**27** [^F160]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Companies Act 1989 (c. 40)
+
+**28** Section 87(1) of the Companies Act 1989.
+
+#### Broadcasting Act 1990 (c. 42)
+
+**29** [^F161]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Property Misdescriptions Act 1991 (c. 29)
+
+**30** [^F162]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Water Industry Act 1991 (c. 56)
+
+**31** Section 206(3) of the Water Industry Act 1991.
+
+#### Water Resources Act 1991 (c. 57)
+
+**32** Section 204(2) of the Water Resources Act 1991.
+
+#### Timeshare Act 1992 (c. 35)
+
+**33** [^F163]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Railways Act 1993 (c. 43)
+
+**34** Section 145(2) of the Railways Act 1993.
+
+#### Coal Industry Act 1994 (c. 21)
+
+**35** Section 59(2) of the Coal Industry Act 1994.
+
+#### Shipping and Trading Interests (Protection) Act 1995 (c. 22)
+
+**36** Section 3(4) of the Shipping and Trading Interests (Protection) Act 1995.
+
+#### Pensions Act 1995 (c. 26)
+
+**37** [^F164]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Goods Vehicles (Licensing of Operators) Act 1995 (c. 23)
+
+**38** Section 35(4) of the Goods Vehicles (Licensing of Operators) Act 1995.
+
+#### Chemical Weapons Act 1996 (c. 6)
+
+**39** Section 32(2) of the Chemical Weapons Act 1996.
+
+#### Bank of England Act 1998 (c. 11)
+
+**40** (1) Paragraph 5 of Schedule 7 to the Bank of England Act 1998.
+
+(2) Paragraph 2 of Schedule 8 to that Act.
+
+#### Audit Commission Act 1998 (c. 18)
+
+**[^F165]41** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Data Protection Act 1998 (c. 29)
+
+**[^F166]42** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Police (Northern Ireland) Act 1998 (c. 32)
+
+**43** Section 63(1) of the Police (Northern Ireland) Act 1998.
+
+#### Landmines Act 1998 (c. 33)
+
+**44** Section 19(2) of the Landmines Act 1998.
+
+#### Health Act 1999 (c. 8)
+
+**45** [^F167]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Disability Rights Commission Act 1999 (c. 17)
+
+**46** [^F168]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Access to Justice Act 1999 (c. 22)
+
+**[^F169]47** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Nuclear Safeguards Act 2000 (c. 5)
+
+**48** Section 6(2) of the Nuclear Safeguards Act 2000.
+
+#### Finance Act 2000 (c. 21)
+
+**49** Paragraph 34(3) of Schedule 22 to the Finance Act 2000.
+
+#### Local Government Act 2000 (c. 22)
+
+**50** Section 63(1) of the Local Government Act 2000.
+
+#### Postal Services Act 2000 (c. 26)
+
+**[^F170]51** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Utilities Act 2000 (c. 27)
+
+**52** Section 105(4) of the Utilities Act 2000.
+
+#### Transport Act 2000 (c. 38)
+
+**53** (1) Section 143(5)(b) of the Transport Act 2000.
+
+(2) Paragraph 13(3) of Schedule 10 to that Act.
+
+**[[^F171]53A** Paragraph 8(1) of [[^F172]Schedule 10 to the National Health Service Act 2006] .]
+
+#### [[^F173]Equality Act 2006
+
+**53B** Section 6 of the Equality Act 2006.]
+
+**[[^F174]53C** Paragraph 5 of Schedule 22 to the National Health Service Act 2006]
+
+**[[^F175]53D** Section 56(2) of the Postal Services Act 2011.]
+
+**[[^F176]53E** Sections 34(2) and 35 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012.]
+
+**[[^F177]53F** Paragraph 2 of Schedule 11 to the Local Audit and Accountability Act 2014.]
+
+**[[^F178]53G** Section 132(1) of the Data Protection Act 2018.]
+
+### PART 2 — Northern Ireland legislation to which section 17 applies
+
+#### Transport Act (Northern Ireland) 1967 (c. 37 (N.I.))
+
+**54** Section 36(1) of the Transport Act (Northern Ireland) 1967.
+
+#### Sex Discrimination (Northern Ireland) Order 1976 (S.I. 1976/1042 (N.I. 15))
+
+**55** Article 61(1) of the Sex Discrimination (Northern Ireland) Order 1976.
+
+#### Health and Safety at Work (Northern Ireland) Order 1978 (S.I. 1978/1039 (N.I. 9))
+
+**56** Article 30(6) of the Health and Safety at Work (Northern Ireland) Order 1978.
+
+#### [[^F179]Access to Justice (Northern Ireland) Order 2003
+
+**57** Article 32(1) of the Access to Justice (Northern Ireland) Order 2003.]
+
+#### Agricultural Marketing (Northern Ireland) Order 1982 (S.I. 1982/1080 (N.I. 12))
+
+**58** Article 29(3) of the Agricultural Marketing (Northern Ireland) Order 1982.
+
+#### Companies (Northern Ireland) Order 1986 (S.I. 1986/1032 (N.I. 6))
+
+**[^F180]59** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Consumer Protection (Northern Ireland) Order 1987 (S.I. 1987 (N.I. 20))
+
+**60** Article 29(2) of the Consumer Protection (Northern Ireland) Order 1987.
+
+#### Electricity (Northern Ireland) Order 1992 (S.I. 1992/231 (N.I. 1))
+
+**61** Article 61(2) of the Electricity (Northern Ireland) Order 1992.
+
+#### Airports (Northern Ireland) Order 1994 (S.I. 1994/426 (N.I. 1))
+
+**62** Article 49(2) of the Airports (Northern Ireland) Order 1994.
+
+#### Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22))
+
+**63** (1) Article 103(2) of the Pensions (Northern Ireland) Order 1995.
+
+(2) Article 106(2) of that Order.
+
+#### Gas (Northern Ireland) Order 1996 (S.I. 1996/275 (N.I. 2))
+
+**64** Article 44(3) of the Gas (Northern Ireland) Order 1996.
+
+#### Race Relations (Northern Ireland) Order 1997 (S.I. 1997/869 (N.I. 6))
+
+**65** Article 50(1) of the Race Relations (Northern Ireland) Order 1997.
+
+#### Fair Employment and Treatment (Northern Ireland) Order 1998 (S.I. 1998/3162 (N.I. 21))
+
+**66** Article 18(1) of the Fair Employment and Treatment (Northern Ireland) Order 1998.
+
+## SCHEDULE 5 — Pathogens and toxins
+
+*Section 58*
+
+### VIRUSES
+
+- Chikungunya virus
+- Congo-crimean haemorrhagic fever virus
+- Dengue fever virus
+- [[^F181]Dobrava/Belgrade virus]
+- Eastern equine encephalitis virus
+- Ebola virus
+- [[^F182]Everglades virus]
+- [[^F183]Getah virus]
+- [[^F184]Guanarito virus]
+- Hantaan virus
+- [[^F185]Hendra virus (Equine morbillivirus)]
+- [[^F186]Herpes simiae (B virus)]
+- [[^F187]Influenza viruses (pandemic strains)]
+- Japanese encephalitis virus
+- Junin virus
+- [[^F188]Kyasanur Forest virus]
+- Lassa fever virus
+- [[^F189]Louping ill virus]
+- Lymphocytic choriomeningitis virus
+- Machupo virus
+- Marburg virus
+- [[^F190]Mayaro virus]
+- [[^F191]Middleburg virus]
+- [[^F192]Mobala virus]
+- Monkey pox virus
+- [[^F193]Mucambo virus]
+- [[^F194]Murray Valley encephalitis virus]
+- [[^F195]Ndumu virus]
+- [[^F196]Nipah virus]
+- [[^F197]Omsk haemorrhagic fever virus]
+- [[^F198]Polio virus]
+- [[^F199]Powassan virus]
+- [[^F200]Rabies virus]
+- Rift Valley fever virus
+- [[^F201]Rocio virus]
+- [[^F202]Sabia virus]
+- [[^F203]Sagiyama virus]
+- [[^F204]SARS Coronavirus]
+- [[^F205]Sin Nombre virus]
+- [[^F206]St Louis encephalitis virus]
+- Tick-borne encephalitis virus (Russian Spring-Summer encephalitis virus)
+- Variola virus
+- Venezuelan equine encephalitis virus
+- Western equine encephalitis virus
+- [[^F207]West Nile fever virus.]
+- Yellow fever virus
+
+### RICKETTSIAE
+
+- [^F208]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- Coxiella burnetii
+- Rickettsia prowazeki
+- Rickettsia rickettsii
+- [[^F209]Rickettsia typhi (mooseri).]
+
+### BACTERIA
+
+- Bacillus anthracis
+- Brucella abortus
+- [[^F210]Brucella canis]
+- Brucella melitensis
+- Brucella suis
+- Burkholderia mallei (Pseudomonas mallei)
+- Burkholderia pseudomallei (Pseudomonas pseudomallei)
+- Chlamydophila psittaci
+- Clostridium botulinum
+- [^F211]...
+- [[^F212]Enterohaemorrhagic Escherichia coli, serotype 0157 and verotoxin producing strains]
+- Francisella tularensis
+- [[^F213]Multiple-drug resistant Salmonella paratyphi]
+- [^F211]...
+- [[^F214]Salmonella paratyphi A, B, C]
+- Salmonella typhi
+- [[^F215]Shigella boydii]
+- Shigella dysenteriae
+- [[^F216]Shigella flexneri.]
+- Vibrio cholerae
+- Yersinia pestis
+
+### [^F217]...
+
+- 
+- 
+
+### TOXINS
+
+- [[^F218]Abrin]
+- [^F219]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- Botulinum toxins
+- [[^F220]Clostridium perfringens epsilon toxin
+- Clostridium perfringens enterotoxin]
+- Conotoxin
+- [^F221]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [[^F222]Modeccin toxin]
+- Ricin
+- Saxitoxin
+- Shiga [[^F223]and shiga–like toxins]
+- [^F224]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [[^F225]Staphylococcal enterotoxins]
+- Tetrodotoxin
+- [^F226]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [[^F227]Viscum Album Lectin 1 (Viscumin)]
+- [[^F228]Volkensin toxin.]
+
+### [[^F229]Notes]
+
+**[[^F230]1** Any reference in this Schedule to a micro-organism includes:
+
+(a) intact micro-organisms;
+
+(b) micro-organisms which have been genetically modified by any means, but retain the ability to cause serious harm to human health;
+
+(c) any nucleic acid deriving from a micro-organism listed in this Schedule (synthetic or naturally derived, contiguous or fragmented, in host chromosomes or in expression vectors) that can encode infectious or replication competent forms of any of the listed micro-organisms;
+
+(d) any nucleic acid sequence derived from the micro-organism which when inserted into any other living organism alters or enhances that organism's ability to cause serious harm to human health.]
+
+**[[^F231]2** Any reference in this Schedule to a toxin includes:
+
+(a) any nucleic acid sequence coding for the toxin, and
+
+(b) any genetically modified micro-organism containing any such sequence.]
+
+**[[^F232]3** Any reference in this Schedule to a toxin excludes any non-toxigenic subunit.]
+
+## SCHEDULE 6 — The Pathogens Access Appeal Commission
+
+*Section 70*
+
+### Constitution and administration
+
+**1** (1) The Commission shall consist of members appointed by the Lord Chancellor.
+
+(2) The Lord Chancellor shall appoint one of the members as chairman.
+
+(3) A member shall hold and vacate office in accordance with the terms of his appointment.
+
+(4) A member may resign at any time by notice in writing to the Lord Chancellor.
+
+**2** The Lord Chancellor may appoint officers and servants for the Commission.
+
+**3** The Lord Chancellor—
+
+(a) may pay sums by way of remuneration, allowances, pensions and gratuities to or in respect of members, officers and servants;
+
+(b) may pay compensation to a person who ceases to be a member of the Commission if the Lord Chancellor thinks it appropriate because of special circumstances; and
+
+(c) may pay sums in respect of expenses of the Commission.
+
+### Procedure
+
+**4** (1) The Commission shall sit at such times and in such places as the Lord Chancellor may direct [[^F233] after consulting the following—
+
+(a) the Lord Chief Justice of England and Wales;
+
+(b) the Lord President of the Court of Session;
+
+(c) the Lord Chief Justice of Northern Ireland.]
+
+.
+
+(2) The Commission may sit in two or more divisions.
+
+(3) At each sitting of the Commission—
+
+(a) three members shall attend;
+
+(b) one of the members shall be a person who holds or has held high judicial office (within the meaning of [[^F234]Part 3 of the Constitutional Reform Act 2005) or is or has been a member of the Judicial Committee of the Privy Council;] and
+
+(c) the chairman or another member nominated by him shall preside and report the Commission’s decision.
+
+[[^F235](4) The Lord Chief Justice may nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise his functions under sub-paragraph (1).
+
+(5) The Lord President of the Court of Session may nominate a judge of the Court of Session who is a member of the First or Second Division of the Inner House of that Court to exercise his functions under sub-paragraph (1).
+
+(6) The Lord Chief Justice of Northern Ireland may nominate any of the following to exercise his functions under sub-paragraph (1)—
+
+(a) the holder of one of the offices listed in Schedule 1 to the Justice (Northern Ireland) Act 2002;
+
+(b) a Lord Justice of Appeal (as defined in section 88 of that Act).]
+
+**5** (1) The Lord Chancellor may make rules—
+
+(a) regulating the exercise of the right of appeal to the Commission;
+
+(b) prescribing practice and procedure to be followed in relation to proceedings before the Commission;
+
+(c) providing for proceedings before the Commission to be determined without an oral hearing in specified circumstances;
+
+(d) making provision about evidence in proceedings before the Commission (including provision about the burden of proof and admissibility of evidence);
+
+(e) making provision about proof of the Commission’s decisions.
+
+(2) In making the rules the Lord Chancellor shall, in particular, have regard to the need to secure—
+
+(a) that decisions which are the subject of appeals are properly reviewed; and
+
+(b) that information is not disclosed contrary to the public interest.
+
+(3) The rules may, in particular—
+
+(a) provide for full particulars of the reasons for denial of access to be withheld from the applicant and from any person representing him;
+
+(b) enable the Commission to exclude persons (including representatives) from all or part of proceedings;
+
+(c) enable the Commission to provide a summary of evidence taken in the absence of a person excluded by virtue of paragraph (b);
+
+(d) permit preliminary or incidental functions to be discharged by a single member;
+
+(e) permit proceedings for permission to appeal under section 70(5) to be determined by a single member;
+
+(f) make provision about the functions of persons appointed under paragraph 6;
+
+(g) make different provision for different parties or descriptions of party.
+
+(4) Rules under this paragraph—
+
+(a) shall be made by statutory instrument; and
+
+(b) shall not be made unless a draft of them has been laid before and approved by resolution of each House of Parliament.
+
+(5) In this paragraph a reference to proceedings before the Commission includes a reference to proceedings arising out of proceedings before the Commission.
+
+**6** (1) The relevant law officer may appoint a person to represent the interests of an organisation or other applicant in proceedings in relation to which an order has been made by virtue of paragraph 5(3)(b).
+
+(2) The relevant law officer is—
+
+(a) in relation to proceedings in England and Wales, the Attorney General;
+
+(b) in relation to proceedings in Scotland, the Advocate General for Scotland; and
+
+(c) in relation to proceedings in Northern Ireland, the [[^F236]Advocate General for Northern Ireland] .
+
+(3) A person appointed under this paragraph must—
+
+(a) have a general qualification for the purposes of section 71 of the Courts and Legal Services Act 1990 (c. 41) (qualification for legal appointments);
+
+(b) be an advocate or a solicitor who has rights of audience in the Court of Session or the High Court of Justiciary by virtue of section 25A of the Solicitors (Scotland) Act 1980 (c. 46); or
+
+(c) be a member of the Bar of Northern Ireland.
+
+(4) A person appointed under this paragraph shall not be responsible to the applicant whose interests he is appointed to represent.
+
+(5) In paragraph 5 of this Schedule a reference to a representative does not include a reference to a person appointed under this paragraph.
+
+## SCHEDULE 7 — Transport police and MoD police: further provisions
+
+*Section 101*
+
+### Police (Scotland) Act 1967 (c. 77)
+
+**1** The Police (Scotland) Act 1967 has effect subject to the following amendments.
+
+**2** (1) Section 11 (aid of one police force by another) is amended as follows.
+
+(2) In subsection (2), for “Secretary of State” substitute “ appropriate Minister or Ministers ” and after “he” insert “ or they ”.
+
+(3) In subsection (4), for “Secretary of State” substitute “ appropriate Ministers ”.
+
+(4) After that subsection insert—
+
+> (5) This section shall apply in relation to the Strategic Rail Authority and the British Transport Police Force as it applies to a police authority and a police force respectively.
+>
+> (6) In subsection (2) “appropriate Minister or Ministers” means—
+>
+> (a) in relation to a direction given to the Chief Constable of the British Transport Police Force, the Secretary of State, and
+>
+> (b) in any other case, the Scottish Ministers.
+>
+> (7) In subsection (4) “appropriate Ministers” means—
+>
+> (a) where the police authorities concerned include the Strategic Rail Authority, the Scottish Ministers and the Secretary of State, acting jointly, and
+>
+> (b) in any other case, the Scottish Ministers.
+
+**3** (1) Section 12 (collaboration agreements) is amended as follows.
+
+(2) In subsection (3), for “Secretary of State” substitute “ Scottish Ministers ”.
+
+(3) For subsection (5) substitute—
+
+> (5) If it appears to the Scottish Ministers that an agreement should be made for the purposes specified in subsection (1), (2) or (4) of this section, they may, after considering any representations made by the parties concerned, direct those parties to enter into such agreement for that purpose as may be specified in the directions.
+>
+> (6) For the purposes of this section—
+>
+> (a) the British Transport Police Force shall be treated as if it were a police force;
+>
+> (b) “police functions” shall include the functions of the British Transport Police Force;
+>
+> (c) the British Transport Police Committee shall be treated as if it were the police authority maintaining that Force for the purposes of subsections (1) and (2) of this section and the Strategic Rail Authority shall be so treated for the purposes of subsection (3) of this section; and
+>
+> (d) “police area”, in relation to the British Transport Police Force and the British Transport Police Committee, means those places where members of the British Transport Police Force have the powers, protection and privileges of a constable under section 53(4) of the British Transport Commission Act 1949 (c. xxix).
+>
+> (7) In relation to agreements relating to the British Transport Police Force, any determination under subsection (3) shall be made, and any directions under subsection (5) shall be given, by the Scottish Ministers and the Secretary of State, acting jointly.
+
+**4** (1) Section 17 (general functions and jurisdiction of constables) is amended as follows.
+
+(2) After subsection (4) insert—
+
+> (4A) A member of the British Transport Police Force who is for the time being required by virtue of section 11 or 12 of this Act to serve with a police force shall—
+>
+> (a) have all the powers and privileges of a constable of that police force, and
+>
+> (b) be subject to the direction of the chief constable of that force.
+
+(3) In subsection (7)(a), after “first-mentioned force” insert “ or, if he is serving with the British Transport Police Force, the Chief Constable of that Force ”.
+
+**5** (1) Section 42 (causing disaffection) is amended as follows.
+
+(2) In subsection (1), after “force” insert “ or of the British Transport Police Force ”.
+
+(3) In subsection (2), after “constable” insert “ or a member of the British Transport Police Force ”.
+
+**6** [^F237]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7** In section 51 (interpretation), after the definition of “amalgamation scheme” insert—
+
+> “British Transport Police Force” means the constables appointed under section 53 of the British Transport Commission Act 1949 (c. xxix) ;
+
+.
+
+### Firearms Act 1968 (c. 27)
+
+**8** The Firearms Act 1968 has effect subject to the following amendments.
+
+**[^F238]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10** In section 57(4), after the definition of “Article 7 authority” insert—
+
+> “British Transport Police Force” means the constables appointed under section 53 of the British Transport Commission Act 1949;
+
+.
+
+### Police and Criminal Evidence Act 1984 (c. 60)
+
+**11** The Police and Criminal Evidence Act 1984 has effect subject to the following amendments.
+
+**12** In section 35 (designated police stations), after subsection (2) insert—
+
+> (2A) The Chief Constable of the British Transport Police Force may designate police stations which (in addition to those designated under subsection (1) above) may be used for the purpose of detaining arrested persons.
+
+**13** (1) Section 36 (custody officers at designated police stations) is amended as follows.
+
+(2) In subsection (2), for “a designated police station” substitute “ a police station designated under section 35(1) above ”.
+
+(3) After that subsection insert—
+
+> (2A) A custody officer for a police station designated under section 35(2A) above shall be appointed—
+>
+> (a) by the Chief Constable of the British Transport Police Force; or
+>
+> (b) by such other member of that Force as that Chief Constable may direct.
+
+**14** In section 118(1), after the definition of “arrestable offence” insert—
+
+> “British Transport Police Force” means the constables appointed under section 53 of the British Transport Commission Act 1949 (c. xxix);
+
+.
+
+### Criminal Justice and Public Order Act 1994 (c. 33)
+
+**15** The Criminal Justice and Public Order Act 1994 has effect subject to the following amendments.
+
+**16** (1) Section 60 (powers to stop and search) is amended as follows.
+
+(2) After subsection (9) insert—
+
+> (9A) The preceding provisions of this section, so far as they relate to an authorisation by a member of the British Transport Police Force (including one who for the time being has the same powers and privileges as a member of a police force for a police area), shall have effect as if the references to a locality in his police area were references to any locality in or in the vicinity of any policed premises, or to the whole or any part of any such premises.
+
+(3) In subsection (11)—
+
+(a) before the definition of “dangerous instruments” insert—
+
+> “British Transport Police Force” means the constables appointed under section 53 of the British Transport Commission Act 1949;
+
+,
+
+and
+
+(b) after the definition of “offensive weapon” insert—
+
+> “policed premises”, in relation to England and Wales, has the meaning given by section 53(3) of the British Transport Commission Act 1949 and, in relation to Scotland, means those places where members of the British Transport Police Force have the powers, protection and privileges of a constable under section 53(4)(a) of that Act (as it relates to Scotland);
+
+.
+
+**17** In section 136(1) and (2) (cross-border enforcement: execution of warrants), after “country of execution” insert “, or by a constable appointed under section 53 of the British Transport Commission Act 1949,”.
+
+**18** In section 137 (cross-border powers of arrest), after subsection (2) insert—
+
+> (2A) The powers conferred by subsections (1) and (2) may be exercised in England and Wales and Scotland by a constable appointed under section 53 of the British Transport Commission Act 1949.
+
+**19** In section 140 (reciprocal powers of arrest), after subsection (6) insert—
+
+> (6A) The references in subsections (1) and (2) to a constable of a police force in Scotland, and the references in subsections (3) and (4) to a constable of a police force in England and Wales, include a constable appointed under section 53 of the British Transport Commission Act 1949 (c. xxix).
+
+### Police Act 1996 (c. 16)
+
+**20** The Police Act 1996 has effect subject to the following amendments.
+
+**21** In section 23 (collaboration agreements between police forces), after subsection (7) insert—
+
+> (7A) For the purposes of this section—
+>
+> (a) the British Transport Police Force shall be treated as if it were a police force,
+>
+> (b) the Chief Constable of that Force shall be treated as if he were the chief officer of police of that Force,
+>
+> (c) “police functions” shall include the functions of the British Transport Police Force, and
+>
+> (d) the British Transport Police Committee shall be treated as if it were the police authority maintaining that Force for the purposes of subsections (1), (2) and (7) and the Strategic Rail Authority shall be so treated for the purposes of subsection (3).
+
+**22** In section 24 (aid of one police force by another), after subsection (4) insert—
+
+> (4A) This section shall apply in relation to the Strategic Rail Authority, the British Transport Police Force and the Chief Constable of that Force as it applies to a police authority, a police force and a chief officer of police respectively, and accordingly the reference in subsection (3) to section 10(1) shall be construed, in a case where constables are provided by that Chief Constable, as including a reference to the scheme made under section 132 of the Railways Act 1993 (c. 43).
+
+**23** In section 25 (provision of special services), after subsection (1) insert—
+
+> (1A) The Chief Constable of the British Transport Police Force may provide special police services at the request of any person, subject to the payment to the Strategic Rail Authority of charges on such scales as may be determined by that Authority.
+
+**24** In section 30 (jurisdiction of constables), after subsection (3) insert—
+
+> (3A) A member of the British Transport Police Force who is for the time being required by virtue of section 23 or 24 to serve with a police force maintained by a police authority shall have all the powers and privileges of a member of that police force.
+
+**25** [^F239]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**26** [^F240]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**27** In section 101(1), before the definition of “chief officer of police” insert—
+
+> “British Transport Police Force” means the constables appointed under section 53 of the British Transport Commission Act 1949 (c. xxix);
+
+.
+
+**28** In section 105(2) (extent), after the entry relating to section 21 insert “section 25(1A);”.
+
+### Terrorism Act 2000 (c. 11)
+
+**29** The Terrorism Act 2000 has effect subject to the following amendments.
+
+**30** (1) Section 34 (power of superintendent for police area to designate cordoned area in the police area) is amended as follows.
+
+(2) In subsection (1), for “subsection (2)” substitute “ subsections (1A), (1B) and (2) ”.
+
+(3) After that subsection insert—
+
+> (1A) A designation under section 33 may be made in relation to an area (outside Northern Ireland) which is in, on or in the vicinity of any policed premises by a member of the British Transport Police Force who is of at least the rank of superintendent.
+>
+> (1B) A designation under section 33 may be made by a member of the Ministry of Defence Police who is of at least the rank of superintendent in relation to an area outside or in Northern Ireland—
+>
+> (a) if it is a place to which subsection (2) of section 2 of the Ministry of Defence Police Act 1987 (c. 4) applies,
+>
+> (b) if a request has been made under paragraph (a), (b) or (d) of subsection (3A) of that section in relation to a terrorist investigation and it is a place where he has the powers and privileges of a constable by virtue of that subsection as a result of the request, or
+>
+> (c) if a request has been made under paragraph (c) of that subsection in relation to a terrorist investigation and it is a place in, on or in the vicinity of policed premises.
+>
+> (1C) But a designation under section 33 may not be made by—
+>
+> (a) a member of the British Transport Police Force, or
+>
+> (b) a member of the Ministry of Defence Police,
+>
+> in any other case.
+
+**[^F241]31** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**32** In section 121—
+
+(a) after the definition of “article” insert—
+
+> “British Transport Police Force” means the constables appointed under section 53 of the British Transport Commission Act 1949 (c. xxix),
+
+,
+
+and
+
+(b) after the definition of “organisation” insert—
+
+> - “policed premises”, in relation to England and Wales, has the meaning given by section 53(3) of the British Transport Commission Act 1949 and, in relation to Scotland, means those places where members of the British Transport Police Force have the powers, protection and privileges of a constable under section 53(4)(a) of that Act (as it relates to Scotland).
+
+**33** In section 122—
+
+(a) after the entry relating to the expression “Authorised officer” insert—
+
+> |  |  |
+> |---|---|
+> | British Transport Police Force | Section 121 |
+
+,
+
+and
+
+(b) after the entry relating to the expression “organisation” insert—
+
+> |  |  |
+> |---|---|
+> | Policed premises | Section 121 |
+
+.
+
+## SCHEDULE 8 — Repeals and revocation
+
+*Section 125*
+
+### PART 1 — Terrorist property
+
+|  |  |
+|---|---|
+| *Short Title and Chapter* | *Extent of Repeal* |
+| Access to Justice Act 1999 (c. 22) | In Schedule 2, in paragraph 2(2), the “or” at the end of paragraph (b), and in paragraph 2(3) the “or” at the end of paragraph (i). |
+| Terrorism Act 2000 (c. 11) | Sections 24 to 31. In section 122, the entries for “Authorised officer” and “Cash”. |
+
+### PART 2 — Freezing orders
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Emergency Laws (Re-enactments and Repeals) Act 1964 (c. 60) | Section 2. In section 7(1) the words “, and any general direction given under section 2 of this Act,”. In section 14(1) and (2) the words “or direction” and “, section 2”. |
+| Finance Act 1968 (c. 44) | Section 55. |
+
+These repeals have effect subject to section 16(2).
+
+### PART 3 — Immigration and asylum
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Immigration and Asylum Act 1999 (c. 33) | In section 143, subsections (3) to (8) and (14). |
+
+### PART 4 — Race and religion
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* or revocation |
+| Public Order Act 1986 (c. 64) | In section 17 the words “in Great Britain”. |
+| Public Order (Northern Ireland) Order 1987 (S.I. 1987/463 (N.I. 7)) | In Article 8 in the definition of fear and the definition of hatred the words “in Northern Ireland”. |
+
+This repeal and this revocation have effect subject to section 42.
+
+### PART 5 — Civil nuclear security
+
+|  |  |
+|---|---|
+| Nuclear Installations Act 1965 (c. 57) | In Schedule 1, paragraphs 5 and 6. |
+| Atomic Energy Authority (Special Constables) Act 1976 (c. 23) | Section 3. In section 4(2), the definitions of “specified body corporate” and “designated company”. |
+
+### PART 6 — Police powers
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| British Transport Commission Act 1962 (c. xlii) | Section 43(3). |
+| Ministry of Defence Police Act 1987 (c. 4) | In section 2, subsection (2)(d), in subsection (3), the words “, but only” and, in subsection (4), the words “as they have effect in the United Kingdom”. |
+| Criminal Justice and Public Order Act 1994 (c. 33) | In section 60, subsection (4A) and, in subsection (8), paragraph (b) and the word “or” immediately preceding it. |
+| Crime and Disorder Act 1998 (c. 37) | Section 25(1). |
+
+### PART 7 — Miscellaneous
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| Terrorism Act 2000 (c. 11) | In section 55, the definition of “nuclear weapon”. In Schedule 5, paragraph 18(e). In Schedule 7, in paragraph 17(4) the “or” at the end of paragraph (b). |
+
+---
+
+[^F1]: Word in s. 1 heading substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(5)(6), Sch. 5 para. 15(2); S.I. 2018/78, reg. 5(1)(c)
+[^F2]: Word in s. 1(1) substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(5)(6), Sch. 5 para. 15(3); S.I. 2018/78, reg. 5(1)(c)
+[^F3]: Word in s. 1(2) substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(5)(6), Sch. 5 para. 15(4)(a); S.I. 2018/78, reg. 5(1)(c)
+[^F4]: Words in s. 1(2) substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(5)(6), Sch. 5 para. 15(4)(b); S.I. 2018/78, reg. 5(1)(c)
+[^F5]: S. 2(1)-(3) repealed (1.4.2013) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 5 Pt. 2; S.I. 2013/453, art. 3(h) (with savings and transitional provisions in S.I. 2013/534, art. 6)
+[^F6]: S. 2(8) repealed (N.I.) (1.4.2015) by Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435), art. 1(2), Sch. 5 (with art. 45); S.R. 2015/194, art. 2, Sch. (with art. 3)
+[^F7]: Words in s. 18(4)(b) substituted (31.12.2020) by The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742), regs. 1, 48; 2020 c. 1, Sch. 5 para. 1(1)
+[^F8]: Words in s. 18(4)(b) substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 47
+[^F9]: S. 19(2)(a) repealed (24.12.2008) by Counter-Terrorism Act 2008 (c. 28), s. 100(5), Sch. 1 para. 1, Sch. 9 Pt. 2 (with s. 101(2)); S.I. 2008/3296, art. 2
+[^F10]: Words in s. 19(7) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 75(2) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F11]: Words in s. 19(9) inserted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 75(3) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F12]: Ss. 21-32 repealed (14.3.2005) by Prevention of Terrorism Act 2005 (c. 2), s. 16(2)-(4)
+[^F13]: Ss. 21-32 repealed (14.3.2005) by Prevention of Terrorism Act 2005 (c. 2), ss. 16(2)-(4)
+[^F14]: Ss. 21-32 repealed (14.3.2005) by Prevention of Terrorism Act 2005 (c. 2), ss. 16(2)-(4)
+[^F15]: Ss. 21-32 repealed (14.3.2005) by Prevention of Terrorism Act 2005 (c. 2), s. 16(2)-(4)
+[^F16]: Ss. 21-32 repealed (14.3.2005) by Prevention of Terrorism Act 2005 (c. 2), s. 16(2)-(4)
+[^F17]: Ss. 21-32 repealed (14.3.2005) by Prevention of Terrorism Act 2005 (c. 2), s. 16(2)-(4)
+[^F18]: Ss. 21-32 repealed (14.3.2005) by Prevention of Terrorism Act 2005 (c. 2), s. 16(2)-(4)
+[^F19]: Ss. 21-32 repealed (14.3.2005) by Prevention of Terrorism Act 2005 (c. 2), s. 16(2)-(4)
+[^F20]: Ss. 21-32 repealed (14.3.2005) by Prevention of Terrorism Act 2005 (c. 2), s. 16(2)-(4)
+[^F21]: Ss. 21-32 repealed (14.3.2005) by Prevention of Terrorism Act 2005 (c. 2), s. 16(2)-(4)
+[^F22]: Ss. 21-32 repealed (14.3.2005) by Prevention of Terrorism Act 2005 (c. 2), s. 16(2)-(4)
+[^F23]: Ss. 21-32 repealed (14.3.2005) by Prevention of Terrorism Act 2005 (c. 2), s. 16(2)-(4)
+[^F24]: S. 33 repealed (31.8.2006) by Immigration, Asylum and Nationality Act 2006 (c. 13), ss. 55(6), 61, 62, Sch. 3; S.I. 2006/2226, art. 3, Sch. 1 (with transitional provisions in art. 4)
+[^F25]: S. 36 repealed (1.7.2021) by Immigration Act 2014 (c. 22), s. 75(3), Sch. 9 para. 18; S.I. 2021/771, reg. 2(c)
+[^F26]: S. 37 repealed (21.7.2008) by Statute Law (Repeals) Act 2008 (c. 12), Sch. 1 Pt. 3
+[^F27]: S. 38 repealed (21.7.2008) by Statute Law (Repeals) Act 2008 (c. 12), Sch. 1 Pt. 3
+[^F28]: S. 39(7) repealed (4.4.2005) by Criminal Justice Act 2003 (c. 44), ss. 332, 336, Sch. 37 Pt. 7; S.I. 2005/950, art. 2(1), Sch. 1 paras. 27, 44(4)(u) (subject to art. 2(2), Sch. 2 (as amended by S.I. 2005/2122, art. 2))
+[^F29]: S. 39(8) repealed (1.1.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174, 178, Sch. 17 Pt. 2; S.I. 2005/3495, art. 2(u)(xlvii)
+[^F30]: S. 53: heading substituted (18.4.2005) by Commissioners for Revenue and Customs Act 2005 (c. 11), ss. 50, 53, Sch. 4 para. 87(e); S.I. 2005/1126, art. 2(h)
+[^F31]: Words in s. 53(1) substituted (18.4.2005) by Commissioners for Revenue and Customs Act 2005 (c. 11), ss. 50, 53, Sch. 4 para. 87(a)(i); S.I. 2005/1126, art. 2(h)
+[^F32]: Words in s. 53(1) substituted (27.3.2014) by The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834), art. 1(1), Sch. 2 para. 18
+[^F33]: Words in s. 53(1) substituted (18.4.2005) by Commissioners for Revenue and Customs Act 2005 (c. 11), ss. 50, 53, Sch. 4 para. 87(a)(ii); S.I. 2005/1126, art. 2(h)
+[^F34]: Words in s. 53(3) inserted (18.4.2005) by Commissioners for Revenue and Customs Act 2005 (c. 11), ss. 50, 53, Sch. 4 para. 87(b)(i); S.I. 2005/1126, art. 2(h)
+[^F35]: Words in s. 53(3) inserted (18.4.2005) by Commissioners for Revenue and Customs Act 2005 (c. 11), ss. 50, 53, Sch. 4 para. 87(b)(ii); S.I. 2005/1126, art. 2(h)
+[^F36]: Words in s. 53(4) omitted (18.4.2005) by virtue of Commissioners for Revenue and Customs Act 2005 (c. 11), ss. 50, 53, Sch. 4 para. 87(c); S.I. 2005/1126, art. 2(h)
+[^F37]: S. 53(6) omitted (18.4.2005) by virtue of Commissioners for Revenue and Customs Act 2005 (c. 11), ss. 52, 53, Sch. 4 para. 87(d), Sch. 5; S.I. 2005/1126, art. 2(h)(i)
+[^F38]: Words in s. 55 substituted (12.4.2010) by Justice (Northern Ireland) Act 2002 (c. 26), s. 87(1), Sch. 7 para. 36(a); S.R. 2010/113, art. 2, Sch. para. 19(f)
+[^F39]: Words in s. 74(1)(a) substituted (1.4.2013) by The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602), art. 1(2), Sch. 2 para. 37(2)(a)
+[^F40]: S. 74(1)(aa) inserted (1.4.2013) by The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602), art. 1(2), Sch. 2 para. 37(2)(b)
+[^F41]: S. 76 repealed (1.4.2005) by Energy Act 2004 (c. 20), ss. 197, 198(2), Sch. 23 Pt. 1 (with Sch. 23 Pt. 2 para. 3); S.I. 2005/877, art. 2(1), Sch. 1 Table
+[^F42]: S. 77(1)(cza) inserted (18.12.2011) by Energy Act 2011 (c. 16), ss. 105(2), 121(3)
+[^F43]: S. 77(1)(ca) inserted (5.10.2004) by Energy Act 2004 (c. 20), ss. 77(2), 198(2); S.I. 2004/2575, art. 2(1), Sch. 1
+[^F44]: S. 77(1)(d) substituted (5.10.2004) by Energy Act 2004 (c. 20), ss. 77(3), 198(2); S.I. 2004/2575, art. 2(1), Sch. 1
+[^F45]: Words in s. 77(3)(a)(ii) substituted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 32(2); S.I. 2014/251, art. 4
+[^F46]: Words in s. 77(3) omitted (7.2.2023 at 12.00 p.m.) by virtue of The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 10(2)(a)
+[^F47]: Words in s. 77(3) inserted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 10(2)(b)
+[^F48]: S. 77(3A) inserted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 32(3); S.I. 2014/251, art. 4
+[^F49]: Words in s. 77(3A) substituted (28.4.2022) by The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500), regs. 1(2), 5(1), Sch. Pt. 1
+[^F50]: Words in s. 77(3A) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1 table
+[^F51]: Words in s. 77(5)(a) substituted (1.4.2008) by The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960), art. 1, Sch. 3 (with art. 21, Sch. 2)
+[^F52]: Words in s. 77(5)(a) substituted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 32(4); S.I. 2014/251, art. 4
+[^F53]: S. 77(6A) inserted (5.10.2004) by Energy Act 2004 (c. 20), ss. 77(4), 198(2); S.I. 2004/2575, art. 2(1), Sch. 1
+[^F54]: Words in s. 77(7) inserted (5.10.2004) by Energy Act 2004 (c. 20), ss. 77(5), 198(2); S.I. 2004/2575, art. 2(1), Sch. 1
+[^F55]: Words in s. 77(7) inserted (18.12.2011) by Energy Act 2011 (c. 16), ss. 105(3), 121(3)
+[^F56]: Words in s. 77(7) substituted (1.4.2005) by Energy Act 2004 (c. 20), ss. 69, 198(2), Sch. 14 para. 10(1); S.I. 2005/877, art. 2(1), Sch. 1
+[^F57]: Words in s. 77(7)(a) substituted (5.10.2004) by Energy Act 2004 (c. 20), ss. 77(5)(b), 198(2); S.I. 2004/2575, art. 2(1), Sch. 1
+[^F58]: S. 78(2) repealed (1.4.2005) by Energy Act 2004 (c. 20), ss. 197, 198(2), Sch. 23 Pt. 1; S.I. 2005/877, art. 2(1), Sch. 1 Table
+[^F59]: Words in s. 79(4) substituted (1.4.2005) by Energy Act 2004 (c. 20), ss. 69, 198(2), Sch. 14 para. 10(2); S.I. 2005/877, art. 2(1), Sch. 1
+[^F60]: Words in s. 80(4)(b) inserted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 33(2); S.I. 2014/251, art. 4
+[^F61]: S. 80(7A) inserted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 33(3); S.I. 2014/251, art. 4
+[^F62]: S. 80A omitted (20.12.2023) by virtue of The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386), reg. 1(2), Sch. para. 20
+[^F63]: Words in s. 81(1) substituted (12.4.2010) by Justice (Northern Ireland) Act 2002 (c. 26), s. 87(1), Sch. 7 para. 36(b); S.R. 2010/113, art. 2, Sch. para. 19(f)
+[^F64]: S. 82(1) repealed (1.10.2002) by Police Reform Act 2002 (c. 30), s. 107, Sch. 8; S.I. 2002/2306, art. 2
+[^F65]: S. 82(2) repealed (N.I.) (1.3.2007) by The Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288 (N.I. 2)), arts. 1(2), 41, Sch. 2
+[^F66]: S. 82(3A) inserted (10.7.2003) by Aviation (Offences) Act 2003 (c. 19), ss. 1(3), 3
+[^F67]: S. 94(3) repealed (1.10.2002) by Police Reform Act 2002 (c. 30), s. 107, Sch. 8; S.I. 2002/2306, art. 2
+[^F68]: S. 95(2) repealed (N.I.) (1.3.2007) by The Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288 (N.I. 2)), arts. 1(2), 41, Sch. 2
+[^F69]: S. 98(6)(b) and word repealed (1.4.2005) by Energy Act 2004 (c. 20), ss. 197, 198(2), Sch. 23 Pt. 1; S.I. 2005/877, art. 2(1), Sch. 1 Table
+[^F70]: S. 100(1)(c) substituted (1.4.2005) by Energy Act 2004 (c. 20), ss. 69, 198(2), Sch. 14 para. 10(3); S.I. 2005/877, art. 2(1), Sch. 1 Table
+[^F71]: Words in s. 100(2)(b) inserted (E.W.) (12.4.2015) by Infrastructure Act 2015 (c. 7), ss. 22(1)(a), 57(3)
+[^F72]: S. 100(3)(a) omitted (E.W.) (12.4.2015) by virtue of Infrastructure Act 2015 (c. 7), ss. 22(1)(b), 57(3)
+[^F73]: S. 100(3A) inserted (1.4.2013) by The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602), art. 1(2), Sch. 2 para. 37(3)
+[^F74]: S. 100(4): definition of "British Transport Police Force" ceases to have effect (1.7.2004) by virtue of Railways and Transport Safety Act 2003 (c. 20), ss. 73, 120, Sch. 5 para. 4 (with s. 90); S.I. 2004/1572, art. 3(ddd)(jjj)
+[^F75]: S. 100(4): definition of "United Kingdom Atomic Energy Authority Constabulary" and preceding word repealed (1.4.2005) by Energy Act 2004 (c. 20), ss. 197, 198(2), Sch. 23 Pt. 1; S.I. 2005/877, art. 2(1) Sch. 1 Table
+[^F76]: Pt. 11 omitted (1.11.2018) by virtue of Investigatory Powers Act 2016 (c. 25), s. 272(1), Sch. 10 para. 62 (with Sch. 9 paras. 7, 8, 10); S.I. 2018/873, reg. 4(e)
+[^F77]: Ss. 108-110 repealed (1.7.2011) by Bribery Act 2010 (c. 23), s. 19(1), Sch. 2 (with ss. 16, 19(5)); S.I. 2011/1418, art. 2
+[^F78]: Words in s. 113(1)(c) inserted (13.4.2006) by Terrorism Act 2006 (c. 11), ss. 34(b), 39(2); S.I. 2006/1013, art. 2
+[^F79]: Ss. 113A, 113B inserted (26.4.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 53, 94; S.I. 2004/786, art. 3
+[^F80]: Word in s. 113A(2) inserted (16.2.2009) by Counter-Terrorism Act 2008 (c. 28), ss. 75(1)(2)(b), 100(5) (with s. 101(2)); S.I. 2009/58, art. 2(c)
+[^F81]: S. 116(3) repealed (27.12.2018) by Investigatory Powers Act 2016 (c. 25), s. 272(1), Sch. 10 Pt. 8 (with Sch. 9 paras. 7, 8, 10); S.I. 2018/940, reg. 5(i)
+[^F82]: S. 122 repealed (21.7.2008) by Statute Law (Repeals) Act 2008 (c. 12), Sch. 1 Pt. 3
+[^F83]: S. 123 repealed (21.7.2008) by Statute Law (Repeals) Act 2008 (c. 12), Sch. 1 Pt. 3
+[^F84]: Word in Sch. 1 heading substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(5)(6), Sch. 5 para. 16(2); S.I. 2018/78, reg. 5(1)(c)
+[^F85]: Words in Sch. 1 Pt. 1 heading inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(5)(6), Sch. 5 para. 16(3); S.I. 2018/78, reg. 5(1)(c)
+[^F86]: Words in Sch. 1 para. 1(1) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(5)(6), Sch. 5 para. 16(4); S.I. 2018/78, reg. 5(1)(c)
+[^F87]: Words in Sch. 1 para. 1(1) substituted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by Economic Crime and Corporate Transparency Act 2023 (c. 56), s. 219(1)(2)(b), Sch. 10 para. 3; S.I. 2024/269, reg. 4(c)
+[^F88]: Sch. 1 para. 1(2)(f)-(h) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), ss. 38(2)(a), 58(1)(6); S.I. 2018/78, reg. 3(u)
+[^F89]: Sch. 1 para. 1(5)-(7) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), ss. 38(2)(b), 58(1)(6); S.I. 2018/78, reg. 3(u)
+[^F90]: Words in Sch. 1 Pt. 2 heading inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(5)(6), Sch. 5 para. 16(5); S.I. 2018/78, reg. 5(1)(c)
+[^F91]: Sch. 1 para. 3(1A) inserted (with application in accordance with s. 83(4) of the amending Act) by Counter-Terrorism Act 2008 (c. 28), ss. 83(2), 100(5) (with s. 101(2)); S.I. 2009/58, art. 2(h)
+[^F92]: Word in Sch. 1 para. 3(2)(a) substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), ss. 38(3)(a), 58(1)(6); S.I. 2018/78, reg. 3(u)
+[^F93]: Sch. 1 para. 3(3A) inserted (13.4.2006) by Terrorism Act 2006 (c. 11), ss. 35(1), 39(2) (with s. 35(2)); S.I. 2006/1013, art. 2
+[^F94]: Words in Sch. 1 para. 3(3A) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(5)(6), Sch. 5 para. 16(6); S.I. 2018/78, reg. 5(1)(c)
+[^F95]: Sch. 1 para. 3(9) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), ss. 38(3)(b), 58(1)(6); S.I. 2018/78, reg. 3(u)
+[^F96]: Words in Sch. 1 para. 4(1) inserted (with application in accordance with s. 83(4) of the amending Act) by Counter-Terrorism Act 2008 (c. 28), ss. 83(3), 100(5) (with s. 101(2)); S.I. 2009/58, art. 2(h)
+[^F97]: Words in Sch. 1 para. 5(1) substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(5)(6), Sch. 5 para. 16(7); S.I. 2018/78, reg. 5(1)(c)
+[^F98]: Sch. 1 para. 5(4) omitted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by virtue of Criminal Finances Act 2017 (c. 22), s. 58(5)(6), Sch. 5 para. 16(8); S.I. 2018/78, reg. 5(1)(c)
+[^F99]: Sch. 1 Pt. 2A inserted (27.4.2017 for specified purposes, 30.1.2018 for the insertion of Sch. 1 para. 5A(10), 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), ss. 38(4), 58(1)(6); S.I. 2018/78, regs. 2(d), 3(u)
+[^F100]: Words in Sch. 1 Pt. 3 heading inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(5)(6), Sch. 5 para. 16(9); S.I. 2018/78, reg. 5(1)(c)
+[^F101]: Sch. 1 paras. 7, 7A substituted for Sch. 1 para. 7 (with application in accordance with s. 84(2) of the amending Act) by Counter-Terrorism Act 2008 (c. 28), ss. 84(1), 100(5) (with s. 101(2)); S.I. 2009/58, art. 2(h)
+[^F102]: Words in Sch. 1 para. 7(4) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), ss. 38(5), 58(1)(6); S.I. 2018/78, reg. 3(u)
+[^F103]: Words in Sch. 1 para. 8(1) substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(5)(6), Sch. 5 para. 16(10); S.I. 2018/78, reg. 5(1)(c)
+[^F104]: Words in Sch. 1 Pt. 4 heading inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(5)(6), Sch. 5 para. 16(11); S.I. 2018/78, reg. 5(1)(c)
+[^F105]: Sch. 1 para. 9(4)-(6) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), ss. 38(6), 58(1)(6); S.I. 2018/78, reg. 3(u)
+[^F106]: Sch. 1 para. 9A and cross-heading inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(5)(6), Sch. 5 para. 16(12); S.I. 2018/78, reg. 5(1)(c)
+[^F107]: Words in Sch. 1 para. 10(1) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(5)(6), Sch. 5 para. 16(13); S.I. 2018/78, reg. 5(1)(c)
+[^F108]: Words in Sch. 1 para. 10(2) inserted (with application in accordance with s. 83(4) of the amending Act) by Counter-Terrorism Act 2008 (c. 28), ss. 83(3), 100(5) (with s. 101(2)); S.I. 2009/58, art. 2(h)
+[^F109]: Words in Sch. 1 para. 10(7)(b) substituted (1.4.2013) by The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602), art. 1(2), Sch. 2 para. 37(4)
+[^F110]: Sch. 1 para. 10(7A) inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), ss. 41(6)(a), 58(4)(6)
+[^F111]: Sch. 1 para. 10(8A) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(5)(6), Sch. 5 para. 16(14); S.I. 2018/78, reg. 5(1)(c)
+[^F112]: Sch. 1 Pt. 4A inserted (27.4.2017 for specified purposes, 30.1.2018 for the insertion of Sch. 1 para. 10G(9), 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(1)(6), Sch. 3 para. 2; S.I. 2018/78, regs. 2(h), 3(cc)
+[^F113]: Sch. 1 Pt. 4B inserted (27.4.2017 for specified purposes, 30.1.2018 for the insertion of Sch. 1 para. 10X so far as not already in force, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(1)(6), Sch. 4 para. 2; S.I. 2018/78, regs. 2(i), 3(dd)
+[^F114]: Word in Sch. 1 Pt. 4B heading substituted (retrospectively) by Financial Services Act 2021 (c. 22), s. 33(2), Sch. 12 para. 3 (with s. 33(4))
+[^F115]: Words in Sch. 1 para. 10Q(1) substituted (retrospectively) by Financial Services Act 2021 (c. 22), s. 33(2), Sch. 12 para. 4(2) (with s. 33(4))
+[^F116]: Sch. 1 para. 10Q(1A) inserted (retrospectively) by Financial Services Act 2021 (c. 22), s. 33(2), Sch. 12 para. 4(3) (with s. 33(4))
+[^F117]: Words in Sch. 1 para. 10Q(1A) inserted (retrospectively) by Financial Services Act 2021 (c. 22), s. 33(2), Sch. 12 para. 4(4) (with s. 33(4))
+[^F118]: Sch. 1 para. 10R(2)(c) omitted (31.12.2020) by virtue of The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149), reg. 1(3), Sch. para. 37 (with reg. 4); 2020 c. 1, Sch. 5 para. 1(1)
+[^F119]: Words in Sch. 1 para. 10V(1) substituted (retrospectively) by Financial Services Act 2021 (c. 22), s. 33(2), Sch. 12 para. 5 (with s. 33(4))
+[^F120]: Words in Sch. 1 para. 10W(6)(b) substituted (retrospectively) by Financial Services Act 2021 (c. 22), s. 33(2), Sch. 12 para. 6 (with s. 33(4))
+[^F121]: Words in Sch. 1 para. 10Y(6) substituted (retrospectively) by Financial Services Act 2021 (c. 22), s. 33(2), Sch. 12 para. 7(2) (with s. 33(4))
+[^F122]: Words in Sch. 1 para. 10Y(7) substituted (retrospectively) by Financial Services Act 2021 (c. 22), s. 33(2), Sch. 12 para. 7(3)(a) (with s. 33(4))
+[^F123]: Words in Sch. 1 para. 10Y(7) substituted (retrospectively) by Financial Services Act 2021 (c. 22), s. 33(2), Sch. 12 para. 7(3)(b) (with s. 33(4))
+[^F124]: Words in Sch. 1 para. 10Z2(7)(a) substituted (retrospectively) by Financial Services Act 2021 (c. 22), s. 33(2), Sch. 12 para. 8 (with s. 33(4))
+[^F125]: Sch. 1 para. 10Z6A and cross-heading inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by Economic Crime and Corporate Transparency Act 2023 (c. 56), s. 219(1)(2)(b), Sch. 10 para. 4; S.I. 2024/269, reg. 4(c)
+[^F126]: Sch. 1 Pts. 4BA-4BD inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by Economic Crime and Corporate Transparency Act 2023 (c. 56), s. 219(1)(2)(b), Sch. 10 para. 2; S.I. 2024/269, reg. 4(c)
+[^F127]: Sch. 1 Pt. 4C inserted (E.W.N.I.) (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), ss. 42(2), 58(4)(6)
+[^F128]: Sch. 1 Pt. 4D inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(5)(6), Sch. 5 para. 16(15); S.I. 2018/78, reg. 5(1)(c)
+[^F129]: Words in Sch. 1 para. 16(3)(a) substituted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 180(2) (with Sch. 27); S.I. 2020/1236, reg. 2
+[^F130]: Words in Sch. 1 para. 16(3)(a) inserted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 16 para. 196; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F131]: Words in Sch. 1 para. 16(4)(a) substituted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 180(3) (with Sch. 27); S.I. 2020/1236, reg. 2
+[^F132]: Words in Sch. 1 para. 16(6) substituted (1.4.2013) by Financial Services Act 2012 (c. 21), s. 122(3), Sch. 18 para. 93(a) (with Sch. 20); S.I. 2013/423, art. 3, Sch.
+[^F133]: Words in Sch. 1 para. 16(6) omitted (1.4.2013) by virtue of Financial Services Act 2012 (c. 21), s. 122(3), Sch. 18 para. 93(b) (with Sch. 20); S.I. 2013/423, art. 3, Sch.
+[^F134]: Words in Sch. 1 para. 19(1) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(1)(6), Sch. 4 para. 3(2); S.I. 2018/78, reg. 3(dd)
+[^F135]: Words in Sch. 1 para. 19(1) inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), ss. 41(6)(b)(i), 58(4)(6)
+[^F136]: Words in Sch. 1 para. 19(1) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), ss. 38(7), 58(1)(6); S.I. 2018/78, reg. 3(u)
+[^F137]: Words in Sch. 1 para. 19(1) inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), ss. 41(6)(b)(ii), 58(4)(6)
+[^F138]: Words in Sch. 1 para. 19(1) inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by Economic Crime and Corporate Transparency Act 2023 (c. 56), s. 219(1)(2)(b), Sch. 10 para. 5; S.I. 2024/269, reg. 4(c)
+[^F139]: Words in Sch. 1 para. 19(1) inserted (retrospectively) by Financial Services Act 2021 (c. 22), s. 33(2), Sch. 12 para. 9 (with s. 33(4))
+[^F140]: Words in Sch. 1 para. 19(1) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(1)(6), Sch. 3 para. 3; S.I. 2018/78, reg. 3(cc)
+[^F141]: Words in Sch. 1 para. 19(6)(c) inserted (24.7.2006 for E.W. and otherwise 8.1.2007) by Criminal Justice Act 2003 (c. 44), ss. 331, 336, Sch. 36 para. 77; S.I. 2006/1835, art. 2(h); S.I. 2006/3422, art. 2(c)
+[^F142]: Sch. 1 para. 19(7) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(1)(6), Sch. 4 para. 3(3); S.I. 2018/78, reg. 3(dd)
+[^F143]: Sch. 3 para. 7(6)(a)(b) substituted (31.1.2017 for specified purposes, 1.4.2017 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), ss. 145(2), 183(3)(5)(e) (with s. 145(10)); S.I. 2017/482, reg. 2
+[^F144]: Words in Sch. 3 para. 7(6)(a)(i) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1 table
+[^F145]: Words in Sch. 3 para. 7(6)(a)(i) substituted (28.4.2022) by The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500), regs. 1(2), 5(1), Sch. Pt. 1
+[^F146]: Words in Sch. 3 para. 7(7) substituted (31.1.2017 for specified purposes, 1.4.2017 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), ss. 145(3), 183(3)(5)(e) (with s. 145(10)); S.I. 2017/482, reg. 2
+[^F147]: Words in Sch. 3 para. 7(7)(a)(i) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1 table
+[^F148]: Words in Sch. 3 para. 7(7)(a)(i) substituted (28.4.2022) by The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500), regs. 1(2), 5(1), Sch. Pt. 1
+[^F149]: Sch. 3 para. 11(2) inserted (27.11.2008) by Counter-Terrorism Act 2008 (c. 28), ss. 70, 100(2) (with s. 101(2))
+[^F150]: Sch. 3 para. 11 renumbered as Sch. 3 para. 11(1) (27.11.2008) by Counter-Terrorism Act 2008 (c. 28), ss. 70, 100(2) (with s. 101(2))
+[^F151]: Sch. 4 para. 5 repealed (20.6.2003) by Enterprise Act 2002 (c. 40), ss. 278, 279, Sch. 26; S.I. 2003/1397, art. 2, Sch. (with arts. 8, 10)
+[^F152]: Sch. 4 para. 9 repealed (20.6.2003) by Enterprise Act 2002 (c. 40), ss. 278, 279, Sch. 26; S.I. 2003/1397, art. 2, Sch. (with arts. 8, 10)
+[^F153]: Sch. 4 para. 10 repealed (20.6.2003) by Enterprise Act 2002 (c. 40), ss. 278, 279, Sch. 26; S.I. 2003/1397, art. 2, Sch. (with arts. 8, 10)
+[^F154]: Sch. 4 para. 11 repealed (20.6.2003) by Enterprise Act 2002 (c. 40), ss. 278, 279, Sch. 26; S.I. 2003/1397, art. 2, Sch. (with arts. 8, 10)
+[^F155]: Sch. 4 para. 13 repealed (1.10.2007) by Equality Act 2006 (c. 3), ss. 40, 91, 93, Sch. 3 para. 61(a), Sch. 4 (with s. 92); S.I. 2007/2603, art. 2(c)(d) (subject to art. 3)
+[^F156]: Sch. 4 para. 14 repealed (1.10.2007) by Equality Act 2006 (c. 3), ss. 40, 91, 93, Sch. 3 para. 61(a), Sch. 4 (with s. 92); S.I. 2007/2603, art. 2(c)(d) (subject to art. 3)
+[^F157]: Sch. 4 para. 16 repealed (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 6, 8(2), Sch. 1 para. 220, Sch. 4 (with Sch. 2 Pt. 1, Sch. 3 Pt. 1)
+[^F158]: Sch. 4 para. 17 repealed (20.6.2003) by Enterprise Act 2002 (c. 40), ss. 278, 279, Sch. 26; S.I. 2003/1397, art. 2, Sch. (with arts. 8, 10)
+[^F159]: Words in Sch. 4 para. 24 substituted (6.4.2005) by Companies (Audit, Investigations and Community Enterprise) Act 2004 (c. 27), ss. 25, 65, Sch. 2 para. 31; S.I. 2004/3322, art. 2(2), Sch. 2
+[^F160]: Sch. 4 para. 27 repealed (20.6.2003) by Enterprise Act 2002 (c. 40), ss. 278, 279, Sch. 26; S.I. 2003/1397, art. 2, Sch. (with arts. 8, 10)
+[^F161]: Sch. 4 para. 29 repealed (29.12.2003) by Communications Act 2003 (c. 21), ss. 406, 411(2)(3), Sch. 19(1) (with Sch. 18); S.I. 2003/3142, art. 3(1), Sch. 1 (subject to art. 3(3))
+[^F162]: Sch. 4 para. 30 repealed (20.6.2003) by Enterprise Act 2002 (c. 40), ss. 278, 279, Sch. 26; S.I. 2003/1397, art. 2, Sch. (with arts. 8, 10)
+[^F163]: Sch. 4 para. 33 repealed (20.6.2003) by Enterprise Act 2002 (c. 40), ss. 278, 279, Sch. 26; S.I. 2003/1397, art. 2, Sch. (with arts. 8, 10)
+[^F164]: Sch. 4 para. 37 repealed (6.4.2005) by Pensions Act 2004 (c. 35), ss. 320, 322, Sch. 13; S.I. 2005/695, art. 2(7), Sch. 1 (with art. 5)
+[^F165]: Sch. 4 para. 41 omitted (1.4.2015) by virtue of Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 48(a); S.I. 2015/841, art. 3(x)
+[^F166]: Sch. 4 para. 42 omitted (29.3.2019) by virtue of The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419), reg. 1(3), Sch. 4 para. 1(2)
+[^F167]: Sch. 4 para. 45 repealed (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 6, 8(2), Sch. 1 para. 220, Sch. 4 (with Sch. 2 Pt. 1, Sch. 3 Pt. 1)
+[^F168]: Sch. 4 para. 46 repealed (1.10.2007) by Equality Act 2006 (c. 3), ss. 40, 91, 93, Sch. 3 para. 61(a), Sch. 4 (with s. 92); S.I. 2007/2603, art. 2(c)(d) (subject to art. 3)
+[^F169]: Sch. 4 para. 47 omitted (1.4.2013) by virtue of Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 5 para. 57(a); S.I. 2013/453, art. 3(h) (with savings and transitional provisions in S.I. 2013/534, art. 6)
+[^F170]: Sch. 4 para. 51 omitted (1.10.2011) by virtue of Postal Services Act 2011 (c. 5), s. 93(2)(3), Sch. 12 para. 162(a); S.I. 2011/2329, art. 3
+[^F171]: Sch. 4 para. 53A inserted (1.4.2004 for E.W.) by Health and Social Care (Community Health and Standards) Act 2003 (c. 43), ss. 34, 199(1)(4), Sch. 4 para. 120; S.I. 2004/759, art. 2
+[^F172]: Words in Sch. 4 para. 53A substituted (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 8, Sch. 1 para. 221 (with Sch. 3 Pt. 1)
+[^F173]: Sch. 4 para. 53B and cross-heading inserted (1.10.2007) by Equality Act 2006 (c. 3), ss. 40, 93, Sch. 3 para. 61(b) (with s. 92); S.I. 2007/2603, art. 2(d) (subject to art. 3)
+[^F174]: Sch. 4 para. 53C inserted (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 8, Sch. 1 para. 222 (with Sch. 3 Pt. 1)
+[^F175]: Sch. 4 para. 53D inserted (1.10.2011) by Postal Services Act 2011 (c. 5), s. 93(2)(3), Sch. 12 para. 162(b); S.I. 2011/2329, art. 3
+[^F176]: Sch. 4 para. 53E inserted (1.4.2013) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 5 para. 57(b); S.I. 2013/453, art. 3(h) (with savings and transitional provisions in S.I. 2013/534, art. 6)
+[^F177]: Sch. 4 para. 53F inserted (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 48(b); S.I. 2015/841, art. 3(x)
+[^F178]: Sch. 4 para. 53G inserted (29.3.2019) by The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419), reg. 1(3), Sch. 4 para. 1(3)
+[^F179]: Sch. 4 Pt. 2 para. 57 and cross-heading substituted (N.I.) (1.4.2015) by Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435), art. 1(2), Sch. 4 para. 18 (with art. 45); S.R. 2015/194, art. 2, Sch. (with art. 3)
+[^F180]: Sch. 4 para. 59 repealed (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 190, Sch. 2 (with art. 10)
+[^F181]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 3
+[^F182]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 3
+[^F183]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 3
+[^F184]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 3
+[^F185]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 3
+[^F186]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 3
+[^F187]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 3
+[^F188]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 3
+[^F189]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 3
+[^F190]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 3
+[^F191]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 3
+[^F192]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 3
+[^F193]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 3
+[^F194]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 3
+[^F195]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 3
+[^F196]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 3
+[^F197]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 3
+[^F198]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 3
+[^F199]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 3
+[^F200]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 3
+[^F201]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 3
+[^F202]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 3
+[^F203]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 3
+[^F204]: Sch. 5: entry added (1.10.2012) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2012 (S.I. 2012/1466), arts. 1, 2(a)
+[^F205]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 3
+[^F206]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 3
+[^F207]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 3
+[^F208]: Words in Sch. 5 omitted (2.4.2007) by virtue of The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 4(a)
+[^F209]: Words in Sch. 5 added (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 4(b)
+[^F210]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 5
+[^F211]: Sch. 5: entries omitted (1.10.2012) by virtue of The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2012 (S.I. 2012/1466), arts. 1, 2(b)
+[^F212]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 5
+[^F213]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 5
+[^F214]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 5
+[^F215]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 5
+[^F216]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 5
+[^F217]: Sch. 5: list omitted (1.10.2012) by virtue of The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2012 (S.I. 2012/1466), arts. 1, 2(c)
+[^F218]: Word in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 7(2)
+[^F219]: Words in Sch. 5 omitted (2.4.2007) by virtue of The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 7(5)
+[^F220]: Words in Sch. 5 substituted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 7(4)
+[^F221]: Words in Sch. 5 omitted (2.4.2007) by virtue of The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 7(5)
+[^F222]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 7(2)
+[^F223]: Words in Sch. 5 substituted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 7(3)
+[^F224]: Words in Sch. 5 omitted (2.4.2007) by virtue of The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 7(5)
+[^F225]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 7(2)
+[^F226]: Words in Sch. 5 omitted (2.4.2007) by virtue of The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 7(5)
+[^F227]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 7
+[^F228]: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 7
+[^F229]: Sch. 5: Notes substituted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 8
+[^F230]: Sch. 5: Notes substituted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 8
+[^F231]: Sch. 5: Notes substituted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 8
+[^F232]: Sch. 5: Notes substituted (2.4.2007) by The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929), art. 8
+[^F233]: Words in Sch. 6 para. 4(1) inserted (3.4.2006) by Constitutional Reform Act 2005 (c. 4), ss. 15, 148, Sch. 4 para. 300(2); S.I. 2006/1014, art. 2(a), Sch. 1 para. 11(x)
+[^F234]: Words in Sch. 6 para. 4(3)(b) substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), s. 148(1), Sch. 17 para. 31; S.I. 2009/1604, art. 2(e)
+[^F235]: Sch. 6 para. 4(4)-(6) inserted (3.4.2006) by Constitutional Reform Act 2005 (c. 4), ss. 15, 148, Sch. 4 para. 300(3); S.I. 2006/1014, art. 2(a), Sch. 1 para. 11(x)
+[^F236]: Words in Sch. 6 para. 6(2)(c) substituted (12.4.2010) by Counter-Terrorism Act 2008 (c. 28), s. 91(2)(3) (with s. 101(2))
+[^F237]: Sch. 7 para. 6 repealed (1.7.2004) by Railways and Transport Safety Act 2003 (c. 20), ss. 73, 118, 120, Sch. 5 para. 3, Sch. 8; S.I. 2004/1572, art. 3(jjj)(kkk)
+[^F238]: Sch. 7 para. 9 repealed (13.5.2014) by Anti-social Behaviour, Crime and Policing Act 2014 (c. 12), ss. 112(2)(b), 185(1) (with ss. 21, 33, 42, 58, 75, 93); S.I. 2014/949, art. 3, Sch. para. 8
+[^F239]: Sch. 7 para. 25 repealed (1.7.2004) by Railways and Transport Safety Act 2003 (c. 20), ss. 73, 118, 120, Sch. 5 para. 3, Sch. 8; S.I. 2004/1572, art. 3(jjj)(kkk)
+[^F240]: Sch. 7 para. 26 repealed (1.4.2005) by Energy Act 2004 (c. 20), ss. 197, 198(2), Sch. 23 Pt. 1; S.I. 2005/877, art. 2(1), Sch. 1 Table
+[^F241]: Sch. 7 para. 31 repealed (10.7.2012) by Protection of Freedoms Act 2012 (c. 9), s. 120, Sch. 10 Pt. 4 (with s. 97); S.I. 2012/1205, art. 4(l)

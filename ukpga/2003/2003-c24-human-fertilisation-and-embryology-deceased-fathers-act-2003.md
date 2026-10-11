@@ -1,0 +1,275 @@
+---
+title: "Human Fertilisation and Embryology (Deceased Fathers) Act 2003"
+identifier: "ukpga/2003/24"
+citation: "2003 c. 24"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2003-09-18
+last_amended: 2009-09-28
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2003/24"
+source_modified: 2016-06-09
+retrieved: 2026-10-11
+---
+
+# Human Fertilisation and Embryology (Deceased Fathers) Act 2003
+
+**2003 c. 24**
+
+An Act to make provision about the circumstances in which, and the extent to which, a man is to be treated in law as the father of a child where the child has resulted from certain fertility treatment undertaken after the man’s death; and for connected purposes.
+
+[18th September 2003]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1 Certain deceased men to be registered as fathers
+
+(1) After section 28(5) of the Human Fertilisation and Embryology Act 1990 (c. 37) (meaning of “father”) there shall be inserted—
+
+> (5A) If—
+>
+> (a) a child has been carried by a woman as the result of the placing in her of an embryo or of sperm and eggs or her artificial insemination,
+>
+> (b) the creation of the embryo carried by her was brought about by using the sperm of a man after his death, or the creation of the embryo was brought about using the sperm of a man before his death but the embryo was placed in the woman after his death,
+>
+> (c) the woman was a party to a marriage with the man immediately before his death,
+>
+> (d) the man consented in writing (and did not withdraw the consent)—
+>
+> (i) to the use of his sperm after his death which brought about the creation of the embryo carried by the woman or (as the case may be) to the placing in the woman after his death of the embryo which was brought about using his sperm before his death, and
+>
+> (ii) to being treated for the purpose mentioned in subsection (5I) below as the father of any resulting child,
+>
+> (e) the woman has elected in writing not later than the end of the period of 42 days from the day on which the child was born for the man to be treated for the purpose mentioned in subsection (5I) below as the father of the child, and
+>
+> (f) no-one else is to be treated as the father of the child by virtue of subsection (2) or (3) above or by virtue of adoption or the child being treated as mentioned in paragraph (a) or (b) of subsection (5) above,
+>
+> then the man shall be treated for the purpose mentioned in subsection (5I) below as the father of the child.
+>
+> (5B) If—
+>
+> (a) a child has been carried by a woman as the result of the placing in her of an embryo or of sperm and eggs or her artificial insemination,
+>
+> (b) the creation of the embryo carried by her was brought about by using the sperm of a man after his death, or the creation of the embryo was brought about using the sperm of a man before his death but the embryo was placed in the woman after his death,
+>
+> (c) the woman was not a party to a marriage with the man immediately before his death but treatment services were being provided for the woman and the man together before his death either by a person to whom a licence applies or outside the United Kingdom,
+>
+> (d) the man consented in writing (and did not withdraw the consent)—
+>
+> (i) to the use of his sperm after his death which brought about the creation of the embryo carried by the woman or (as the case may be) to the placing in the woman after his death of the embryo which was brought about using his sperm before his death, and
+>
+> (ii) to being treated for the purpose mentioned in subsection (5I) below as the father of any resulting child,
+>
+> (e) the woman has elected in writing not later than the end of the period of 42 days from the day on which the child was born for the man to be treated for the purpose mentioned in subsection (5I) below as the father of the child, and
+>
+> (f) no-one else is to be treated as the father of the child by virtue of subsection (2) or (3) above or by virtue of adoption or the child being treated as mentioned in paragraph (a) or (b) of subsection (5) above,
+>
+> then the man shall be treated for the purpose mentioned in subsection (5I) below as the father of the child.
+>
+> (5C) If—
+>
+> (a) a child has been carried by a woman as the result of the placing in her of an embryo,
+>
+> (b) the embryo was created at a time when the woman was a party to a marriage,
+>
+> (c) the creation of the embryo was not brought about with the sperm of the other party to the marriage,
+>
+> (d) the other party to the marriage died before the placing of the embryo in the woman,
+>
+> (e) the other party to the marriage consented in writing (and did not withdraw the consent)—
+>
+> (i) to the placing of the embryo in the woman after his death, and
+>
+> (ii) to being treated for the purpose mentioned in subsection (5I) below as the father of any resulting child,
+>
+> (f) the woman has elected in writing not later than the end of the period of 42 days from the day on which the child was born for the other party to the marriage to be treated for the purpose mentioned in subsection (5I) below as the father of the child, and
+>
+> (g) no-one else is to be treated as the father of the child by virtue of subsection (2) or (3) above or by virtue of adoption or the child being treated as mentioned in paragraph (a) or (b) of subsection (5) above,
+>
+> then the other party to the marriage shall be treated for the purpose mentioned in subsection (5I) below as the father of the child.
+>
+> (5D) If—
+>
+> (a) a child has been carried by a woman as the result of the placing in her of an embryo,
+>
+> (b) the embryo was not created at a time when the woman was a party to a marriage but was created in the course of treatment services provided for the woman and a man together either by a person to whom a licence applies or outside the United Kingdom,
+>
+> (c) the creation of the embryo was not brought about with the sperm of that man,
+>
+> (d) the man died before the placing of the embryo in the woman,
+>
+> (e) the man consented in writing (and did not withdraw the consent)—
+>
+> (i) to the placing of the embryo in the woman after his death, and
+>
+> (ii) to being treated for the purpose mentioned in subsection (5I) below as the father of any resulting child,
+>
+> (f) the woman has elected in writing not later than the end of the period of 42 days from the day on which the child was born for the man to be treated for the purpose mentioned in subsection (5I) below as the father of the child, and
+>
+> (g) no-one else is to be treated as the father of the child by virtue of subsection (2) or (3) above or by virtue of adoption or the child being treated as mentioned in paragraph (a) or (b) of subsection (5) above,
+>
+> then the man shall be treated for the purpose mentioned in subsection (5I) below as the father of the child.
+>
+> (5E) In the application of subsections (5A) to (5D) above to Scotland, for any reference to a period of 42 days there shall be substituted a reference to a period of 21 days.
+>
+> (5F) The requirement under subsection (5A), (5B), (5C) or (5D) above as to the making of an election (which requires an election to be made either on or before the day on which the child was born or within the period of 42 or, as the case may be, 21 days from that day) shall nevertheless be treated as satisfied if the required election is made after the end of that period but with the consent of the Registrar General under subsection (5G) below.
+>
+> (5G) The Registrar General may at any time consent to the making of an election after the end of the period mentioned in subsection (5F) above if, on an application made to him in accordance with such requirements as he may specify, he is satisfied that there is a compelling reason for giving his consent to the making of such an election.
+>
+> (5H) In subsections (5F) and (5G) above “the Registrar General” means the Registrar General for England and Wales, the Registrar General of Births, Deaths and Marriages for Scotland or (as the case may be) the Registrar General for Northern Ireland.
+>
+> (5I) The purpose referred to in subsections (5A) to (5D) above is the purpose of enabling the man’s particulars to be entered as the particulars of the child’s father in (as the case may be) a register of live-births or still-births kept under the Births and Deaths Registration Act 1953 or the Births and Deaths Registration (Northern Ireland) Order 1976 or a register of births or still-births kept under the Registration of Births, Deaths and Marriages (Scotland) Act 1965.
+
+(2) After section 29(3) of the Act of 1990 (effect of sections 27 and 28) there shall be inserted—
+
+> (3A) Subsections (1) to (3) above do not apply in relation to the treatment in law of a deceased man in a case to which section 28(5A), (5B), (5C) or (5D) of this Act applies.
+>
+> (3B) Where subsection (5A), (5B), (5C) or (5D) of section 28 of this Act applies, the deceased man—
+>
+> (a) is to be treated in law as the father of the child for the purpose referred to in that subsection, but
+>
+> (b) is to be treated in law as not being the father of the child for any other purpose.
+>
+> (3C) Where subsection (3B) above has effect, references to any relationship between two people in any enactment, deed or other instrument or document (whenever passed or made) are to be read accordingly.
+>
+> (3D) In subsection (3C) above “enactment” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament or Northern Ireland legislation.
+
+## 2 Consequential and supplementary provision
+
+(1) The Schedule (which contains consequential amendments) shall have effect.
+
+[^F1]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F1]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3 Retrospective, transitional and transitory provision
+
+(1) This Act shall (in addition to any case where the sperm or embryo is used on or after the coming into force of section 1) apply to any case where the sperm of a man, or any embryo the creation of which was brought about with the sperm of a man, was used on or after 1st August 1991 and before the coming into force of that section.
+
+(2) Where the child concerned was born before the coming into force of section 1 of this Act, section 28(5A) or (as the case may be) (5B) of the Human Fertilisation and Embryology Act 1990 (c. 37) shall have effect as if for paragraph (e) there were substituted—
+
+> (e) the woman has elected in writing not later than the end of the period of six months beginning with the coming into force of this subsection for the man to be treated for the purpose mentioned in subsection (5I) below as the father of the child,
+
+.
+
+(3) Where the child concerned was born before the coming into force of section 1 of this Act, section 28(5C) of the Act of 1990 shall have effect as if for paragraph (f) there were substituted—
+
+> (f) the woman has elected in writing not later than the end of the period of six months beginning with the coming into force of this subsection for the other party to the marriage to be treated for the purpose mentioned in subsection (5I) below as the father of the child,
+
+.
+
+(4) Where the child concerned was born before the coming into force of section 1 of this Act, section 28(5D) of the Act of 1990 shall have effect as if for paragraph (f) there were substituted—
+
+> (f) the woman has elected in writing not later than the end of the period of six months beginning with the coming into force of this subsection for the man to be treated for the purpose mentioned in subsection (5I) below as the father of the child,
+
+.
+
+(5) Where the child concerned was born before the coming into force of section 1 of this Act, section 28 of the Act of 1990 shall have effect as if—
+
+(a) subsection (5E) were omitted; and
+
+(b) in subsection (5F) for the words from “(which requires” to “that day)” there were substituted “ (which requires an election to be made not later than the end of a period of six months) ”.
+
+(6) Where the man who might be treated as the father of the child died before the passing of this Act—
+
+(a) subsections (5A) and (5B) of section 28 of the Act of 1990 shall have effect as if paragraph (d) of each subsection were omitted;
+
+(b) subsections (5C) and (5D) of that section of that Act shall have effect as if paragraph (e) of each subsection were omitted; and
+
+(c) sections 10ZA(3)(a) of the Births and Deaths Registration Act 1953 (c. 20) and 18ZA(3)(a) of the Registration of Births, Deaths and Marriages (Scotland) Act 1965 (c. 49), and Article 14A(3)(a) of the Births and Deaths Registration (Northern Ireland) Order 1976 (S.I. 1976/1041 (N.I.14)), shall have effect as if the words “consent in writing and” were omitted.
+
+(7) Section 15(3)(a) of the Adoption Act 1976 (c. 36) (adoption by one person where no other parent) shall have effect as if after “1990” there were inserted “ (disregarding subsections (5A) to (5I) of that section) ”.
+
+(8) Subsection (7) shall cease to apply when, and to the extent that, the repeal of section 15(3)(a) of the Act of 1976 by the Adoption and Children Act 2002 (c. 38) comes into force.
+
+## 4 Short title, commencement and extent
+
+(1) This Act may be cited as the Human Fertilisation and Embryology (Deceased Fathers) Act 2003.
+
+(2) This Act (apart from this section) shall come into force on such day as the Secretary of State may by order appoint; and different days may be appointed for different purposes.
+
+(3) An order under subsection (2)—
+
+(a) shall be made by statutory instrument; and
+
+(b) may make such transitory, transitional or saving provision as the Secretary of State considers appropriate.
+
+(4) Any amendment by the Schedule of an enactment has the same extent as the enactment amended.
+
+(5) Subject to that, this Act extends to England and Wales, Scotland and Northern Ireland.
+
+## Schedule — Consequential amendments
+
+*Section 2(1)*
+
+### Births and Deaths Registration Act 1953 (c. 20)
+
+**1** After section 9(4) of the Births and Deaths Registration Act 1953 (giving of information to a person other than the registrar) there shall be inserted—
+
+> (4A) A request made under section 10ZA of this Act may be included in a declaration under subsection (1) of this section and the documents required by that section to be produced shall be produced to the officer in whose presence the declaration is made and sent by him with the declaration to the registrar.
+
+**2** In section 10(1) of that Act (registration of father where parents not married at time of birth) after “Act”, where it first appears, there shall be inserted “ and subject to section 10ZA of this Act ”.
+
+**[^F2]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4** After “or” at the end of section 10A(1)(f) of that Act (re-registration where parents not married) there shall be inserted—
+
+> (ff) in a case of a man who is to be treated as the father of the child by virtue of section 28(5A), (5B), (5C) or (5D) of the Human Fertilisation and Embryology Act 1990, if the condition in section 10ZA(2) of this Act is satisfied; or
+
+.
+
+**[^F3]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Registration of Births, Deaths and Marriages (Scotland) Act 1965 (c. 49)
+
+**6** In section 18 of the Registration of Births, Deaths and Marriages (Scotland) Act 1965 (births of children born out of wedlock) in subsection (1) at the beginning there shall be inserted “ Subject to section 18ZA of this Act ”.
+
+**[^F4]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Births and Deaths Registration (Northern Ireland) Order 1976 (S.I. 1976/1041 (N.I.14))
+
+**8** In Article 14(1) of the Births and Deaths Registration (Northern Ireland) Order 1976 (registration of father where parents not married) at the end there shall be inserted “ and subject to Article 14A ”.
+
+**[^F5]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F6]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Adoption (Scotland) Act 1978 (c. 28)
+
+**11** [^F7]In section 15(3)(a) of the Adoption (Scotland) Act 1978 (adoption by one person where no other parent) after “1990” there shall be inserted [^F7]“ (disregarding subsections (5A) to (5I) of that section) ”[^F7].
+
+### Adoption (Northern Ireland) Order 1987 (S.I. 1987/2203 (N.I.22))
+
+**[^F8]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Human Fertilisation and Embryology Act 1990 (c. 37)
+
+**13** In section 28 of the Human Fertilisation and Embryology Act 1990, in subsection (1) (children to whom section 28 applies), at the beginning, there shall be inserted “ Subject to subsections (5A) to (5I) below, ”.
+
+**14** In section 28(6) of that Act (man whose sperm was used after his death not to be treated as father of child) after “not” there shall be inserted “ , subject to subsections (5A) and (5B) above, ”.
+
+**15** In section 28(7) of that Act (meaning of references to the parties to a marriage) after “subsection (2) above” there shall be inserted “ and subsections (5A) to (5D) above ”.
+
+**16** In section 29(4) of that Act (succession to dignities etc.) after “(4)” there shall be inserted “ or (5A) to (5I) ”.
+
+**17** In section 30(9)(b) of that Act (power to make regulations about references to adoption etc.) the reference to any enactment shall be read as including a reference to any enactment contained in section 28(5A) to (5I) of that Act.
+
+### Adoption and Children Act 2002 (c. 38)
+
+**[^F9]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+---
+
+[^F1]: S. 2(2)(3) repealed (8.1.2007) by Legislative and Regulatory Reform Act 2006 (c. 51), s. 33, Sch. (with s. 30(2)-(5))
+[^F2]: Sch. para. 3 repealed (1.9.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), s. 68(2), Sch. 8 Pt. 1; S.I. 2009/479, art. 6(2) (with art. 7, Sch.)
+[^F3]: Sch. para. 5 repealed (1.9.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), s. 68(2), Sch. 8 Pt. 1; S.I. 2009/479, art. 6(2) (with art. 7, Sch.)
+[^F4]: Sch. para. 7 repealed (1.9.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), s. 68(2), Sch. 8 Pt. 1; S.I. 2009/479, art. 6(2) (with art. 7, Sch.)
+[^F5]: Sch. para. 9 repealed (1.9.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), s. 68(2), Sch. 8 Pt. 1; S.I. 2009/479, art. 6(2) (with art. 7, Sch.)
+[^F6]: Sch. para. 10 repealed (1.9.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), s. 68(2), Sch. 8 Pt. 1; S.I. 2009/479, art. 6(2) (with art. 7, Sch.)
+[^F7]: Sch. para. 11 repealed (S.) (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), s. 121(2), Sch. 3; S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21) (as amended (7.5.2012) by S.S.I. 2012/99, art. 2)
+[^F8]: Sch. para. 12 repealed (1.9.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), s. 68(2), Sch. 8 Pt. 1; S.I. 2009/479, art. 6(2) (with art. 7, Sch.)
+[^F9]: Sch. para. 18 repealed (1.9.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), s. 68(2), Sch. 8 Pt. 1; S.I. 2009/479, art. 6(2) (with art. 7, Sch.)

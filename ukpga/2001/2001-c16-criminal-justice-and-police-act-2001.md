@@ -1,0 +1,5609 @@
+---
+title: "Criminal Justice and Police Act 2001"
+identifier: "ukpga/2001/16"
+citation: "2001 c. 16"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2001-05-11
+last_amended: 2026-06-29
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/2001/16"
+source_modified: 2026-07-10
+retrieved: 2026-10-11
+---
+
+# Criminal Justice and Police Act 2001
+
+**2001 c. 16**
+
+An Act to make provision for combatting crime and disorder; to make provision about the disclosure of information relating to criminal matters and about powers of search and seizure; to amend the Police and Criminal Evidence Act 1984, the Police and Criminal Evidence (Northern Ireland) Order 1989 and the Terrorism Act 2000; to make provision about the police, the National Criminal Intelligence Service and the National Crime Squad; to make provision about the powers of the courts in relation to criminal matters; and for connected purposes.
+
+[11th May 2001]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — Provisions for Combatting Crime and Disorder
+
+### Chapter 1 — On the Spot Penalties for Disorderly Behaviour
+
+#### Offences to which this Chapter applies
+
+##### 1 Offences leading to penalties on the spot
+
+(1) For the purposes of this Chapter “penalty offence” means an offence committed under any of the provisions mentioned in the first column of the following Table and described, in general terms, in the second column:
+
+|  |  |
+|---|---|
+| *Offence creating provision* | *Description of offence* |
+| Section 12 of the Licensing Act 1872 (c.94) | Being drunk in a highway, other public place or licensed premises |
+| Section 80 of the Explosives Act 1875 (c.17) | Throwing fireworks in a thoroughfare |
+| [^F1] . . . | [^F1] . . . |
+| [[^F2]Section 2(1) of the Parks Regulation (Amendment) Act 1926 so far as it creates an offence against the Parks Regulation Act 1872 relating to any of the following provisions of the Royal Parks and Other Open Spaces Regulations 1997 ( S.I. 1997/1639 )— | Failing to comply with, or contravening, those Regulations by— |
+|  |  |
+| (a) regulation 3(3) | dropping or leaving litter or refuse except in a receptacle provided for the purpose |
+|  |  |
+| (b) regulation 3(4) | using a pedal cycle, a roller blade etc except on a Park road or in a designated area |
+|  |  |
+| (c) regulation 3(6) | failing to remove immediately any faeces deposited by an animal of which that person is in charge] |
+|  |  |
+| Section 55 of the British Transport Commission Act 1949 (c.xxix) | Trespassing on a railway |
+| Section 56 of the British Transport Commission Act 1949 (c.xxix) | Throwing stones etc. at trains or other things on railways |
+| [[^F3]Section 169A of the Licensing Act 1964 (c. 26) | Sale of alcohol to a person under 18] |
+| [[^F4]Section 169C(1)of the Licensing Act 1964 (c. 26) | Buying or attempting to buy alcohol by a person under 18] |
+| Section [[^F5] 169C(2) [^F6] . . . ] of the Licensing Act 1964 (c.26) | Buying or attempting to buy alcohol for [^F7] . . . a person under 18 |
+| [[^F8]Section 169E of the Licensing Act 1964 (c. 26) | Consumption of alcohol by a person under 18 or allowing such consumption] |
+| [[^F9]Section 169F of the Licensing Act 1964 (c. 26) | Delivery of alcohol to a person under 18 or allowing such delivery] |
+| [[^F10]Section 172(3) of the Licensing Act 1964 (c. 26) | Selling alcohol to a drunken person] |
+| Section 91 of the Criminal Justice Act 1967 (c.80) | Disorderly behaviour while drunk in a public place |
+| Section 5(2) of the Criminal Law Act 1967 (c.58) | Wasting police time or giving false report |
+| [[^F11]Section 1 of the Theft Act 1968 (c. 60) | Theft] |
+| [[^F12]Section 1(1) of the Criminal Damage Act 1971 (c. 48) | Destroying or damaging property] |
+| [[^F13]Section 5(2) of the Misuse of Drugs Act 1971 so far as relating to the following-<br>- cannabinol,<br>- cannabinol derivatives (within the meaning of Part 4 of Schedule 2 to that Act),<br>- cannabis or cannabis resin (within the meaning of that Act),<br>- any stereoisomeric form of a substance specified in any of paragraphs (a) to (c),<br>- any ester or ether of a substance specified in paragraph (a) or (b),<br>- any salt of a substance specified in paragraphs (a) to (e),<br>- any preparation or other product containing a substance or product specified in any of paragraphs (a) to (f), not being a preparation falling within paragraph 6 of Part 1 of Schedule 2 to that Act. | Possession of cannabis etc] |
+| [[^F14]Section 5(2) of the Misuse of Drugs Act 1971 so far as relating to the following— (a) khat (within the meaning given by Part 4 of Schedule 2 to that Act), or (b) any preparation or other product containing khat. | Possession of khat or any preparation or other product containing khat] |
+| [^F15]Section 43(1)(b) of the Telecommunications Act 1984 (c.12) | [^F15]Using public telecommunications system for sending message known to be false in order to cause annoyance |
+| [[^F16]Section 5 of the Public Order Act 1986 (c.64) | Behaviour likely to cause harassment, alarm or distress] |
+| [[^F17]Section 87 of the Environmental Protection Act 1990 (c. 43) | Depositing and leaving litter] |
+| Section 12 of this Act | Consumption of alcohol in designated public place |
+| [[^F18]Section 127(2) of the Communications Act 2003 | Using public electronic communications network in order to cause annoyance, inconvenience or needless anxiety] |
+| [[^F19]Section 11 of the Fireworks Act 2003 (c. 22) | Contravention of a prohibition or failure to comply with a requirement imposed by or under fireworks regulations or making false statements] |
+| [[^F20]Section 49 of the Fire and Rescue Services Act 2004 (c. 21) | Knowingly giving a false alarm of fire] |
+| [[^F21]Section 149(4) of the Licensing Act 2003 | Buying or attempting to buy alcohol for consumption on licensed premises, etc. by child] |
+
+(2) The Secretary of State may by order amend an entry in the Table or add or remove an entry.
+
+(3) An order under subsection (2) may make such amendment of any provision of this Chapter as the Secretary of State considers appropriate in consequence of any change in the Table made by the order.
+
+[^F22]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F22]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Penalty notices and penalties
+
+##### 2 Penalty notices
+
+(1) A constable who has reason to believe that a person aged [[^F23]18] or over has committed a penalty offence may give him a penalty notice in respect of the offence.
+
+[[^F24](1A) If the offence mentioned in subsection (1) is a relevant penalty offence, the constable may give the person a penalty notice with an education option.]
+
+[^F25]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F26]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In this Chapter [[^F27]—
+
+“approved educational course” means an educational course run as part of an educational course scheme established by—
+
+(a) in the case of a notice given by a constable of the British Transport Police Force, the Chief Constable of that force, and
+
+(b) in any other case, the chief officer of police for the area in which the notice is given;
+
+“educational course scheme” means a scheme established by a chief officer of police under section 2A;]
+
+“penalty notice” means a notice offering the opportunity, by paying a penalty in accordance with this Chapter, to discharge any liability to be convicted of the offence to which the notice relates [[^F28];
+
+“penalty notice with an education option” means a penalty notice that also offers the opportunity to discharge any liability to be convicted of the offence to which the notice relates by—
+
+(a) completing an approved educational course, and
+
+(b) paying the course fee;]
+
+[[^F29](4A) In this section, “relevant penalty offence” means a penalty offence in relation to which there is an approved educational course.
+
+(4B) The Secretary of State may by regulations make provision about the revocation of penalty notices.]
+
+[^F30]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F31]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F31]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F31]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F31]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 2A [[^F32]Educational course schemes
+
+(1) A chief officer of police may establish an educational course scheme under this section in relation to one or more kinds of penalty offence committed in the chief officer's area.
+
+(2) An educational course scheme must include arrangements—
+
+(a) for educational courses relating to the penalty offences to which the scheme relates to be provided to persons who are given penalty notices with an education option, and
+
+(b) for a course fee set by the chief officer of police—
+
+(i) to be paid by a person who attends an educational course, and
+
+(ii) to be refunded in such circumstances (if any) as the chief officer considers appropriate.
+
+(3) The purpose of an educational course mentioned in subsection (2) must be to reduce the likelihood of those who take the course committing the penalty offence, or penalty offences, to which the course relates.
+
+(4) An educational course may be provided by any person who, and have any content that, the chief officer of police considers appropriate given its purpose.
+
+(5) The Secretary of State may by regulations—
+
+(a) provide that the fee mentioned in subsection (2)(b) may not be—
+
+(i) less than an amount specified in the regulations, or
+
+(ii) more than an amount so specified;
+
+(b) make provision for and in connection with the disclosure, for the purpose of running an educational course scheme, of relevant personal information between—
+
+(i) a person who is involved in the provision of an educational course under the scheme,
+
+(ii) the chief officer of police who established the scheme, and
+
+(iii) any other person specified or described in the regulations;
+
+(c) make provision about the use of relevant personal information for that purpose;
+
+(d) place restrictions on the disclosure or use of relevant personal information.
+
+(6) In subsection (5) “relevant personal information” means any information that relates to, and identifies, a person who has been given a penalty notice with an education option.
+
+(7) In this section's application in relation to the Chief Constable of the British Transport Police Force, subsection (1) has effect as if the reference to one or more kinds of penalty offence committed in a chief officer of police's area were a reference to one or more kinds of penalty offence—
+
+(a) committed at, or in relation to, any of the places mentioned in section 31(1)(a) to (f) of the Railways and Transport Safety Act 2003 (places where a constable of the British Transport Police Force has the powers of a constable), or
+
+(b) otherwise relating to a railway.
+
+(8) In subsection (7) “railway” means—
+
+(a) a railway within the meaning given by section 67(1) of the Transport and Works Act 1992 (interpretation), or
+
+(b) a tramway within the meaning given by that section.]
+
+##### 3 Amount of penalty and form of penalty notice
+
+(1) The penalty payable in respect of a penalty offence is such amount as the Secretary of State may specify by order.
+
+[^F33]1A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) But the Secretary of State may not specify an amount which is more than a quarter of the amount of the maximum fine for which a person is liable on [[^F34]summary] conviction of the offence [[^F35]plus a half of the relevant surcharge].
+
+[[^F36](2A) The “relevant surcharge”, in relation to a person of a given age, is the amount payable by way of surcharge under [[^F37]section 42 of the Sentencing Code] by a person of that age who is fined the maximum amount for the offence.]
+
+(3) A penalty notice must—
+
+[^F38]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) state the alleged offence;
+
+(c) give such particulars of the circumstances alleged to constitute the offence as are necessary to provide reasonable information about it;
+
+(d) specify the suspended enforcement period (as to which see section 5) and explain its effect;
+
+(e) state the amount of the penalty;
+
+(f) state the [[^F39]designated officer for a local justice area] to whom, and the address at which, the penalty may be paid; and
+
+(g) inform the person to whom it is given of his right to ask to be tried for the alleged offence and explain how that right may be exercised.
+
+[[^F40](3A) The Secretary of State may by regulations require information in addition to that mentioned in subsection (3) to be included in, or to be provided with, a penalty notice with an education option.]
+
+[^F41]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F42]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F42]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 4 Effect of penalty notice
+
+(1) This section applies if a penalty notice is given to a person (“A”) under section 2.
+
+(2) If A asks to be tried for the alleged offence, proceedings may be brought against him.
+
+(3) Such a request must be made by a notice given by A—
+
+(a) in the manner specified in the penalty notice; and
+
+(b) before the end of the period of suspended enforcement (as to which see section 5).
+
+(4) A request which is made in accordance with subsection (3) is referred to in this Chapter as a “request to be tried”.
+
+(5) [[^F43]In the case of a penalty notice that is not a penalty notice with an education option, if], by the end of the suspended enforcement period—
+
+(a) the penalty has not been paid in accordance with this Chapter, and
+
+(b) A has not made a request to be tried,
+
+a sum equal to one and a half times the amount of the penalty may be registered under section 8 for enforcement against A as a fine.
+
+[[^F44](6) In the case of a penalty notice with an education option, a sum equal to one and a half times the amount of the penalty may be registered under section 8 for enforcement against A as a fine if subsection (7) or (8) applies.
+
+(7) This subsection applies if, by the end of the suspended enforcement period, A does not—
+
+(a) ask to attend an approved educational course relating to the offence to which the notice relates,
+
+(b) pay the penalty, or
+
+(c) request to be tried.
+
+(8) This subsection applies if—
+
+(a) A has asked, by the end of the suspended enforcement period, to attend an approved educational course of the kind mentioned in subsection (7)(a), and
+
+(b) A does not, in accordance with regulations made under subsection (9)—
+
+(i) pay the course fee,
+
+(ii) start such a course, or
+
+(iii) complete such a course.
+
+(9) The Secretary of State may by regulations make provision—
+
+(a) as to the time by which A is required to do each of the things mentioned in subsection (8)(b)(i) to (iii) (including provision allowing those times to be specified by a chief officer of police for the purposes of an educational course scheme established by that officer);
+
+(b) allowing A to request an extension of the time to do the things mentioned in subsection (8)(b)(i) to (iii) (including provision as to who should determine such a request and on what basis);
+
+(c) as to the procedure to be followed in relation to requests for extensions of time (including provision allowing the procedure to be determined by a chief officer of police for the purposes of an educational course scheme established by that officer);
+
+(d) as to the consequences of a request for an extension of time being granted (including provision specifying circumstances in which a chief officer of police may require a course fee to be paid again in order to avoid a sum being registered for enforcement as a fine under section 8);
+
+(e) as to the consequences of A failing to attend a course that A has arranged to attend (including provision as to who should determine what those consequences are and on what basis);
+
+(f) specifying circumstances in which A is, for the purposes of this Chapter, to be regarded as having completed, or having not completed, an approved educational course (including provision as to who should determine whether those circumstances have arisen and how that should be determined).
+
+(10) Regulations made under subsection (9)(b), (e) or (f) may permit a person to delegate the function of making a determination.]
+
+##### 5 General restriction on proceedings
+
+(1) Proceedings for the offence to which a penalty notice relates may not be brought [[^F45]during] the period of 21 days beginning with the date on which the notice was given (“the suspended enforcement period”).
+
+(2) If the penalty is paid before the end of the suspended enforcement period, no proceedings may be brought for the offence.
+
+[[^F46](2A) Proceedings for an offence to which a penalty notice with an education option relates may not be brought against a person who has, by the end of the suspended enforcement period, asked to attend an approved educational course relating to the offence, unless section 4(8) applies.
+
+(2B) If the person to whom a penalty notice with an education option is given—
+
+(a) completes, in accordance with regulations made under section 4(9), an approved educational course relating to the offence to which the notice relates, and
+
+(b) pays the course fee in accordance with those regulations,
+
+no proceedings may be brought for the offence.]
+
+(3) Subsection (1) does not apply if the person to whom the penalty notice was given has made a request to be tried.
+
+##### 6 Secretary of State’s guidance
+
+The Secretary of State may issue guidance—
+
+(a) about the exercise of the discretion given to constables by this Chapter;
+
+(b) about the issuing of penalty notices;
+
+[[^F47](ba) about educational course schemes;]
+
+(c) with a view to encouraging good practice in connection with the operation of provisions of this Chapter.
+
+#### Procedure
+
+##### 7 Payment of penalty
+
+(1) If a person to whom a penalty notice is given decides to pay the penalty, he must pay it to the [[^F48]designated officer] specified in the notice.
+
+(2) Payment of the penalty may be made by properly addressing, pre-paying and posting a letter containing the amount of the penalty (in cash or otherwise).
+
+(3) Subsection (4) applies if a person—
+
+(a) claims to have made payment by that method, and
+
+(b) shows that his letter was posted.
+
+(4) Unless the contrary is proved, payment is to be regarded as made at the time at which the letter would be delivered in the ordinary course of post.
+
+(5) Subsection (2) is not to be read as preventing the payment of a penalty by other means.
+
+(6) A letter is properly addressed for the purposes of subsection (2) if it is addressed in accordance with the requirements specified in the penalty notice.
+
+##### 8 Registration certificates
+
+(1) The chief officer of police may, in respect of any registrable sum, issue a certificate (a “registration certificate”) stating that the sum is registrable for enforcement against the defaulter as a fine.
+
+(2) If that officer issues a registration certificate, he must cause it to be sent to the [[^F49]designated officer for the local justice] area in which the defaulter appears to that officer to reside.
+
+(3) A registration certificate must—
+
+(a) give particulars of the offence to which the penalty notice relates, and
+
+(b) state the name and last known address of the defaulter and the amount of the registrable sum.
+
+(4) “Registrable sum” means a sum that may be registered under this section as a result of section 4(5) [[^F50]or (6)].
+
+(5) “Defaulter” means the person against whom that sum may be registered.
+
+##### 9 Registration of sums payable in default
+
+(1) If the [[^F51]designated officer for a local justice] area receives a registration certificate, he must register the registrable sum for enforcement as a fine in that area by entering it in the register of a magistrates’ court acting for that area.
+
+(2) But if it appears to him that the defaulter does not reside in that area—
+
+(a) subsection (1) does not apply to him; but
+
+(b) he must cause the certificate to be sent to the person appearing to him to be the [[^F52]designated officer for the local justice area in which the defaulter resides] .
+
+(3) A [[^F53]designated officer] registering a sum under this section for enforcement as a fine, must give the defaulter notice of the registration.
+
+(4) The notice must—
+
+(a) specify the amount of the sum registered, and
+
+(b) give the information with respect to the offence, and the authority for registration, which was included in the registration certificate under section 8.
+
+(5) If a sum is registered in a magistrates’ court as a result of this section, any enactment referring (in whatever terms) to a fine imposed, or other sum adjudged to be paid, on conviction by such a court applies as if the registered sum were a fine imposed by that court on the conviction of the defaulter on the date on which the sum was registered.
+
+##### 10 Enforcement of fines
+
+(1) In this section—
+
+- “fine” means a sum which is enforceable as a fine as a result of section 9; and
+- “proceedings” means proceedings for enforcing a fine.
+
+(2) Subsection (3) applies if, in any proceedings, the defaulter claims that he was not the person to whom the penalty notice concerned was issued.
+
+(3) The court may adjourn the proceedings for a period of not more than 28 days for the purpose of allowing that claim to be investigated.
+
+(4) On the resumption of proceedings that have been adjourned under subsection (3), the court must accept the defaulter’s claim unless it is shown, on a balance of probabilities, that he was the recipient of the penalty notice.
+
+(5) The court may set aside a fine in the interests of justice.
+
+(6) [[^F54]Subject to any regulations made under subsection (7), if] the court does set a fine aside it must—
+
+(a) give such directions for further consideration of the case as it considers appropriate; or
+
+(b) direct that no further action is to be taken in respect of the allegation that gave rise to the penalty notice concerned.
+
+[[^F55](7) The Secretary of State may by regulations make provision as to the directions that the court may, or must, give or the orders it may, or must, make if it sets aside a fine relating to a sum registered under section 8 on the basis that section 4(8) applies.]
+
+#### [[^F56]Orders and regulations
+
+##### 10A Orders and regulations under Chapter 1
+
+(1) Any power of the Secretary of State to make an order or regulations under this Chapter is exercisable by statutory instrument.
+
+(2) Any power of the Secretary of State to make an order or regulations under this Chapter includes—
+
+(a) power to make different provision for different cases, circumstances or areas, and
+
+(b) power to make incidental, supplementary, consequential, transitional or transitory provision or savings.
+
+(3) The Secretary of State may not make an order under section 1(2) unless a draft of the statutory instrument containing the order (whether alone or with other provisions) has been laid before, and approved by a resolution of, each House of Parliament.
+
+(4) A statutory instrument that contains an order or regulations made under this Chapter and is not subject to any requirement that a draft of the instrument be laid before, and approved by a resolution of, both Houses of Parliament, is subject to annulment in pursuance of a resolution of either House of Parliament.]
+
+#### Interpretation
+
+##### 11 Interpretation of Chapter 1
+
+In this Chapter—
+
+- [[^F57]“approved educational course” has the meaning given in section 2(4);]
+- “chief officer of police” includes the Chief Constable of the British Transport Police;
+- “defaulter” has the meaning given in section 8(5);
+- [[^F58]“educational course scheme” has the meaning given in section 2(4);]
+- “penalty notice” has the meaning given in section 2(4);
+- [[^F59]“penalty notice with an education option” has the meaning given in section 2(4);]
+- “penalty offence” has the meaning given in section 1(1);
+- “registrable sum” has the meaning given in section 8(4).
+
+### Chapter 2 — Provisions for combatting alcohol-related disorder
+
+#### Alcohol consumption in designated public places
+
+##### [^F60]12 Alcohol consumption in designated public places
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F60]13 Designated public places
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F60]14 Places which are not designated public places
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F60]15 Effect of sections 12 to 14 on byelaws
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F60]16 Interpretation of sections 12 to 15
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Closure of certain licensed premises
+
+##### 17 Closure of certain licensed premises due to disorder or disturbance
+
+[^F61]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 18 Amendments consequential on section 17
+
+[^F62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Closure of unlicensed premises
+
+##### 19 Closure notices
+
+(1) Where a constable is satisfied that any premises are being, or within the last 24 hours have been, used for the [[^F63]unauthorised sale of alcohol] for consumption on, or in the vicinity of, the premises, he may serve under subsection (3) a notice in respect of the premises.
+
+(2) Where a local authority is satisfied that any premises in the area of the authority are being, or within the last 24 hours have been, used for the [[^F63]unauthorised sale of alcohol] for consumption on, or in the vicinity of, the premises, the authority may serve under subsection (3) a notice in respect of the premises.
+
+(3) A notice under subsection (1) or (2) (“a closure notice”) shall be served by the constable or local authority concerned on a person having control of, or responsibility for, the activities carried on at the premises.
+
+(4) A closure notice shall also be served by the constable or local authority concerned on any person occupying another part of any building or other structure of which the premises form part if the constable or (as the case may be) the local authority concerned reasonably believes, at the time of serving notice under subsection (3), that the person’s access to the other part of the building or other structure would be impeded if an order under section 21 providing for the closure of the premises were made.
+
+(5) A closure notice may also be served by a constable or the local authority concerned on—
+
+(a) any other person having control of, or responsibility for, the activities carried on at the premises;
+
+(b) any person who has an interest in the premises.
+
+(6) A closure notice shall—
+
+(a) specify the alleged use of the premises and the grounds on which the constable or (as the case may be) the local authority concerned is satisfied as mentioned in subsection (1) or (as the case may be) subsection (2);
+
+(b) state the effect of section 20; and
+
+(c) specify the steps which may be taken to ensure that the alleged use of the premises ceases or (as the case may be) does not recur.
+
+(7) A closure notice served by a constable or local authority may be cancelled by a notice of cancellation served by a constable or (as the case may be) the local authority concerned.
+
+(8) Any such notice of cancellation shall have effect as soon as it is served by a constable or (as the case may be) the authority concerned on at least one person on whom the closure notice was served.
+
+(9) The constable or (as the case may be) the local authority concerned shall also serve the notice of cancellation on any other person on whom the closure notice was served.
+
+(10) For the purposes of subsections (3) and (5) a person having control of, or responsibility for, the activities carried on at the premises includes a person who—
+
+(a) derives or seeks to derive profit from the carrying on of the activities;
+
+(b) manages the activities;
+
+(c) employs any person to manage the activities; or
+
+(d) is involved in the conduct of the activities.
+
+##### 20 Applications for closure orders
+
+(1) Where a closure notice has been served under section 19(3), a constable or (as the case may be) the local authority concerned may make a complaint to a justice of the peace [^F64]. . . for an order under section 21 (a “closure order”).
+
+(2) A complaint under subsection (1) shall be made not less than seven days, and not more than six months, after the service of the closure notice under section 19(3).
+
+(3) No complaint shall be made under subsection (1) if the constable or (as the case may be) the local authority is satisfied that—
+
+(a) the use of the premises for the [[^F65]unauthorised sale of alcohol] for consumption on, or in the vicinity of, the premises has ceased; and
+
+(b) there is no reasonable likelihood that the premises will be so used in the future.
+
+(4) Where a complaint has been made to a justice of the peace under subsection (1), the justice may issue a summons to answer to the complaint.
+
+(5) The summons shall be directed to—
+
+(a) the person on whom the closure notice was served under section 19(3); and
+
+(b) any other person on whom the closure notice was served under section 19(5)(a).
+
+(6) Where a summons is served in accordance with subsections (4) and (5), a notice stating the date, time and place at which the complaint will be heard shall be served on all persons on whom the closure notice was served under section 19(4) and (5)(b).
+
+(7) The procedure on a complaint for a closure order shall (except as otherwise provided) be in accordance with the Magistrates’ Courts Act 1980 (c. 43).
+
+##### 21 Closure orders
+
+(1) On hearing a complaint made under section 20(1), the court may make such order as it considers appropriate if it is satisfied that—
+
+(a) the closure notice was served under section 19(3); and
+
+(b) the premises continue to be used for the [[^F66]unauthorised sale of alcohol] for consumption on, or in the vicinity of, the premises or there is a reasonable likelihood that the premises will be so used in the future.
+
+(2) An order under this section may, in particular, require—
+
+(a) the premises in respect of which the closure notice was served to be closed immediately to the public and to remain closed until a constable or (as the case may be) the local authority concerned makes a certificate under section 22(1);
+
+(b) the use of the premises for the [[^F67]unauthorised sale of alcohol] for consumption on, or in the vicinity of, the premises to be discontinued immediately;
+
+(c) any defendant to pay into court such sum as the court determines and that the sum will not be released by the court to that person until the other requirements of the order are met.
+
+(3) An order of the kind mentioned in subsection (2)(a) may, in particular, include such conditions as the court considers appropriate relating to—
+
+(a) the admission of persons onto the premises;
+
+(b) the access by persons to another part of any building or other structure of which the premises form part.
+
+(4) The complainant shall, as soon as practicable after the making of an order under this section, give notice of the order by fixing a copy of it in a conspicuous position on the premises in respect of which it was made.
+
+(5) A sum which has been ordered to be paid into court under this section shall be paid to the [[^F68]designated officer] for the court.
+
+##### 22 Termination of closure orders by constable or local authority
+
+(1) Where a closure order has been made, a constable or (as the case may be) the local authority concerned may make a certificate to the effect that the constable or (as the case may be) the authority is satisfied that the need for the order has ceased.
+
+(2) Where such a certificate has been made, the closure order shall cease to have effect.
+
+(3) Where a closure order containing provision of the kind mentioned in section 21(2)(c) ceases to have effect by virtue of the making of a certificate under subsection (1), any sum paid into court by a defendant under the order shall be released by the court.
+
+(4) Subject to this, a closure order may include such provision as the court considers appropriate for dealing with any consequences which would arise if the order were to cease to have effect by virtue of the making of a certificate under subsection (1).
+
+(5) The constable or (as the case may be) the local authority concerned shall, as soon as practicable after the making of a certificate under subsection (1)—
+
+(a) serve a copy of it on the person against whom the closure order has been made and the [[^F69]designated officer] for the court which made the order; and
+
+(b) fix a copy of it in a conspicuous position on the premises in respect of which the order was made.
+
+(6) The constable or (as the case may be) the local authority concerned shall also serve a copy of the certificate on any person who requests such a copy.
+
+##### 23 Discharge of closure orders by the court
+
+(1) Where a closure order has been made—
+
+(a) any person on whom the closure notice concerned was served under section 19; or
+
+(b) any person who has an interest in the premises in respect of which the closure order was made but on whom no closure notice was served,
+
+may make a complaint to a justice of the peace [^F70]. . . for an order that the closure order be discharged.
+
+(2) The court may not make an order under subsection (1) unless it is satisfied that the need for the closure order has ceased.
+
+(3) Where a complaint has been made to a justice of the peace under subsection (1), the justice may issue a summons directed to such constable as he considers appropriate or (as the case may be) the local authority concerned requiring that person to appear before the magistrates’ court to answer to the complaint.
+
+(4) Where a summons is served in accordance with subsection (3), a notice stating the date, time and place at which the complaint will be heard shall be served on all persons on whom the closure notice concerned was served under section 19 (other than the complainant).
+
+(5) The procedure on a complaint for an order under this section shall (except as otherwise provided) be in accordance with the Magistrates’ Courts Act 1980 (c. 43).
+
+##### 24 Appeals
+
+(1) An appeal against a closure order, an order under section 23(1) or a decision not to make an order under section 23(1) may be brought to the Crown Court at any time before the end of the period of 21 days beginning with the day on which the order or (as the case may be) the decision was made.
+
+(2) An appeal under this section against a closure order may be brought by—
+
+(a) any person on whom the closure notice concerned was served under section 19; or
+
+(b) any person who has an interest in the premises in respect of which the closure order was made but on whom no closure notice was so served.
+
+(3) On an appeal under this section the Crown Court may make such order as it considers appropriate.
+
+##### 25 Enforcement of closure orders
+
+(1) Where a closure order has been made, a constable or an authorised person may (if necessary using reasonable force)—
+
+(a) at any reasonable time enter the premises concerned; and
+
+(b) having so entered the premises, do anything reasonably necessary for the purpose of securing compliance with the order.
+
+(2) A constable or an authorised person seeking to enter any premises in exercise of his powers under subsection (1) shall, if required by or on behalf of the owner or occupier or person in charge of the premises, produce evidence of his identity, and of his authority, before entering the premises.
+
+(3) Any person who intentionally obstructs a constable or an authorised person in the exercise of his powers under this section shall be guilty of an offence and shall be liable on summary conviction—
+
+(a) where the offence was committed in respect of a constable, to imprisonment for a term not exceeding one month or to a fine not exceeding level 5 on the standard scale or to both;
+
+(b) where the offence was committed in respect of an authorised person, to a fine not exceeding level 5 on the standard scale.
+
+(4) A person who, without reasonable excuse, permits premises to be open in contravention of a closure order shall be guilty of an offence and shall be liable on summary conviction to imprisonment for a term not exceeding three months or to [[^F71]a fine] or to both.
+
+(5) A person who, without reasonable excuse, otherwise fails to comply with, or does an act in contravention of, a closure order shall be guilty of an offence and shall be liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding level 5 on the standard scale or to both.
+
+(6) In this section “an authorised person” means a person authorised for the purposes of this section by a local authority in respect of premises situated in the area of the authority.
+
+##### 26 Offences by body corporate
+
+(1) Where an offence under section 25 committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a director, manager, secretary or other similar officer of the body corporate, he as well as the body corporate commits the offence and shall be liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+##### 27 Service of notices
+
+(1) Any document required or authorised by virtue of sections 19 to 26 to be served on any person may be [[^F72]served in accordance with Criminal Procedure Rules.]
+
+[[^F73](1A) For the purposes of subsection (1)—
+
+(a) Criminal Procedure Rules (as they have effect from time to time) apply to the document to be served as if it were a document to be served in criminal proceedings before a magistrates’ court, and
+
+(b) any magistrates’ court may discharge functions conferred on a court by those Rules in relation to such service.]
+
+[^F74]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F74]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F74]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F74]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F74]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F74]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F74]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 28 Sections 19 to 27: interpretation
+
+(1) In sections 19 to 27 and this section—
+
+- [[^F75]“alcohol” has the same meaning as in the Licensing Act 2003;]
+
+- “closure notice” means a notice under section 19(1) or (2);
+
+- “closure order” means an order under section 21;
+
+- [^F76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- “notice” means notice in writing;
+
+- “premises” includes any land or other place (whether enclosed or otherwise);
+
+- “sale” includes exposure for sale; and
+
+- [[^F77]“unauthorised sale”, in relation to any alcohol, means any supply of the alcohol (within the meaning of section 14 of the Licensing Act 2003) which—
+
+  - (a) is a licensable activity within the meaning of that Act, but
+  - (b) is made otherwise than under and in accordance with an authorisation (within the meaning of section 136 of that Act).]
+
+(2) In sections 19 to 27 “local authority” means—
+
+(a) in relation to England—
+
+(i) a county council;
+
+(ii) a district council;
+
+(iii) a London borough council;
+
+(iv) the Common Council of the City of London in its capacity as a local authority;
+
+(v) the Council of the Isles of Scilly;
+
+(b) in relation to Wales, a county council or a county borough council.
+
+(3) References in sections 19 to 27 to a person who has an interest in the premises are references to any person who is the owner, leaseholder or occupier of the premises.
+
+#### Other provisions for combatting alcohol-related disorder
+
+##### 29 Confiscation of alcohol containers from young persons
+
+In section 1(1) of the Confiscation of Alcohol (Young Persons) Act 1997 (c. 33) (things to be surrendered to a constable) after “intoxicating liquor”, where it appears for the third time, there shall be inserted “ or a container for such liquor (other than a sealed container) ”.
+
+##### 30 Sale of intoxicating liquor to a person under eighteen
+
+[^F78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 31 Enforcement of certain offences relating to under-age drinking
+
+[^F79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 32 Drunkenness or disorder on licensed premises
+
+[^F80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Chapter 3 — Other provisions for combatting crime and disorder
+
+#### Travel restrictions on drug trafficking offenders
+
+##### 33 Power to make travel restriction orders
+
+(1) This section applies where—
+
+(a) a person (“the offender”) has been convicted by any court of a post-commencement drug trafficking offence;
+
+(b) the court has determined that it would be appropriate to impose a sentence of imprisonment for that offence; and
+
+(c) the term of imprisonment which the court considers appropriate is a term of four years or more.
+
+(2) It shall be the duty of the court, on sentencing the offender—
+
+(a) to consider whether it would be appropriate for the sentence for the offence to include the making of a travel restriction order in relation to the offender;
+
+(b) if the court determines that it is so appropriate, to make such travel restriction order in relation to the offender as the court thinks suitable in all the circumstances (including any other convictions of the offender for post-commencement drug trafficking offences in respect of which the court is also passing sentence); and
+
+(c) if the court determines that it is not so appropriate, to state its reasons for not making a travel restriction order.
+
+(3) A travel restriction order is an order that prohibits the offender from leaving the United Kingdom at any time in the period which—
+
+(a) begins with the offender’s release from custody; and
+
+(b) continues after that time for such period of not less than two years as may be specified in the order.
+
+(4) A travel restriction order may contain a direction to the offender to deliver up, or cause to be delivered up, to the court any [[^F81]UK passport] held by him; and where such a direction is given, the court shall send [[^F82]any passport] delivered up in pursuance of the direction to the Secretary of State at such address as the Secretary of State may determine.
+
+(5) Where the offender’s [[^F83]passport] is held by the Secretary of State by reason of the making of any direction contained in a travel restriction order, the Secretary of State (without prejudice to any other power or duty of his to retain the [[^F83]passport])—
+
+(a) may retain it for so long as the prohibition imposed by the order applies to the offender, and is not for the time being suspended; and
+
+(b) shall not return the [[^F83]passport] after the prohibition has ceased to apply, or when it is suspended, except where the [[^F83]passport] has not expired and an application for its return is made to him by the offender.
+
+(6) In this section “post-commencement”—
+
+(a) except in relation to an offence that is a drug trafficking offence by virtue of an order under section 34(1)(c), means committed after the coming into force of this section; and
+
+(b) in relation to an offence that is a drug trafficking offence by virtue of such an order, means committed after the coming into force of that order.
+
+(7) References in this section to the offender’s release from custody are references to his first release from custody after the imposition of the travel restriction order which is neither—
+
+(a) a release on bail; nor
+
+(b) a temporary release for a fixed period.
+
+[[^F84](8) In this section “UK passport” means a United Kingdom passport within the meaning of the Immigration Act 1971 (see section 33(1)).]
+
+##### 34 Meaning of “drug trafficking offence”
+
+(1) In section 33 “drug trafficking offence” means any of the following offences (including one committed by aiding, abetting, counselling or procuring)—
+
+(a) an offence under section 4(2) or (3) of the Misuse of Drugs Act 1971 (c. 38) (production and supply of controlled drugs);
+
+(b) an offence under section 20 of that Act (assisting in or inducing commission outside United Kingdom of an offence punishable under a corresponding law);
+
+(c) any such other offence under that Act as may be designated by order made by the Secretary of State;
+
+(d) an offence under—
+
+(i) section 50(2) or (3) of the Customs and Excise Management Act 1979 (c. 2) (improper importation),
+
+(ii) section 68(2) of that Act (exportation), or
+
+(iii) section 170 of that Act (fraudulent evasion),
+
+in connection with a prohibition or restriction on importation or exportation having effect by virtue of section 3 of the Misuse of Drugs Act 1971 (c. 38);
+
+(e) an offence under section 1 of the Criminal Law Act 1977 (c. 45) or Article 9 of the Criminal Attempts and Conspiracy (Northern Ireland) Order 1983 (S.I. 1983 1120 (N.I. 13)), or in Scotland at common law, of conspiracy to commit any of the offences in paragraphs (a) to (d) above;
+
+(f) an offence under section 1 of the Criminal Attempts Act 1981 (c. 47) or Article 3 of the Criminal Attempts and Conspiracy (Northern Ireland) Order 1983, or in Scotland at common law, of attempting to commit any of those offences; and
+
+(g) an offence under section 19 of the Misuse of Drugs Act 1971 (c. 38) or at common law of inciting another person to commit any of those offences.
+
+(2) The power to make an order under subsection (1)(c) shall be exercisable by statutory instrument; and no such order shall be made unless a draft of it has been laid before Parliament and approved by a resolution of each House.
+
+(3) An order under subsection (1)(c) may provide, in relation to any offence designated by such an order, that it is to be treated as so designated only—
+
+(a) for such purposes, and
+
+(b) in cases where it was committed in such manner or in such circumstances,
+
+as may be described in the order.
+
+##### 35 Revocation and suspension of a travel restriction order
+
+(1) Subject to the following provisions of this section, the court by which a travel restriction order has been made in relation to any person under section 33 may—
+
+(a) on an application made by that person at any time which is—
+
+(i) after the end of the minimum period, and
+
+(ii) is not within three months after the making of any previous application for the revocation of the prohibition,
+
+revoke the prohibition imposed by the order with effect from such date as the court may determine; or
+
+(b) on an application made by that person at any time after the making of the order, suspend the prohibition imposed by the order for such period as the court may determine.
+
+(2) A court to which an application for the revocation of the prohibition imposed on any person by a travel restriction order is made shall not revoke that prohibition unless it considers that it is appropriate to do so in all the circumstances of the case and having regard, in particular, to—
+
+(a) that person’s character;
+
+(b) his conduct since the making of the order; and
+
+(c) the offences of which he was convicted on the occasion on which the order was made.
+
+(3) A court shall not suspend the prohibition imposed on any person by a travel restriction order for any period unless it is satisfied that there are exceptional circumstances, in that person’s case, that justify the suspension on compassionate grounds of that prohibition for that period.
+
+(4) In making any determination on an application for the suspension of the prohibition imposed on any person by a travel restriction order, a court (in addition to considering the matters mentioned in subsection (3)) shall have regard to—
+
+(a) that person’s character;
+
+(b) his conduct since the making of the order;
+
+(c) the offences of which he was convicted on the occasion on which the order was made; and
+
+(d) any other circumstances of the case that the court considers relevant.
+
+(5) Where the prohibition imposed on any person by a travel restriction order is suspended, it shall be the duty of that person—
+
+(a) to be in the United Kingdom when the period of the suspension ends; and
+
+(b) if the order contains a direction under section 33(4), to surrender, before the end of that period, any [[^F85]passport] returned or issued to that person, in respect of the suspension, by the Secretary of State;
+
+and a [[^F85]passport] that is required to be surrendered under paragraph (b) shall be surrendered to the Secretary of State in such manner or by being sent to such address as the Secretary of State may direct at the time when he returns or issues it.
+
+(6) Where the prohibition imposed on any person by a travel restriction order is suspended for any period under this section, the end of the period of the prohibition imposed by the order shall be treated (except for the purposes of subsection (7)) as postponed (or, if there has been one or more previous suspensions, further postponed) by the length of the period of suspension.
+
+(7) In this section “the minimum period”—
+
+(a) in the case of a travel restriction order imposing a prohibition for a period of four years or less, means the period of two years beginning at the time when the period of the prohibition began;
+
+(b) in the case of a travel restriction order imposing a prohibition of more than four years but less than ten years, means the period of four years beginning at that time; and
+
+(c) in any other case, means the period of five years beginning at that time.
+
+##### 36 Offences of contravening orders
+
+(1) A person who leaves the United Kingdom at a time when he is prohibited from leaving it by a travel restriction order is guilty of an offence and liable—
+
+(a) on summary conviction to imprisonment for a term not exceeding six months or to a fine not exceeding the statutory maximum, or to both;
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding five years or to a fine, or to both.
+
+(2) A person who is not in the United Kingdom at the end of a period during which a prohibition imposed on him by a travel restriction order has been suspended shall be guilty of an offence and liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding six months or to a fine not exceeding the statutory maximum, or to both;
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding five years or to a fine, or to both.
+
+(3) A person who fails to comply with—
+
+(a) a direction contained in a travel restriction order to deliver up a [[^F86]passport] to a court, or to cause such a [[^F86]passport] to be delivered up, or
+
+(b) any duty imposed on him by section 35(5)(b) to surrender a [[^F86]passport] to the Secretary of State,
+
+shall be guilty of an offence and liable, on summary conviction, to imprisonment for a term not exceeding six months or to a fine not exceeding level 5 on the standard scale, or to both.
+
+(4) This section has effect subject to section 37(3).
+
+##### 37 Saving for powers to remove a person from the United Kingdom
+
+(1) A travel restriction order made in relation to any person shall not prevent the exercise in relation to that person of any prescribed removal power.
+
+(2) A travel restriction order made in relation to any person shall remain in force, notwithstanding the exercise of any prescribed removal power in relation to that person, except in so far as either—
+
+(a) the Secretary of State by order otherwise provides; or
+
+(b) the travel restriction order is suspended or revoked under section 35.
+
+(3) No person shall be guilty of an offence under section 36 in respect of any act or omission required of him by an obligation imposed in the exercise of a prescribed removal power.
+
+(4) In this section “a prescribed removal power” means any such power conferred by or under any enactment as—
+
+(a) consists in a power to order or direct the removal of a person from the United Kingdom; and
+
+(b) is designated for the purposes of this section by an order made by the Secretary of State.
+
+(5) An order under subsection (2)(a) or (4) shall be made by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(6) An order under subsection (2)(a)—
+
+(a) may make different provision for different cases; and
+
+(b) may contain such incidental, supplemental, consequential and transitional provision as the Secretary of State thinks fit.
+
+(7) References in this section to a person’s removal from the United Kingdom include references to his deportation, extradition, repatriation, delivery up or other transfer to a place outside the United Kingdom.
+
+#### Use of controlled drugs
+
+##### 38 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Intimidating, harming and threatening witnesses etc.
+
+##### 39 Intimidation of witnesses
+
+(1) A person commits an offence if—
+
+(a) he does an act which intimidates, and is intended to intimidate, another person (“the victim”);
+
+(b) he does the act—
+
+(i) knowing or believing that the victim is or may be a witness in any relevant proceedings; and
+
+(ii) intending, by his act, to cause the course of justice to be obstructed, perverted or interfered with;
+
+and
+
+(c) the act is done after the commencement of those proceedings.
+
+(2) For the purposes of subsection (1) it is immaterial—
+
+(a) whether or not the act that is done is done in the presence of the victim;
+
+(b) whether that act is done to the victim himself or to another person; and
+
+(c) whether or not the intention to cause the course of justice to be obstructed, perverted or interfered with is the predominating intention of the person doing the act in question.
+
+(3) If, in proceedings against a person for an offence under this section, it is proved—
+
+(a) that he did any act that intimidated, and was intended to intimidate, another person, and
+
+(b) that he did that act knowing or believing that that other person was or might be a witness in any relevant proceedings that had already commenced,
+
+he shall be presumed, unless the contrary is shown, to have done the act with the intention of causing the course of justice to be obstructed, perverted or interfered with.
+
+(4) A person guilty of an offence under this section shall be liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding five years or to a fine, or to both;
+
+(b) on summary conviction, to imprisonment for a term not exceeding six months or to a fine not exceeding the statutory maximum, or to both.
+
+(5) References in this section to a witness, in relation to any proceedings, include references to a person who provides, or is able to provide, any information or any document or other thing which might be used as evidence in those proceedings or which (whether or not admissible as evidence in those proceedings)—
+
+(a) might tend to confirm evidence which will be or might be admitted in those proceedings;
+
+(b) might be referred to in evidence given in those proceedings by another witness; or
+
+(c) might be used as the basis for any cross examination in the course of those proceedings.
+
+(6) References in this section to doing an act include references to issuing any threat (whether against a person or his finances or property or otherwise), or making any other statement.
+
+(7) This section is in addition to, and not in derogation of, any offence subsisting at common law.
+
+##### 40 Harming witnesses etc.
+
+(1) A person commits an offence if, in circumstances falling within subsection (2)—
+
+(a) he does an act which harms, and is intended to harm, another person; or
+
+(b) intending to cause another person to fear harm, he threatens to do an act which would harm that other person.
+
+(2) The circumstances fall within this subsection if—
+
+(a) the person doing or threatening to do the act does so knowing or believing that some person (whether or not the person harmed or threatened or the person against whom harm is threatened) has been a witness in relevant proceedings; and
+
+(b) he does or threatens to do that act because of that knowledge or belief.
+
+(3) If, in proceedings against a person for an offence under this section, it is proved that, within the relevant period—
+
+(a) he did an act which harmed, and was intended to harm, another person, or
+
+(b) intending to cause another person to fear harm, he threatened to do an act which would harm that other person,
+
+and that he did the act, or (as the case may be) threatened to do the act, with the knowledge or belief required by paragraph (a) of subsection (2), he shall be presumed, unless the contrary is shown, to have done the act, or (as the case may be) threatened to do the act, because of that knowledge or belief.
+
+(4) For the purposes of this section it is immaterial—
+
+(a) whether or not the act that is done or threatened, or the threat that is made, is or would be done or is made in the presence of the person who is or would be harmed or of the person who is threatened;
+
+(b) whether or not the motive mentioned in subsection (2)(b) is the predominating motive for the act or threat; and
+
+(c) whether the harm that is done or threatened is physical or financial or is harm to a person or to his property.
+
+(5) A person guilty of an offence under this section shall be liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding five years or to a fine, or to both;
+
+(b) on summary conviction, to imprisonment for a term not exceeding six months or to a fine not exceeding the statutory maximum, or to both.
+
+(6) In this section “the relevant period”, in relation to an act done, or threat made, with the knowledge or belief that a person has been a witness in any relevant proceedings, means the period that begins with the commencement of those proceedings and ends one year after they are finally concluded.
+
+(7) References in this section to a witness, in relation to any proceedings, include references to a person who has provided any information or any document or other thing which was or might have been used as evidence in those proceedings or which (whether or not it was admissible as evidence in those proceedings)—
+
+(a) tended to confirm or might have tended to confirm any evidence which was or could have been given in those proceedings;
+
+(b) was or might have been referred to in evidence given in those proceedings by another witness; or
+
+(c) was or might have been used as the basis for any cross examination in the course of those proceedings.
+
+(8) This section is in addition to, and not in derogation of, any offence subsisting at common law.
+
+##### 41 Relevant proceedings
+
+(1) A reference in section 39 or 40 to relevant proceedings is a reference to any proceedings in or before the Court of Appeal, the High Court, the Crown Court or any county court or magistrates’ court which—
+
+(a) are not proceedings for an offence; and
+
+(b) were commenced after the coming into force of that section.
+
+(2) For the purposes of any reference in section 39 or 40 or this section to the commencement of any proceedings relevant proceedings are commenced (subject to subsection (5)) at the earliest time at which one of the following occurs—
+
+(a) an information is laid or application, claim form, complaint, petition, summons or other process made or issued for the purpose of commencing the proceedings;
+
+(b) any other step is taken by means of which the subject matter of the proceedings is brought for the first time (whether as part of the proceedings or in anticipation of them) before the court.
+
+(3) For the purposes of any reference in section 39 or 40 to the time when any proceedings are finally concluded, relevant proceedings are finally concluded (subject to subsection (4))—
+
+(a) if proceedings for an appeal against, or an application for a review of, those proceedings or of any decision taken in those proceedings are brought or is made, at the time when proceedings on that appeal or application are finally concluded;
+
+(b) if the proceedings are withdrawn or discontinued, at the time when they are withdrawn or discontinued; and
+
+(c) in any other case, when the court in or before which the proceedings are brought finally disposes of all the matters arising in those proceedings.
+
+(4) Relevant proceedings shall not be taken to be finally concluded by virtue of subsection (3)(a) where—
+
+(a) the matters to which the appeal or application relate are such that the proceedings in respect of which it is brought or made continue or resume after the making of any determination on that appeal or application; or
+
+(b) a determination made on that appeal or application requires those proceedings to continue or to be resumed.
+
+(5) Where, after having appeared to be finally concluded, any relevant proceedings continue by reason of—
+
+(a) the giving of permission to bring an appeal after a fixed time for appealing has expired,
+
+(b) the lifting of any stay in the proceedings,
+
+(c) the setting aside, without an appeal, of any judgment or order, or
+
+(d) the revival of any discontinued proceedings,
+
+sections 39 and 40 and this section shall have effect as if the proceedings had concluded when they appeared to, but as if the giving of permission, the lifting of the stay, the setting aside of the judgment or order or, as the case may be, the revival of the discontinued proceedings were the commencement of new relevant proceedings.
+
+#### Further provision about intimidation etc.
+
+##### 42 Police directions stopping the harassment etc of a person in his home
+
+(1) Subject to the following provisions of this section, a constable who is at the scene may give a direction under this section to any person if—
+
+(a) that person is present outside or in the vicinity of any premises that are used by any individual (“the resident”) as his dwelling;
+
+(b) that constable believes, on reasonable grounds, that that person is present there for the purpose (by his presence or otherwise) of representing to the resident or another individual (whether or not one who uses the premises as his dwelling), or of persuading the resident or such another individual—
+
+(i) that he should not do something that he is entitled or required to do; [^F88]...
+
+(ii) that he should do something that he is not under any obligation to do;
+
+[[^F89](iii) that they should not have done something they were entitled or required to do; or
+
+(iv) that they should have done something they were not under any obligation to do;] and
+
+(c) that constable also believes, on reasonable grounds, that the presence of that person (either alone or together with that of any other persons who are also present)—
+
+(i) amounts to, or is likely to result in, the harassment of the resident; or
+
+(ii) is likely to cause alarm or distress to the resident.
+
+(2) A direction under this section is a direction requiring the person to whom it is given to do all such things as the constable giving it may specify as the things he considers necessary to prevent one or both of the following—
+
+(a) the harassment of the resident; or
+
+(b) the causing of any alarm or distress to the resident.
+
+(3) A direction under this section may be given orally; and where a constable is entitled to give a direction under this section to each of several persons outside, or in the vicinity of, any premises, he may give that direction to those persons by notifying them of his requirements either individually or all together.
+
+[[^F90](4) The requirements that may be imposed by a direction under this section include—
+
+(a) a requirement to leave the vicinity of the premises in question, and
+
+(b) a requirement to leave that vicinity and not to return to it within such period as the constable may specify, not being longer than 3 months;
+
+and (in either case) the requirement to leave the vicinity may be to do so immediately or after a specified period of time.]
+
+(5) A direction under this section may make exceptions to any requirement imposed by the direction, and may make any such exception subject to such conditions as the constable giving the direction thinks fit; and those conditions may include—
+
+(a) conditions as to the distance from the premises in question at which, or otherwise as to the location where, persons who do not leave their vicinity must remain; and
+
+(b) conditions as to the number or identity of the persons who are authorised by the exception to remain in the vicinity of those premises.
+
+(6) The power of a constable to give a direction under this section shall not include—
+
+(a) any power to give a direction at any time when there is a more senior-ranking police officer at the scene; or
+
+(b) any power to direct a person to refrain from conduct that is lawful under section 220 of the Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52) (right peacefully to picket a work place);
+
+but it shall include power to vary or withdraw a direction previously given under this section.
+
+(7) Any person who knowingly [[^F91]fails to comply with a requirement in a direction given to him under this section (other than a requirement under subsection (4)(b))] shall be guilty of an offence and liable, on summary conviction, to imprisonment for a term not exceeding three months or to a fine not exceeding level 4 on the standard scale, or to both.
+
+[[^F92](7A) Any person to whom a constable has given a direction including a requirement under subsection (4)(b) commits an offence if he—
+
+(a) returns to the vicinity of the premises in question within the period specified in the direction beginning with the date on which the direction is given; and
+
+(b) does so for the purpose described in subsection (1)(b).
+
+(7B) A person guilty of an offence under subsection (7A) shall be liable, on summary conviction, to imprisonment for a term not exceeding 51 weeks or to a fine not exceeding level 4 on the standard scale, or to both.
+
+(7C) In relation to an offence committed before the commencement of section 281(5) of the Criminal Justice Act 2003 (alteration of penalties for summary offences), the reference in subsection (7B) to 51 weeks is to be read as a reference to 6 months.]
+
+(8) [^F93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) In this section “dwelling” has the same meaning as in Part 1 of the Public Order Act 1986 (c. 64).
+
+##### 42A [[^F94]Offence of harassment etc. of a person in his home
+
+(1) A person commits an offence if—
+
+(a) that person is present outside or in the vicinity of any premises that are used by any individual (“the resident”) as his dwelling;
+
+(b) that person is present there for the purpose (by his presence or otherwise) of representing to the resident or another individual (whether or not one who uses the premises as his dwelling), or of persuading the resident or such another individual—
+
+(i) that he should not do something that he is entitled or required to do; [^F95]...
+
+(ii) that he should do something that he is not under any obligation to do;
+
+[[^F96](iii) that they should not have done something they were entitled or required to do; or
+
+(iv) that they should have done something they were not under any obligation to do;]
+
+(c) that person—
+
+(i) intends his presence to amount to the harassment of, or to cause alarm or distress to, the resident; or
+
+(ii) knows or ought to know that his presence is likely to result in the harassment of, or to cause alarm or distress to, the resident; and
+
+(d) the presence of that person—
+
+(i) amounts to the harassment of, or causes alarm or distress to, any person falling within subsection (2); or
+
+(ii) is likely to result in the harassment of, or to cause alarm or distress to, any such person.
+
+(2) A person falls within this subsection if he is—
+
+(a) the resident,
+
+(b) a person in the resident's dwelling, or
+
+(c) a person in another dwelling in the vicinity of the resident's dwelling.
+
+(3) The references in subsection (1)(c) and (d) to a person's presence are references to his presence either alone or together with that of any other persons who are also present.
+
+(4) For the purposes of this section a person (A) ought to know that his presence is likely to result in the harassment of, or to cause alarm or distress to, a resident if a reasonable person in possession of the same information would think that A's presence was likely to have that effect.
+
+(5) A person guilty of an offence under this section shall be liable, on summary conviction, to imprisonment for a term not exceeding 51 weeks or to a fine not exceeding level 4 on the standard scale, or to both.
+
+(6) In relation to an offence committed before the commencement of section 281(5) of the Criminal Justice Act 2003 (alteration of penalties for summary offences), the reference in subsection (5) to 51 weeks is to be read as a reference to 6 months.
+
+(7) In this section “dwelling” has the same meaning as in Part 1 of the Public Order Act 1986.]
+
+##### 43 Malicious communications
+
+(1) In subsection (1) of section 1 of the Malicious Communications Act 1988 (c. 27) (offence of sending letters and other articles with intent to cause distress or anxiety)—
+
+(a) in paragraph (a), for “letter or other article” there shall be substituted “ letter, electronic communication or article of any description ”; and
+
+(b) in paragraph (b), for the word “other article” there shall be substituted “ article or electronic communication ”.
+
+(2) In subsection (2) of that section (defence of making a threat in the belief that it was a proper way of reinforcing a demand and that there were reasonable grounds for making that demand)—
+
+(a) in paragraph (a), for “which he believed he had reasonable grounds for making” there shall be substituted “ made by him on reasonable grounds ”; and
+
+(b) in paragraph (b), after “believed” there shall be inserted “ , and had reasonable grounds for believing, ”.
+
+(3) After that subsection there shall be inserted—
+
+> (2A) In this section “electronic communication” includes—
+>
+> (a) any oral or other communication by means of a telecommunication system (within the meaning of the Telecommunications Act 1984 (c. 12)); and
+>
+> (b) any communication (however sent) that is in electronic form.
+
+(4) In subsection (3) of that section (definition of “send”)—
+
+(a) after “delivering” there shall be inserted “ or transmitting ”; and
+
+(b) for “or delivered” there shall be substituted “ , delivered or transmitted ”.
+
+(5) In subsection (5) of that section (penalty for offence), for “a fine not exceeding level 4 on the standard scale” there shall be substituted “ imprisonment for a term not exceeding six months or to a fine not exceeding level 5 on the standard scale, or to both ”.
+
+(6) Subsection (5) does not affect the penalty for an offence committed before the day on which this Act is passed.
+
+##### 44 Collective harrassment
+
+(1) In section 7 of the Protection from Harassment Act 1997 (c. 40) (interpretation of sections 1 to 5), there shall be inserted the following subsection—
+
+> (3A) A person’s conduct on any occasion shall be taken, if aided, abetted, counselled or procured by another—
+>
+> (a) to be conduct on that occasion of the other (as well as conduct of the person whose conduct it is); and
+>
+> (b) to be conduct in relation to which the other’s knowledge and purpose, and what he ought to have known, are the same as they were in relation to what was contemplated or reasonably foreseeable at the time of the aiding, abetting, counselling or procuring.
+
+(2) This section has effect in relation to any aiding, abetting, counselling or procuring that takes place after the coming into force of this section.
+
+##### [^F97]45 Addresses of directors and secretaries of companies
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Advertisements relating to prostitution
+
+##### 46 Placing of advertisement relating to prostitution
+
+(1) A person commits an offence if—
+
+(a) he places on, or in the immediate vicinity of, a public telephone an advertisement relating to prostitution, and
+
+(b) he does so with the intention that the advertisement should come to the attention of any other person or persons.
+
+(2) For the purposes of this section, an advertisement is an advertisement relating to prostitution if it—
+
+(a) is for the services of a prostitute, whether male or female; or
+
+(b) indicates that premises are premises at which such services are offered.
+
+(3) In any proceedings for an offence under this section, any advertisement which a reasonable person would consider to be an advertisement relating to prostitution shall be presumed to be such an advertisement unless it is shown not to be.
+
+(4) A person guilty of an offence under this section is liable on summary conviction to imprisonment for a term not exceeding six months or to a fine not exceeding level 5 on the standard scale, or both.
+
+(5) In this section—
+
+- “public telephone” means—
+
+  - (a) any telephone which is located in a public place and made available for use by the public, or a section of the public, and
+  - (b) where such a telephone is located in or on, or attached to, a kiosk, booth, acoustic hood, shelter or other structure, that structure; and
+
+- “public place” means any place to which the public have or are permitted to have access, whether on payment or otherwise, other than—
+
+  - (a) any place to which children under the age of 16 years are not permitted to have access, whether by law or otherwise, and
+  - (b) any premises which are wholly or mainly used for residential purposes.
+
+(6) [^F98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 47 Application of section 46 by order to public structures
+
+(1) The Secretary of State may, by order, provide for section 46 to apply in relation to any public structure of a description specified in the order as it applies in relation to a public telephone.
+
+(2) In this section—
+
+- “public structure” means any structure that—
+
+  - (a) is provided as an amenity for the use of the public or a section of the public, and
+  - (b) is located in a public place; and
+
+- “public place” and “public telephone” have the same meaning as in section 46.
+
+(3) [^F99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The power to make an order under this section is exercisable by statutory instrument.
+
+(5) No order may be made under this section unless a draft of the order has been laid before, and approved by a resolution of, each House of Parliament.
+
+#### Local child curfew schemes
+
+##### [^F100]48 Extension to older children
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F101]49 Power for police to make schemes
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 2 — Powers of seizure
+
+### Additional powers of seizure
+
+#### 50 Additional powers of seizure from premises
+
+(1) Where—
+
+(a) a person who is lawfully on any premises finds anything on those premises that he has reasonable grounds for believing may be or may contain something for which he is authorised to search on those premises,
+
+(b) a power of seizure to which this section applies or the power conferred by subsection (2) would entitle him, if he found it, to seize whatever it is that he has grounds for believing that thing to be or to contain, and
+
+(c) in all the circumstances, it is not reasonably practicable for it to be determined, on those premises—
+
+(i) whether what he has found is something that he is entitled to seize, or
+
+(ii) the extent to which what he has found contains something that he is entitled to seize,
+
+that person’s powers of seizure shall include power under this section to seize so much of what he has found as it is necessary to remove from the premises to enable that to be determined.
+
+(2) Where—
+
+(a) a person who is lawfully on any premises finds anything on those premises (“the seizable property”) which he would be entitled to seize but for its being comprised in something else that he has (apart from this subsection) no power to seize,
+
+(b) the power under which that person would have power to seize the seizable property is a power to which this section applies, and
+
+(c) in all the circumstances it is not reasonably practicable for the seizable property to be separated, on those premises, from that in which it is comprised,
+
+that person’s powers of seizure shall include power under this section to seize both the seizable property and that from which it is not reasonably practicable to separate it.
+
+(3) The factors to be taken into account in considering, for the purposes of this section, whether or not it is reasonably practicable on particular premises for something to be determined, or for something to be separated from something else, shall be confined to the following—
+
+(a) how long it would take to carry out the determination or separation on those premises;
+
+(b) the number of persons that would be required to carry out that determination or separation on those premises within a reasonable period;
+
+(c) whether the determination or separation would (or would if carried out on those premises) involve damage to property;
+
+(d) the apparatus or equipment that it would be necessary or appropriate to use for the carrying out of the determination or separation; and
+
+(e) in the case of separation, whether the separation—
+
+(i) would be likely, or
+
+(ii) if carried out by the only means that are reasonably practicable on those premises, would be likely,
+
+to prejudice the use of some or all of the separated seizable property for a purpose for which something seized under the power in question is capable of being used.
+
+(4) Section 19(6) of the 1984 Act and Article 21(6) of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989 1341 (N.I. 12)) (powers of seizure not to include power to seize anything that a person has reasonable grounds for believing is legally privileged) shall not apply to the power of seizure conferred by subsection (2).
+
+(5) This section applies to each of the powers of seizure specified in Part 1 of Schedule 1.
+
+(6) Without prejudice to any power conferred by this section to take a copy of any document, nothing in this section, so far as it has effect by reference to the power to take copies of documents under section 28(2)(b) [[^F102]or 28A(2)(b)] of the Competition Act 1998 (c. 41), shall be taken to confer any power to seize any document.
+
+[[^F103](7) Without prejudice to any power conferred by this section to take a copy of any document, nothing in this section, so far as it has effect by reference to the power to take copies of, or extracts from, information under section 75(2)(h) of the Digital Markets, Competition and Consumers Act 2024 [[^F104]or paragraph 3(2)(h) of Schedule 8 to the Football Governance Act 2025], is to be taken to confer any power to seize any information.]
+
+#### 51 Additional powers of seizure from the person
+
+(1) Where—
+
+(a) a person carrying out a lawful search of any person finds something that he has reasonable grounds for believing may be or may contain something for which he is authorised to search,
+
+(b) a power of seizure to which this section applies or the power conferred by subsection (2) would entitle him, if he found it, to seize whatever it is that he has grounds for believing that thing to be or to contain, and
+
+(c) in all the circumstances it is not reasonably practicable for it to be determined, at the time and place of the search—
+
+(i) whether what he has found is something that he is entitled to seize, or
+
+(ii) the extent to which what he has found contains something that he is entitled to seize,
+
+that person’s powers of seizure shall include power under this section to seize so much of what he has found as it is necessary to remove from that place to enable that to be determined.
+
+(2) Where—
+
+(a) a person carrying out a lawful search of any person finds something (“the seizable property”) which he would be entitled to seize but for its being comprised in something else that he has (apart from this subsection) no power to seize,
+
+(b) the power under which that person would have power to seize the seizable property is a power to which this section applies, and
+
+(c) in all the circumstances it is not reasonably practicable for the seizable property to be separated, at the time and place of the search, from that in which it is comprised,
+
+that person’s powers of seizure shall include power under this section to seize both the seizable property and that from which it is not reasonably practicable to separate it.
+
+(3) The factors to be taken into account in considering, for the purposes of this section, whether or not it is reasonably practicable, at the time and place of a search, for something to be determined, or for something to be separated from something else, shall be confined to the following—
+
+(a) how long it would take to carry out the determination or separation at that time and place;
+
+(b) the number of persons that would be required to carry out that determination or separation at that time and place within a reasonable period;
+
+(c) whether the determination or separation would (or would if carried out at that time and place) involve damage to property;
+
+(d) the apparatus or equipment that it would be necessary or appropriate to use for the carrying out of the determination or separation; and
+
+(e) in the case of separation, whether the separation—
+
+(i) would be likely, or
+
+(ii) if carried out by the only means that are reasonably practicable at that time and place, would be likely,
+
+to prejudice the use of some or all of the separated seizable property for a purpose for which something seized under the power in question is capable of being used.
+
+(4) Section 19(6) of the 1984 Act and Article 21(6) of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989 1341 (N.I. 12)) (powers of seizure not to include power to seize anything a person has reasonable grounds for believing is legally privileged) shall not apply to the power of seizure conferred by subsection (2).
+
+(5) This section applies to each of the powers of seizure specified in Part 2 of Schedule 1.
+
+#### 52 Notice of exercise of power under s. 50 or 51
+
+(1) Where a person exercises a power of seizure conferred by section 50, it shall (subject to subsections (2) and (3)) be his duty, on doing so, to give to the occupier of the premises a written notice—
+
+(a) specifying what has been seized in reliance on the powers conferred by that section;
+
+(b) specifying the grounds on which those powers have been exercised;
+
+(c) setting out the effect of sections 59 to 61;
+
+(d) specifying the name and address of the person to whom notice of an application under section 59(2) to the appropriate judicial authority in respect of any of the seized property must be given; and
+
+(e) specifying the name and address of the person to whom an application may be made to be allowed to attend the initial examination required by any arrangements made for the purposes of section 53(2).
+
+(2) Where it appears to the person exercising on any premises a power of seizure conferred by section 50—
+
+(a) that the occupier of the premises is not present on the premises at the time of the exercise of the power, but
+
+(b) that there is some other person present on the premises who is in charge of the premises,
+
+subsection (1) of this section shall have effect as if it required the notice under that subsection to be given to that other person.
+
+(3) Where it appears to the person exercising a power of seizure conferred by section 50 that there is no one present on the premises to whom he may give a notice for the purposes of complying with subsection (1) of this section, he shall, before leaving the premises, instead of complying with that subsection, attach a notice such as is mentioned in that subsection in a prominent place to the premises.
+
+(4) Where a person exercises a power of seizure conferred by section 51 it shall be his duty, on doing so, to give a written notice to the person from whom the seizure is made—
+
+(a) specifying what has been seized in reliance on the powers conferred by that section;
+
+(b) specifying the grounds on which those powers have been exercised;
+
+(c) setting out the effect of sections 59 to 61;
+
+(d) specifying the name and address of the person to whom notice of any application under section 59(2) to the appropriate judicial authority in respect of any of the seized property must be given; and
+
+(e) specifying the name and address of the person to whom an application may be made to be allowed to attend the initial examination required by any arrangements made for the purposes of section 53(2).
+
+(5) The Secretary of State may by regulations made by statutory instrument, after consultation with the Scottish Ministers [[^F105]and the Department of Justice in Northern Ireland] , provide that a person who exercises a power of seizure conferred by section 50 shall be required to give a notice such as is mentioned in subsection (1) of this section to any person, or send it to any place, described in the regulations.
+
+(6) Regulations under subsection (5) may make different provision for different cases.
+
+(7) A statutory instrument containing regulations under subsection (5) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### Return or retention of seized property
+
+#### 53 Examination and return of property seized under s. 50 or 51
+
+(1) This section applies where anything has been seized under a power conferred by section 50 or 51.
+
+(2) It shall be the duty of the person for the time being in possession of the seized property in consequence of the exercise of that power to secure that there are arrangements in force which (subject to section 61) ensure—
+
+(a) that an initial examination of the property is carried out as soon as reasonably practicable after the seizure;
+
+(b) that that examination is confined to whatever is necessary for determining how much of the property falls within subsection (3);
+
+(c) that anything which is found, on that examination, not to fall within subsection (3) is separated from the rest of the seized property and is returned as soon as reasonably practicable after the examination of all the seized property has been completed; and
+
+(d) that, until the initial examination of all the seized property has been completed and anything which does not fall within subsection (3) has been returned, the seized property is kept separate from anything seized under any other power.
+
+(3) The seized property falls within this subsection to the extent only—
+
+(a) that it is property for which the person seizing it had power to search when he made the seizure but is not property the return of which is required by section 54;
+
+(b) that it is property the retention of which is authorised by section 56; or
+
+(c) that it is something which, in all the circumstances, it will not be reasonably practicable, following the examination, to separate from property falling within paragraph (a) or (b).
+
+(4) In determining for the purposes of this section the earliest practicable time for the carrying out of an initial examination of the seized property, due regard shall be had to the desirability of allowing the person from whom it was seized, or a person with an interest in that property, an opportunity of being present or (if he chooses) of being represented at the examination.
+
+(5) In this section, references to whether or not it is reasonably practicable to separate part of the seized property from the rest of it are references to whether or not it is reasonably practicable to do so without prejudicing the use of the rest of that property, or a part of it, for purposes for which (disregarding the part to be separated) the use of the whole or of a part of the rest of the property, if retained, would be lawful.
+
+#### 54 Obligation to return items subject to legal privilege
+
+(1) If, at any time after a seizure of anything has been made in exercise of a power of seizure to which this section applies—
+
+(a) it appears to the person for the time being having possession of the seized property in consequence of the seizure that the property—
+
+(i) is an item subject to legal privilege, or
+
+(ii) has such an item comprised in it,
+
+and
+
+(b) in a case where the item is comprised in something else which has been lawfully seized, it is not comprised in property falling within subsection (2),
+
+it shall be the duty of that person to secure that the item is returned as soon as reasonably practicable after the seizure.
+
+(2) Property in which an item subject to legal privilege is comprised falls within this subsection if—
+
+(a) the whole or a part of the rest of the property is property falling within subsection (3) or property the retention of which is authorised by section 56; and
+
+(b) in all the circumstances, it is not reasonably practicable for that item to be separated from the rest of that property (or, as the case may be, from that part of it) without prejudicing the use of the rest of that property, or that part of it, for purposes for which (disregarding that item) its use, if retained, would be lawful.
+
+(3) Property falls within this subsection to the extent that it is property for which the person seizing it had power to search when he made the seizure, but is not property which is required to be returned under this section or section 55.
+
+(4) This section applies—
+
+(a) to the powers of seizure conferred by sections 50 and 51;
+
+(b) to each of the powers of seizure specified in Parts 1 and 2 of Schedule 1; and
+
+(c) to any power of seizure (not falling within paragraph (a) or (b)) conferred on a constable by or under any enactment, including an enactment passed after this Act.
+
+#### 55 Obligation to return excluded and special procedure material
+
+(1) If, at any time after a seizure of anything has been made in exercise of a power to which this section applies—
+
+(a) it appears to the person for the time being having possession of the seized property in consequence of the seizure that the property—
+
+(i) is excluded material or special procedure material, or
+
+(ii) has any excluded material or any special procedure material comprised in it,
+
+(b) its retention is not authorised by section 56, and
+
+(c) in a case where the material is comprised in something else which has been lawfully seized, it is not comprised in property falling within subsection (2) or (3),
+
+it shall be the duty of that person to secure that the item is returned as soon as reasonably practicable after the seizure.
+
+(2) Property in which any excluded material or special procedure material is comprised falls within this subsection if—
+
+(a) the whole or a part of the rest of the property is property for which the person seizing it had power to search when he made the seizure but is not property the return of which is required by this section or section 54; and
+
+(b) in all the circumstances, it is not reasonably practicable for that material to be separated from the rest of that property (or, as the case may be, from that part of it) without prejudicing the use of the rest of that property, or that part of it, for purposes for which (disregarding that material) its use, if retained, would be lawful.
+
+(3) Property in which any excluded material or special procedure material is comprised falls within this subsection if—
+
+(a) the whole or a part of the rest of the property is property the retention of which is authorised by section 56; and
+
+(b) in all the circumstances, it is not reasonably practicable for that material to be separated from the rest of that property (or, as the case may be, from that part of it) without prejudicing the use of the rest of that property, or that part of it, for purposes for which (disregarding that material) its use, if retained, would be lawful.
+
+(4) This section applies (subject to subsection (5)) to each of the powers of seizure specified in Part 3 of Schedule 1.
+
+(5) In its application to the powers of seizure conferred by—
+
+(a)
+
+(b) section 56(5) of the Drug Trafficking Act 1994 (c. 37), [^F106]. . .
+
+(c) Article 51(5) of the Proceeds of Crime (Northern Ireland) Order 1996 (S.I. 1996 1299 (N.I. 6)),[[^F107] and
+
+(d) section 352(4) of the Proceeds of Crime Act 2002,]
+
+this section shall have effect with the omission of every reference to special procedure material.
+
+(6) In this section, except in its application to—
+
+(a) the power of seizure conferred by section 8(2) of the 1984 Act,
+
+(b) the power of seizure conferred by Article 10(2) of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989 1341 (N.I. 12)),
+
+(c) each of the powers of seizure conferred by the provisions of paragraphs 1 and 3 of Schedule 5 to the Terrorism Act 2000 (c. 11), and
+
+(d) the power of seizure conferred by paragraphs 15 and 19 of Schedule 5 to that Act of 2000, so far only as the power in question is conferred by reference to paragraph 1 of that Schedule,
+
+“special procedure material” means special procedure material consisting of documents or records other than documents.
+
+[[^F108](7) In relation to the powers of seizure mentioned in subsection (8), this section (and section 59(3)(c)) have effect as if—
+
+(a) references to excluded material or special procedure material were to confidential material within the meaning of Part 1 of Schedule 2 to the National Security Act 2023, but not including items subject to legal privilege, and
+
+(b) subsection (6) of this section did not apply.
+
+(8) The powers of seizure referred to in subsection (7) are the powers conferred by—
+
+(a) paragraph 2 of Schedule 2 to the National Security Act 2023, and
+
+(b) paragraph 12 of that Schedule, so far as conferred by reference to paragraph 2 of that Schedule.]
+
+#### 56 Property seized by constables etc.
+
+(1) The retention of—
+
+(a) property seized on any premises by a constable who was lawfully on the premises,
+
+(b) property seized on any premises by a relevant person who was on the premises accompanied by a constable, and
+
+(c) property seized by a constable carrying out a lawful search of any person,
+
+is authorised by this section if the property falls within subsection (2) or (3).
+
+(2) Property falls within this subsection to the extent that there are reasonable grounds for believing—
+
+(a) that it is property obtained in consequence of the commission of an offence; and
+
+(b) that it is necessary for it to be retained in order to prevent its being concealed, lost, damaged, altered or destroyed.
+
+(3) Property falls within this subsection to the extent that there are reasonable grounds for believing—
+
+(a) that it is evidence in relation to any offence; and
+
+(b) that it is necessary for it to be retained in order to prevent its being concealed, lost, altered or destroyed.
+
+(4) Nothing in this section authorises the retention (except in pursuance of section 54(2)) of anything at any time when its return is required by section 54.
+
+[[^F109](4A) Subsection (1)(a) includes property seized on any premises—
+
+(a) by a person authorised under section 16(2) of the 1984 Act to accompany a constable executing a warrant, or
+
+(b) by a person accompanying a constable under section 2(6) of the Criminal Justice Act 1987 in the execution of a warrant under section 2(4) of that Act.]
+
+(5) In subsection (1)(b) the reference to a relevant person’s being on any premises accompanied by a constable is a reference only to a person who was so on the premises under the authority of—
+
+(a) a warrant under section 448 of the Companies Act 1985 (c. 6) authorising him to exercise together with a constable the powers conferred by subsection (3) of that section;
+
+[^F110]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F111]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F111]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F111]e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 57 Retention of seized items
+
+(1) This section has effect in relation to the following provisions (which are about the retention of items which have been seized and are referred to in this section as “the relevant provisions”)—
+
+(a) section 22 of the 1984 Act;
+
+(b) Article 24 of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989 1341 (N.I. 12));
+
+(c) [^F112]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F113]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F114]e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(f) section 448(6) of the Companies Act 1985 (c. 6);
+
+[^F115]g . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F114]h . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F116]i . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F114]j . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(k) [[^F117]paragraph 7(4) of Schedule 3B to] the Human Fertilisation and Embryology Act 1990 (c. 37);
+
+(l) section 5(4) of the Knives Act 1997 (c. 21);
+
+[^F118]m . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(n) [[^F119]sections 28(7) and 28A(8)] of the Competition Act 1998 (c. 41);
+
+(o) [[^F120]sections 122E and 176A] of the Financial Services and Markets Act 2000 (c. 8);
+
+(p) paragraph 7(2) of Schedule 3 to the Freedom of Information Act 2000 (c. 36).
+
+[^F121]pa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F122](q) paragraph 5(4) of Schedule 5 to the Human Tissue Act 2004.]
+
+[[^F123](r) paragraph 12(3) of Schedule 2 to the Animal Welfare Act 2006.]
+
+[[^F124](s) paragraphs 28(7) and 29(8) of Schedule 5 to the Consumer Rights Act 2015]
+
+[[^F125](t) paragraph 10 of Schedule 15 to the Data Protection Act 2018;]
+
+[[^F126](u) paragraph 8 of Schedule 12 to the Online Safety Act 2023;]
+
+[[^F127](v) section 75(6) of the Digital Markets, Competition and Consumers Act 2024;]
+
+[[^F128](w) paragraph 3(6) of Schedule 8 to the Football Governance Act 2025.]
+
+[[^F129](y) section 24(9) to (16) of the Border Security, Asylum and Immigration Act 2025.]
+
+(2) The relevant provisions shall apply in relation to any property seized in exercise of a power conferred by section 50 or 51 as if the property had been seized under the power of seizure by reference to which the power under that section was exercised in relation to that property.
+
+(3) Nothing in any of sections 53 to 56 authorises the retention of any property at any time when its retention would not (apart from the provisions of this Part) be authorised by the relevant provisions.
+
+(4) Nothing in any of the relevant provisions authorises the retention of anything after an obligation to return it has arisen under this Part.
+
+#### 58 Person to whom seized property is to be returned
+
+(1) Where—
+
+(a) anything has been seized in exercise of any power of seizure, and
+
+(b) there is an obligation under this Part for the whole or any part of the seized property to be returned,
+
+the obligation to return it shall (subject to the following provisions of this section) be an obligation to return it to the person from whom it was seized.
+
+(2) Where—
+
+(a) any person is obliged under this Part to return anything that has been seized to the person from whom it was seized, and
+
+(b) the person under that obligation is satisfied that some other person has a better right to that thing than the person from whom it was seized,
+
+his duty to return it shall, instead, be a duty to return it to that other person or, as the case may be, to the person appearing to him to have the best right to the thing in question.
+
+(3) Where different persons claim to be entitled to the return of anything that is required to be returned under this Part, that thing may be retained for as long as is reasonably necessary for the determination in accordance with subsection (2) of the person to whom it must be returned.
+
+(4) References in this Part to the person from whom something has been seized, in relation to a case in which the power of seizure was exercisable by reason of that thing’s having been found on any premises, are references to the occupier of the premises at the time of the seizure.
+
+(5) References in this section to the occupier of any premises at the time of a seizure, in relation to a case in which—
+
+(a) a notice in connection with the entry or search of the premises in question, or with the seizure, was given to a person appearing in the occupier’s absence to be in charge of the premises, and
+
+(b) it is practicable, for the purpose of returning something that has been seized, to identify that person but not to identify the occupier of the premises,
+
+are references to that person.
+
+### Remedies and safeguards
+
+#### 59 Application to the appropriate judicial authority
+
+(1) This section applies where anything has been seized in exercise, or purported exercise, of a relevant power of seizure.
+
+(2) Any person with a relevant interest in the seized property may apply to the appropriate judicial authority, on one or more of the grounds mentioned in subsection (3), for the return of the whole or a part of the seized property.
+
+(3) Those grounds are—
+
+(a) that there was no power to make the seizure;
+
+(b) that the seized property is or contains an item subject to legal privilege that is not comprised in property falling within section 54(2);
+
+(c) that the seized property is or contains any excluded material or special procedure material which—
+
+(i) has been seized under a power to which section 55 applies;
+
+(ii) is not comprised in property falling within section 55(2) or (3); and
+
+(iii) is not property the retention of which is authorised by section 56;
+
+(d) that the seized property is or contains something seized under section 50 or 51 which does not fall within section 53(3);
+
+and subsections (5) and (6) of section 55 shall apply for the purposes of paragraph (c) as they apply for the purposes of that section.
+
+(4) Subject to subsection (6), the appropriate judicial authority, on an application under subsection (2), shall—
+
+(a) if satisfied as to any of the matters mentioned in subsection (3), order the return of so much of the seized property as is property in relation to which the authority is so satisfied; and
+
+(b) to the extent that that authority is not so satisfied, dismiss the application.
+
+(5) The appropriate judicial authority—
+
+(a) on an application under subsection (2),
+
+(b) on an application made by the person for the time being having possession of anything in consequence of its seizure under a relevant power of seizure, or
+
+(c) on an application made—
+
+(i) by a person with a relevant interest in anything seized under section 50 or 51, and
+
+(ii) on the grounds that the requirements of section 53(2) have not been or are not being complied with,
+
+may give such directions as the authority thinks fit as to the examination, retention, separation or return of the whole or any part of the seized property.
+
+(6) On any application under this section, the appropriate judicial authority may authorise the retention of any property which—
+
+(a) has been seized in exercise, or purported exercise, of a relevant power of seizure, and
+
+(b) would otherwise fall to be returned,
+
+if that authority is satisfied that the retention of the property is justified on grounds falling within subsection (7).
+
+(7) Those grounds are that (if the property were returned) it would immediately become appropriate—
+
+(a) to issue, on the application of the person who is in possession of the property at the time of the application under this section, a warrant in pursuance of which, or of the exercise of which, it would be lawful to seize the property; or
+
+(b) to make an order under—
+
+(i) paragraph 4 of Schedule 1 to the 1984 Act,
+
+(ii) paragraph 4 of Schedule 1 to the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989 1341 (N.I. 12)),
+
+(iii) section 20BA of the Taxes Management Act 1970 (c. 9), [^F130]...
+
+(iv) paragraph 5 of Schedule 5 to the Terrorism Act 2000 (c. 11), [[^F131]or
+
+(v) paragraph 3 of Schedule 2 to the National Security Act 2023,]
+
+under which the property would fall to be delivered up or produced to the person mentioned in paragraph (a).
+
+(8) Where any property which has been seized in exercise, or purported exercise, of a relevant power of seizure has parts (“part A” and “part B”) comprised in it such that—
+
+(a) it would be inappropriate, if the property were returned, to take any action such as is mentioned in subsection (7) in relation to part A,
+
+(b) it would (or would but for the facts mentioned in paragraph (a)) be appropriate, if the property were returned, to take such action in relation to part B, and
+
+(c) in all the circumstances, it is not reasonably practicable to separate part A from part B without prejudicing the use of part B for purposes for which it is lawful to use property seized under the power in question,
+
+the facts mentioned in paragraph (a) shall not be taken into account by the appropriate judicial authority in deciding whether the retention of the property is justified on grounds falling within subsection (7).
+
+(9) If a person fails to comply with any order or direction made or given by a judge of the Crown Court in exercise of any jurisdiction under this section—
+
+(a) the authority may deal with him as if he had committed a contempt of the Crown Court; and
+
+(b) any enactment relating to contempt of the Crown Court shall have effect in relation to the failure as if it were such a contempt.
+
+(10) The relevant powers of seizure for the purposes of this section are—
+
+(a) the powers of seizure conferred by sections 50 and 51;
+
+(b) each of the powers of seizure specified in Parts 1 and 2 of Schedule 1; and
+
+(c) any power of seizure (not falling within paragraph (a) or (b)) conferred on a constable by or under any enactment, including an enactment passed after this Act.
+
+(11) References in this section to a person with a relevant interest in seized property are references to—
+
+(a) the person from whom it was seized;
+
+(b) any person with an interest in the property; or
+
+(c) any person, not falling within paragraph (a) or (b), who had custody or control of the property immediately before the seizure.
+
+(12) For the purposes of subsection (11)(b), the persons who have an interest in seized property shall, in the case of property which is or contains an item subject to legal privilege, be taken to include the person in whose favour that privilege is conferred.
+
+[[^F132](13) Criminal Procedure Rules may make provision about proceedings under this section on an application to a judge of the Crown Court in England and Wales.]
+
+#### 60 Cases where duty to secure arises
+
+(1) Where property has been seized in exercise, or purported exercise, of any power of seizure conferred by section 50 or 51, a duty to secure arises under section 61 in relation to the seized property if—
+
+(a) a person entitled to do so makes an application under section 59 for the return of the property;
+
+(b) in relation to England, Wales and Northern Ireland, at least one of the conditions set out in subsections (2) and (3) is satisfied;
+
+(c) in relation to Scotland, the condition set out in subsection (2) is satisfied; and
+
+(d) notice of the application is given to a relevant person.
+
+(2) The first condition is that the application is made on the grounds that the seized property is or contains an item subject to legal privilege that is not comprised in property falling within section 54(2).
+
+(3) The second condition is that—
+
+(a) the seized property was seized by a person who had, or purported to have, power under this Part to seize it by virtue only of one or more of the powers specified in subsection (6); and
+
+(b) the application—
+
+(i) is made on the ground that the seized property is or contains something which does not fall within section 53(3); and
+
+(ii) states that the seized property is or contains special procedure material or excluded material.
+
+(4) In relation to property seized by a person who had, or purported to have, power under this Part to seize it by virtue only of one or more of the powers of seizure conferred by—
+
+(a) [^F133]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) section 56(5) of the Drug Trafficking Act 1994 (c. 37), [^F134]. . .
+
+(c) Article 51(5) of the Proceeds of Crime (Northern Ireland) Order 1996 (S.I. 1996 1299 (N.I. 6)), [[^F135] or
+
+(d) section 352(4) of the Proceeds of Crime Act 2002,]
+
+the second condition is satisfied only if the application states that the seized property is or contains excluded material
+
+(5) In relation to property seized by a person who had, or purported to have, power under this Part to seize it by virtue only of one or more of the powers of seizure specified in Part 3 of Schedule 1 but not by virtue of—
+
+(a) the power of seizure conferred by section 8(2) of the 1984 Act,
+
+(b) the power of seizure conferred by Article 10(2) of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989 1341 (N.I. 12)),
+
+(c) either of the powers of seizure conferred by paragraphs 1 and 3 of Schedule 5 to the Terrorism Act 2000 (c. 11), or
+
+(d) either of the powers of seizure conferred by paragraphs 15 and 19 of Schedule 5 to that Act of 2000 so far as they are conferred by reference to paragraph 1 of that Schedule,
+
+the second condition is satisfied only if the application states that the seized property is or contains excluded material or special procedure material consisting of documents or records other than documents.
+
+(6) The powers mentioned in subsection (3) are—
+
+(a) the powers of seizure specified in Part 3 of Schedule 1;
+
+(b) the powers of seizure conferred by the provisions of Parts 2 and 3 of the 1984 Act (except section 8(2) of that Act);
+
+(c) the powers of seizure conferred by the provisions of Parts 3 and 4 of the Police and Criminal Evidence (Northern Ireland) Order 1989 (except Article 10(2) of that Order);
+
+(d) the powers of seizure conferred by the provisions of paragraph 11 of Schedule 5 to the Terrorism Act 2000; [^F136]...
+
+(e) the powers of seizure conferred by the provisions of paragraphs 15 and 19 of that Schedule so far as they are conferred by reference to paragraph 11 of that Schedule.
+
+[[^F137](f) the powers of seizure conferred by the provisions of paragraph 9 of Schedule 2 to the National Security Act 2023; and
+
+(g) the powers of seizure conferred by the provisions of paragraph 12 of that Schedule so far as conferred by reference to paragraph 9 of that Schedule.]
+
+[[^F138](6A) In relation to the powers of seizure mentioned in subsection (6B)—
+
+(a) subsection (3)(b)(ii) applies as if the reference to special procedure material or excluded material were to confidential material within the meaning of Part 1 of Schedule 2 to the National Security Act 2023, but not including items subject to legal privilege, and
+
+(b) subsection (5) of this section does not apply.
+
+(6B) The powers of seizure referred to in subsection (6A) are the powers conferred by—
+
+(a) paragraph 2 of Schedule 2 to the National Security Act 2023, and
+
+(b) paragraph 12 of that Schedule, so far as conferred by reference to paragraph 2 of that Schedule.]
+
+(7) In this section “a relevant person” means any one of the following—
+
+(a) the person who made the seizure;
+
+(b) the person for the time being having possession, in consequence of the seizure, of the seized property;
+
+(c) the person named for the purposes of subsection (1)(d) or (4)(d) of section 52 in any notice given under that section with respect to the seizure.
+
+#### 61 The duty to secure
+
+(1) The duty to secure that arises under this section is a duty of the person for the time being having possession, in consequence of the seizure, of the seized property to secure that arrangements are in force that ensure that the seized property (without being returned) is not, at any time after the giving of the notice of the application under section 60(1), either—
+
+(a) examined or copied, or
+
+(b) put to any use to which its seizure would, apart from this subsection, entitle it to be put,
+
+except with the consent of the applicant or in accordance with the directions of the appropriate judicial authority.
+
+(2) Subsection (1) shall not have effect in relation to any time after the withdrawal of the application to which the notice relates.
+
+(3) Nothing in any arrangements for the purposes of this section shall be taken to prevent the giving of a notice under section 49 of the Regulation of Investigatory Powers Act 2000 (c. 23) (notices for the disclosure of material protected by encryption etc.) in respect of any information contained in the seized material; but subsection (1) of this section shall apply to anything disclosed for the purpose of complying with such a notice as it applies to the seized material in which the information in question is contained.
+
+(4) Subsection (9) of section 59 shall apply in relation to any jurisdiction conferred on the appropriate judicial authority by this section as it applies in relation to the jurisdiction conferred by that section.
+
+#### 62 Use of inextricably linked property
+
+(1) This section applies to property, other than property which is for the time being required to be secured in pursuance of section 61, if—
+
+(a) it has been seized under any power conferred by section 50 or 51 or specified in Part 1 or 2 of Schedule 1, and
+
+(b) it is inextricably linked property.
+
+(2) Subject to subsection (3), it shall be the duty of the person for the time being having possession, in consequence of the seizure, of the inextricably linked property to ensure that arrangements are in force which secure that that property (without being returned) is not at any time, except with the consent of the person from whom it was seized, either—
+
+(a) examined or copied, or
+
+(b) put to any other use.
+
+(3) Subsection (2) does not require that arrangements under that subsection should prevent inextricably linked property from being put to any use falling within subsection (4).
+
+(4) A use falls within this subsection to the extent that it is use which is necessary for facilitating the use, in any investigation or proceedings, of property in which the inextricably linked property is comprised.
+
+(5) Property is inextricably linked property for the purposes of this section if it falls within any of subsections (6) to (8).
+
+(6) Property falls within this subsection if—
+
+(a) it has been seized under a power conferred by section 50 or 51; and
+
+(b) but for subsection (3)(c) of section 53, arrangements under subsection (2) of that section in relation to the property would be required to ensure the return of the property as mentioned in subsection (2)(c) of that section.
+
+(7) Property falls within this subsection if—
+
+(a) it has been seized under a power to which section 54 applies; and
+
+(b) but for paragraph (b) of subsection (1) of that section, the person for the time being having possession of the property would be under a duty to secure its return as mentioned in that subsection.
+
+(8) Property falls within this subsection if—
+
+(a) it has been seized under a power of seizure to which section 55 applies; and
+
+(b) but for paragraph (c) of subsection (1) of that section, the person for the time being having possession of the property would be under a duty to secure its return as mentioned in that subsection.
+
+### Construction of Part 2
+
+#### 63 Copies
+
+(1) Subject to subsection (3)—
+
+(a) in this Part, “seize” includes “take a copy of”, and cognate expressions shall be construed accordingly;
+
+(b) this Part shall apply as if any copy taken under any power to which any provision of this Part applies were the original of that of which it is a copy; and
+
+(c) for the purposes of this Part, except sections 50 and 51, the powers mentioned in subsection (2) (which are powers to obtain hard copies etc. of information which is stored in electronic form) shall be treated as powers of seizure, and references to seizure and to seized property shall be construed accordingly;
+
+[[^F139](d) for the purposes of this Part, except sections 50 and 51, the powers in section 75(2)(d) and (f) of the Digital Markets, Competition and Consumers Act 2024 [[^F140], and in paragraph 3(2)(d) and (f) of Schedule 8 to the Football Governance Act 2025] are to be treated as powers of seizure, and references to seizure and to seized property are to be construed accordingly.]
+
+(2) The powers mentioned in subsection (1)(c) are any powers which are conferred by—
+
+(a) section 19(4) or 20 of the 1984 Act;
+
+(b) Article 21(4) or 22 of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989 1341 (N.I. 12));
+
+(c) section 46(3) of the Firearms Act 1968 (c. 27);
+
+(d) [^F141]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(e) [^F142]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(f) section 32(6)(b) of the Food Safety Act 1990 (c. 16);
+
+(g) Article 34(6)(b) of the Food Safety (Northern Ireland) Order 1991 (S.I. 1991 762 (N.I. 7));
+
+[[^F143](ga) section 23E(5)(b) (as read with section 23K(2)) of the Criminal Law (Consolidation) (Scotland) Act 1995;]
+
+(h) section 28(2)(f) [[^F144]or (g) or 28A(2)(f) or (g)] of the Competition Act 1998 (c. 41); or
+
+(i) section 8(2)(c) of the Nuclear Safeguards Act 2000 (c. 5).
+
+(3) Subsection (1) does not apply to section 50(6) or 57.
+
+#### 64 Meaning of “appropriate judicial authority”
+
+(1) Subject to [[^F145]subsections (2) and (4)], in this Part “appropriate judicial authority” means—
+
+(a) in relation to England and Wales and Northern Ireland, a judge of the Crown Court;
+
+(b) in relation to Scotland, a sheriff.
+
+(2) In this Part “appropriate judicial authority”, in relation to the seizure of items under any power mentioned in subsection (3) and in relation to items seized under any such power, means—
+
+(a) in relation to England and Wales and Northern Ireland, the High Court;
+
+(b) in relation to Scotland, the Court of Session.
+
+(3) Those powers are—
+
+(a) the powers of seizure conferred by—
+
+(i) section 448(3) of the Companies Act 1985 (c. 6);
+
+[^F146]ii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(iii) [[^F147]sections 28(2) and 28A(2)] of the Competition Act 1998; [^F148]. . .
+
+[[^F149](iv) section 75(2) of the Digital Markets, Competition and Consumers Act 2024.]
+
+[[^F150](aa) the power of seizure conferred by section 352(4) of the Proceeds of Crime Act 2002, if the power is exercisable for the purposes of a civil recovery investigation [^F151]... (within the meaning of Part 8 of that Act);]
+
+(b) any power of seizure conferred by section 50, so far as that power is exercisable by reference to any power mentioned in paragraph (a).
+
+[[^F152](4) In this Part “appropriate judicial authority”, in relation to the seizure of documents under paragraph 3(2) of Schedule 8 to the Football Governance Act 2025 and in relation to documents seized under that power, means the High Court.]
+
+#### 65 Meaning of “legal privilege”
+
+(1) Subject to the following provisions of this section, references in this Part to an item subject to legal privilege shall be construed—
+
+(a) for the purposes of the application of this Part to England and Wales, in accordance with section 10 of the 1984 Act (meaning of “legal privilege”);
+
+(b) for the purposes of the application of this Part to Scotland, in accordance with section [[^F153]412 of the Proceeds of Crime Act 2002](interpretation); and
+
+(c) for the purposes of the application of this Part to Northern Ireland, in accordance with Article 12 of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989 1341 (N.I. 12)) (meaning of “legal privilege”).
+
+(2) In relation to property which has been seized in exercise, or purported exercise, of—
+
+(a) the [[^F154]powers] of seizure conferred by section 28(2) [[^F155]or 28A(2)] of the Competition Act 1998, or
+
+(b) so much of any power of seizure conferred by section 50 as is exercisable by reference to that power,
+
+references in this Part to an item subject to legal privilege shall be read as references to a privileged communication within the meaning of section 30 of that Act.
+
+(3) [^F156]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F157](3A) In relation to property which has been seized in exercise, or purported exercise, of—
+
+(a) the power of seizure conferred by section 352(4) of the Proceeds of Crime Act 2002, or
+
+(b) so much of any power of seizure conferred by section 50 as is exercisable by reference to that power,
+
+references in this Part to an item subject to legal privilege shall be read as references to privileged material within the meaning of section 354(2) of that Act.]
+
+[[^F158](3B) In relation to property which has been seized in exercise, or purported exercise, of—
+
+(a) the power of seizure conferred by section 75(2) of the Digital Markets, Competition and Consumers Act 2024, or
+
+(b) so much of any power of seizure conferred by section 50 as is exercisable by reference to that power,
+
+references in this Part to an item subject to legal privilege are to be read as references to a privileged communication within the meaning of section 81 (privileged communications) of that Act.]
+
+[[^F159](3C) In relation to property which has been seized in exercise, or purported exercise, of—
+
+(a) the power of seizure conferred by paragraph 3(2) of Schedule 8 to the Football Governance Act 2025, or
+
+(b) so much of any power of seizure conferred by section 50 as is exercisable by reference to that power,
+
+references in this Part to an item subject to legal privilege are to be read as references to a privileged communication within the meaning of section 73(3) of that Act.]
+
+(4) An item which is, or is comprised in, property which has been seized in exercise, or purported exercise, of the power of seizure conferred by section 448(3) of the Companies Act 1985 (c. 6) shall be taken for the purposes of this Part to be an item subject to legal privilege if, and only if, the seizure of that item was in contravention of section 452(2) of that Act (privileged information).
+
+[^F160]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F161]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) An item which is, or is comprised in, property which has been seized in exercise, or purported exercise, of the power of seizure conferred by [[^F162]paragraphs 1 and 2 of Schedule 15 to the Data Protection Act 2018] shall be taken for the purposes of this Part to be an item subject to legal privilege if, and only if, the seizure of that item was in contravention of [[^F163]paragraph 11 (matters exempt from inspection and seizure: privileged communications)] of that Schedule (privileged communications).
+
+(8) An item which is, or is comprised in, property which has been seized in exercise, or purported exercise, of the power of seizure conferred by paragraph 1 of Schedule 3 to the Freedom of Information Act 2000 (c. 36) shall be taken for the purposes of this Part to be an item subject to legal privilege if, and only if, the seizure of that item was in contravention of paragraph 9 of that Schedule (privileged communications).
+
+[^F164]8A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F165](8B) An item which is, or is comprised in, property which has been seized in exercise or purported exercise of the power of seizure conferred by paragraph 27(1)(b) or 29(1) of Schedule 5 to the Consumer Rights Act 2015 shall be taken for the purposes of this Part to be an item subject to legal privilege if, and only if, the seizure of that item was in contravention of paragraph 27(6) or (as the case may be) 29(6) of that Schedule (privileged documents).]
+
+[[^F166](8C) An item which is, or is comprised in, property which has been seized in exercise or purported exercise of the power of seizure conferred by paragraph 7(f), (j) or (k) of Schedule 12 to the Online Safety Act 2023 is to be taken for the purposes of this Part to be an item subject to legal privilege if, and only if, the seizure of that item was in contravention of paragraph 17(3) of that Schedule (privileged information or documents).]
+
+(9) An item which is, or is comprised in, property which has been seized in exercise, or purported exercise, of so much of any power of seizure conferred by section 50 as is exercisable by reference to a power of seizure conferred by—
+
+(a) section 448(3) of the Companies Act 1985,
+
+(b) Article 441(3) of the Companies (Northern Ireland) Order 1986,
+
+[^F167]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(d) paragraph 1 of Schedule 9 to the Data Protection Act 1998, [^F168]. . . [^F169]...
+
+(e) paragraph 1 of Schedule 3 to the Freedom of Information Act 2000,[^F170]... [[^F171]or]
+
+[^F170]f . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F172](g) paragraph 7(f), (j) or (k) of Schedule 12 to the Online Safety Act 2023.]
+
+shall be taken for the purposes of this Part to be an item subject to legal privilege if, and only if, the item would have been taken for the purposes of this Part to be an item subject to legal privilege had it been seized under the power of seizure by reference to which the power conferred by section 50 was exercised.
+
+#### 66 General interpretation of Part 2
+
+(1) In this Part—
+
+- “appropriate judicial authority” has the meaning given by section 64;
+- “documents” includes information recorded in any form;
+- “item subject to legal privilege” shall be construed in accordance with section 65;
+- [[^F173]“marine installation” has the meaning given by section 262 of the Marine and Coastal Access Act 2009;]
+- “premises” includes any vehicle, stall or moveable structure (including an offshore installation [[^F174] or other marine installation]) and any other place whatever, whether or not occupied as land;
+- “offshore installation” has the same meaning as in the Mineral Workings (Offshore Installations) Act 1971 (c. 61);
+- “return”, in relation to seized property, shall be construed in accordance with section 58, and cognate expressions shall be construed accordingly;
+- “seize”, and cognate expressions, shall be construed in accordance with section 63(1) and subsection (5) below;
+- “seized property”, in relation to any exercise of a power of seizure, means (subject to subsection (5)) anything seized in exercise of that power; and
+- “vehicle” includes any vessel, aircraft or hovercraft.
+
+(2) In this Part references, in relation to a time when seized property is in any person’s possession in consequence of a seizure (“the relevant time”), to something for which the person making the seizure had power to search shall be construed—
+
+(a) where the seizure was made on the occasion of a search carried out on the authority of a warrant, as including anything of the description of things the presence or suspected presence of which provided grounds for the issue of the warrant;
+
+(b) where the property was seized in the course of a search on the occasion of which it would have been lawful for the person carrying out the search to seize anything which on that occasion was believed by him to be, or appeared to him to be, of a particular description, as including—
+
+(i) anything which at the relevant time is believed by the person in possession of the seized property, or (as the case may be) appears to him, to be of that description; and
+
+(ii) anything which is in fact of that description;
+
+(c) where the property was seized in the course of a search on the occasion of which it would have been lawful for the person carrying out the search to seize anything which there were on that occasion reasonable grounds for believing was of a particular description, as including—
+
+(i) anything which there are at the relevant time reasonable grounds for believing is of that description; and
+
+(ii) anything which is in fact of that description;
+
+(d) where the property was seized in the course of a search to which neither paragraph (b) nor paragraph (c) applies, as including anything which is of a description of things which, on the occasion of the search, it would have been lawful for the person carrying it out to seize otherwise than under section 50 and 51; and
+
+(e) where the property was seized on the occasion of a search authorised under section 82 of the Terrorism Act 2000 (c. 11) (seizure of items suspected to have been, or to be intended to be, used in commission of certain offences), as including anything—
+
+(i) which is or has been, or is or was intended to be, used in the commission of an offence such as is mentioned in subsection (3)(a) or (b) of that section; or
+
+(ii) which at the relevant time the person who is in possession of the seized property reasonably suspects is something falling within sub-paragraph (i).
+
+[^F175]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) References in subsection (2) to a search include references to any activities authorised by virtue of any of the following—
+
+[^F176]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) section 29(1) of the Fair Trading Act 1973 (c. 41) (power to enter premises and to inspect and seize goods and documents);
+
+[^F177]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F178]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F179]e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F180]f . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F181]g . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(h) section [[^F182]29(4)] of the Consumer Protection Act 1987 (c. 43) (powers of search etc.);
+
+[^F183]i . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(j) section 32(5) of the Food Safety Act 1990 (c. 16) (power to inspect records relating to a food business);
+
+[[^F184](ja) paragraph 5 of Schedule 3B to the Human Fertilisation and Embryology Act 1990.]
+
+[^F185]k . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(l) Article 33(6) of the Food Safety (Northern Ireland) Order 1991 (S.I. 1991 762 (N.I. 7));
+
+[^F186]m . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F187]ma . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F188](n) paragraph 2 of Schedule 5 to the Human Tissue Act 2004 (entry and inspection of licensed premises).]
+
+[[^F189](o) regulation [[^F190]22(4)] of the General Product Safety Regulations 2005 (powers of entry and search etc)]
+
+[[^F191](p) sections 26(1), 27(1), 28(1) and 29(1) of the Animal Welfare Act 2006 (inspection in connection with licences, inspection in connection with registration, inspection of farm premises and inspection relating to [[^F192]EU] obligations).]
+
+[^F193]q . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F194]r . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F195]s . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F196](t) Part 4 of Schedule 5 to the Consumer Rights Act 2015]
+
+(5) References in this Part to a power of seizure include references to each of the powers to take possession of items under—
+
+[^F197]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) section 448(3) of the Companies Act 1985 (c. 6);
+
+[^F197]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F198]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F197]e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(f) section 2(5) of the Criminal Justice Act 1987 (c. 38);
+
+[^F199]g . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(h) [[^F200]sections 28(2)(c) and 28A(2)(c)] of the Competition Act 1998 (c. 41); and
+
+(i) [[^F201]sections 122D(3) and 176(5)] of the Financial Services and Markets Act 2000 (c. 8);
+
+[[^F202](j) section 75(2)(j) of the Digital Markets, Competition and Consumers Act 2024;]
+
+[[^F203](k) paragraph 3(2)(j) of Schedule 8 to the Football Governance Act 2025.]
+
+and references in this Part to seizure and to seized property shall be construed accordingly.
+
+(6) In this Part, so far as it applies to England and Wales—
+
+(a) references to excluded material shall be construed in accordance with section 11 of the 1984 Act (meaning of “excluded material”); and
+
+(b) references to special procedure material shall be construed in accordance with section 14 of that Act (meaning of “special procedure material”).
+
+(7) In this Part, so far as it applies to Northern Ireland—
+
+(a) references to excluded material shall be construed in accordance with Article 13 of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989 1341 (N.I. 12)) (meaning of “excluded material”); and
+
+(b) references to special procedure material shall be construed in accordance with Article 16 of that Order (meaning of “special procedure material”).
+
+(8) References in this Part to any item or material being comprised in other property include references to its being mixed with that other property.
+
+(9) In this Part “enactment” includes an enactment contained in Northern Ireland legislation.
+
+### Supplemental provisions of Part 2
+
+#### 67 Application to [[^F204]officers of Revenue and Customs]
+
+The powers conferred by section 114(2) of the 1984 Act and Article 85(1) of the Police and Criminal Evidence (Northern Ireland) Order 1989 (application of provisions relating to police officers to [[^F205]officers of Revenue and Customs]) shall have effect in relation to the provisions of this Part as they have effect in relation to the provisions of that Act or, as the case may be, that Order.
+
+#### 67A [[^F206]Application to Welsh Revenue Authority
+
+(1) The Welsh Ministers may by regulations—
+
+(a) direct that any provision of this Part is to apply, subject to such modifications as the regulations may specify, to investigations of offences conducted by the Welsh Revenue Authority;
+
+(b) make provision permitting a person exercising a function conferred on the Welsh Revenue Authority by the regulations to use reasonable force in the exercise of such a function.
+
+(2) Regulations under subsection (1) may—
+
+(a) make provision that applies generally or only in specified cases,
+
+(b) make different provision for different cases or circumstances, and
+
+(c) may, in modifying a provision, in particular impose conditions on the exercise of a function.
+
+(3) The power to make regulations under subsection (1) is exercisable by statutory instrument.
+
+(4) A statutory instrument containing regulations under subsection (1) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.]
+
+#### 68 Application to Scotland
+
+(1) In the application of this Part to Scotland—
+
+(a) subsection (4) of section 54 and subsection (10) of section 59 shall each have effect with the omission of paragraph (c) of that subsection;
+
+(b) section 55 and subsection (3)(c) of section 59 shall be omitted; and
+
+(c) Schedule 1 shall have effect as if the powers specified in that Schedule did not include any power of seizure under any enactment mentioned in that Schedule, so far as it is exercisable in Scotland by a constable, except a power conferred by an enactment mentioned in subsection (2).
+
+(2) Those enactments are—
+
+(a) section 43(5) of the Gaming Act 1968 (c. 65);
+
+[^F207]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) section 448(3) of the Companies Act 1985 (c. 6);
+
+[^F207]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F207]e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(f) [[^F208]sections 122D(3) and 176(5)] of the Financial Services and Markets Act 2000 (c. 8).
+
+[[^F209](g) [[^F210]regulation 70(7) of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017]; and]
+
+[^F211]h . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 69 Application to powers designated by order
+
+(1) The Secretary of State may by order—
+
+(a) provide for any power designated by the order to be added to those specified in Schedule 1 or section 63(2);
+
+(b) make any modification of the provisions of this Part which the Secretary of State considers appropriate in consequence of any provision made by virtue of paragraph (a);
+
+(c) make any modification of any enactment making provision in relation to seizures, or things seized, under a power designated by an order under this subsection which the Secretary of State considers appropriate in consequence of any provision made by virtue of that paragraph.
+
+(2) Where the power designated by the order made under subsection (1) is a power conferred in relation to Scotland, the Secretary of State shall consult the Scottish Ministers before making the order.
+
+[[^F212](2A) Where the power designated by the order made under subsection (1) is a power conferred in relation to Northern Ireland, the Secretary of State shall consult the Department of Justice in Northern Ireland before making the order.]
+
+(3) The power to make an order under subsection (1) shall be exercisable by statutory instrument; and no such order shall be made unless a draft of it has been laid before Parliament and approved by a resolution of each House.
+
+(4) In this section “modification” includes any exclusion, extension or application.
+
+#### 70 Consequential applications and amendments of enactments
+
+Schedule 2 (which applies enactments in relation to provision made by this Part and contains minor and consequential amendments) shall have effect.
+
+## Part 3 — Police and Criminal Evidence and the Terrorism Act
+
+### Arrestable offences
+
+#### 71 Arrestable offences
+
+[^F213]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 72 Importation of indecent or obscene material
+
+[^F214]In Part 1 of Schedule 5 to each of the 1984 Act and the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989 1341 (N.I. 12)) (serious arrestable offences), after paragraph 8 there shall be inserted—
+
+> **[^F214]9**
+>
+> [^F214]An offence under section 170 of the Customs and Excise Management Act 1979 (c. 2) of being knowingly concerned, in relation to any goods, in any fraudulent evasion or attempt at evasion of a prohibition in force with respect to the goods under section 42 of the Customs Consolidation Act 1876 (c. 36) (prohibition on importing indecent or obscene articles).
+
+### Detention and arrest
+
+#### 73 Use of video and telephone links for decisions about detention
+
+(1) The 1984 Act shall be amended as follows.
+
+(2) After section 40 there shall be inserted—
+
+> **40A Use of telephone for review under s. 40**
+>
+> (1) This section applies, notwithstanding anything in section 40 above, where in the case of a person who has been arrested but not charged—
+>
+> (a) it is not reasonably practicable for an officer of at least the rank of inspector to be present in the police station where that person is held to carry out any review of that person’s detention that is required by subsection (1)(b) of that section; and
+>
+> (b) the review is not one which regulations under section 45A below authorise to be carried out using video-conferencing facilities, or is one which it is not reasonably practicable, in the circumstances, to carry out using any such facilities.
+>
+> (2) The review may be carried out by an officer of at least the rank of inspector who has access to a means of communication by telephone to persons in the police station where the arrested person is held.
+>
+> (3) Where any review is carried out under this section by an officer who is not present at the station where the arrested person is held—
+>
+> (a) any obligation of that officer to make a record in connection with the carrying out of the review shall have effect as an obligation to cause another officer to make the record;
+>
+> (b) any requirement for the record to be made in the presence of the arrested person shall apply to the making of that record by that other officer; and
+>
+> (c) the requirements under section 40(12) and (13) above for—
+>
+> (i) the arrested person, or
+>
+> (ii) a solicitor representing him,
+>
+> to be given any opportunity to make representations (whether in writing or orally) to that officer shall have effect as a requirement for that person, or such a solicitor, to be given an opportunity to make representations in a manner authorised by subsection (4) below.
+>
+> (4) Representations are made in a manner authorised by this subsection—
+>
+> (a) in a case where facilities exist for the immediate transmission of written representations to the officer carrying out the review, if they are made either—
+>
+> (i) orally by telephone to that officer; or
+>
+> (ii) in writing to that officer by means of those facilities;
+>
+> and
+>
+> (b) in any other case, if they are made orally by telephone to that officer.
+>
+> (5) In this section “video-conferencing facilities” has the same meaning as in section 45A below.
+
+(3) After section 45 there shall be inserted—
+
+> **45A Use of video-conferencing facilities for decisions about detention**
+>
+> (1) Subject to the following provisions of this section, the Secretary of State may by regulations provide that, in the case of an arrested person who is held in a police station, some or all of the functions mentioned in subsection (2) may be performed (notwithstanding anything in the preceding provisions of this Part) by an officer who—
+>
+> (a) is not present in that police station; but
+>
+> (b) has access to the use of video-conferencing facilities that enable him to communicate with persons in that station.
+>
+> (2) Those functions are—
+>
+> (a) the functions in relation to an arrested person taken to a police station that is not a designated police station which, in the case of an arrested person taken to a station that is a designated police station, are functions of a custody officer under section 37, 38 or 40 above; and
+>
+> (b) the function of carrying out a review under section 40(1)(b) above (review, by an officer of at least the rank of inspector, of the detention of person arrested but not charged).
+>
+> (3) Regulations under this section shall specify the use to be made in the performance of the functions mentioned in subsection (2) above of the facilities mentioned in subsection (1) above.
+>
+> (4) Regulations under this section shall not authorise the performance of any of the functions mentioned in subsection (2)(a) above by such an officer as is mentioned in subsection (1) above unless he is a custody officer for a designated police station.
+>
+> (5) Where any functions mentioned in subsection (2) above are performed in a manner authorised by regulations under this section—
+>
+> (a) any obligation of the officer performing those functions to make a record in connection with the performance of those functions shall have effect as an obligation to cause another officer to make the record; and
+>
+> (b) any requirement for the record to be made in the presence of the arrested person shall apply to the making of that record by that other officer.
+>
+> (6) Where the functions mentioned in subsection (2)(b) are performed in a manner authorised by regulations under this section, the requirements under section 40(12) and (13) above for—
+>
+> (a) the arrested person, or
+>
+> (b) a solicitor representing him,
+>
+> to be given any opportunity to make representations (whether in writing or orally) to the person performing those functions shall have effect as a requirement for that person, or such a solicitor, to be given an opportunity to make representations in a manner authorised by subsection (7) below.
+>
+> (7) Representations are made in a manner authorised by this subsection—
+>
+> (a) in a case where facilities exist for the immediate transmission of written representations to the officer performing the functions, if they are made either—
+>
+> (i) orally to that officer by means of the video-conferencing facilities used by him for performing those functions; or
+>
+> (ii) in writing to that officer by means of the facilities available for the immediate transmission of the representations;
+>
+> and
+>
+> (b) in any other case if they are made orally to that officer by means of the video-conferencing facilities used by him for performing the functions.
+>
+> (8) Regulations under this section may make different provision for different cases and may be made so as to have effect in relation only to the police stations specified or described in the regulations.
+>
+> (9) Regulations under this section shall be made by statutory instrument and shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (10) Any reference in this section to video-conferencing facilities, in relation to any functions, is a reference to any facilities (whether a live television link or other facilities) by means of which the functions may be performed with the officer performing them, the person in relation to whom they are performed and any legal representative of that person all able to both see and to hear each other.
+
+#### 74 Authorisation for delay in notifying arrest
+
+In section 56(2)(b) of the 1984 Act (authorisation by a constable of at least the rank of superintendent for a delay in allowing an arrested person to notify someone of his arrest and detention), for “superintendent” there shall be substituted “ inspector ”.
+
+#### 75 Use of video links for proceedings about Terrorism Act detention
+
+In paragraph 33 of Schedule 8 to the Terrorism Act 2000 (c. 11) (representation at a hearing for a warrant of further detention or for the extension or further extension of the period specified in such a warrant), after sub-paragraph (3) there shall be inserted—
+
+> (4) A judicial authority may, after giving an opportunity for representations to be made by or on behalf of the applicant and the person to whom the application relates, direct—
+>
+> (a) that the hearing of the application must be conducted, and
+>
+> (b) that all representations by or on behalf of a person for the purposes of the hearing must be made,
+>
+> by such means (whether a live television link or other means) falling within sub-paragraph (5) as may be specified in the direction and not in the presence (apart from by those means) of the applicant, of the person to whom the application relates or of any legal representative of that person.
+>
+> (5) A means of conducting the hearing and of making representations falls within this sub-paragraph if it allows the person to whom the application relates and any legal representative of his (without being present at the hearing and to the extent that they are not excluded from it under sub-paragraph (3))—
+>
+> (a) to see and hear the judicial authority and the making of representations to it by other persons; and
+>
+> (b) to be seen and heard by the judicial authority.
+>
+> (6) If the person to whom the application relates wishes to make representations about whether a direction should be given under sub-paragraph (4), he must do so by using the facilities that will be used if the judicial authority decides to give a direction under that sub-paragraph.
+>
+> (7) Sub-paragraph (2) applies to the hearing of representations about whether a direction should be given under sub-paragraph (4) in the case of any application as it applies to a hearing of the application.
+>
+> (8) A judicial authority shall not give a direction under sub-paragraph (4) unless—
+>
+> (a) it has been notified by the Secretary of State that facilities are available at the place where the person to whom the application relates is held for the judicial authority to conduct a hearing by means falling within sub-paragraph (5); and
+>
+> (b) that notification has not been withdrawn.
+>
+> (9) If in a case where it has power to do so a judicial authority decides not to give a direction under sub-paragraph (4), it shall state its reasons for not giving it.
+
+### Codes of practice
+
+#### 76 Visual recording of interviews
+
+(1) After section 60 of the 1984 Act (tape recording of interviews) there shall be inserted—
+
+> **60A Visual recording of interviews**
+>
+> (1) The Secretary of State shall have power—
+>
+> (a) to issue a code of practice for the visual recording of interviews held by police officers at police stations; and
+>
+> (b) to make an order requiring the visual recording of interviews so held, and requiring the visual recording to be in accordance with the code for the time being in force under this section.
+>
+> (2) A requirement imposed by an order under this section may be imposed in relation to such cases or police stations in such areas, or both, as may be specified or described in the order.
+>
+> (3) An order under subsection (1) above shall be made by statutory instrument and shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (4) In this section—
+>
+> (a) references to any interview are references to an interview of a person suspected of a criminal offence; and
+>
+> (b) references to a visual recording include references to a visual recording in which an audio recording is comprised.
+
+(2) In section 67(2) of the 1984 Act (procedure for codes of practice under section 60 or 66), after “60” there shall be inserted “ , 60A ”.
+
+#### 77 Codes of practice
+
+In section 67 of the 1984 Act (procedure in relation to a code of practice under section 60, 60A or 66), after subsection (7) there shall be inserted—
+
+> (7A) Subject to subsection (7B) below, the Secretary of State may by order provide that a code of practice for the time being in force is to be treated as having effect with such modifications as may be set out in the order.
+>
+> (7B) The effect of the modifications made by an order under subsection (7A) above must be confined to one or more of the following—
+>
+> (a) the effect of the code in relation to such area of England and Wales as may be specified in the order;
+>
+> (b) the effect of the code during such period, not exceeding two years, as may be so specified;
+>
+> (c) the effect of the order in relation to such offences or descriptions of offender as may be so specified.
+>
+> (7C) An order under subsection (7A) above shall be made by statutory instrument and shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### Fingerprints and samples
+
+#### 78 Taking fingerprints
+
+(1) In section 27 of the 1984 Act (requirement to attend police station for fingerprinting), after subsection (1) there shall be inserted—
+
+> (1A) Where a person convicted of a recordable offence has already had his fingerprints taken as mentioned in paragraph (c) of subsection (1) above, that fact (together with any time when he has been in police detention for the offence) shall be disregarded for the purposes of that subsection if—
+>
+> (a) the fingerprints taken on the previous occasion do not constitute a complete set of his fingerprints; or
+>
+> (b) some or all of the fingerprints taken on the previous occasion are not of sufficient quality to allow satisfactory analysis, comparison or matching.
+>
+> (1B) Subsections (1) and (1A) above apply—
+>
+> (a) where a person has been given a caution in respect of a recordable offence which, at the time of the caution, he has admitted, or
+>
+> (b) where a person has been warned or reprimanded under section 65 of the Crime and Disorder Act 1998 (c. 37) for a recordable offence,
+>
+> as they apply where a person has been convicted of an offence, and references in this section to a conviction shall be construed accordingly.
+
+(2) In section 61(3)(a) of the 1984 Act (compulsory fingerprinting under the authorisation of a police officer of at least the rank of superintendent), for “superintendent” there shall be substituted “ inspector ”.
+
+(3) After section 61(3) of the 1984 Act there shall be inserted—
+
+> (3A) Where a person charged with a recordable offence or informed that he will be reported for such an offence has already had his fingerprints taken as mentioned in paragraph (b)(ii) of subsection (3) above, that fact shall be disregarded for the purposes of that subsection if—
+>
+> (a) the fingerprints taken on the previous occasion do not constitute a complete set of his fingerprints; or
+>
+> (b) some or all of the fingerprints taken on the previous occasion are not of sufficient quality to allow satisfactory analysis, comparison or matching (whether in the case in question or generally).
+
+(4) After section 61(4) of the 1984 Act there shall be inserted—
+
+> (4A) The fingerprints of a person who has answered to bail at a court or police station may be taken without the appropriate consent at the court or station if—
+>
+> (a) the court, or
+>
+> (b) an officer of at least the rank of inspector,
+>
+> authorises them to be taken.
+>
+> (4B) A court or officer may only give an authorisation under subsection (4A) if—
+>
+> (a) the person who has answered to bail has answered to it for a person whose fingerprints were taken on a previous occasion and there are reasonable grounds for believing that he is not the same person; or
+>
+> (b) the person who has answered to bail claims to be a different person from a person whose fingerprints were taken on a previous occasion.
+
+(5) In section 61(5) of the 1984 Act (authorisation to be in writing or oral but to be confirmed in writing), after “(3)(a)” there shall be inserted “ or (4A) ”.
+
+(6) In section 61(6) of the 1984 Act (compulsory fingerprinting of persons convicted of recordable offences), for “he has been convicted of a recordable offence” there shall be substituted—
+
+> (a) he has been convicted of a recordable offence;
+>
+> (b) he has been given a caution in respect of a recordable offence which, at the time of the caution, he has admitted; or
+>
+> (c) he has been warned or reprimanded under section 65 of the Crime and Disorder Act 1998 (c. 37) for a recordable offence.
+
+[^F215]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) In section 65(1) of the 1984 Act (supplementary provisions of Part 5), for the definition of “fingerprints” there shall be substituted—
+
+> “fingerprints”, in relation to any person, means a record (in any form and produced by any method) of the skin pattern and other physical characteristics or features of—
+>
+> (a) any of that person’s fingers; or
+>
+> (b) either of his palms;
+
+.
+
+(9) Section 39 of the Criminal Justice Act 1948 (c. 58) (proof of previous convictions by fingerprints) shall cease to have effect.
+
+#### 79 Authority for intimate searches
+
+In subsections (1) and (5) of section 55 of the 1984 Act (authorisation by a constable of at least the rank of superintendent of an intimate search or the use for such a search of a person without the specified qualification), for “superintendent”, in each place where it occurs, there shall be substituted “ inspector ”.
+
+#### 80 Samples
+
+(1) In sections 62(1)(a) and (1A)(a) and 63(3)(b) of the 1984 Act (authorisation of a police officer of or above the rank of superintendent required for the taking of an intimate or non-intimate sample), for the word “superintendent”, in each place where it occurs, there shall be substituted “ inspector ”.
+
+(2) [^F216]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) After section 63(5) of the 1984 Act there shall be inserted—
+
+> (5A) An officer shall not give an authorisation under subsection (3) above for the taking from any person of a non-intimate sample consisting of a skin impression if—
+>
+> (a) a skin impression of the same part of the body has already been taken from that person in the course of the investigation of the offence; and
+>
+> (b) the impression previously taken is not one that has proved insufficient.
+
+[^F217]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Section 65 of the 1984 Act (supplementary provisions of Part 5) shall become subsection (1) of that section and—
+
+(a) after “this Act—” there shall be inserted—
+
+> “analysis”, in relation to a skin impression, includes comparison and matching;
+
+(b) in the definition of “non-intimate sample”, for paragraph (e) (footprints etc.) there shall be substituted—
+
+> (e) a skin impression;
+
+(c) after the definition of “registered dentist” there shall be inserted—
+
+> “skin impression”, in relation to any person, means any record (other than a fingerprint) which is a record (in any form and produced by any method) of the skin pattern and other physical characteristics or features of the whole or any part of his foot or of any other part of his body;
+
+and
+
+(d) in the definition of “sufficient” and “insufficient”, after “means” there shall be inserted “ (subject to subsection (2) below) ”.
+
+(6) After subsection (1) of section 65 of the 1984 Act there shall be inserted—
+
+> (2) References in this Part of this Act to a sample’s proving insufficient include references to where, as a consequence of—
+>
+> (a) the loss, destruction or contamination of the whole or any part of the sample,
+>
+> (b) any damage to the whole or a part of the sample, or
+>
+> (c) the use of the whole or a part of the sample for an analysis which produced no results or which produced results some or all of which must be regarded, in the circumstances, as unreliable,
+>
+> the sample has become unavailable or insufficient for the purpose of enabling information, or information of a particular description, to be obtained by means of analysis of the sample.
+
+#### 81 Speculative searches
+
+(1) In subsection (1)(a) of section 63A of the 1984 Act (speculative searches against records held by or on behalf of specified police forces), for “a police force (or police forces) falling within subsection (1A) below or” there shall be substituted “ any one or more relevant law-enforcement authorities or which ”.
+
+(2) For subsection (1A) of that section (specified police forces) there shall be substituted—
+
+> (1A) In subsection (1) above “relevant law-enforcement authority” means—
+>
+> (a) a police force;
+>
+> (b) the National Criminal Intelligence Service;
+>
+> (c) the National Crime Squad;
+>
+> (d) a public authority (not falling within paragraphs (a) to (c)) with functions in any part of the British Islands which consist of or include the investigation of crimes or the charging of offenders;
+>
+> (e) any person with functions in any country or territory outside the United Kingdom which—
+>
+> (i) correspond to those of a police force; or
+>
+> (ii) otherwise consist of or include the investigation of conduct contrary to the law of that country or territory, or the apprehension of persons guilty of such conduct;
+>
+> (f) any person with functions under any international agreement which consist of or include the investigation of conduct which is—
+>
+> (i) unlawful under the law of one or more places,
+>
+> (ii) prohibited by such an agreement, or
+>
+> (iii) contrary to international law,
+>
+> or the apprehension of persons guilty of such conduct.
+>
+> (1B) The reference in subsection (1A) above to a police force is a reference to any of the following—
+>
+> (a) any police force maintained under section 2 of the Police Act 1996 (c. 16) (police forces in England and Wales outside London);
+>
+> (b) the metropolitan police force;
+>
+> (c) the City of London police force;
+>
+> (d) any police force maintained under or by virtue of section 1 of the Police (Scotland) Act 1967 (c. 77);
+>
+> (e) the Police Service of Northern Ireland;
+>
+> (f) the Police Service of Northern Ireland Reserve;
+>
+> (g) the Ministry of Defence Police;
+>
+> (h) the Royal Navy Regulating Branch;
+>
+> (i) the Royal Military Police;
+>
+> (j) the Royal Air Force Police;
+>
+> (k) the Royal Marines Police;
+>
+> (l) the British Transport Police;
+>
+> (m) the States of Jersey Police Force;
+>
+> (n) the salaried police force of the Island of Guernsey;
+>
+> (o) the Isle of Man Constabulary.
+>
+> (1C) Where—
+>
+> (a) fingerprints or samples have been taken from any person in connection with the investigation of an offence but otherwise than in circumstances to which subsection (1) above applies, and
+>
+> (b) that person has given his consent in writing to the use in a speculative search of the fingerprints or of the samples and of information derived from them,
+>
+> the fingerprints or, as the case may be, those samples and that information may be checked against any of the fingerprints, samples or information mentioned in paragraph (a) or (b) of that subsection.
+>
+> (1D) A consent given for the purposes of subsection (1C) above shall not be capable of being withdrawn.
+
+#### [^F218]82 Restriction on use and destruction of fingerprints and samples
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 83 Provision for Northern Ireland corresponding to s. 82
+
+(1) Article 64 of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989 1341 (N.I. 12)) (destruction of fingerprints and samples) shall be amended as follows.
+
+(2) For paragraphs (1) and (2) (obligation to destroy fingerprints and samples of persons who are not prosecuted or who are cleared) there shall be substituted—
+
+> (1A) Where—
+>
+> (a) fingerprints or samples are taken from a person in connection with the investigation of an offence; and
+>
+> (b) paragraph (3) does not require them to be destroyed,
+>
+> the fingerprints or samples may be retained after they have fulfilled the purposes for which they were taken but shall not be used by any person except for purposes related to the prevention or detection of crime, the investigation of an offence or the conduct of a prosecution.
+>
+> (1B) In paragraph (1A)—
+>
+> (a) the reference to using a fingerprint includes a reference to allowing any check to be made against it under Article 63A(1) and to disclosing it to any person;
+>
+> (b) the reference to using a sample includes a reference to allowing any check to be made under Article 63A(1) against it or against information derived from it and to disclosing it or any such information to any person;
+>
+> (c) the reference to crime includes a reference to any conduct which—
+>
+> (i) constitutes one or more criminal offences (whether under the law of a part of the United Kingdom or of a country or territory outside the United Kingdom); or
+>
+> (ii) is, or corresponds to, any conduct which, if it all took place in any one part of the United Kingdom, would constitute one or more criminal offences;
+>
+> and
+>
+> (d) the references to an investigation and to a prosecution include references, respectively, to any investigation outside the United Kingdom of any crime or suspected crime and to a prosecution brought in respect of any crime in a country or territory outside the United Kingdom.
+
+(3) In paragraph (3), for “paragraph (3A)” there shall be substituted “ the following provisions of this Article ”.
+
+(4) For paragraphs (3A) and (3B) (power to retain samples for elimination purposes and restriction on use) there shall be substituted—
+
+> (3AA) Samples and fingerprints are not required to be destroyed under paragraph (3) if—
+>
+> (a) they were taken for the purposes of the investigation of an offence of which a person has been convicted; and
+>
+> (b) a sample or, as the case may be, fingerprint was also taken from the convicted person for the purposes of that investigation.
+>
+> (3AB) Subject to paragraph (3AC), where a person is entitled under paragraph (3) to the destruction of any fingerprint or sample taken from him (or would be but for paragraph (3AA)), neither the fingerprint nor the sample, nor any information derived from the sample, shall be used—
+>
+> (a) in evidence against the person who is or would be entitled to the destruction of that fingerprint or sample; or
+>
+> (b) for the purposes of the investigation of any offence;
+>
+> and paragraph (1B) applies for the purposes of this paragraph as it applies for the purposes of paragraph (1A).
+>
+> (3AC) Where a person from whom a fingerprint or sample has been taken consents in writing to its retention—
+>
+> (a) that sample need not be destroyed under paragraph (3); and
+>
+> (b) paragraph (3AB) shall not restrict the use that may be made of the fingerprint or sample or, in the case of a sample, of any information derived from it;
+>
+> and a consent given for the purposes of this paragraph shall not be capable of being withdrawn.
+>
+> (3AD) For the purposes of paragraph (3AC) it shall be immaterial whether the consent is given at, before or after the time when the entitlement to the destruction of the fingerprint or sample arises.
+
+(5) In paragraph (8)(a) (saving for power conferred by Immigration Act 1971 (c. 77)), after “1971” there shall be inserted “ or section 20 of the Immigration and Asylum Act 1999 (c. 33) (disclosure of police information to the Secretary of State for use for immigration purposes); ”.
+
+(6) The fingerprints, samples and information the retention and use of which, in accordance with the amended provisions of Article 64 of the Order of 1989, is authorised by this section include—
+
+(a) fingerprints and samples the destruction of which should have taken place before the commencement of this section, but did not; and
+
+(b) information deriving from any such samples or from samples the destruction of which did take place, in accordance with that Article, before the commencement of this section.
+
+#### [^F219]84 Amendment of Terrorism Act 2000 equivalent to s. 82
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Persons authorised by the Secretary of State
+
+#### 85 Power to apply 1984 Act provisions
+
+After section 114 of the 1984 Act (application of Act to Customs and Excise) there shall be inserted—
+
+> **114A Power to apply Act to officers of the Secretary of State etc.**
+>
+> (1) The Secretary of State may by order direct that—
+>
+> (a) the provisions of Schedule 1 to this Act so far as they relate to special procedure material, and
+>
+> (b) the other provisions of this Act so far as they relate to the provisions falling within paragraph (a) above,
+>
+> shall apply, with such modifications as may be specified in the order, for the purposes of investigations falling within subsection (2) as they apply for the purposes of investigations of offences conducted by police officers.
+>
+> (2) An investigation falls within this subsection if—
+>
+> (a) it is conducted by an officer of the department of the Secretary of State for Trade and Industry or by another person acting on that Secretary of State’s behalf;
+>
+> (b) it is conducted by that officer or other person in the discharge of a duty to investigate offences; and
+>
+> (c) the investigation relates to a serious arrestable offence or to anything which there are reasonable grounds for suspecting has involved the commission of a serious arrestable offence.
+>
+> (3) The investigations for the purposes of which provisions of this Act may be applied with modifications by an order under this section include investigations of offences committed, or suspected of having been committed, before the coming into force of the order or of this section.
+>
+> (4) An order under this section shall be made by statutory instrument and shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### Execution of process in other domestic jurisdictions
+
+#### 86 Process for obtaining excluded and special procedure material
+
+(1) In section 9 of the 1984 Act (which contains provision introducing the provisions of Schedule 1 to that Act for obtaining access to excluded and special procedure material), after subsection (2) there shall be inserted—
+
+> (2A) Section 4 of the Summary Jurisdiction (Process) Act 1881 (c. 24) (which includes provision for the execution of process of English courts in Scotland) and section 29 of the Petty Sessions (Ireland) Act 1851 (c. 93) (which makes equivalent provision for execution in Northern Ireland) shall each apply to any process issued by a circuit judge under Schedule 1 to this Act as it applies to process issued by a magistrates’ court under the Magistrates’ Courts Act 1980 (c. 43).
+
+(2) In section 120(5) of that Act (provisions extending to the United Kingdom), after the entry for section 6(3) of that Act there shall be inserted—
+
+> section 9(2A);
+
+.
+
+(3) Section 27 of the Petty Sessions (Ireland) Act 1851 (which includes provision for the execution of process of Northern Ireland courts in other places) shall apply to any process issued by a county court judge under Schedule 1 to the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989 1341 (N.I. 12)) as it applies to a warrant mentioned in that section.
+
+## Part 4 — Police Training
+
+### The Central Police Training and Development Authority
+
+#### 87 Establishment of the Authority
+
+[^F220]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 88 Functions of the Authority
+
+[^F221]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 89 Setting of objectives by the Secretary of State
+
+[^F222]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 90 The Authority’s annual objectives
+
+[^F223]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 91 Setting of performance targets
+
+[^F224]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 92 Training and development plans
+
+[^F225]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 93 Inspections of the Authority
+
+[^F226]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 94 Power to require reports from the Authority
+
+[^F227]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 95 Annual reports
+
+[^F228]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 96 Secretary of State’s duty to promote efficiency etc. of Authority
+
+[^F229]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Other provisions about training
+
+#### 97 Regulations for police forces
+
+(1) The Secretary of State may make regulations as to—
+
+(a) police training [^F230]. . . ; and
+
+(b) the qualifications for deployment to perform particular tasks of persons serving or employed for policing purposes in England and Wales.
+
+[[^F231](1A) If the College of Policing submits to the Secretary of State a draft of regulations under this section, the Secretary of State shall make regulations in terms of the draft unless the Secretary of State considers that—
+
+(a) doing so would impair the efficiency or effectiveness of the police, or
+
+(b) it would be unlawful to do so, or
+
+(c) it would for some other reason be wrong to do so.
+
+(1B) The Secretary of State may not make regulations under this section unless the text of the regulations has been prepared or approved by the College of Policing.]
+
+(2) Without prejudice to the generality of subsection (1), regulations made by virtue of paragraph (a) of that subsection may make provision with respect to the curriculum for courses of training for persons serving or employed for policing purposes in England and Wales, including the evaluation, approval and manner of devising the curriculum, or any part of it.
+
+(3) In relation to any matter as to which provision may be made by regulations under this section, the regulations may—
+
+(a) authorise or require provision to be made by, or confer discretionary powers on, the Secretary of State, [[^F232]local policing bodies], chief officers of police or other persons; or
+
+(b) authorise or require the delegation by any person of functions conferred on that person by or under the regulations.
+
+[^F233]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) A statutory instrument containing regulations under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+[[^F234](6) In this section—
+
+(a) references to the provision of police training are references to the provision of training and opportunities for professional development for persons serving or employed for policing purposes in England and Wales;
+
+(b) references to the provision of training include references to the provision of assessment and examination services;
+
+(c) references to a person serving or employed for policing purposes in England and Wales are references to a person who is—
+
+(i) a member of a police force in England and Wales,
+
+(ii) a special constable appointed under section 27 of the 1996 Act, [^F235]...
+
+(iii) a person employed for the purposes of a police force in England and Wales] [[^F236]or
+
+(iv) a person designated as a community support volunteer or a policing support volunteer under section 38 of the Police Reform Act 2002.]
+
+#### 98 Directions after inspection identifies training needs
+
+(1) Where a report made to the Secretary of State on an inspection under section 54 of the 1996 Act (functions of inspectors of constabulary) contains recommendations in the case of any police force for the taking of measures relating to—
+
+(a) the provision of training, or
+
+(b) the provision of opportunities for professional development,
+
+the Secretary of State may direct the [[^F237]local policing body] responsible for maintaining that force to take such measures relating to those matters as may be specified in the direction.
+
+(2) A [[^F237]local policing body] shall comply with any direction given to it under this section.
+
+#### 99 Joint provision of training
+
+For section 23(6) of the 1996 Act (collaboration agreements) there shall be substituted—
+
+> (6) In subsection (1)—
+>
+> (a) the reference to members of a police force includes a reference to special constables appointed for the area for which that force is maintained, and
+>
+> (b) the reference to police functions includes a reference to functions with respect to training and the provision of opportunities for professional development.
+
+### Supplemental provisions in relation to police training
+
+#### 100 Orders and regulations under Part 4
+
+(1) Any power of the Secretary of State to make orders or regulations under this Part shall be exercisable by statutory instrument.
+
+(2) Any order or regulations made by the Secretary of State under this Part may make different provision for different cases.
+
+#### 101 Interpretation of Part 4
+
+(1) [^F238]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) For the purposes of this Part the Commissioner of Police for the City of London shall be deemed to be a member of the City of London police force.
+
+#### 102 Consequential amendments relating to police training
+
+The enactments specified in Schedule 4 (amendments consequential on the provisions of this Part) shall have effect with the amendments set out in that Schedule.
+
+#### 103 Transitional arrangements relating to Authority’s establishment etc.
+
+(1) The Secretary of State may, in connection with the coming into force of any provision of this Part, by order make such transitional provision and savings (including provision modifying this Part) as he thinks fit.
+
+(2) The Secretary of State may, for the purpose of facilitating the carrying out by the Authority of their functions or in connection with the coming into force of any provision of this Part, by order make such provision as he thinks fit—
+
+(a) for the transfer and apportionment of property and for the transfer, apportionment and creation of rights and liabilities;
+
+(b) for the transfer of members of police forces in England and Wales and other persons.
+
+(3) An order under this section may—
+
+(a) provide for the Secretary of State, or any other person nominated by or in accordance with the order, to determine any matter requiring determination under or in consequence of the order; and
+
+(b) make provision as to the payment of fees charged, or expenses incurred, by any person nominated to determine any matter by virtue of paragraph (a).
+
+(4) A statutory instrument containing an order under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## Part 5 — Police Organisation
+
+### Police authorities etc.
+
+#### 104 Vice-chairmen
+
+(1) In Schedule 2 to the 1996 Act (police authorities outside London), after paragraph 9 there shall be inserted—
+
+> **9A Vice-chairmen**
+>
+> (1) At an annual meeting a police authority may appoint one or more vice-chairmen from among its members.
+>
+> (2) The making of appointments under sub-paragraph (1) shall be the first business transacted at the meeting after the appointment of the chairman.
+>
+> (3) Where a vice-chairman ceases to hold office at any time between annual meetings, a police authority may make an appointment to fill the vacancy at any meeting of the authority held more than fourteen days after the occurrence of the vacancy.
+>
+> (4) Subject to any standing orders made by a police authority, anything authorised or required to be done by, to or before their chairman may be done by, to or before any vice-chairman of the authority.
+
+(2) In Schedule 2A to that Act (the Metropolitan Police Authority), after paragraph 6 there shall be inserted—
+
+> **6A Vice-chairmen**
+>
+> (1) At an annual meeting the Metropolitan Police Authority may appoint one or more vice-chairmen from among its members.
+>
+> (2) The making of appointments under sub-paragraph (1) shall be the first business transacted at the meeting after the appointment of the chairman.
+>
+> (3) Where a vice-chairman ceases to hold office at any time between annual meetings, the Metropolitan Police Authority may make an appointment to fill the vacancy at any meeting of the Authority held more than fourteen days after the occurrence of the vacancy.
+>
+> (4) Subject to any standing orders made by the Metropolitan Police Authority, anything authorised or required to be done by, to or before their chairman may be done by, to or before any vice-chairman of the authority.
+
+(3) [^F239]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In the following provisions (tenure of office, eligibility for reappointment and validity of acts of chairman and members of police authorities etc.)—
+
+(a) paragraphs 17(1) and 21 to 23 of Schedule 2 to the 1996 Act,[[^F240] and]
+
+(b) paragraphs 12(1) and 16 to 18 of Schedule 2A to that Act, [^F241]. . .
+
+(c) [^F241]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+after “chairman”, wherever it occurs, there shall be inserted “ or vice-chairman ”.
+
+(5) In paragraph 24 of Schedule 2 to the 1996 Act, paragraph 19 of Schedule 2A to that Act and paragraph 16 of Schedule 2 to the 1997 Act (validity of acts)—
+
+(a) after “of chairman”, in each case, there shall be inserted, “ by a vacancy for a vice-chairman ”; and
+
+(b) after “as chairman”, in each case, there shall be inserted “ or vice-chairman ”.
+
+(6) In paragraph 25 of Schedule 2 to the 1996 Act (allowances for members of police authorities)—
+
+(a) in sub-paragraph (1), after “chairman” there shall be inserted “ , vice-chairmen ”; and
+
+(b) in sub-paragraph (2), after “chairman,” there shall be inserted “ a vice-chairman, ”.
+
+(7) In paragraph 20 of Schedule 2A to the 1996 Act (allowances for members of the Metropolitan Police Authority etc.)—
+
+(a) in sub-paragraph (1), after “chairman” there shall be inserted “ , vice-chairmen ”; and
+
+(b) in sub-paragraph (3), after “chairman,” there shall be inserted “ a vice-chairman, ”.
+
+(8) [^F242]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) In paragraph 6B(b) of Schedule 12 to the Local Government Act 1972 (c. 70) (persons to preside in the case of a police authority in the absence of the chairman), for the words from “another member” to “preside” there shall be substituted
+
+> the following person shall preside—
+>
+> (i) in a case in which only one vice-chairman is present at the meeting, that vice-chairman;
+>
+> (ii) in a case in which more than one vice-chairman is present at the meeting, the vice-chairman chosen by the members present; and
+>
+> (iii) in any other case, the member chosen by the members present;
+
+.
+
+#### 105 Political balance on police authorities
+
+(1) In paragraph 4(1) of Schedule 2 to the 1996 Act (balance of parties on council to be reflected in appointments to police authority), for the words from “the members for” onwards there shall be substituted
+
+> in the case of the members for whose appointment it is responsible, the proportion who are members of any given party—
+>
+> (a) where it is a council that is responsible for their appointment, is the same as the proportion of the members of the council who are members of that party; and
+>
+> (b) where it is a joint committee that is so responsible, is the same as the proportion of the members of the relevant councils taken as a whole who are members of that party.
+
+(2) In paragraph 2(3) of Schedule 2A to that Act (which makes corresponding provision for the Metropolitan Police Authority), for the words from “the members for” onwards there shall be substituted “ in the case of the members of the Authority who are members of the London Assembly appointed under this paragraph, the proportion who are members of any given party is the same as the proportion of the members of the London Assembly who are members of that party ”.
+
+#### 106 Removal of age qualification for membership
+
+(1) The following provisions (which disqualify persons of more than seventy years old from membership of police authorities etc. and from selection panels of police authorities) shall cease to have effect—
+
+(a) paragraph 10 of Schedule 2 to the 1996 Act (police authorities outside London);
+
+(b) paragraph 1(b) of Schedule 2 to the 1997 Act (service authorities for the National Crime Squad and the National Criminal Intelligence Service).
+
+(2) Accordingly, in paragraphs 12 to 14 of Schedule 2 to the 1996 Act, for the words “paragraphs 10 and 11”, wherever they occur, there shall be substituted “ paragraph 11 ”.
+
+#### 107 Payment of allowances to authority members etc.
+
+(1) In each of the following provisions (which provide for the members of certain authorities to be made such payments by way of reimbursement of expenses and allowances as the Secretary of State may determine), the words “and allowances” shall be omitted—
+
+(a) paragraph 25(1) of Schedule 2 to the 1996 Act (police authorities outside London);
+
+(b) paragraph 20(1) of Schedule 2A to that Act (the Metropolitan Police Authority);
+
+(c) [^F243]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) After paragraph 25 of Schedule 2 to the 1996 Act (the police authorities outside London) there shall be inserted—
+
+> **25A Allowances for members etc.**
+>
+> (1) Subject to the following provisions of this paragraph, a police authority may make to its chairman, vice-chairmen and other members such payments by way of allowances as the authority may determine.
+>
+> (2) Subject to sub-paragraph (6), no payment shall be made under this paragraph except in accordance with arrangements published by the authority not more than twelve months before the making of the payment.
+>
+> (3) A police authority may from time to time revise any arrangements made for the purposes of this paragraph; but, no revisions shall take effect until published by the authority.
+>
+> (4) It shall be the duty of a police authority, when making or revising any arrangements made for the purposes of this paragraph, to have regard to any guidance given by the Secretary of State about the payment of allowances.
+>
+> (5) Payments made under this paragraph may differ according to whether the recipient is the chairman, a vice chairman or other member or is appointed under paragraph 2, 5 or 8.
+>
+> (6) The Secretary of State may by regulations impose such limits as may be provided for by or under the regulations on the payments that may be made under this paragraph.
+>
+> (7) A statutory instrument containing regulations under sub-paragraph (6) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> **25B Members of standards committees**
+>
+> Paragraphs 25 and 25A shall have effect in relation to a police authority as if references to members of the authority included references to persons who are not members of the authority but are members of the authority’s standards committee; and the power to make different payments according to the recipient shall include power to make different payments to persons who are not members of the authority but are members of the authority’s standards committee.
+
+(3) After paragraph 20 of Schedule 2A to that Act (the Metropolitan Police Authority) there shall be inserted—
+
+> **20A Allowances for members etc.**
+>
+> (1) Subject to the following provisions of this paragraph, the Metropolitan Police Authority may make to its chairman, vice-chairmen and other members such payments by way of allowances as that Authority may determine.
+>
+> (2) Subject to sub-paragraphs (6) and (7), no payment shall be made under this paragraph except in accordance with arrangements published by the Metropolitan Police Authority not more than twelve months before the making of the payment.
+>
+> (3) The Metropolitan Police Authority may from time to time revise any arrangements made for the purposes of this paragraph; but, no revisions shall take effect until published by that Authority.
+>
+> (4) It shall be the duty of the Metropolitan Police Authority, when making or revising any arrangements made for the purposes of this paragraph, to have regard to any guidance given by the Secretary of State about the payment of allowances.
+>
+> (5) Payments made under this paragraph may differ according to whether the recipient is the chairman, a vice chairman or one of the other members of the Metropolitan Police Authority, or is appointed under paragraph 3 or 5.
+>
+> (6) No payment shall be made under this paragraph to any member of the Metropolitan Police Authority who is also a member of the London Assembly.
+>
+> (7) The Secretary of State may by regulations impose such limits as may be provided for by or under the regulations on the payments that may be made under this paragraph.
+>
+> (8) A statutory instrument containing regulations under sub-paragraph (7) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> **20B Members of standards committees**
+>
+> Paragraphs 20 and 20A shall have effect in relation to the Metropolitan Police Authority as if references to the members of that Authority included references to persons who are not members of that Authority but are members of the Authority’s standards committee; and the power to make different payments according to the recipient shall include power to make different payments to persons who are not members of that Authority but are members of the Authority’s standards committee.
+
+(4) [^F244]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Constitution of the Service Authorities for NCIS and NCS
+
+#### 108 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F245]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 109 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F246]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Financial provisions for NCIS Service Authority
+
+#### 110 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F247]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 111 Funding of NCIS Service Authority
+
+[^F248]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 112 Duty of NCIS Service Authority to prepare accounts
+
+[^F249]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Financial provisions for NCS Service Authority
+
+#### 113 Preparation of budget statement by NCS Service Authority
+
+[^F250]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 114 Funding of NCS Service Authority
+
+[^F251]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 115 Duty of NCS Service Authority to prepare accounts
+
+[^F252]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Director General and other members of NCIS
+
+#### 116 Appointment of NCIS Director General
+
+[^F253]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 117 Removal of NCIS members (other than the Director General)
+
+[^F254]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 118 Removal of NCIS Director General, etc.
+
+[^F255]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Director General and other members of NCS
+
+#### 119 Appointment of NCS Director General
+
+[^F256]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 120 Removal of NCS members (other than the Director General)
+
+[^F257]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 121 Removal of NCS Director General etc.
+
+[^F258]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Police ranks
+
+#### 122 Deputy Assistant Commissioners of Police of the Metropolis
+
+(1) Before section 9G of the 1996 Act (appointment and removal of Commanders in the metropolitan police force), there shall be inserted—
+
+> **9FA Appointment and removal of Deputy Assistant Commissioners**
+>
+> (1) The ranks that may be held in the metropolitan police force shall include that of Deputy Assistant Commissioner of Police of the Metropolis (“Deputy Assistant Commissioner”).
+>
+> (2) Any appointment of a Deputy Assistant Commissioner shall be made by the Metropolitan Police Authority, but subject to the approval of the Secretary of State and to regulations under section 50.
+>
+> (3) Subsections (1) to (3) of section 9E shall apply in relation to a Deputy Assistant Commissioner as they apply in relation to the Commissioner of Police of the Metropolis.
+>
+> (4) Subsection (3) of this section is without prejudice to—
+>
+> (a) any regulations under section 50, or
+>
+> (b) any regulations under the Police Pensions Act 1976 (c. 35).
+
+(2) In section 9H(2) of that Act (ranks that may be held in the metropolitan police force), for “and” at the end of paragraph (c) there shall be substituted—
+
+> (ca) Deputy Assistant Commissioner of Police of the Metropolis, and
+
+.
+
+(3) [^F259]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 123 Appointment and removal of deputy chief constables
+
+(1) After section 11 of the 1996 Act (appointment and removal of chief constables), there shall be inserted—
+
+> **11A Appointment and removal of deputy chief constables**
+>
+> (1) Every police force maintained under section 2 shall have a deputy chief constable.
+>
+> (2) The appointment of a person to be the deputy chief constable of a police force shall be made, in accordance with regulations under section 50, by the police authority responsible for maintaining that force, but only after consultation with the chief constable and subject to the approval of the Secretary of State.
+>
+> (3) Subsections (2) to (4) of section 11 shall apply in relation to a deputy chief constable as they apply in relation to a chief constable.
+
+(2) In section 13 of that Act (ranks that may be held in police forces)—
+
+(a) in subsection (1), after “chief constable” there shall be inserted “ , deputy chief constable ”; and
+
+(b) subsection (2) shall be omitted.
+
+(3) [^F260]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 124 Power of deputy to exercise functions of chief constable
+
+(1) In section 12 of the 1996 Act (assistant chief constable), subsections (4) to (6) shall be omitted.
+
+(2) After that section, there shall be inserted—
+
+> **12A Power of deputy to exercise functions of chief constable**
+>
+> (1) A deputy chief constable of a police force may exercise or perform any or all of the powers or duties of the chief constable of that force—
+>
+> (a) during any absence, incapacity or suspension from duty of the chief constable,
+>
+> (b) during any vacancy in the office of the chief constable, or
+>
+> (c) at any other time, with the consent of the chief constable.
+>
+> (2) A police authority responsible for maintaining a police force may designate a person holding the rank of assistant chief constable in that force to exercise or perform any or all of the powers or duties of the chief constable of that force—
+>
+> (a) during any absence, incapacity or suspension from duty of both the chief constable and the deputy chief constable, or
+>
+> (b) during any vacancy in the offices of both the chief constable and the deputy chief constable.
+>
+> (3) Only one person shall be authorised to act at any one time by virtue of a designation under subsection (2).
+>
+> (4) The power to act by virtue of subsection (1)(a) or (b) or subsection (2) shall not be exercisable for a continuous period exceeding three months except with the consent of the Secretary of State.
+>
+> (5) The provisions of subsections (1) and (2) shall be without prejudice to any other enactment that makes provision for the exercise by any other person of powers conferred on a chief constable.
+
+#### 125 Chief superintendents
+
+(1) In section 9H(2) of the 1996 Act (ranks that shall be prescribed for the metropolitan police force), after “those of” there shall be inserted “ chief superintendent, ”.
+
+(2) In section 13(1) of that Act (ranks that shall be prescribed for other police forces), after “ranks of” there shall be inserted “ chief superintendent, ”.
+
+(3) In the provisions of that Act that are set out in subsection (4), before the word “superintendent”, wherever occurring, there shall be inserted “ chief ”.
+
+(4) Those provisions are—
+
+(a) section 50(3) (meaning of “senior officer” for the purposes of proceedings in which a member of a police force may be dismissed etc.);
+
+(b) [^F261]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) section 84(1) and (3) (representation at disciplinary and other proceedings).
+
+(5) In Schedule 6 to the 1996 Act (appeals to police appeal tribunals)—
+
+(a) in paragraph 10(a), before “superintendent” there shall be inserted “ chief ”; and
+
+(b) in paragraph 10(c)(i)—
+
+(i) after “of the rank of” there shall be inserted “ chief superintendent or ”; and
+
+(ii) for “that rank” there shall be substituted “ one of those ranks ”.
+
+(6) The amendments of Schedule 6 to that Act by virtue of this section shall not affect any appeal brought by a member of a police force under section 85 of that Act before the coming into force of this section.
+
+### Police pensions etc.
+
+#### 126 Pensions for members of NCIS and NCS
+
+(1) In section 7(2) of the Police Pensions Act 1976 (c. 35) (payment of pensions and contributions into Consolidated Fund or out of moneys provided by Parliament), before paragraph (d) there shall be inserted—
+
+> (ca) the Director General of the National Criminal Intelligence Service;
+>
+> (cb) the Director General of the National Crime Squad;
+>
+> (cc) a police member of the National Criminal Intelligence Service appointed under subsection (1)(b) of section 9 of the Police Act 1997 (c. 50) by virtue of subsection (2)(a) of that section;
+>
+> (cd) a police member of the National Crime Squad appointed under subsection (1)(b) of section 55 of the Police Act 1997 by virtue of subsection (2)(a) of that section;
+
+.
+
+(2) In section 11(1) of that Act (meaning of membership of police force or service in a police force), before paragraph (c) there shall be inserted—
+
+> (ba) service as the Director General of the National Criminal Intelligence Service;
+>
+> (bb) service as the Director General of the National Crime Squad;
+>
+> (bc) service as a police member of the National Criminal Intelligence Service appointed under subsection (1)(b) of section 9 of the Police Act 1997 by virtue of subsection (2)(a) of that section;
+>
+> (bd) service as a police member of the National Crime Squad appointed under subsection (1)(b) of section 55 of the Police Act 1997 by virtue of subsection (2)(a) of that section;
+
+.
+
+(3) In section 11(2) of that Act (meaning of “police authority”), for paragraphs (c) and (d) (service for which the service Authorities for the NCIS and NCS are treated as police authorities) there shall be substituted—
+
+> (c) in relation to any such service as is mentioned in subsection (ba) or (bc) above or any service of the kind described in section 97(1)(ca) of the Police Act 1996 (c. 16) or section 38A(1)(ba) of the Police (Scotland) Act 1967 (c. 77), it means the Service Authority for the National Criminal Intelligence Service;
+>
+> (d) in relation to any such service as is mentioned in subsection (bb) or (bd) above or any service of the kind described in section 97(1)(cb) of the Police Act 1996, it means the Service Authority for the National Crime Squad;
+
+.
+
+(4) In section 11(3)(b) of that Act (meaning of “police force”), after “(ab),” there shall be inserted “ (ba), (bb), (bc), (bd) ”.
+
+#### 127 Pensions for ACPO staff
+
+(1) The persons to whom section 1 of the Superannuation Act 1972 (c. 11) (“the 1972 Act”) applies (persons to or in respect of whom benefits may be provided by schemes under that Act) shall include persons who at any time after the coming into force of this section are serving in employment with the Association of Chief Police Officers of England, Wales and Northern Ireland; and, accordingly, in Schedule 1 to that Act (kinds of employment to which that Act applies), in the entries under the heading “Other bodies”, there shall be inserted, at the appropriate place—
+
+> The Association of Chief Police Officers of England, Wales and Northern Ireland
+
+.
+
+(2) Section 1 of the 1972 Act shall also apply to persons who at any time before the coming into force of this section have ceased to serve with the Association of Chief Police Officers of England, Wales and Northern Ireland.
+
+(3) The Association of Chief Police Officers of England, Wales and Northern Ireland shall pay to the Minister for the Civil Service, at such times as he may direct, such sums as he may determine in respect of any increase attributable to this section in the sums payable under the 1972 Act out of money provided by Parliament.
+
+### Minor and consequential amendments
+
+#### 128 Amendments relating to NCIS and NCS
+
+(1) Schedule 6 to this Act (which makes minor and consequential amendments relating to this Part) shall have effect.
+
+(2) In relation to any time before the coming into force of section 2(3) of the Police (Northern Ireland) Act 2000 (c. 32), the reference to the Northern Ireland Policing Board in Schedule 2A to the 1997 Act (inserted by Schedule 6 to this Act) shall be construed as a reference to the Police Authority for Northern Ireland.
+
+## Part 6 — Miscellaneous and supplemental
+
+### Remands and committals
+
+#### 129 Requirement to give reasons for granting or continuing bail
+
+(1) After section 5(2) of the Bail Act 1976 (c. 63) (supplementary provisions about decisions on bail) there shall be inserted—
+
+> (2A) Where a magistrates’ court or the Crown Court grants bail in criminal proceedings to a person to whom section 4 of this Act applies after hearing representations from the prosecutor in favour of withholding bail, then the court shall give reasons for granting bail.
+>
+> (2B) A court which is by virtue of subsection (2A) above required to give reasons for its decision shall include a note of those reasons in the record of its decision and, if requested to do so by the prosecutor, shall cause the prosecutor to be given a copy of the record of the decision as soon as practicable after the record is made.
+
+(2) After section 5A(1) of that Act (supplementary provisions in cases of police bail) there shall be inserted—
+
+> (1A) Subsections (2A) and (2B) shall be omitted.
+
+(3) After section 5B(8) of that Act (reconsideration of decisions granting bail) there shall be inserted—
+
+> (8A) Where the court, on a reconsideration under this section, refuses to withhold bail from a relevant person after hearing representations from the prosecutor in favour of withholding bail, then the court shall give reasons for refusing to withhold bail.
+>
+> (8B) In subsection (8A) above, “relevant person” means a person to whom section 4(1) (and Schedule 1) of this Act is applicable in accordance with subsection (4) above.
+>
+> (8C) A court which is by virtue of subsection (8A) above required to give reasons for its decision shall include a note of those reasons in any record of its decision and, if requested to do so by the prosecutor, shall cause the prosecutor to be given a copy of any such record as soon as practicable after the record is made.
+
+(4) In Part 1 of Schedule 1 to that Act, paragraph 9A (court to give reasons for granting bail in certain homicide and rape cases) shall be omitted.
+
+#### [^F262]130 Remands and committals to secure accommodation etc
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 131 Monitoring of compliance with bail conditions
+
+(1) In section 3 of the Bail Act 1976 (c. 63) (general provisions), after subsection (6) there shall be inserted—
+
+> (6ZAA) Subject to section 3AA below, if he is a child or young person he may be required to comply with requirements imposed for the purpose of securing the electronic monitoring of his compliance with any other requirement imposed on him as a condition of bail.
+
+(2) After that section there shall be inserted—
+
+> **3AA Electronic monitoring of compliance with bail conditions**
+>
+> (1) A court shall not impose on a child or young person a requirement under section 3(6ZAA) above (an “electronic monitoring requirement”) unless each of the following conditions is satisfied.
+>
+> (2) The first condition is that the child or young person has attained the age of twelve years.
+>
+> (3) The second condition is that—
+>
+> (a) the child or young person is charged with or has been convicted of a violent or sexual offence, or an offence punishable in the case of an adult with imprisonment for a term of fourteen years or more; or
+>
+> (b) he is charged with or has been convicted of one or more imprisonable offences which, together with any other imprisonable offences of which he has been convicted in any proceedings—
+>
+> (i) amount, or
+>
+> (ii) would, if he were convicted of the offences with which he is charged, amount,
+>
+> to a recent history of repeatedly committing imprisonable offences while remanded on bail or to local authority accommodation.
+>
+> (4) The third condition is that the court—
+>
+> (a) has been notified by the Secretary of State that electronic monitoring arrangements are available in each petty sessions area which is a relevant area; and
+>
+> (b) is satisfied that the necessary provision can be made under those arrangements.
+>
+> (5) The fourth condition is that a youth offending team has informed the court that in its opinion the imposition of such a requirement will be suitable in the case of the child or young person.
+>
+> (6) Where a court imposes an electronic monitoring requirement, the requirement shall include provision for making a person responsible for the monitoring; and a person who is made so responsible shall be of a description specified in an order made by the Secretary of State.
+>
+> (7) The Secretary of State may make rules for regulating—
+>
+> (a) the electronic monitoring of compliance with requirements imposed on a child or young person as a condition of bail; and
+>
+> (b) without prejudice to the generality of paragraph (a) above, the functions of persons made responsible for securing the electronic monitoring of compliance with such requirements.
+>
+> (8) Rules under this section may make different provision for different cases.
+>
+> (9) Any power of the Secretary of State to make an order or rules under this section shall be exercisable by statutory instrument.
+>
+> (10) A statutory instrument containing rules made under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (11) In this section “local authority accommodation” has the same meaning as in the Children and Young Persons Act 1969 (c. 54).
+>
+> (12) For the purposes of this section a petty sessions area is a relevant area in relation to a proposed electronic monitoring requirement if the court considers that it will not be practicable to secure the electronic monitoring in question unless electronic monitoring arrangements are available in that area.
+
+(3) In subsection (7) of that section (cases where parent or guardian may be required to secure compliance with requirements), after “(6)” there shall be inserted “ , (6ZAA) ”.
+
+(4) In section 3A(3) of that Act (which modifies section 3 of that Act in its application to bail granted by a custody officer), after “subsections” there shall be inserted “ (6ZAA), ”.
+
+#### [^F263]132 Monitoring of compliance with conditions of non-secure remand
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F264]133 Arrangements for detention in secure training centres
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Criminal records
+
+#### 134 Registration for criminal records purposes
+
+(1) After section 120 of the 1997 Act there shall be inserted—
+
+> **120A Refusal and cancellation of registration**
+>
+> (1) The Secretary of State may refuse to include a person in the register maintained for the purposes of this Part if it appears to him that the registration of that person is likely to make it possible for information to become available to an individual who, in the Secretary of State’s opinion, is not a suitable person to have access to that information.
+>
+> (2) The Secretary of State may remove a person from the register if it appears to the Secretary of State—
+>
+> (a) that the registration of that person is likely to make it possible for information to become available to an individual who, in the Secretary of State’s opinion, is not a suitable person to have access to that information; or
+>
+> (b) that the registration of that person has resulted in information becoming known to such an individual.
+>
+> (3) In determining for the purposes of this section whether an individual is a suitable person to have access to any information, the Secretary of State may have regard, in particular, to—
+>
+> (a) any information relating to that person which concerns a relevant matter;
+>
+> (b) whether that person is included in any list mentioned in section 113(3A) or (3C); and
+>
+> (c) any information provided to the Secretary of State under subsection (4).
+>
+> (4) It shall be the duty of the chief officer of any police force to comply, as soon as practicable after receiving it, with any request by the Secretary of State to provide the Secretary of State with information which—
+>
+> (a) is available to the chief officer;
+>
+> (b) relates to—
+>
+> (i) an applicant for registration;
+>
+> (ii) a registered person; or
+>
+> (iii) an individual who is likely to have access to information in consequence of the countersigning of applications by a particular applicant for registration or by a particular registered person;
+>
+> and
+>
+> (c) concerns a matter which the Secretary of State has notified to the chief officer to be a matter which, in the opinion of the Secretary of State, is relevant to the determination of the suitability of individuals for having access to the information that may be provided in consequence of the countersigning of applications under this Part.
+>
+> (5) In this section “relevant matter” has the same meaning as in section 113.
+
+(2) In section 119 of that Act (sources of information)—
+
+(a) in subsections (1) and (4) (supply of information to the Secretary of State for the purposes of applications under Part V), for “for the purposes of an application under this Part” there shall be substituted
+
+> for the purpose of enabling him to carry out his functions under this Part in relation to—
+>
+> (a) any application for a certificate or for registration; or
+>
+> (b) the determination of whether a person should continue to be a registered person.
+
+;
+
+(b) after subsection (1) there shall be inserted—
+
+> (1A) Any person who keeps a list mentioned in section 113(3A) or (3C) above shall make the contents of that list available to the Secretary of State for the purpose of enabling him to carry out his functions under this Part in relation to—
+>
+> (a) any application for a certificate or for registration; or
+>
+> (b) the determination of whether a person should continue to be a registered person.
+
+and
+
+(c) in subsection (3) (payment for information provided under subsection (2)), for “subsection (2)” there shall be substituted “ section 120A(4) or subsection (2) of this section ”.
+
+(3) [^F265]In section 120(2) of that Act (duty to grant registration), after “Subject to” there shall be inserted [^F265]“ section 120A and ”[^F265].
+
+(4) [^F266]In section 120(3) of that Act (regulations about registration), after paragraph (a) there shall be inserted—
+
+> [^F266]aa [^F266]the nomination, in the case of a body corporate or unincorporate, of the individuals authorised to act for the body in relation to the countersigning of applications under this Part;
+>
+> [^F266]ab [^F266]the refusal by the Secretary of State, on such grounds as may be specified in or determined under the regulations, to accept or to continue to accept the nomination of a person as so authorised;
+
+[^F266].
+
+### Supplemental
+
+#### 135 Ministerial expenditure etc
+
+There shall be paid out of money provided by Parliament—
+
+(a) any expenditure incurred by the Secretary of State for or in connection with the carrying out of his functions under this Act; and
+
+(b) any increase attributable to this Act in the sums which are payable out of money so provided under any other Act.
+
+#### 136 General interpretation
+
+In this Act—
+
+- “the 1984 Act” means the Police and Criminal Evidence Act 1984 (c. 60);
+- “the 1996 Act” means the Police Act 1996 (c. 16); and
+- “the 1997 Act” means the Police Act 1997 (c. 50).
+
+#### 137 Repeals
+
+The enactments and instruments mentioned in Schedule 7 (which include spent provisions) are hereby repealed or (as the case may be) revoked to the extent specified in the third column of that Schedule.
+
+#### 138 Short title, commencement and extent
+
+(1) This Act may be cited as the Criminal Justice and Police Act 2001.
+
+(2) The provisions of this Act, other than this section and sections 42 and 43, 81 to 85, 109, 116(7) and 119(7), shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint; and different days may be appointed under this subsection for different purposes.
+
+(3) An order under subsection (2) may contain such savings as the Secretary of State thinks fit.
+
+(4) Section 85 comes into force at the end of the period of two months beginning with the day on which this Act is passed.
+
+(5) Subject to subsections (6) to (12), this Act extends to England and Wales only.
+
+(6) The following provisions of this Act extend to the United Kingdom—
+
+(a) sections 33 to 38;
+
+(b) Part 2;
+
+(c) section 86(1) and (2);
+
+(d) [^F267]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(e) section 127; and
+
+(f) section 136 and this section.
+
+[^F268]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) Section 126 extends to Great Britain only.
+
+(9) Sections 29, 39 to 41, 72, 75, 84 and 134 extend to England and Wales and Northern Ireland only.
+
+(10) Section 83 extends to Northern Ireland only.
+
+(11) Section 86(3) has the same extent as section 27 of the Petty Sessions (Ireland) Act 1851 (c. 93).
+
+(12) An amendment, repeal or revocation contained in Schedule 4, 6 or 7 has the same extent as the enactment or instrument to which it relates.
+
+## SCHEDULE 1 — Powers of seizure
+
+*Sections 50, 51 & 55*
+
+### Part 1 — Powers to which section 50 applies
+
+#### Police and Criminal Evidence Act 1984 (c. 60)
+
+**1** Each of the powers of seizure conferred by the provisions of Part 2 or 3 of the 1984 Act (police powers of entry, search and seizure).
+
+#### Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989 1341 (N.I. 12))
+
+**2** Each of the powers of seizure conferred by the provisions of Parts 3 and 4 of the Police and Criminal Evidence (Northern Ireland) Order 1989 (police powers of entry, search and seizure).
+
+#### [^F269]...
+
+**[^F269]** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Children and Young Persons (Harmful Publications) Act 1955 (c. 28)
+
+**4** The power of seizure conferred by section 3(1) of the Children and Young Persons (Harmful Publications) Act 1955 (seizure of copies of work to which that Act applies etc.).
+
+#### Obscene Publications Act 1959 (c. 66)
+
+**5** Each of the powers of seizure conferred by section 3(1) and (2) of the Obscene Publications Act 1959 (power to search for and seize obscene materials and documents relating to a connected business).
+
+#### Betting, Gaming and Lotteries Act 1963 (c. 2)
+
+**6** [^F270]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Licensing Act 1964 (c. 26)
+
+**7** [^F271]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Firearms Act 1968 (c. 27)
+
+**8** The power of seizure conferred by section 46 of the Firearms Act 1968 (seizure of firearms etc.).
+
+#### Trade Descriptions Act 1968 (c. 29)
+
+**[^F272]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Theft Act 1968 (c. 60)
+
+**10** The power of seizure conferred by section 26(3) of the Theft Act 1968 (seizure of goods suspected of being stolen).
+
+#### Gaming Act 1968 (c. 65)
+
+**11** [^F273]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Theft Act (Northern Ireland) 1969 (c. 16 (N.I.))
+
+**12** The power of seizure conferred by section 25(3) of the Theft Act (Northern Ireland) 1969 (seizure of goods suspected of being stolen).
+
+#### Taxes Management Act 1970 (c. 9)
+
+**13** [^F274]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Misuse of Drugs Act 1971 (c. 38)
+
+**14** Each of the powers of seizure conferred by the provisions of section 23(2) and (3) of the Misuse of Drugs Act 1971 (power to search for and seize controlled drugs and related documents).
+
+#### Immigration Act 1971 (c. 77)
+
+**15** Each of the powers of seizure conferred by the provisions of sections 28D(3), 28E(5) and 28F(6) of the Immigration Act 1971 (seizure of evidence of offences under that Act).
+
+#### Fair Trading Act 1973 (c. 41)
+
+**[^F275]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Biological Weapons Act 1974 (c. 6)
+
+**17** Each of the powers of seizure conferred by the provisions of section 4(1)(b), (c) and (d) of the Biological Weapons Act 1974 (seizures under a warrant).
+
+#### Prices Act 1974 (c. 24)
+
+**[^F276]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F277]18A** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Consumer Credit Act 1974 (c. 39)
+
+**[^F278]19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Lotteries and Amusements Act 1976 (c. 32)
+
+**20** [^F279]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Protection of Children Act 1978 (c. 37)
+
+**21** The power of seizure conferred by section 4(2) of the Protection of Children Act 1978 (seizure of indecent photographs or pseudo-photographs of children).
+
+#### Protection of Children (Northern Ireland) Order 1978 (S.I. 1978 1047 (N.I. 17))
+
+**22** The power of seizure conferred by Article 4(1) of the Protection of Children (Northern Ireland) Order 1978 (seizure of indecent photographs or pseudo-photographs of children).
+
+#### Customs and Excise Management Act 1979 (c. 2)
+
+**23** The power of seizure conferred by section 118C(4) of the Customs and Excise Management Act 1979 (seizure of evidence of fraud offences).
+
+#### Estate Agents Act 1979 (c. 38)
+
+**[^F280]24** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Indecent Displays (Control) Act 1981 (c. 42)
+
+**25** The power of seizure conferred by section 2(3) of the Indecent Displays (Control) Act 1981 (seizure of indecent matter believed to have been used in the commission of an offence under that Act).
+
+#### Forgery and Counterfeiting Act 1981 (c. 45)
+
+**26** Each of the powers of seizure conferred by the provisions of sections 7(1) and 24(1) of the Forgery and Counterfeiting Act 1981 (seizure of forgeries and counterfeits and of things used for making them etc.).
+
+#### Betting and Gaming Duties Act 1981 (c. 63)
+
+**[^F281]27** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**28** [^F282]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**29** [^F283]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Firearms (Northern Ireland) Order 2004 (S.I. 2004) (N.I. ))
+
+**[[^F284]30** The power of seizure conferred by Article 52 of the Firearms (Northern Ireland) Order 2004 (seizure of firearms, etc.).]
+
+#### Weights and Measures (Northern Ireland) Order 1981 (S.I. 1981 231 (N.I. 10))
+
+**31** [^F285]The power of seizure conferred by paragraph 4 of Schedule 9 to the Weights and Measures (Northern Ireland) Order 1981.
+
+**[^F286]32** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Dogs (Northern Ireland) Order 1983 (S.I. 1983 764 (N.I. 8))
+
+**33** The power of seizure conferred by Article 25C(2) of the Dogs (Northern Ireland) Order 1983 (seizure of evidence of offences).
+
+#### Video Recordings Act 1984 (c. 39)
+
+**34** The power of seizure conferred by section 17(2) of the Video Recordings Act 1984 (seizure of evidence of offences under that Act).
+
+#### Companies Act 1985 (c. 6)
+
+**35** The power of seizure conferred by section 448(3) of the Companies Act 1985 (seizure of documents which have not been produced in compliance with a requirement etc.).
+
+#### Weights and Measures Act 1985 (c. 72)
+
+**[^F287]36** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**37** [^F288]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985 (S.I. 1985 1204 (N.I. 11))
+
+**38** The power of seizure conferred by Article 180(4) of the Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985 (seizure of evidence of offences under that Order).
+
+#### Protection of Military Remains Act 1986 (c. 35)
+
+**39** The power of seizure conferred by section 6(3) of the Protection of Military Remains Act 1986 (seizure of evidence of offences under that Act etc.)
+
+**[^F289]40** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Greater London Council (General Powers) Act 1986 (c. iv)
+
+**41** Any power of seizure conferred by virtue of section 12 of the Greater London Council (General Powers) Act 1986 (seizure of items which may be subject to forfeiture).
+
+#### Companies (Northern Ireland) Order 1986 (S.I. 1986 1032 (N.I. 6))
+
+**[^F290]42** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F291]43** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Criminal Justice Act 1987 (c. 38)
+
+**44** The power of seizure conferred by section 2(5) of the Criminal Justice Act 1987 (seizure of documents for the purposes of an investigation under section 1 of that Act).
+
+#### Consumer Protection Act 1987 (c. 43)
+
+**45** Each of the powers of seizure conferred by the provisions of section [[^F292]29(4)] of the Consumer Protection Act 1987 (seizure for the purposes of ascertaining whether safety provisions have been contravened etc.).
+
+#### Consumer Protection (Northern Ireland) Order 1987 (S.I. 1987 2049 (N.I. 20))
+
+**[^F293]46** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Criminal Justice Act 1988 (c. 33)
+
+**47** [^F294]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Copyright, Designs and Patents Act 1988 (c. 48)
+
+**[[^F295]48** The powers of seizure conferred by sections 109(4), 200(3A) and 297B(4) of the Copyright, Designs and Patents Act 1988 (seizure of evidence relating to offences concerning infringing copies, illicit recordings and unauthorised decoders).]
+
+**49** [^F296]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Food Safety Act 1990 (c. 16)
+
+**50** The power of seizure conferred by section 32(6) of the Food Safety Act 1990 (seizure of evidence for the purposes of proceedings under that Act).
+
+#### Computer Misuse Act 1990 (c. 18)
+
+**51** The power of seizure conferred by section 14(4) of the Computer Misuse Act 1990 (seizure of evidence of offences under that Act).
+
+#### Human Fertilisation and Embryology Act 1990 (c. 37)
+
+**[[^F297]52** Each of the powers of seizure conferred by the provisions of paragraph 7(1) and (2) of Schedule 3B to the Human Fertilisation and Embryology Act 1990.]
+
+#### Property Misdescriptions Act 1991 (c. 29)
+
+**[^F298]53** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Dangerous Dogs Act 1991 (c. 65)
+
+**54** The power of seizure conferred by section 5(2) of the Dangerous Dogs Act 1991 (seizure of evidence of offences under that Act).
+
+#### Food Safety (Northern Ireland) Order 1991 (S.I. 1991 762 (N.I. 7))
+
+**55** The power of seizure conferred by Article 33(7) of the Food Safety (Northern Ireland) Order 1991 (seizure of evidence of offences under that Order).
+
+#### Timeshare Act 1992 (c. 35)
+
+**[^F299]56** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [[^F300]Charities Act 2011
+
+**56A** The power of seizure conferred by section 48(3) of the Charities Act 2011 (seizure of material for the purposes of an inquiry under section 46 of that Act).]
+
+#### Finance Act 1994 (c. 9)
+
+**57** [^F301]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Value Added Tax Act 1994 (c. 23)
+
+**58** [^F302]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [[^F303]Trade Marks Act 1994 (c. 26)
+
+**58A** The power of seizure conferred by section 92A(4) of the Trade Marks Act 1994 (seizure of evidence relating to offences concerning unauthorised use of a trade mark, etc. in relation to goods).]
+
+#### Drug Trafficking Act 1994 (c. 37)
+
+**59** The power of seizure conferred by section 56(5) of the Drug Trafficking Act 1994 (seizure of material likely to be of substantial value to an investigation into drug trafficking).
+
+#### [[^F304]Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39)
+
+**59A** The power of seizure conferred by section 23E(3) of the Criminal Law (Consolidation) (Scotland) Act 1995 (seizure of evidence of Revenue and Customs offences).]
+
+#### Chemical Weapons Act 1996 (c. 6)
+
+**60** Each of the powers of seizure conferred by the provisions of section 29(2)(c), (d) and (e) of the Chemical Weapons Act 1996 (seizure of evidence of offences under that Act).
+
+#### Finance Act 1996 (c. 8)
+
+**61** [^F305]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Proceeds of Crime (Northern Ireland) Order 1996 (S.I. 1996 1299 (N.I. 9))
+
+**62** The power of seizure conferred by Article 51(5) of the Proceeds of Crime (Northern Ireland) Order 1996 (seizure of material relevant to investigation).
+
+#### Knives Act 1997 (c. 21)
+
+**63** The power of seizure conferred by section 5(2) of the Knives Act 1997 (seizure of publications consisting of or containing prohibited material).
+
+#### [[^F306]Protection from Harassment Act 1997
+
+**63A** The power of seizure conferred by section 2B(2) of the Protection from Harassment Act 1997 (seizure of material relevant to stalking).]
+
+#### Nuclear Explosions (Prohibitions and Inspections) Act 1998 (c. 7)
+
+**64** Each of the powers of seizure conferred by the provisions of section 10(2)(c), (d) and (e) of the Nuclear Explosions (Prohibitions and Inspections) Act 1998 (seizure of evidence of offences under that Act).
+
+#### Data Protection Act 1998 (c. 29)
+
+**[^F307]65** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Landmines Act 1998 (c. 33)
+
+**66** Each of the powers of seizure conferred by the provisions of section 18(3)(c), (d) and (e) of the Landmines Act 1998 (seizure of evidence of offences under that Act).
+
+#### Competition Act 1998 (c. 41)
+
+**67** Each of the powers of seizure conferred by [[^F308]sections 28(2) and 28A(2)] of the Competition Act 1998 (seizure of documents or information).
+
+#### Nuclear Safeguards Act 2000 (c. 5)
+
+**68** The power of seizure conferred by section 8(2) of the Nuclear Safeguards Act 2000 (seizure of evidence of offences under that Act etc.).
+
+#### Financial Services and Markets Act 2000 (c. 8)
+
+**[[^F309]68A** The power of seizure conferred by section 122D(3) of the Financial Services and Markets Act 2000 (entry of premises under warrant).]
+
+**69** The power of seizure conferred by section 176(5) of the Financial Services and Markets Act 2000 (seizure of documents or information not supplied in compliance with a requirement etc.).
+
+#### Terrorism Act 2000 (c. 11)
+
+**[[^F310]69A** The power of seizure conferred by section 43(4B)(b) of the Terrorism Act 2000 (seizure on the occasion of a search of a vehicle in relation to a person suspected of being a terrorist).]
+
+**[[^F310]69B** The power of seizure conferred by section 43A(3) of the Terrorism Act 2000 (seizure on the occasion of a search of a vehicle suspected of being used for the purposes of terrorism).]
+
+**[[^F311]69C** The power of seizure conferred by section 43E(2) of the Terrorism Act 2000 (seizure on the occasion of a search necessary for purposes connected with protecting members of the public from a risk of terrorism).]
+
+**70** The power of seizure conferred by section 82(3) of the Terrorism Act 2000 (power of constable in Northern Ireland to seize items used or intended for use in the commission of certain offences).
+
+**71** Each of the powers of seizure conferred by the provisions of paragraphs 1, 3, 11, 15 and 19 of Schedule 5 to that Act (powers for use in terrorism investigations).
+
+#### Finance Act 2000 (c. 17)
+
+**72** [^F312]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Freedom of Information Act 2000 (c. 36)
+
+**73** The power of seizure conferred by paragraph 1 of Schedule 3 to the Freedom of Information Act 2000.
+
+#### [[^F313]International Criminal Court Act 2001 (c. 17)
+
+**73A** The power of seizure conferred by paragraph 9 of Schedule 5 to the International Criminal Court Act 2001 (seizure of evidence in connection with offences under that Act).]
+
+#### [[^F314]Proceeds of Crime Act 2002 (c. 29)
+
+**73A** The power of seizure conferred by section 352(4) of the Proceeds of Crime Act 2002 (seizure of material likely to be of substantial value to certain investigations).]
+
+#### [[^F315]Enterprise Act 2002
+
+**73B** The power of seizure conferred by section 194(2) of the Enterprise Act 2002 (seizure of documents for the purposes of an investigation under section 192(1) of that Act).]
+
+**[^F316]73BA** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [[^F317]Crime (International Co-operation) Act 2003
+
+**73C** The power of seizure conferred by sections 17 and 22 of the Crime (International Co-operation) Act 2003 (seizure of evidence relevant to overseas investigation or offence).]
+
+#### [[^F318]Extradition Act 2003 (c. 41)
+
+**73D** The powers of seizure conferred by sections 156(5), 160(5), 161(4), 162(6) and (7) and 164(6) and (7) of the Extradition Act 2003 (seizure in connection with extradition).]
+
+#### [[^F319]Human Tissue Act 2004 (c. 30)
+
+**73E** Each of the powers of seizure conferred by the provisions of paragraph 5(1) (seizure of material relevant to licensing functions) and (2) (seizure of evidence of offences) of Schedule 5 to the Human Tissue Act 2004.]
+
+#### [[^F320]Serious Organised Crime and Police Act 2005
+
+**73F** The power of seizure conferred by section 66 of the Serious Organised Crime and Police Act 2005 (seizure of documents for purposes of investigation by DPP or other Investigating Authority).]
+
+#### [[^F321]Gambling Act 2005
+
+**73F** The powers conferred by section 317 of the Gambling Act 2005 (inspection powers).]
+
+#### Weights and Measures (Packaged Goods) Regulations 2006 (S.I.2006/659)
+
+**[^F322]73G** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[[^F323]73H** The power of seizure conferred by section 28 of the Terrorism Act 2006.]
+
+#### [[^F324]Charities Act (Northern Ireland) 2008
+
+**73H** The power of seizure conferred by section 52(3) of the Charities Act (Northern Ireland) 2008 (seizure of material for the purposes of an inquiry under section 22 of that Act).]
+
+#### [[^F325]Animal Welfare Act 2006
+
+**73I** The power of seizure conferred by paragraph 10(2)(j) of Schedule 2 to the Animal Welfare Act 2006.]
+
+#### [[^F326][[^F327]The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017]
+
+**73J** The power of seizure conferred by [[^F328]regulation 70(7) of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017] (entry to premises under warrant).]
+
+#### Business Protection from Misleading Marketing Regulations 2008
+
+**[^F329]73J** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F330]...
+
+**[^F330]** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Transfer of Funds (Information on the Payer) Regulations 2007
+
+**[^F331]73K** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [[^F332]Marine and Coastal Access Act 2009 (c. 23)
+
+**73L** Each of the powers of seizure conferred by section 252(1) and (3) of the Marine and Coastal Access Act 2009.]
+
+#### [[^F333]Cluster Munitions (Prohibitions) Act 2010 (c. 11)
+
+**73M** Each of the powers of seizure conferred by the provisions of section 22(2)(c), (e), (f) and (g) of the Cluster Munitions (Prohibitions) Act 2010 (seizure of evidence of offences under that Act).]
+
+#### [[^F334]Marine (Scotland) Act 2010 (asp 5)
+
+**73M** Each of the powers of seizure conferred by section 140(1) and (3) of the Marine (Scotland) Act 2010.]
+
+#### Timeshare, Holiday Products, Resale and Exchange Contracts Regulations 2010
+
+**[^F335]73N** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Weights and Measures (Packaged Goods) Regulations (Northern Ireland) 2011 (S.R. 2011 No. 331)
+
+**[^F336]73O** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [[^F337]Consumer Rights Act 2015
+
+**73P** Each of the powers of seizure conferred by paragraphs 27(1)(b), 28(1) and 29(1) of Schedule 5 to the Consumer Rights Act 2015.]
+
+#### [[^F338]Cultural Property (Armed Conflicts) Act 2017
+
+**73Q** The power of seizure conferred by section 23 of the Cultural Property (Armed Conflicts) Act 2017 (seizure of property liable to forfeiture under section 19 of that Act).]
+
+#### Criminal Justice (European Investigation Order) Regulations 2017
+
+**[^F339]73R** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [[^F340]Data Protection Act 2018
+
+**73S** The power of seizure conferred by paragraphs 1 and 2 of Schedule 15 to the Data Protection Act 2018 (powers of entry and inspection).]
+
+#### [[^F341]The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) Regulations 2013 (S.I. 2013/1389)
+
+**73S** The power of seizure conferred by regulation 16(4) of the Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) Regulations 2013 (entry to premises for purposes of investigation by Gas and Electricity Markets Authority).]
+
+#### [[^F342]Police, Crime, Sentencing and Courts Act 2022
+
+**73U** Each of the powers of seizure conferred by section 55(9)(a) of, and paragraph 11(a) of Schedule 6 to, the Police, Crime, Sentencing and Courts Act 2022 (seizure in connection with human remains or material relating to human remains).]
+
+#### [[^F343]National Security Act 2023 (c. 32)
+
+**73V** Each of the powers of seizure conferred by paragrahs 2, 9 and 12 of Schedule 2 to the National Security Act 2023.]
+
+#### [[^F344]Online Safety Act 2023
+
+**73V** Each of the powers of seizure conferred by paragraph 7(f), (j) and (k) of Schedule 12 to the Online Safety Act 2023.]
+
+#### [[^F345]Digital Markets, Competition and Consumers Act 2024
+
+**73W** Each of the powers of seizure conferred by section 75(2)(i) and (j) of the Digital Markets, Competition and Consumers Act 2024 (seizure of information for the purposes of a breach investigation).]
+
+#### [[^F346]Renters’ Rights Act 2025
+
+**73W** Each of the powers of seizure conferred by section 122(1)(b) and section 123 of the Renters’ Rights Act 2025.]
+
+#### [[^F347]Football Governance Act 2025
+
+**73X** Each of the powers of seizure conferred by paragraph 3(2)(i) and (j) of Schedule 8 to the Football Governance Act 2025 (seizure of information for the purposes of an investigation).]
+
+#### [[^F348]Border Security, Asylum and Immigration Act 2025
+
+**73Y** The power of seizure conferred by section 24(1) of the Border Security, Asylum and Immigration Act 2025.]
+
+### Part 2 — Powers to which section 51 applies
+
+#### Police and Criminal Evidence Act 1984 (c. 60)
+
+**74** Each of the powers of seizure conferred by the provisions of Part 3 of the 1984 Act (police powers of search and seizure on arrest).
+
+#### Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989 1341 (N.I. 12))
+
+**75** Each of the powers of seizure conferred by the provisions of Part 4 of the Police and Criminal Evidence (Northern Ireland) Order 1989 (police powers of seizure on arrest).
+
+#### Firearms Act 1968 (c. 27)
+
+**76** The power of seizure conferred by section 46 of the Firearms Act 1968 (seizure of firearms etc.).
+
+#### Misuse of Drugs Act 1971 (c. 38)
+
+**77** Each of the powers of seizure conferred by the provisions of section 23(2) and (3) of the Misuse of Drugs Act 1971 (power to search for and seize controlled drugs and related documents).
+
+#### Immigration Act 1971 (c. 77)
+
+**78** The power of seizure conferred by section 28G(7) of the Immigration Act 1971 (seizure of evidence of offences under that Act etc.).
+
+#### Biological Weapons Act 1974 (c. 6)
+
+**79** Each of the powers of seizure conferred by the provisions of section 4(1)(b), (c) and (d) of the Biological Weapons Act 1974 (seizures under a warrant).
+
+#### Firearms (Northern Ireland) Order 2004 (S.I. 2004/ (N.I. ))
+
+**[[^F349]80** The power of seizure conferred by Article 52 of the Firearms (Northern Ireland) Order 2004 (seizure of firearms, etc.).]
+
+#### Criminal Justice and Public Order Act 1994 (c. 33)
+
+**81** The power of seizure conferred by section 139(10) of the Criminal Justice and Public Order Act 1994 (seizure of items found in searching persons arrested under certain cross-border powers).
+
+#### [[^F350]Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39)
+
+**81A** The power of seizure conferred by section 23E(3) (as read with section 23E(5)(c)) of the Criminal Law (Consolidation) (Scotland) Act 1995 (seizure of evidence of Revenue and Customs offences).]
+
+#### Terrorism Act 2000 (c. 11)
+
+**82** The power of seizure conferred by section 43(4) of the Terrorism Act 2000 (seizure on the occasion of a search of a suspected terrorist).
+
+**[[^F351]82A** The power of seizure conferred by section 43A(3) of the Terrorism Act 2000 (seizure on the occasion of a search of a vehicle suspected of being used for the purposes of terrorism).]
+
+**[[^F352]82B** The power of seizure conferred by section 43E(2) of the Terrorism Act 2000 (seizure on the occasion of a search necessary for purposes connected with protecting members of the public from a risk of terrorism).]
+
+**83** Each of the powers of seizure conferred by the provisions of paragraphs 1, 3, 11, 15 and 19 of Schedule 5 to the Terrorism Act 2000 (powers for use in terrorism investigations).
+
+#### [[^F353]Extradition Act 2003 (c. 41)
+
+**83A** The powers of seizure conferred by section 163(6) and (7) of the Extradition Act 2003 (seizure in connection with extradition).]
+
+#### [[^F354]National Security Act 2023 (c. 32)
+
+**83B** Each of the powers of seizure conferred by paragrahs 2, 9 and 12 of Schedule 2 to the National Security Act 2023.]
+
+#### [[^F355]Border Security, Asylum and Immigration Act 2025
+
+**83C** The power of seizure conferred by section 24(1) of the Border Security, Asylum and Immigration Act 2025.]
+
+### Part 3 — Powers to which section 55 applies
+
+#### Police and Criminal Evidence Act 1984 (c. 60)
+
+**84** The power of seizure conferred by section 8(2) of the 1984 Act (police power, on exercise of search warrant, to seize property searched for).
+
+#### Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989 1341 (N.I. 12))
+
+**85** The power of seizure conferred by Article 10(2) of the Police and Criminal Evidence (Northern Ireland) Order 1989 (police power, on exercise of search warrant, to seize property searched for).
+
+#### [^F356]...
+
+**[^F356]** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Children and Young Persons (Harmful Publications) Act 1955 (c. 28)
+
+**87** The power of seizure conferred by section 3(1) of the Children and Young Persons (Harmful Publications) Act 1955 (seizure of copies of work to which that Act applies etc.).
+
+#### Obscene Publications Act 1959 (c. 66)
+
+**88** Each of the powers of seizure conferred by section 3(1) and (2) of the Obscene Publications Act 1959 (power to search for and seize obscene materials and documents relating to a connected business).
+
+#### Betting, Gaming and Lotteries Act 1963 (c. 2)
+
+**89** [^F357]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**90** [^F358]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Firearms Act 1968 (c. 27)
+
+**91** The power of seizure conferred by section 46 of the Firearms Act 1968 (seizure of firearms etc.).
+
+#### Theft Act 1968 (c. 60)
+
+**92** The power of seizure conferred by section 26(3) of the Theft Act 1968, (power to search for and seize goods suspected of being stolen).
+
+#### Gaming Act 1968 (c. 65)
+
+**93** [^F359]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Theft Act (Northern Ireland) 1969 (c. 16 (N.I.))
+
+**94** The power of seizure conferred by section 25(3) of the Theft Act (Northern Ireland) 1969 (seizure of goods suspected of being stolen).
+
+#### Immigration Act 1971 (c. 77)
+
+**95** The power of seizure conferred by section 28D(3) of the Immigration Act 1971 (seizure of evidence of offences under that Act).
+
+#### Biological Weapons Act 1974 (c. 6)
+
+**96** Each of the powers of seizure conferred by the provisions of section 4(1)(b), (c) and (d) of the Biological Weapons Act 1974 (seizures under a warrant).
+
+#### Lotteries and Amusements Act 1976 (c. 32)
+
+**97** [^F360]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Protection of Children Act 1978 (c. 37)
+
+**98** The power of seizure conferred by section 4(2) of the Protection of Children Act 1978 (seizure of indecent photographs or pseudo-photographs of children).
+
+#### Protection of Children (Northern Ireland) Order 1978 (S.I. 1978 1047 (N.I. 17))
+
+**99** The power of seizure conferred by Article 4(1) of the Protection of Children (Northern Ireland) Order 1978 (seizure of indecent photographs or pseudo-photographs of children).
+
+#### Indecent Displays (Control) Act 1981 (c. 42)
+
+**100** The power of seizure conferred by section 2(3) of the Indecent Displays (Control) Act 1981 (seizure of indecent matter believed to have been used in the commission of an offence under that Act).
+
+#### Forgery and Counterfeiting Act 1981 (c. 45)
+
+**101** Each of the powers of seizure conferred by the provisions of sections 7(1) and 24(1) of the Forgery and Counterfeiting Act 1981 (seizure of forgeries and counterfeits and of things used for making them etc.).
+
+#### Firearms (Northern Ireland) Order 2004 (S.I. 2004/ (N.I.))
+
+**[[^F361]102** The power of seizure conferred by Article 52 of the Firearms (Northern Ireland) Order 2004 (seizure of firearms, etc.).]
+
+#### Video Recordings Act 1984 (c. 39)
+
+**103** The power of seizure conferred by section 17(2) of the Video Recordings Act 1984 (seizure of evidence of offences under that Act).
+
+#### Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985 (S.I. 1985 1204 (N.I. 11))
+
+**104** The power of seizure conferred by Article 180(4) of the Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985 (seizure of evidence of offences under that Order).
+
+#### Criminal Justice Act 1988 (c. 33)
+
+**105** [^F362]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Copyright, Designs and Patents Act 1988 (c. 48)
+
+**[[^F363]106** The powers of seizure conferred by sections 109(4), 200(3A) and 297B(4) of the Copyright, Designs and Patents Act 1988 (seizure of evidence relating to offences concerning infringing copies, illicit recordings and unauthorised decoders).]
+
+#### Computer Misuse Act 1990 (c. 18)
+
+**107** The power of seizure conferred by section 14(4) of the Computer Misuse Act 1990 (seizure of evidence of offences under that Act).
+
+#### [[^F364]Trade Marks Act 1994 (c. 26)
+
+**107A** The power of seizure conferred by section 92A(4) of the Trade Marks Act 1994 (seizure of evidence relating to offences concerning unauthorised use of a trade mark, etc. in relation to goods).]
+
+#### Drug Trafficking Act 1994 (c. 37)
+
+**108** The power of seizure conferred by section 56(5) of the Drug Trafficking Act 1994 (seizure of material likely to be of substantial value to an investigation into drug trafficking).
+
+#### Terrorism Act 2000 (c. 11)
+
+**109** (1) Each of the powers of seizure conferred by the provisions of paragraphs 1 and 3 of Schedule 5 to the Terrorism Act 2000 (powers for use in terrorism investigations).
+
+(2) Each of the powers of seizure conferred by paragraphs 15 and 19 of Schedule 5 to that Act, so far only as the power in question is conferred by reference to paragraph 1 of that Schedule.
+
+#### [[^F365]Proceeds of Crime Act 2002 (c. 29)
+
+**110** The power of seizure conferred by section 352(4) of the Proceeds of Crime Act 2002 (seizure of material likely to be of substantial value to certain investigations).]
+
+#### [[^F366]Licensing Act 2003
+
+**[[^F367]111]** The power of seizure conferred by section 90 of the Licensing Act 2003 (seizure of documents relating to club).]
+
+#### [[^F368]Gambling Act 2005
+
+**112** The powers conferred by section 317 of the Gambling Act 2005 (inspection powers).]
+
+**[[^F369]113** The power of seizure conferred by section 28 of the Terrorism Act 2006.]
+
+#### [[^F370]National Security Act 2023 (c. 32)
+
+**114** (1) The power of seizure conferred by paragraph 2 of Schedule 2 to the National Security Act 2023.
+
+(2) The power of seizure conferred by paragraph 12 of that Schedule, so far as conferred by reference to paragraph 2 of that Schedule.]
+
+#### [[^F371]Border Security, Asylum and Immigration Act 2025
+
+**115** The power of seizure conferred by section 24(1) of the Border Security, Asylum and Immigration Act 2025.]
+
+## SCHEDULE 2 — Applications and minor and consequential amendments
+
+*Section 70*
+
+### Part 1 — Application of enactments
+
+#### Notice of tests
+
+**[^F372]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2** Section 31 of the Fair Trading Act 1973 (c. 41) (notice of test) shall apply in relation to items seized under section 50 of this Act in reliance on the power of seizure conferred by section 29(1) of that Act as it applies in relation to items seized in pursuance of Part 2 of that Act.
+
+**3** Section 30(6) and (7) of the Consumer Protection Act 1987 (c. 43) (provision about the testing of seized goods) shall apply in relation to items seized under section 50 of this Act in reliance on the power of seizure conferred by section [[^F373]29(4)] of that Act as it applies in relation to items seized under section [[^F373]29(4)] of that Act.
+
+**[^F374]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[[^F375]4A** Regulation 23(6) of the General Product Safety Regulations 2005 (provision about the testing of seized products) shall apply in relation to items seized under section 50 of this Act in reliance on the power of seizure conferred by regulation [[^F376]22(4)] of those Regulations as it applies in relation to items seized under regulation [[^F377]22(4)] of those Regulations.]
+
+**[^F378]4B** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F379]4C** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[[^F380]4D** Paragraph 39 of Schedule 5 to the Consumer Rights Act 2015 (notice of testing of goods) shall apply in relation to items seized under section 50 of this Act in reliance on the power of seizure conferred by paragraph 28(1) of that Schedule as it applies in relation to goods seized under that paragraph.
+
+#### Access to seized items
+
+**4E** Subject to section 61 of this Act, paragraph 38 of Schedule 5 to the Consumer Rights Act 2015 (access to seized goods and documents) shall apply in relation to items seized under section 50 of this Act in reliance on the power of seizure conferred by paragraph 28(1) or 29(1) of that Schedule as it applies in relation to things seized under Part 4 of that Schedule.]
+
+#### Access to seized items
+
+**[^F381]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Compensation for seizure and detention
+
+**6** Section 32 of the Fair Trading Act 1973 (c. 41) (compensation for seizure and detention) shall apply in relation to the seizure of items under section 50 of this Act in reliance on the power of seizure conferred by section 29(1) of that Act, and the retention of those items, as it applies in relation to the seizure and detention of goods under section 29 of that Act.
+
+**[^F382]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8** Section 34 of the Consumer Protection Act 1987 (compensation for seizure and detention) shall apply in relation to the seizure of items under section 50 of this Act in reliance on the power of seizure conferred by section [[^F383]29(4)] of that Act, and the retention of those items, as it applies in relation to the seizure and detention of goods under section [[^F383]29(4)] of that Act.
+
+**[^F384]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[[^F385]9A** Regulation 26 of the General Product Safety Regulations 2005 (compensation for seizure and detention) shall apply in relation to the seizure of items under section 50 of this Act in reliance on the power of seizure conferred by regulation [[^F386]22(4)] of those Regulations, and the retention of [[^F387]those items, as it applies to the seizure and detention of products under regulation 22(4) of those Regulations.]]
+
+**[^F388]9B** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F389]9C** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[[^F390]9D** Paragraph 41 of Schedule 5 to the Consumer Rights Act 2015 (compensation for seizure and detention) shall apply in relation to the seizure of items under section 50 of this Act in reliance on the power of seizure conferred by paragraph 28(1) or 29(1) of that Schedule, and the retention of those items, as it applies in relation to the seizure and detention of goods under Part 4 of that Schedule.]
+
+#### Forfeiture of seized items
+
+**10** (1) The provisions mentioned in sub-paragraph (2) (which are about the forfeiture etc. of items which have been seized) shall apply in relation to an item seized under section 50 as if the item had been seized under the power of seizure in reliance on which it was seized.
+
+(2) Those provisions are—
+
+(a) section 3(3) of the Obscene Publications Act 1959 (c. 66);
+
+(b) [^F391]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) [^F391]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(d) sections 7(2) and 24(2) of the Forgery and Counterfeiting Act 1981 (c. 45).
+
+#### Disclosure of information
+
+**11** Any provision which—
+
+(a) restricts the disclosure, or permits the disclosure only for limited purposes or in limited circumstances, of information obtained through the exercise of a power of seizure specified in Part 1 or 2 of Schedule 1, or
+
+(b) confers power to make provision which does either or both of those things,
+
+shall apply in relation to information obtained under section 50 or 51 in reliance on the power in question as it applies in relation to information obtained through the exercise of that power.
+
+#### Interpretation
+
+**12** For the purposes of this Part of this Schedule, an item is seized, or information is obtained, under section 50 or 51 in reliance on a power of seizure if the item is seized, or the information obtained, in exercise of so much of any power conferred by that section as is exercisable by reference to that power of seizure.
+
+### Part 2 — Minor and consequential amendments
+
+**13** (1) In each of the provisions mentioned in sub-paragraph (2) (which confer powers to require the production of information contained in a computer in a visible and legible form)—
+
+(a) for “contained in a computer” there shall be substituted “ stored in any electronic form ”; and
+
+(b) after “in which it is visible and legible” there shall be inserted “ or from which it can readily be produced in a visible and legible form ”.
+
+(2) Those provisions are—
+
+(a) sections 19(4) and 20(1) of the 1984 Act;
+
+(b) Articles 21(4) and 22(1) of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989 1341 (N.I. 12));
+
+(c) section 43(5)(aa) of the Gaming Act 1968 (c. 65);
+
+(d) [^F392]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(e) section 118D(4) of the Customs and Excise Management Act 1979 (c. 2);
+
+(f) paragraph 11(4) of Schedule 11 to the Value Added Tax Act 1994 (c. 23);
+
+(g) paragraph 4A(4) of Schedule 7 to the Finance Act 1994 (c. 9);
+
+(h) paragraph 7(4) of Schedule 5 to the Finance Act 1996 (c. 8);
+
+(i) paragraph 131(4) of Schedule 6 to the Finance Act 2000 (c. 17).
+
+**14** In paragraph 5 of Schedule 1 to each of the 1984 Act and the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989 1341 (N.I. 12)) (power to require the production of information contained in a computer in a visible and legible form)—
+
+(a) for “contained in a computer” there shall be substituted “ stored in any electronic form ”; and
+
+(b) in paragraph (a), after “in which it is visible and legible” there shall be inserted “ or from which it can readily be produced in a visible and legible form ”.
+
+**15** In section 46(3) of the Firearms Act 1968 (c. 27) (power to require the production of information kept by means of a computer in a visible and legible form)—
+
+(a) for “kept by means of a computer” there shall be substituted “ stored in any electronic form ”; and
+
+(b) after “in which it is visible and legible” there shall be inserted “ or from which it can readily be produced in a visible and legible form ”.
+
+**16** (1) In each of the provisions mentioned in sub-paragraph (2) (which confer power to require the production in legible form of information recorded otherwise than in legible form), after “information in legible form” there shall be inserted “ , or in a form from which it can readily be produced in visible and legible form ”.
+
+(2) Those provisions are—
+
+[^F393]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F393]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F393]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F393]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F394]e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(f) the definition of “documents” in section 417(1) of the Financial Services and Markets Act 2000 (c. 8).
+
+**[^F395]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18** In section 32 of the Food Safety Act 1990 (c. 16) (powers of entry), in subsections (5) and (6)(b), for “kept by means of a computer” there shall be substituted “ stored in any electronic form ”.
+
+**19** In Article 33 of the Food Safety (Northern Ireland) Order 1991 (S.I. 1991 762 (N.I. 7)) (powers of entry), in paragraphs (6) and (7)(b), for “kept by means of a computer” there shall be substituted “ stored in any electronic form ”.
+
+**[^F396]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**21** In sections 27(5)(e) and 28(2)(f) of the Competition Act 1998 (c. 41) (power to require the production of information held in a computer in a visible and legible form)—
+
+(a) for “held in a computer” there shall be substituted “ stored in any electronic form ”; and
+
+(b) after “in which it is visible and legible” there shall be inserted “ or from which it can readily be produced in a visible and legible form ”.
+
+**22** In section 8(2)(c) of the Nuclear Safeguards Act 2000 (c. 5) (power to require the production of information which is held in electronic form in a form in which it can be read and copied), after “copy it” there shall be inserted “ , or from which it can readily be produced in a form in which he can read and copy it ”.
+
+**23** In section 2 of the Criminal Justice Act 1987 (c. 38) (investigation powers of the Director of the Serious Fraud Office), after subsection (8C) there shall be inserted—
+
+> (8D) The references in subsections (8A) to (8C) above to evidence obtained by the Director include references to evidence obtained by him by virtue of the exercise by a constable, in the course of a search authorised by a warrant issued under subsection (4) above, of powers conferred by section 50 of the Criminal Justice and Police Act 2001.
+
+**24** In section 7 of the Criminal Justice (International Co-operation) Act 1990 (c. 5) (search etc. for material relevant to overseas investigation), after subsection (8) there shall be inserted—
+
+> (8A) Subject to subsection (8B) below, the reference in subsection (4) above to evidence seized by a constable by virtue of this section shall be taken to include a reference to evidence seized by a constable by virtue of the exercise, in the course of a search authorised by a warrant issued by virtue of this section, of powers conferred by section 50 of the Criminal Justice and Police Act 2001.
+>
+> (8B) Nothing in subsection (8A) above requires any evidence to be furnished to the Secretary of State—
+>
+> (a) before it has been found, on the completion of any examination required to be made by arrangements under subsection (2) of section 53 of the Criminal Justice and Police Act 2001, to be property which falls within subsection (3) of that section (property which may be retained after examination); or
+>
+> (b) at a time when it constitutes property in respect of which a person is required to ensure that arrangements such as are mentioned in section 61(1) of that Act (duty to secure) are in force.
+
+**25** In section 8 of the Criminal Justice (International Co-operation) Act 1990 (which makes similar provision for Scotland) after subsection (6) there shall be added—
+
+> (7) Subject to subsection (8) below, the reference in subsection (2) above to evidence seized by a constable by virtue of this section shall be taken to include a reference to evidence seized by a constable by virtue of the exercise, in the course of a search authorised by a warrant issued by virtue of this section, of powers conferred by section 50 of the Criminal Justice and Police Act 2001.
+>
+> (8) Nothing in subsection (7) above requires any evidence to be furnished to the Lord Advocate—
+>
+> (a) before it has been found, on the completion of any examination required to be made by arrangements under subsection (2) of section 53 of the Criminal Justice and Police Act 2001, to be property which falls within subsection (3) of that section (property which may be retained after examination); or
+>
+> (b) at a time when it constitutes property in respect of which a person is required to ensure that arrangements such as are mentioned in section 61(1) of that Act (duty to secure) are in force.
+
+**26** Section 426 of the Financial Services and Markets Act 2000 (c. 8) (consequential and supplementary provision) shall have effect as if the provisions referred to in subsection (2)(b) of that section included the provisions of this Part of this Act.
+
+**27** In paragraph 29(1)(a) of Schedule 5 to the Terrorism Act 2000 (c. 11) (conditions for grant of warrant), for “28” there shall be substituted “ 22 ”.
+
+## [^F397][^F397]SCHEDULE 3
+
+### Constitution of the Authority
+
+**1** (1) The Central Police Training and Development Authority shall consist of the members appointed by the Secretary of State; and the Secretary of State shall appoint one of the members to be the chairman of the Authority.
+
+(2) Before appointing the chairman the Secretary of State shall consult—
+
+(a) persons whom he considers to represent the interests of police authorities for areas in England and Wales; and
+
+(b) persons whom he considers to represent the interests of chief officers of police of police forces in England and Wales.
+
+(3) The members, apart from the chairman, shall at all times include—
+
+(a) at least two members whom the Secretary of State considers to be capable of representing the interests of police authorities for areas in England and Wales;
+
+(b) at least two members whom the Secretary of State considers to be capable of representing the interests of chief officers of police of police forces in England and Wales; and
+
+(c) at least one Crown Servant.
+
+(4) The total number of the members of the Authority shall not at any time be less than eleven.
+
+### Disqualification
+
+**2** A person shall be disqualified for being appointed as a member of the Authority if he has not attained the age of twenty-one years.
+
+**3** (1) Subject to sub-paragraphs (2) and (3), a person shall be disqualified for being appointed as a member of the Authority, or for continuing to be such a member if—
+
+(a) a bankruptcy order has been made against him or his estate has been sequestrated or he has made a composition or arrangement with, or granted a trust deed for, his creditors;
+
+(b) he is subject to a disqualification order under the Company Directors Disqualification Act 1986 (c. 46) or Part 2 of the Companies (Northern Ireland) Order 1989 (S.I. 1989 2404 (N.I. 18)), or to an order made under section 429(2)(b) of the Insolvency Act 1986 (c. 45) (failure to pay under county court administration order); or
+
+(c) within the period of five years before, or at any time on or after, the date of his appointment he has been convicted in any part of the British Islands of an offence in respect of which he was sentenced to imprisonment for a period of three months or more.
+
+(2) Where a person is disqualified under sub-paragraph (1)(a) by reason that a bankruptcy order has been made against him or his estate has been sequestrated, the disqualification shall cease to have effect—
+
+(a) in the case of the bankruptcy order being annulled or the sequestration of his estate being recalled or reduced, on the date of that event; and
+
+(b) in any other case, on his obtaining a discharge.
+
+(3) Where a person is disqualified under sub-paragraph (1)(a) by reason of his having made a composition or arrangement with, or granted a trust deed for, his creditors, the disqualification shall cease to have effect—
+
+(a) in the case of his paying his debts in full, on the date on which the payment is completed; and
+
+(b) in any other case, at the end of the period of five years beginning with the date on which the terms of the deed of composition or arrangement or trust deed are fulfilled.
+
+(4) For the purposes of sub-paragraph (1)(c)—
+
+(a) the date of a conviction shall be taken to be the ordinary date on which the period allowed for making an appeal or application expires or, if an appeal or application is made, the date on which the appeal or application is finally disposed of or abandoned or fails by reason of its non-prosecution;
+
+(b) a sentence of imprisonment for any term the whole or any part of which is suspended shall be taken to be a sentence of imprisonment for the whole term.
+
+### Tenure of office
+
+**4** Subject to paragraphs 3(1) and 5 to 7 a person shall hold and vacate office as a member of the Authority in accordance with the terms of his appointment.
+
+**5** A person shall be appointed to hold office as a member of the Authority for—
+
+(a) a term of five years; or
+
+(b) such shorter term as the Secretary of State may determine in any particular case.
+
+**6** A person may at any time resign his office as chairman or as a member of the Authority by notice in writing to the Secretary of State.
+
+**7** The Secretary of State may remove a person from office as the chairman or as a member the Authority if he is satisfied that—
+
+(a) that person has been absent from meetings of the Authority for a period exceeding four consecutive months without the consent of the Authority;
+
+(b) that person has been convicted of a criminal offence (but is not disqualified for continuing to be a member under paragraph 3);
+
+(c) that person is unable or unfit to carry out his functions as a member; or
+
+(d) that person has failed to comply with the terms of his appointment.
+
+### Eligibility for re-appointment
+
+**8** A person who ceases to be a member, or to be the chairman, of the Authority otherwise than by virtue of paragraph 7 may (if otherwise eligible) be re-appointed.
+
+### Remuneration, pensions etc. of members
+
+**9** (1) The Authority shall pay to its members such remuneration and allowances as the Secretary of State may determine.
+
+(2) The Authority shall, as regards any of its members or former members in whose case the Secretary of State may so determine, pay or make payments in respect of such pension or gratuity as the Secretary of State may determine.
+
+(3) If—
+
+(a) a person ceases to be a member or ceases to be the chairman of the Authority, and
+
+(b) it appears to the Secretary of State that there are special circumstances which make it right that he should receive compensation,
+
+the Secretary of State may direct the Authority to make a payment of such amount as he may determine.
+
+### Members of staff of the Authority
+
+**10** (1) The Authority shall have—
+
+(a) a chief executive, with responsibility to the Authority for the carrying out of the Authority’s functions and the management of their staff; and
+
+(b) subject to the approval of the Secretary of State as to numbers and terms and conditions of service, such other staff as the Authority may appoint.
+
+(2) The chief executive shall be appointed by the Authority, but no appointment of a chief executive may be made except with the consent of the Secretary of State.
+
+(3) References in this Schedule to the staff of the Authority include references to their chief executive.
+
+### Staff remuneration and pensions
+
+**11** (1) The Authority—
+
+(a) shall pay to members of their staff such remuneration and allowances, and
+
+(b) may make such payments in respect of remuneration and allowances paid by others to persons engaged with the Authority as members of their staff on periods of temporary service,
+
+as the Authority may, with the consent of the Secretary of State, determine.
+
+(2) The Authority shall—
+
+(a) pay, or make payments in respect of, such pensions or gratuities to or in respect of any persons who are, or have been, members of their staff as the Authority may, with the consent of the Secretary of State, determine; and
+
+(b) establish and maintain such schemes (whether contributory or not) as they may determine, with the consent of the Secretary of State, for the payment of pensions or gratuities to or in respect of any such persons.
+
+(3) References in this paragraph to pensions and gratuities include references to pensions or gratuities by way of compensation to or in respect of members of the staff of the Authority who suffer loss of employment or loss or diminution of emoluments.
+
+(4) If any person—
+
+(a) after ceasing to be employed by the Authority becomes or continues to be one of the Authority’s members, and
+
+(b) was, by reference to his employment, a participant in a pension scheme maintained by the Authority,
+
+the Authority may, with the consent of the Secretary of State, make provision for that person to continue to participate in that scheme, on such terms and conditions as they may with the consent of the Secretary of State determine, as if his service as a member of the Authority were service as a member of their staff.
+
+(5) Any provision made by virtue of sub-paragraph (4) is without prejudice to paragraph 9.
+
+**12** (1) Employment as a member of staff of the Authority shall be included among the kinds of employment to which a scheme under section 1 of the Superannuation Act 1972 (c. 11) can apply.
+
+(2) Where a person is, by reference to employment as a member of the Authority’s staff, a participant in a scheme under section 1 of that Act and becomes a member of the Authority, the Minister for the Civil Service may determine that his service as a member of the Authority shall be treated for the purposes of the scheme as service as a member of staff (whether or not any benefits are payable to or in respect of him by virtue of paragraph 9).
+
+### Status of staff members as constables
+
+**13** (1) A person holding the office of constable immediately before his appointment as the chief executive of the Authority—
+
+(a) continues to hold that office while he is the chief executive; and
+
+(b) as the chief executive, shall hold that office with the rank of chief constable.
+
+(2) A person holding the office of constable immediately before his appointment as a member of staff of the Authority (other than the chief executive) continues to hold that office while he is a member of that staff.
+
+### Liability for acts of police members of staff
+
+**14** (1) The Authority shall be liable in respect of [[^F398]any unlawful conduct of] seconded constables in the carrying out, or purported carrying out, of their functions as members of the staff of the Authority in like manner as an employer is liable in respect of [[^F398]any unlawful conduct of] his employees in the course of their employment; and accordingly the Authority shall [[^F399], in the case of a tort,] be treated for all purposes as a joint tortfeasor.
+
+(2) In this paragraph “seconded constables” means constables serving as members of the staff of the Authority without being employees of the Authority.
+
+### Committees
+
+**15** (1) The Authority may establish committees.
+
+(2) Any committee established under sub-paragraph (1) may establish one or more sub-committees.
+
+(3) A person who is not a member of the Authority may be appointed to a committee or sub-committee of the Authority.
+
+(4) The Authority may pay to members of their committees or sub-committees who are neither members nor members of staff of the Authority such remuneration and allowances as the Secretary of State may determine.
+
+### Delegation to committees
+
+**16** (1) The Authority may, to such extent as they may determine, delegate any of their functions to any committee of the Authority.
+
+(2) Any such committee may, to such extent as it may determine, delegate any function conferred on it to any of its sub-committees.
+
+### Proceedings
+
+**17** (1) Subject to the following provisions of this paragraph, the Authority may regulate—
+
+(a) their own procedure (including quorum); and
+
+(b) the procedure (including quorum) of their committees and sub-committees.
+
+(2) The Authority shall make provision for a quorum for meetings of their committees or sub-committees to include at least one member or member of staff of the Authority.
+
+**18** The acts and proceedings of any person appointed to be a member, or to be chairman, of the Authority and acting in that office shall, notwithstanding his disqualification or want of qualification, be as valid and effectual as if he had been qualified.
+
+**19** The proceedings of the Authority shall not be invalidated by a vacancy in the membership of the Authority or in the office of chairman or by any defect in the appointment of a person as a member or as chairman.
+
+### Application of seal and evidence
+
+**20** The application of the seal of the Authority shall be authenticated by the signature—
+
+(a) of any member of the Authority; or
+
+(b) of any other person who has been authorised by the Authority (whether generally or specially) for that purpose.
+
+**21** A document purporting to be—
+
+(a) duly executed by the Authority under their seal, or
+
+(b) signed on their behalf,
+
+shall be received in evidence and shall, unless the contrary is proved, be taken to be so executed or signed.
+
+### Status
+
+**22** The Authority shall not be regarded as the servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown; and the property of the Authority shall not be regarded as property of, or property held on behalf of, the Crown.
+
+### Money
+
+**23** The Secretary of State may make payments to the Authority out of money provided by Parliament.
+
+**24** (1) The Authority may impose such charges as they consider appropriate in connection with the carrying out of any of their functions.
+
+(2) The Authority shall pay to the Secretary of State all sums received by them (otherwise than under paragraph 23) in the course of, or in connection with, the carrying out of their functions.
+
+(3) Sub-paragraph (2) shall not apply where the Secretary of State so directs.
+
+(4) Any sums received by the Secretary of State under sub-paragraph (2) shall be paid into the Consolidated Fund.
+
+**25** (1) Subject to sub-paragraph (3), the Authority may, in the course of or in connection with the carrying out of any of their functions, accept gifts or loans of money or other property, on such terms (if any) as appear to the Authority to be appropriate.
+
+(2) The terms on which gifts or loans are accepted under sub-paragraph (1) may include terms providing for the commercial sponsorship of any activity of the Authority.
+
+(3) The Authority shall not borrow money except with the consent of the Secretary of State.
+
+**26** (1) The Authority shall—
+
+(a) keep proper accounts and proper records in relation to the accounts; and
+
+(b) prepare a statement of accounts in respect of each financial year.
+
+(2) The statement of accounts shall be in such form, and shall contain such information, as the Secretary of State may direct.
+
+(3) The Authority shall, within such period after the end of each financial year as the Secretary of State may direct, send copies of the statement of accounts relating to that year to the Secretary of State and to the Comptroller and Auditor General.
+
+(4) The Comptroller and Auditor General shall—
+
+(a) examine, certify and report on every statement of accounts sent to him by the Authority under this paragraph; and
+
+(b) lay copies of each such statement and of his report on it before each House of Parliament.
+
+## SCHEDULE 4 — Consequential amendments relating to police training
+
+*Section 102*
+
+### The Public Records Act 1958 (c. 51)
+
+**1** In Schedule 1 to the Public Records Act 1958 (definition of public records), in Part 2 of the Table at the end of paragraph 3 there shall be inserted, at the appropriate place—
+
+> Central Police Training and Development Authority
+
+.
+
+### The Parliamentary Commissioner Act 1967 (c. 13)
+
+**2** [^F400]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Superannuation Act 1972 (c. 11)
+
+**3** [^F401]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The House of Commons Disqualification Act 1975 (c. 24)
+
+**4** [^F402]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+
+**5** [^F403]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Amendments of Police Pensions Act 1976 (c. 35)
+
+**6** [^F404]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Police Act 1996 (c. 16)
+
+**7** [^F405]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Freedom of Information Act 2000 (c. 36)
+
+**8** [^F406]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F407][^F407]SCHEDULE 5
+
+### Part 1 — Core Members
+
+**1** Part 1 of Schedule 1 to the 1997 Act (appointment of core members of the Service Authorities) shall be amended in accordance with this Part.
+
+**2** In paragraph 1 (number of core members), for “ten” there shall be substituted “ eight ”.
+
+**3** In paragraph 2 (three core members to be appointed by Secretary of State)—
+
+(a) in sub-paragraph (1), for “Three” there shall be substituted “ At least three, and not more than four, ”;
+
+(b) in sub-paragraph (2)(c), the words “local authority” shall be omitted; and
+
+(c) in sub-paragraph (4) the words “in relation to the NCIS Service Authority” shall be omitted.
+
+**4** In paragraph 3 (two core members to be chief officers of police forces in England and Wales etc.)—
+
+(a) in sub-paragraph (1) for “Two” there shall be substituted “ One ”; and
+
+(b) sub-paragraph (2) shall be omitted.
+
+**5** In paragraph 4 (four core members to be local authority members of police authorities)—
+
+(a) in sub-paragraph (1)—
+
+(i) for “Four” there shall be substituted “ One ”; and
+
+(ii) the words “local authority” shall be omitted; and
+
+(b) sub-paragraph (2) shall be omitted.
+
+**6** For paragraph 6 (one core member to be Crown servant appointed by Secretary of State) there shall be substituted—
+
+> **6** (1) The relevant number of core members shall be Crown servants appointed by the Secretary of State under this paragraph.
+>
+> (2) For this purpose “the relevant number” means—
+>
+> (a) if three core members are appointed under paragraph 2, two, and
+>
+> (b) if four core members are so appointed, one.
+
+**7** After paragraph 6 (and immediately before the new paragraph 6B inserted by section 104 of this Act) there shall be inserted—
+
+> **6A** One of the core members shall be a customs officer appointed by the Commissioners of Customs and Excise under this paragraph.
+
+### Part 2 — Other members of NCIS Service Authority
+
+**8** In Part 2 of Schedule 1 to the 1997 Act (appointment of additional members of NCIS Service Authority), for paragraph 7 (appointment of other members where Authority has 19 members) there shall be substituted—
+
+> **7** Where the NCIS Service Authority is to consist of eleven members by virtue of section 1, then in addition to the eight core members—
+>
+> (a) one of the members shall be a person appointed under this paragraph in accordance with paragraph 7A,
+>
+> (b) one shall be a person appointed under this paragraph in accordance with paragraph 7B, and
+>
+> (c) one shall be a member of the Security Service appointed by the Secretary of State under this paragraph.
+>
+> **7A** (1) Where an appointment falls to be made in accordance with this paragraph the Secretary of State shall, after consultation with the Scottish Ministers, decide whether the person appointed must be—
+>
+> (a) a chief constable of a police force in Scotland,
+>
+> (b) a member of a police authority for an area in Scotland, or
+>
+> (c) a Crown servant.
+>
+> (2) Where such a decision is made—
+>
+> (a) if the member must be within sub-paragraph (1)(a), he shall be appointed by the chief constables of police forces in Scotland, from among their number;
+>
+> (b) if the member must be within sub-paragraph (1)(b), he shall be appointed by the members of police authorities for areas in Scotland, from among their number; and
+>
+> (c) if the member must be within sub-paragraph (1)(c), he shall be appointed by the Scottish Ministers.
+>
+> **7B** (1) Where an appointment falls to be made in accordance with this paragraph the Secretary of State shall decide whether the person appointed must be—
+>
+> (a) a person holding at least the rank of deputy chief constable in the Police Service of Northern Ireland,
+>
+> (b) a member of the Northern Ireland Policing Board, or
+>
+> (c) a Crown servant.
+>
+> (2) Where such a determination is made—
+>
+> (a) if the member must be within sub-paragraph (1)(a), he shall be appointed by the Chief Constable of the Police Service of Northern Ireland;
+>
+> (b) if the member must be within sub-paragraph (1)(b), he shall be appointed by the members of the Northern Ireland Policing Board, from among their number; and
+>
+> (c) if the member must be within sub-paragraph (1)(c), he shall be appointed by the Secretary of State.
+
+**9** (1) Paragraph 8 of that Part (appointment of other members where Authority has more than 19 members) shall be amended as follows.
+
+(2) In sub-paragraph (1)—
+
+(a) for “nineteen” there shall be substituted “ eleven ”;
+
+(b) for “ten” there shall be substituted “ eight ”;
+
+(c) in paragraph (d), for “one shall be a person” there shall be substituted “ a prescribed number shall be persons ”;
+
+(d) in paragraph (e), the words “(being not less than two)” and “local authority” shall be omitted;
+
+(e) for paragraph (h) there shall be substituted—
+
+> (h) a prescribed number shall be Crown servants appointed by the Secretary of State under this paragraph;
+>
+> (ha) a prescribed number shall be Crown servants appointed by the Scottish Ministers under this paragraph; and
+
+;
+
+and
+
+(f) in paragraph (i), for “one shall be a customs officer” there shall be substituted “ a prescribed number shall be customs officers ”.
+
+(3) Sub-paragraph (2) shall be omitted.
+
+(4) In sub-paragraph (5), after “paragraph” there shall be inserted “ ; but nothing in this paragraph shall require such an order to prescribe a number in respect of each of the paragraphs of sub-paragraph (1) ”.
+
+### Part 3 — Other members of NCS Service Authority
+
+**10** (1) In Part 3 of Schedule 1 to the 1997 Act (appointment of additional members of NCS Service Authority), the existing paragraph 9 (appointment of other members where Authority has 17 members) shall become sub-paragraph (1) of that paragraph.
+
+(2) In that sub-paragraph—
+
+(a) for “seventeen” there shall be substituted “ eleven ”;
+
+(b) for “ten” there shall be substituted “ eight ”;
+
+(c) in paragraph (b)—
+
+(i) for “six” there shall be substituted “ one ”; and
+
+(ii) the words “local authority” shall be omitted; and
+
+(d) after that paragraph there shall be inserted
+
+> ; and
+>
+> (c) one shall be appointed by the Secretary of State.
+
+(3) After that sub-paragraph there shall be inserted—
+
+> (2) Paragraph 2(2) applies in relation to appointments under sub-paragraph (1)(c) as it applies to appointments under paragraph 2.
+
+**11** In paragraph 10 of that Part (appointment of other members where Authority has more than 17 members)—
+
+(a) in sub-paragraph (1)—
+
+(i) for “seventeen” there shall be substituted “ eleven ”; and
+
+(ii) for “ten” there shall be substituted “ eight ”;
+
+(b) in paragraph (c) of that sub-paragraph the words “(being not less than six)” and “local authority” shall be omitted;
+
+(c) sub-paragraph (2) shall be omitted; and
+
+(d) in sub-paragraph (5), after “paragraph” there shall be inserted “ ; but nothing in this paragraph shall require such an order to prescribe a number in respect of each of the paragraphs of sub-paragraph (1) ”.
+
+### Part 4 — General
+
+**12** In Part 4 of Schedule 1 to the 1997 Act (general provisions relating to the Service Authorities), paragraph 12 (local authority members to reflect balance of political parties) shall be omitted.
+
+**13** In paragraph 13 of that Part (clerk to Service Authority to facilitate appointment of certain members), in sub-paragraph (a), the words “local authority” shall be omitted.
+
+**14** Paragraph 14 of that Part (meaning of “local authority members of police authorities”) shall be omitted.
+
+## SCHEDULE 6 — Minor and consequential amendments relating to NCIS and NCS
+
+*Section 128*
+
+### Part I — The 1997 Act
+
+**1** [^F408]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2** [^F409]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3** [^F410]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4** [^F411]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5** [^F412]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6** [^F413]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7** [^F414]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8** [^F415]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9** [^F416]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10** [^F417]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11** [^F418]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12** [^F419]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13** [^F420]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14** [^F421]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15** [^F422]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16** [^F423]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17** [^F424]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18** [^F425]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**19** [^F426]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**20** [^F427]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**21** [^F428]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 2 — Local government enactments relating to NCS Service Authority
+
+#### Local Government Act 1972 (c. 70)
+
+**22** The Local Government Act 1972 shall be amended as follows.
+
+**23** In section 94 (disability of members of authorities for voting on account of interest in contracts, etc.), in subsection (5)(b) (receipts of certain allowances not to be treated as a pecuniary interest), the words “or paragraph 17 of Schedule 2 to the Police Act 1997” shall be omitted.
+
+**24** In section 98, the following shall be omitted—
+
+(a) in subsection (1A) (application to joint authorities of provisions about members’ interests), the words “and the Service Authority for the National Crime Squad”; and
+
+(b) subsection (1B) (powers to remove a disability resulting from members’ interests restricted to cases where transaction of business impeded).
+
+**25** In section 99 (meeting and proceedings of local authorities), the words “, the Service Authority for the National Crime Squad” shall be omitted.
+
+**26** In section 100J (application to joint authorities etc. of provision relating to access to meetings and documents), the following shall be omitted—
+
+(a) subsection (1)(ea);
+
+(b) in subsection (3), the word “, (ea)”;
+
+(c) subsection (3A); and
+
+(d) in subsection (4), the words “or the Service Authority for the National Crime Squad”.
+
+**27** In section 107 (application to police authorities of provisions relating to the discharge of functions by local authorities)—
+
+(a) in subsection (7), for “(a), (aa) and (b)” there shall be substituted “ (a) and (b) ”; and
+
+(b) subsection (8A) shall be omitted.
+
+**28** In section 146A (application to police authorities of miscellaneous powers of local authorities)—
+
+(a) in subsection (1)—
+
+(i) for “subsections (1A) and (1AA)” there shall be substituted “ subsection (1A) ”; and
+
+(ii) for “, the Metropolitan Police Authority and the Service Authority for the National Crime Squad” there shall be substituted “ and the Metropolitan Police Authority ”;
+
+(b) in subsection (1A), the words “nor the Service Authority for the National Crime Squad” shall be omitted; and
+
+(c) subsection (1AA) shall be omitted.
+
+**29** In section 223 (appearance of local authorities in legal proceedings), in subsection (2), for “, the Metropolitan Police Authority and the Service Authority for the National Crime Squad” there shall be substituted “ and the Metropolitan Police Authority ”.
+
+**30** In section 228 (inspection of documents), in subsection (7A), the words “or the Service Authority for the National Crime Squad” shall be omitted.
+
+**31** The words “and the Service Authority for the National Crime Squad” shall be omitted where they appear—
+
+(a) in section 229 (photographic copies of documents), in subsection (8);
+
+(b) in section 231 (service of notices on local authorities, etc.), in subsection (4);
+
+(c) in section 232 (public notices), in subsection (1A);
+
+(d) in section 233 (service of notices by local authorities), in subsection (11); and
+
+(e) in section 234 (authentication of documents), in subsection (4).
+
+**32** In Schedule 12 (meetings and proceedings of local authorities), the following shall be omitted—
+
+(a) in paragraph 6A, the words “or of the Service Authority for the National Crime Squad”;
+
+(b) in paragraph 6B—
+
+(i) in sub-paragraph (b), the words “or of the Service Authority for the National Crime Squad,”; and
+
+(ii) sub-paragraph (c) and the word “and” immediately preceding it;
+
+and
+
+(c) in paragraph 46, the words “and the Service Authority for the National Crime Squad”.
+
+#### Local Government Act 1974 (c. 7)
+
+**33** In section 25 of the Local Government Act 1974 (authorities subject to investigation by Commission for Local Administration), in subsection (1), paragraph (caa) shall be omitted.
+
+#### Local Government (Miscellaneous Provisions) Act 1976 (c. 57)
+
+**34** In section 30 of the Local Government (Miscellaneous Provisions) Act 1976 (power to forgo repayment of remuneration paid to deceased employees), in subsection (3), the words “, and a member of the National Crime Squad within section 55(1)(a) or (b) of the Police Act 1997 shall be treated as employed by the Service Authority for the National Crime Squad,” shall be omitted.
+
+**35** In section 44 of that Act (interpretation), in subsection (1)(a) the words “, the Service Authority for the National Crime Squad” shall be omitted.
+
+#### Local Government, Planning and Land Act 1980 (c. 65)
+
+**36** In section 20 of the Local Government, Planning and Land Act 1980 (interpretation of provisions relating to direct labour organisations), in subsection (1)—
+
+(a) in paragraph (a)(i) of the definition of “local authority”, the words “, the Service Authority for the National Crime Squad” shall be omitted; and
+
+(b) in paragraph (aa) of the definition the words “or the Service Authority for the National Crime Squad” shall be omitted.
+
+**37** In section 99 of that Act (directions to dispose of land), in subsection (4), paragraph (dd) shall be omitted.
+
+**38** In Schedule 16 to that Act (bodies to whom provisions of Part 10 relating to registration of land apply), paragraph 5D shall be omitted.
+
+#### Local Government (Miscellaneous Provisions) Act 1982 (c. 30)
+
+**39** In section 33 of the Local Government (Miscellaneous Provisions) Act 1982 (enforceability by local authorities of certain covenants relating to land), in subsection (9)(a), the words “, the Service Authority for the National Crime Squad” shall be omitted.
+
+**40** In section 41 of that Act (lost and uncollected property), in subsection (13), in the definition of “local authority” paragraph (cb) shall be omitted.
+
+#### Local Government Act 1986 (c. 10)
+
+**41** In section 6 of the Local Government Act 1986 (interpretation of provisions relating to publicity and promotion of homosexuality), in subsection (2)(a), the words “the Service Authority for the National Crime Squad,” shall be omitted.
+
+**42** In section 9 of that Act (interpretation of provisions relating to the transfer of mortgages), in subsection (1)(a), the words “the Service Authority for the National Crime Squad,” shall be omitted.
+
+#### Local Government Act 1988 (c. 9)
+
+**43** In section 1 of the Local Government Act 1988 (defined authorities for provisions on competition), in subsection (1), paragraph (ea) shall be omitted.
+
+**44** In Schedule 2 to that Act, in the list of public authorities to which provisions on supply or works contracts apply, the entry for the Service Authority for the National Crime Squad shall be omitted.
+
+#### Local Government Finance Act 1988 (c. 41)
+
+**45** The Local Government Finance Act 1988 shall be amended as follows.
+
+**46** In section 111, in subsection (2) (definition of “relevant authority” for the purposes of provisions regulating financial administration), paragraph (ea) (the Service Authority for the National Crime Squad) shall be omitted.
+
+**47** In section 112 (financial administration as to certain police and fire authorities), in subsection (2), paragraph (ab) shall be omitted.
+
+**48** In section 114 (functions of chief finance officer as regards reports), subsection (9) shall be omitted.
+
+#### Local Government and Housing Act 1989 (c. 42)
+
+**49** The Local Government and Housing Act 1989 shall be amended as follows.
+
+**50** In section 21, in subsection (1) (definition of local authority for purposes of various provisions relating to their members, officers, staff and committees, etc.), in paragraph (g), for “, the Metropolitan Police Authority or the Service Authority for the National Crime Squad” there shall be substituted “ or the Metropolitan Police Authority ”.
+
+**51** In section 39, in subsection (1) (authorities to which provisions about revenue accounts and capital finance apply), paragraph (ja) (the Service Authority for the National Crime Squad) shall be omitted.
+
+**52** In section 67 (application of provisions relating to companies in which local authorities have interests), in subsection (3)(i), the words “or the Service Authority for the National Crime Squad” shall be omitted.
+
+**53** In section 155 (emergency assistance to local authorities), in subsection (4)—
+
+(a) [^F429]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) paragraph (eb) (National Crime Squad) shall be omitted.
+
+**54** In section 157 (commutation of, and interest on, periodic payments of grants, etc.), subsection (6)(ga) shall be omitted.
+
+### Part 3 — Miscellaneous other enactments
+
+#### Public Records Act 1958 (c. 51)
+
+**55** [^F430]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Parliamentary Commissioner Act 1967 (c. 13)
+
+**56** [^F431]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Employers’ Liability (Compulsory Insurance) Act 1969 (c. 57)
+
+**57** In section 3 of the Employers’ Liability (Compulsory Insurance) Act 1969 (employers exempted from insurance), in subsection (2)(b) for “, any police authority, the Service Authority for the National Criminal Intelligence Service and the Service Authority for the National Crime Squad” there shall be substituted “ and any police authority ”.
+
+#### Local Authorities (Goods and Services) Act 1970 (c. 39)
+
+**58** In section 1 of the Local Authorities (Goods and Services) Act 1970 (supply of goods and services by local authorities), in subsection (4), in the definition of “public body” the words “, the Service Authority for the National Crime Squad, the Service Authority for the National Criminal Intelligence Service” shall be omitted.
+
+#### Employers’ Liability (Defective Equipment and Compulsory Insurance) (Northern Ireland) Order 1972 (N.I. 6)
+
+**59** In Article 7 of the Employers’ Liability (Defective Equipment and Compulsory Insurance) (Northern Ireland) Order 1972 (employers exempted from insurance), paragraph (ab) shall be omitted.
+
+#### House of Commons Disqualification Act 1975 (c. 24)
+
+**60** [^F432]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+
+**61** [^F433]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Rent (Agriculture) Act 1976 (c. 80)
+
+**62** In section 5 of the Rent (Agriculture) Act 1976 (no statutory tenancy where landlord’s interest belongs to the Crown etc), in subsection (3), in paragraph (baa), the words “, the Service Authority for the National Crime Squad and the Service Authority for the National Criminal Intelligence Service” shall be omitted.
+
+#### Rent Act 1977 (c. 42)
+
+**63** In section 14 of the Rent Act 1977 (landlord’s interest belonging to local authority, etc), paragraph (caaa) shall be omitted.
+
+#### Finance Act 1981 (c. 35)
+
+**64** In section 107 of the Finance Act 1981 (sale of houses at discount by local authorities etc), in subsection (3), paragraph (ka) shall be omitted.
+
+#### Acquisition of Land Act 1981 (c. 67)
+
+**65** In section 17 of the Acquisition of Land Act 1981 (compulsory purchase of local authority and statutory undertakers’ land), in subsection (4), in the definition (for the purposes of subsection (3)) of “local authority”—
+
+(a) in paragraph (a), the words “, the Service Authority for the National Crime Squad, the Service Authority for the National Criminal Intelligence Service” shall be omitted, and
+
+(b) in paragraph (b), the words “, the Service Authority for the National Crime Squad or the Service Authority for the National Criminal Intelligence Service” shall be omitted.
+
+#### County Courts Act 1984 (c. 28)
+
+**66** In section 60 of the County Courts Act 1984 (right of audience for officer of local authority in proceedings brought by authority), in subsection (3), in the definition of “local authority” the words “, the Service Authority for the National Criminal Intelligence Service, the Service Authority for the National Crime Squad” shall be omitted.
+
+#### Housing Act 1985 (c. 51)
+
+**67** In section 4 of the Housing Act 1985 (interpretation), in paragraph (e), the words “, the Service Authority for the National Criminal Intelligence Service, the Service Authority for the National Crime Squad” shall be omitted.
+
+#### Housing Associations Act 1985 (c. 69)
+
+**68** In section 106 of the Housing Associations Act 1985 (minor definitions), in subsection (1), in the definition of “local authority” for the words from “, the Metropolitan Police Authority” to the end of the definition there shall be substituted “ and the Metropolitan Police Authority ”.
+
+#### Landlord and Tenant Act 1985 (c. 70)
+
+**69** In section 38 of the Landlord and Tenant Act 1985 (minor definitions), in the definition of “local authority”, the words “, the Service Authority for the National Criminal Intelligence Service, the Service Authority for the National Crime Squad” shall be omitted.
+
+#### Landlord and Tenant Act 1987 (c. 31)
+
+**70** In section 58 of the Landlord and Tenant Act 1987, in subsection (1) (definition of “exempt landlord”), in paragraph (a), the words “, the Service Authority for the National Criminal Intelligence Service, the Service Authority for the National Crime Squad” shall be omitted.
+
+#### Income and Corporation Taxes Act 1988 (c. 1)
+
+**71** In section 842A of the Income and Corporation Taxes Act 1988 (meaning of “local authority” in the Tax Acts), in subsection (1)—
+
+(a) in paragraph (a) the words “or the Service Authority for the National Criminal Intelligence Service or the Service Authority for the National Crime Squad” shall be omitted; and
+
+(b) in both paragraphs (b) and (c) the words “or the Service Authority for the National Criminal Intelligence Service” shall be omitted.
+
+#### Local Government Finance Act 1988 (c. 41)
+
+**72** In section 64, in subsection (7) (exclusion from Crown exemption of hereditaments of certain authorities), paragraphs (da) and (db) shall be omitted.
+
+**73** In section 65A (Crown property), in subsection (4)(b) for the words from “, a police authority” to the end there shall be substituted “ or by a police authority established under section 3 of the Police Act 1996. ”
+
+#### Housing Act 1988 (c. 50)
+
+**74** [^F434]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Town and Country Planning Act 1990 (c. 8)
+
+**75** In section 252 of the Town and Country Planning Act 1990 (procedure for making of orders relating to highways), in subsection (12), in the definition of “local authority” the words “, the Service Authority for the National Crime Squad, the Service Authority for the National Criminal Intelligence Service” shall be omitted.
+
+#### Local Government Finance Act 1992 (c. 14)
+
+**76** In section 19 of the Local Government Finance Act 1992 (exclusion of Crown exemption in certain cases), in subsection (3), paragraphs (ca) and (cb) shall be omitted.
+
+#### Police Act 1996 (c. 16)
+
+**77** [^F435]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Housing Grants, Construction and Regeneration Act 1996 (c. 53)
+
+**78** The Housing Grants, Construction and Regeneration Act 1996 shall be amended as follows.
+
+**79** In section 3 (persons ineligible for certain grants), in subsection (2)(g), the words “, the Service Authority for the National Criminal Intelligence Service or the Service Authority for the National Crime Squad” shall be omitted.
+
+**80** [^F436]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 7 — Repeals and revocations
+
+*Section 137*
+
+### Part 1 — Provisions for combatting alcohol-related disorder
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| The Licensing Act 1964 (c. 26). | In section 196A(1), at the end of paragraph (a), the word “and”. |
+
+### Part 2 — Fingerprints and samples
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| The Criminal Justice Act 1948 (c. 58). | Section 39. |
+| The Criminal Justice Act 1961 (c. 39). | In Schedule 4, the entry relating to section 39 of the Criminal Justice Act 1948. |
+| The Police and Criminal Evidence Act 1984 (c. 60). | Section 27(4A). Section 64(4). |
+| The Criminal Justice and Public Order Act 1994 (c. 33). | Section 57(3). |
+| The Crime and Disorder Act 1998 (c. 37). | In Schedule 8, paragraph 61. |
+
+|  |  |
+|---|---|
+| *Title and reference* | *Extent of revocation* |
+| The Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989 1341 (N.I. 12)). | Article 64(4). |
+
+### Part 3 — Police Training
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| The Police Act 1996 (c. 16). | In section 54(2), the word “and”, in the third place where it occurs. |
+
+### Part 4 — Police Organisation
+
+|  |  |
+|---|---|
+| Short title and chapter | Extent of repeal |
+| The Police Act 1996. | In section 12, subsections (4) to (6). Section 13(2). In Schedule 2—<br>(a) paragraph 10;<br>(b) in paragraph 16(1)(a), the words from “or a term” to “shorter”; and<br>(c) in paragraph 25(1), the words “and allowances”. In Schedule 2A, in paragraph 20—<br>(a) in sub-paragraph (1), the words “and allowances”; and<br>(b) sub-paragraph (2). In Schedule 3—<br>(a) in each of paragraphs 2 and 9(a), the word “10”; and<br>(b) in paragraph 3, in sub-paragraph (1), the words “for a police area listed in Schedule 1” and the words from “or for a term” to “shorter”, and sub-paragraph (1A). |
+| The Police Act 1997 (c. 50). | In Schedule 2—<br>(a) paragraph 1(b) and the word “or” immediately preceding it;<br>(b) in paragraph 5(a), the words from “or a term” to “shorter”; and<br>(c) in paragraph 17, in sub-paragraph (1) the words “and allowances”, and sub-paragraph (2). |
+| The Greater London Authority Act 1999 (c. 29). | In Schedule 27, paragraph 106(5) and (6). |
+
+### Part 5 — NCIS and NCS
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| The Local Authorities (Goods and Services) Act 1970 (c. 39). | In section 1(4), in the definition of “public body”, the words “, the Service Authority for the National Crime Squad, the Service Authority for the National Criminal Intelligence Service”. |
+| The Local Government Act 1972 (c. 70). | In section 94(5)(b), the words “or paragraph 17 of Schedule 2 to the Police Act 1997”. In section 98—<br>(a) in subsection (1A) the words “and the Service Authority for the National Crime Squad”; and<br>(b) subsection (1B). In section 99 the words “, the Service Authority for the National Crime Squad”. In section 100J—<br>(a) subsection (1)(ea);<br>(b) in subsection (3) the word “, (ea)”;<br>(c) subsection (3A); and<br>(d) in subsection (4) the words “or the Service Authority for the National Crime Squad”. Section 107(8A). In section 146A—<br>(a) in subsection (1A) the words “nor the Service Authority for the National Crime Squad”; and<br>(b) subsection (1AA). In section 228(7A) the words “or the Service Authority for the National Crime Squad”. In section 229(8) the words “and the Service Authority for the National Crime Squad”. In section 231(4) the words “and the Service Authority for the National Crime Squad”. In section 232(1A) the words “and the Service Authority for the National Crime Squad”. In section 233(11) the words “and the Service Authority for the National Crime Squad”. In section 234(4) the words “and the Service Authority for the National Crime Squad”. In Schedule 12—<br>(a) in paragraph 6A the words “, or of the Service Authority for the National Crime Squad”;<br>(b) in paragraph 6B(b) the words “ or of the Service Authority for the National Crime Squad,”;<br>(c) in paragraph 6B, sub-paragraph (c) and the word “and” immediately preceding it; and<br>(d) in paragraph 46 the words “and the Service Authority for the National Crime Squad”. |
+| The Local Government Act 1974 (c. 7). | Section 25(1)(caa). |
+| The Local Government (Miscellaneous Provisions) Act 1976 (c .57). | In section 30(3) the words “, and a member of the National Crime Squad within section 55(1)(a) or (b) of the Police Act 1997 shall be treated as employed by the Service Authority for the National Crime Squad,”. In section 44(1)(a) the words “, the Service Authority for the National Crime Squad”. |
+| The Rent (Agriculture) Act 1976 (c. 80). | In section 5(3)(baa) the words “, the Service Authority for the National Crime Squad and the Service Authority for the National Criminal Intelligence Service”. |
+| The Rent Act 1977 (c. 42). | Section 14(caaa). |
+| The Local Government, Planning and Land Act 1980 (c. 65). | In section 20(1)—<br>(a) in paragraph (a)(i) of the definition of “local authority”, the words “, the Service Authority for the National Crime Squad”; and<br>(b) in paragraph (aa) of that definition “or the Service Authority for the National Crime Squad”. Section 99(4)(dd). In Schedule 16, paragraph 5D. |
+| The Finance Act 1981 (c. 35). | Section 107(3)(ka). |
+| The Acquisition of Land Act 1981 (c. 67). | In section 17(4), in the definition (for the purposes of subsection (3)) of “local authority”—<br>(a) in paragraph (a) the words “, the Service Authority for the National Crime Squad, the Service Authority for the National Criminal Intelligence Service”, and<br>(b) in paragraph (b) the words “, the Service Authority for the National Crime Squad or the Service Authority for the National Criminal Intelligence Service”. |
+| The Local Government (Miscellaneous Provisions) Act 1982 (c. 30). | In section 33(9)(a) the words “, the Service Authority for the National Crime Squad”. In section 41(13), in the definition of “local authority”, paragraph (cb). |
+| The County Courts Act 1984 (c. 28). | In section 60(3), in the definition of “local authority”, the words “, the Service Authority for the National Criminal Intelligence Service, the Service Authority for the National Crime Squad.” |
+| The Housing Act 1985 (c. 68). | In section 4(e), the words “, the Service Authority for the National Criminal Intelligence Service, the Service Authority for the National Crime Squad”. |
+| The Landlord and Tenant Act 1985 (c. 70). | In section 38, in the definition of “local authority”, the words “, the Service Authority for the National Criminal Intelligence Service, the Service Authority for the National Crime Squad”. |
+| The Local Government Act 1986 (c. 10). | In section 6(2)(a) the words “the Service Authority for the National Crime Squad,”. In section 9(1)(a) the words “the Service Authority for the National Crime Squad,”. |
+| The Landlord and Tenant Act 1987 (c. 31). | In section 58(1)(a) the words “, the Service Authority for the National Criminal Intelligence Service, the Service Authority for the National Crime Squad”. |
+| The Income and Corporation Taxes Act 1988 (c. 1). | In section 842A(1)—<br>(a) in paragraph (a), the words “or the Service Authority for the National Criminal Intelligence Service or the Service Authority for the National Crime Squad”; and<br>(b) in both paragraphs (b) and (c), the words “or the Service Authority for the National Criminal Intelligence Service”. |
+| The Local Government Act 1988 (c. 9). | Section 1(1)(ea). In Schedule 2, the words “The Service Authority for the National Crime Squad.” |
+| The Local Government Finance Act 1988 (c. 41). | Section 64(7)(da) and (db). Section 111(2)(ea). In section 112(2), paragraph (ab). Section 114(9). |
+| The Local Government and Housing Act 1989 (c. 42). | Section 39(1)(ja). In section 67(3)(i) the words “or the Service Authority for the National Crime Squad”. Section 155(4)(eb). Section 157(6)(ga). |
+| The Town and Country Planning Act 1990 (c. 8). | In section 252(12), in the definition of “local authority”, the words “, the Service Authority for the National Crime Squad, the Service Authority for the National Criminal Intelligence Service”. |
+| The Local Government Finance Act 1992 (c. 14). | Section 19(3)(ca) and (cb). Section 32(6A). Section 43(5A). |
+| The Housing Grants, Construction and Regeneration Act 1996 (c. 53). | In section 3(2)(g) the words “, the Service Authority for the National Criminal Intelligence Service or the Service Authority for the National Crime Squad”. In section 64(7)(e) the words “, the Service Authority for the National Criminal Intelligence Service or the Service Authority for the National Crime Squad”. |
+| The Police Act 1997 (c. 50). | In section 1(4)—<br>(a) in paragraph (a), the words “(if it is then in existence)”; and<br>(b) the word “and” at the end of paragraph (d). In section 2(6), the words “or under Schedule 3”. In section 3(4), the word “and” at the end of paragraph (c). In section 4(5), the word “and” at the end of paragraph (f). In section 5(3), the word “and” at the end of paragraph (f). In section 6—<br>(a) in subsection (2) the words “after consultation with the Scottish Ministers”;<br>(b) in subsection (4)(a) the words “(other than under paragraph 6, 7(f) or 8(1)(h) of Schedule 1)”; and<br>(b) in subsection (4)(b) the words “local authority” and “(as defined in paragraph 14 of that Schedule)”. Section 7. Section 9(10). Section 16(3). Section 18. In section 26(2), the word “and” at the end of paragraph (g). In section 41—<br>(a) in subsection (1), the word “and” at the end of paragraph (c), and<br>(b) in subsection (2), the word “and” at the end of paragraph (e). Section 44. In section 47(4)(a), the words “(if it is then in existence)”. In section 48(7), the words “or under Schedule 5”. In section 49(4), the word “and” at the end of paragraph (b). In section 50(5), the word “and” at the end of paragraph (d). In section 51(3), the word “and” at the end of paragraph (d). In section 52—<br>(a) in subsection (4)(a) the words “(other than under paragraph 6 of Schedule 1)”; and<br>(b) in subsection (4)(b) the words “local authority” and “(as defined in paragraph 14 of that Schedule)”. Section 53. Section 55(10). Section 61(3). Sections 63, 67 and 68. In section 71(2), the word “and” at the end of paragraph (e). In section 85—<br>(a) in subsection (1), the word “and” at the end of paragraph (b), and<br>(b) in subsection (2), the word “and” at the end of paragraph (b). Section 137(2)(d). In Schedule 1—<br>(a) in paragraph 2(2)(c), the words “local authority”;<br>(b) in paragraph 2(4), the words “in relation to the NCIS Service Authority”.<br>(c) paragraph 3(2);<br>(d) in paragraph 4(1), the words “local authority”;<br>(e) paragraph 4(2);<br>(f) in paragraph 8(1)(e), the words “(being not less than two)” and “local authority”;<br>(g) paragraph 8(2);<br>(h) in paragraph 9(b), the words “local authority”;<br>(j) in paragraph 10(1)(c), the words “(being not less than six)” and “local authority”;<br>(k) paragraph 10(2);<br>(l) paragraph 12;<br>(m) in paragraph 13(a), the words “local authority”; and<br>(n) paragraph 14. In Schedule 2, paragraph 9. Schedules 3, 4 and 5. Schedule 6 (other than paragraphs 5(1) and (2), 6(1), (2) and (3)(a) and (c), 7 and 29). In Schedule 9, paragraphs 23, 25, 38, 39, 42, 43, 45, 49, 51 to 53, 55, 63, 67 and 68. |
+| The Audit Commission Act 1998 (c. 18). | In section 17(7), paragraph (g) and the word “and” immediately preceding it. In section 32(2), paragraph (b) and the word “or” immediately preceding it. In Schedule 2, paragraph 1(1). In Schedule 3, paragraph 33. |
+| The Greater London Authority Act 1999 (c. 29). | Section 86(3). Section 104(3)(b). In Schedule 27, paragraphs 28(2), 29, 63, 110, 111, 113(3), 114 and 115. |
+| The Police (Northern Ireland) Act 2000 (c. 32). | In Schedule 6, in paragraph 20(7), the words “(7)(b) and”. |
+
+|  |  |
+|---|---|
+| *Title and reference* | *Extent of revocation* |
+| The Employers’ Liability (Defective Equipment and Compulsory Insurance) (Northern Ireland) Order (S.I. 1972 963 (N.I. 6)). | Article 7(ab). |
+| The Scotland Act 1998 (Cross-Border Public Authorities) (Adaptation of Functions etc.) Order 1999 (S.I. 1999/1747). | In Schedule 18, paragraph 2(6), (7), (15)(a), (25), (27) and (28)(b). |
+
+### Part 6 — Miscellaneous
+
+|  |  |
+|---|---|
+| *Short title and chapter* | *Extent of repeal* |
+| The Bail Act 1976 (c. 63). | In Schedule 1, paragraph 9A. |
+| The Criminal Justice Act 1988 (c. 33). | Section 153. |
+
+---
+
+[^F1]: S. 1(1) table: entry repealed (1.10.2004 for E. and 10.11.2004 for W.) by Fire and Rescue Services Act 2004 (c. 21), ss. 53, 54, Sch. 1 para. 97(2), Sch. 2; S.I. 2004/2304, art. 2 (subject to art. 3); S.I. 2004/2917, art. 2
+[^F2]: Words in s. 1(1) table inserted (1.7.2012) by The Criminal Justice and Police Act 2001 (Amendment) Order 2012 (S.I. 2012/1430), arts. 1(2), 2
+[^F3]: S. 1(1) table: entry inserted (1.11.2004) by The Criminal Justice and Police Act 2001 (Amendment) and Police Reform Act 2002 (Modification) Order 2004 (S.I. 2004/2540), arts. 1(4), 2(2)
+[^F4]: S. 1(1) table: entry inserted (4.4.2005) by The Criminal Justice and Police Act 2001 (Amendment) Order 2005 (S.I. 2005/1090), art. 2(2)
+[^F5]: S. 1(1) table: words in entry substituted (1.11.2004) by The Criminal Justice and Police Act 2001 (Amendment) and Police Reform Act 2002 (Modification) Order 2004 (S.I. 2004/2540), arts. 1(4), 2(3)(a)
+[^F6]: S. 1(1) table: entry relating to s. 169C(3) of Licensing Act 1964 repealed (24.11.2005) by Licensing Act 2003 (c. 17), ss. 199, 201, Sch. 7 (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2)
+[^F7]: S. 1(1) table: words in entry omitted (1.11.2004) by The Criminal Justice and Police Act 2001 (Amendment) and Police Reform Act 2002 (Modification) Order 2004 (S.I. 2004/2540), arts. 1(4), 2(3)(b)
+[^F8]: S. 1(1) table: entry inserted (1.11.2004) by The Criminal Justice and Police Act 2001 (Amendment) and Police Reform Act 2002 (Modification) Order 2004 (S.I. 2004/2540), arts. 1(4), 2(4)
+[^F9]: S. 1(1) table: entry inserted (1.11.2004) by The Criminal Justice and Police Act 2001 (Amendment) and Police Reform Act 2002 (Modification) Order 2004 (S.I. 2004/2540), arts. 1(4), 2(4)
+[^F10]: S. 1(1) table: entry inserted (4.4.2005) by The Criminal Justice and Police Act 2001 (Amendment) Order 2005 (S.I. 2005/1090), art. 2(3)
+[^F11]: S. 1(1) table: entry inserted (1.11.2004) by The Criminal Justice and Police Act 2001 (Amendment) and Police Reform Act 2002 (Modification) Order 2004 (S.I. 2004/2540), arts. 1(4), 2(5)
+[^F12]: S. 1(1) table: entry inserted (1.11.2004) by The Criminal Justice and Police Act 2001 (Amendment) and Police Reform Act 2002 (Modification) Order 2004 (S.I. 2004/2540), arts. 1(4), 2(5)
+[^F13]: Words in s. 1(1) inserted (28.1.2009) by The Criminal Justice and Police Act 2001 (Amendment) Order 2009 (S.I. 2009/110), arts. 1(2), 2
+[^F14]: Words in s. 1(1) table inserted (24.6.2014) by The Criminal Justice and Police Act 2001 (Amendment) Order 2014 (S.I. 2014/1365), arts. 1(2), 2
+[^F15]: S. 1(1) table: entry repealed (25.7.2003 for specified purposes, 29.12.2003 for further specified purposes) by Communications Act 2003 (c. 21), ss. 406(1)(6), 408, 411, Sch. 19(1) (with Sch. 18); S.I. 2003/1900, arts. 1(2), 2(1), 3(1), Sch. 1 (with art. 3(2) (as amended (8.12.2003) by S.I. 2003/3142, art. 1(3))); S.I. 2003/3142, art. 3(2) (with art. 11)
+[^F16]: S. 1(1) table: entry inserted (22.7.2002) by The Criminal Justice and Police Act 2001 (Amendment) Order 2002 (S.I. 2002/1934), art. 2
+[^F17]: S. 1(1) table: entry inserted (1.11.2004) by The Criminal Justice and Police Act 2001 (Amendment) and Police Reform Act 2002 (Modification) Order 2004 (S.I. 2004/2540), arts. 1(4), 2(6)
+[^F18]: S. 1(1) table: entry in table inserted (25.7.2003 for specified purposes, 29.12.2003 for further specified purposes) by Communications Act 2003 (c. 21), ss. 406(1)(6), 408, 411, Sch. 17 para. 169 (with Sch. 18); S.I. 2003/1900, arts. 1(2), 2(1), 3(1), Sch. 1 (with art. 3(2) (as amended (8.12.2003) by S.I. 2003/3142, art. 1(3))); S.I. 2003/3142, art. 3(2) (with art. 11)
+[^F19]: S. 1(1) table: entry inserted (11.10.2004) by The Criminal Justice and Police Act 2001 (Amendment) and Police Reform Act 2002 (Modification) Order 2004 (S.I. 2004/2540), arts. 1(3), 2(7)
+[^F20]: S. 1(1) table: entry added (1.10.2004 for E. and 10.11.2004 for W.) by Fire and Rescue Services Act 2004 (c. 21), ss. 53, Sch. 1 para. 97(3); S.I. 2004/2304, art. 2 (subject to art. 3); S.I. 2004/2917, art. 2
+[^F21]: S. 1(1) table: entry inserted (24.11.2005) by Licensing Act 2003 (c. 17), ss. 198, 201, Sch. 6 para. 120 (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2)
+[^F22]: S. 1(4)(5) omitted (8.4.2013) by virtue of Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 23 para. 2; S.I. 2013/453, art. 4(e)
+[^F23]: Word in s. 2(1) substituted (8.4.2013) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 23 para. 3(2); S.I. 2013/453, art. 4(e)
+[^F24]: S. 2(1A) inserted (8.4.2013) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 23 para. 3(3); S.I. 2013/453, art. 4(e)
+[^F25]: S. 2(2) omitted (8.4.2013) by virtue of Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 23 para. 3(4); S.I. 2013/453, art. 4(e)
+[^F26]: S. 2(3) omitted (8.4.2013) by virtue of Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 23 para. 3(5); S.I. 2013/453, art. 4(e)
+[^F27]: Words in s. 2(4) inserted (8.4.2013) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 23 para. 3(6)(a); S.I. 2013/453, art. 4(e)
+[^F28]: Words in s. 2(4) inserted (8.4.2013) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 23 para. 3(6)(b); S.I. 2013/453, art. 4(e)
+[^F29]: S. 2(4A)(4B) inserted (8.4.2013) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 23 para. 3(7); S.I. 2013/453, art. 4(e)
+[^F30]: S. 2(5) omitted (8.4.2013) by virtue of Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 23 para. 3(8); S.I. 2013/453, art. 4(e)
+[^F31]: S. 2(6)-(9) omitted (8.4.2013) by virtue of Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 23 para. 3(9); S.I. 2013/453, art. 4(e)
+[^F32]: S. 2A inserted (8.4.2013) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 23 para. 4; S.I. 2013/453, art. 4(e)
+[^F33]: S. 3(1A) omitted (8.4.2013) by virtue of Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 23 para. 5(2); S.I. 2013/453, art. 4(e)
+[^F34]: Word in s. 3(2) inserted (1.11.2004) by The Criminal Justice and Police Act 2001 (Amendment) and Police Reform Act 2002 (Modification) Order 2004 (S.I. 2004/2540), arts. 1(4), 3
+[^F35]: Words in s. 3(2) inserted (1.10.2012) by Domestic Violence, Crime and Victims Act 2004 (c. 28), ss. 15(2), 60; S.I. 2012/1697, art. 2
+[^F36]: S. 3(2A) inserted (1.10.2012) by Domestic Violence, Crime and Victims Act 2004 (c. 28), ss. 15(3), 60; S.I. 2012/1697, art. 2
+[^F37]: Words in s. 3(2A) substituted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 178 (with Sch. 27); S.I. 2020/1236, reg. 2
+[^F38]: S. 3(3)(a) omitted (13.1.2010) by virtue of The Legislative Reform (Revocation of Prescribed Form of Penalty Notice for Disorderly Behaviour) Order 2010 (S.I. 2010/64), arts. 1(1), 2(a)
+[^F39]: Words in s. 3(3)(f) substituted (1.4.2005) by Courts Act 2003 (c. 39), ss. 109(1), 110, Sch. 8 para. 397; S.I. 2005/910, art. 3
+[^F40]: S. 3(3A) inserted (8.4.2013) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 23 para. 5(3); S.I. 2013/453, art. 4(e)
+[^F41]: S. 3(4) omitted (13.1.2010) by virtue of The Legislative Reform (Revocation of Prescribed Form of Penalty Notice for Disorderly Behaviour) Order 2010 (S.I. 2010/64), arts. 1(1), 2(b)
+[^F42]: S. 3(5)(6) omitted (8.4.2013) by virtue of Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 23 para. 5(4); S.I. 2013/453, art. 4(e)
+[^F43]: Words in s. 4(5) substituted (8.4.2013) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 23 para. 6(2); S.I. 2013/453, art. 4(e)
+[^F44]: S. 4(6)-(10) inserted (8.4.2013) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 23 para. 6(3); S.I. 2013/453, art. 4(e)
+[^F45]: Word in s. 5(1) substituted (8.4.2013) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 23 para. 7(2); S.I. 2013/453, art. 4(e)
+[^F46]: S. 5(2A)(2B) inserted (8.4.2013) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 23 para. 7(3); S.I. 2013/453, art. 4(e)
+[^F47]: S. 6(ba) inserted (8.4.2013) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 23 para. 8; S.I. 2013/453, art. 4(e)
+[^F48]: Words in s. 7(1) substituted (1.4.2005) by Courts Act 2003 (c. 39), ss. 109(1), 110, Sch. 8 para. 398; S.I. 2005/910, art. 3
+[^F49]: Words in s. 8(2) substituted (1.4.2005) by Courts Act 2003 (c. 39), ss. 109(1), 110, Sch. 8 para. 399; S.I. 2005/910, art. 3
+[^F50]: Words in s. 8(4) inserted (8.4.2013) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 23 para. 9; S.I. 2013/453, art. 4(e)
+[^F51]: Words in s. 9(1) substituted (1.4.2005) by Courts Act 2003 (c. 39), ss. 109(1), 110, Sch. 8 para. 400(2); S.I. 2005/910, art. 3
+[^F52]: Words in s. 9(2)(b) substituted (1.4.2005) by Courts Act 2003 (c. 39), ss. 109(1), 110, Sch. 8 para. 400(3); S.I. 2005/910, art. 3
+[^F53]: Words in s. 9(3) substituted (1.4.2005) by Courts Act 2003 (c. 39), ss. 109(1), 110, Sch. 8 para. 400(4); S.I. 2005/910, art. 3
+[^F54]: Words in s. 10(6) substituted (8.4.2013) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 23 para. 10(2); S.I. 2013/453, art. 4(e)
+[^F55]: S. 10(7) inserted (8.4.2013) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 23 para. 10(3); S.I. 2013/453, art. 4(e)
+[^F56]: S. 10A and cross-heading inserted (8.4.2013) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 23 para. 11; S.I. 2013/453, art. 4(e)
+[^F57]: Words in s. 11 inserted (8.4.2013) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 23 para. 12(2); S.I. 2013/453, art. 4(e)
+[^F58]: Words in s. 11 inserted (8.4.2013) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 23 para. 12(3); S.I. 2013/453, art. 4(e)
+[^F59]: Words in s. 11 inserted (8.4.2013) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 23 para. 12(4); S.I. 2013/453, art. 4(e)
+[^F60]: Ss. 12-16 repealed (20.10.2014) by Anti-social Behaviour, Crime and Policing Act 2014 (c. 12), s. 185(1), Sch. 11 para. 30 (with ss. 21, 33, 42, 58, 75, 93); S.I. 2014/2590, art. 3(g)(v)
+[^F61]: S. 17 repealed (24.11.2005) by Licensing Act 2003 (c. 17), ss. 199, 201, Sch. 7 (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2)
+[^F62]: S. 18 repealed (24.11.2005) by Licensing Act 2003 (c. 17), ss. 199, 201, Sch. 7 (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2)
+[^F63]: Words in s. 19(1)(2) substituted (24.11.2005) by Licensing Act 2003 (c. 17), ss. 198, 201, Sch. 6 para. 126(a) (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2)
+[^F64]: Words in s. 20(1) omitted (1.4.2005) by virtue of The Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886), art. 2, Sch. para. 88
+[^F65]: Words in s. 20(3)(a) substituted (24.11.2005) by Licensing Act 2003 (c. 17), ss. 198, 201, Sch. 6 para. 126(b) (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2)
+[^F66]: Words in s. 21(1)(b) substituted (24.11.2005) by Licensing Act 2003 (c. 17), ss. 198, 201, Sch. 6 para. 126(c) (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2)
+[^F67]: Words in s. 21(2)(b) substituted (24.11.2005) by Licensing Act 2003 (c. 17), ss. 198, 201, Sch. 6 para. 126(c) (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2)
+[^F68]: Words in s. 21(5) substituted (1.4.2005) by Courts Act 2003 (c. 39), ss. 109(1), 110, Sch. 8 para. 401; S.I. 2005/910, art. 3
+[^F69]: Words in s. 22(5)(a) substituted (1.4.2005) by Courts Act 2003 (c. 39), ss. 109(1), 110, Sch. 8 para. 402; S.I. 2005/910, art. 3
+[^F70]: Words in s. 23(1) omitted (1.4.2005) by virtue of The Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886), art. 2, Sch. para. 88
+[^F71]: Words in s. 25(4) substituted (12.3.2015) by The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664), reg. 1(1), Sch. 4 para. 31 (with reg. 5(1))
+[^F72]: Words in s. 27(1) substituted (28.6.2022) by Judicial Review and Courts Act 2022 (c. 35), s. 51(3), Sch. 1 para. 14(a)
+[^F73]: S. 27(1A) inserted (28.6.2022) by Judicial Review and Courts Act 2022 (c. 35), s. 51(3), Sch. 1 para. 14(b)
+[^F74]: S. 27(2)-(8) omitted (28.6.2022) by virtue of Judicial Review and Courts Act 2022 (c. 35), s. 51(3), Sch. 1 para. 14(c)
+[^F75]: S. 28: definition of "alcohol" inserted (24.11.2005) by Licensing Act 2003 (c. 17), ss. 198, 201, Sch. 6 para. 127(a) (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2)
+[^F76]: S. 28: definition of "intoxicating liquor" repealed (24.11.2005) by Licensing Act 2003 (c. 17), ss. 198, 199, 201, Sch. 6 para. 127(b), Sch. 7 (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2)
+[^F77]: S. 28: definition of "unlicensed sale" substituted (24.11.2005) by Licensing Act 2003 (c. 17), ss. 198, 201, Sch. 6 para. 127(c) (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2)
+[^F78]: S. 30 repealed (24.11.2005) by Licensing Act 2003 (c. 17), ss. 199, 201, Sch. 7 (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2)
+[^F79]: S. 31 repealed (24.11.2005) by Licensing Act 2003 (c. 17), ss. 199, 201, Sch. 7 (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2)
+[^F80]: S. 32 repealed (24.11.2005) by Licensing Act 2003 (c. 17), ss. 199, 201, Sch. 7 (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2)
+[^F81]: Words in s. 33(4) substituted (21.1.2011) by Identity Documents Act 2010 (c. 40), s. 14(2), Sch. para. 16(2)(a)
+[^F82]: Words in s. 33(4) substituted (21.1.2011) by Identity Documents Act 2010 (c. 40), s. 14(2), Sch. para. 16(2)(b)
+[^F83]: Word in s. 33(5) substituted (21.1.2011) by Identity Documents Act 2010 (c. 40), s. 14(2), Sch. para. 16(3)
+[^F84]: S. 33(8) substituted (21.1.2011) by Identity Documents Act 2010 (c. 40), s. 14(2), Sch. para. 16(4)
+[^F85]: Word in s. 35 substituted (21.1.2011) by Identity Documents Act 2010 (c. 40), s. 14(2), Sch. para. 17
+[^F86]: Word in s. 36 substituted (21.1.2011) by Identity Documents Act 2010 (c. 40), s. 14(2), Sch. para. 17
+[^F87]: S. 38 repealed (1.9.2005) by Drugs Act 2005 (c. 17), ss. 23, 24, Sch. 1 para. 6, Sch. 2; S.I. 2005/2223, art. 2
+[^F88]: Word in s. 42(1)(b)(i) omitted (29.6.2026) by virtue of Crime and Policing Act 2026 (c. 20), ss. 169(2)(a), 255(1); S.I. 2026/689, reg. 2(1)(s)
+[^F89]: S. 42(1)(b)(iii)(iv) inserted (29.6.2026) by Crime and Policing Act 2026 (c. 20), ss. 169(2)(b), 255(1); S.I. 2026/689, reg. 2(1)(s)
+[^F90]: S. 42(4) substituted (1.7.2005) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 127(2), 178; S.I. 2005/1521, art. 3(1)(m) (subject to arts. 3(4)(5))
+[^F91]: Words in s. 42(7) substituted (1.7.2005) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 127(3), 178; S.I. 2005/1521, art. 3(1)(m) (subject to arts. 3(4)(5))
+[^F92]: S. 42(7A)-(7C) inserted (1.7.2005) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 127(4), 178; S.I. 2005/1521, art. 3(1)(m) (subject to arts. 3(4)(5))
+[^F93]: S. 42(8) repealed (1.1.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 111, 174(2), 178, Sch. 7 para. 35(a), Sch. 17 Pt. 2; S.I. 2005/3495, art. 2(1) (subject to art. 2(2))
+[^F94]: S. 42A inserted (1.7.2005) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 126(1), 178; S.I. 2005/1521, art. 3(1)(m) (subject to art. 3(4)(5))
+[^F95]: Word in s. 42A(1)(b)(i) omitted (29.6.2026) by virtue of Crime and Policing Act 2026 (c. 20), ss. 169(3)(a), 255(1); S.I. 2026/689, reg. 2(1)(s)
+[^F96]: S. 42A(1)(b)(iii)(iv) inserted (29.6.2026) by Crime and Policing Act 2026 (c. 20), ss. 169(3)(b), 255(1); S.I. 2026/689, reg. 2(1)(s)
+[^F97]: S. 45 repealed (20.1.2007 for specified purposes, 1.10.2009 in so far as not already in force) by Companies Act 2006 (c. 46), s. 1300(2), Sch. 16; S.I. 2006/3428, art. 7(b), Sch. 3 Pt. 1 (with arts. 6 8(2)); S.I. 2008/2860, art. 4, Sch. 1 Pt. 1 (with arts. 7 8 Sch. 2) (which transitional provisions in Sch. 2 are amended (1.10.2009) by S.I. 2009/2476, arts. 1(3), 2(3)(4) and by S.I. 2009/1802, arts. 1, 18, Sch.)
+[^F98]: S. 46(6) repealed (1.10.2002) by Police Reform Act 2002 (c. 30), s. 107, Sch. 8; S.I. 2002/2306, art. 2(g)(iii)(j)
+[^F99]: S. 47(3) repealed (1.1.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 111, 174(2), 178, Sch. 7 para. 35(b), Sch. 17 Pt. 2; S.I. 2005/3495, art. 2(1) (subject to art. 2(2))
+[^F100]: S. 48 repealed (12.1.2009) by Policing and Crime Act 2009 (c. 26), s. 116(6)(b), Sch. 8 Pt. 13
+[^F101]: S. 49 repealed (12.1.2009) by Policing and Crime Act 2009 (c. 26), s. 116(6)(b), Sch. 8 Pt. 13
+[^F102]: Words in s. 50(6) inserted (1.1.2025) by Digital Markets, Competition and Consumers Act 2024 (c. 13), ss. 123(2), 339(1); S.I. 2024/1226, regs. 1(2), 2(1)(2) (with Sch. paras. 2, 20)
+[^F103]: S. 50(7) inserted (1.1.2025) by Digital Markets, Competition and Consumers Act 2024 (c. 13), ss. 77(2), 339(1) (with s. 81); S.I. 2024/1226, regs. 1(2), 2(1)(2)
+[^F104]: Words in s. 50(7) inserted (21.7.2025 for specified purposes, 12.12.2025 in so far as not already in force) by Football Governance Act 2025 (c. 21), s. 100(1)(2)(g), Sch. 12 para. 5(2); S.I. 2025/1286, reg. 2(1)(e)(vi)
+[^F105]: Words in s. 52(5) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), art. 1(2), Sch. 14 para. 46(2) (with arts. 28-31)
+[^F106]: Word in s. 55(5) omitted (24.2.2003) and repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 457, 458(1)(3), Sch. 11 para. 40(2), Sch. 12; S.I. 2003/120, art. 2, Sch. (subject to transitional provisions and savings in arts. 3-7 (as amended by 2003/333, art. 14)) and S.I. 2003/333, art. 2, Sch. (subject to transitional provisions and savings in arts. 3-13 (as amended by S.I. 2003/531, arts. 3, 4))
+[^F107]: S. 55(5)(d) and word inserted (24.2.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456, 458, Sch. 11 para. 40(2); S.I. 2003/120, art. 2, Sch. (subject to transitional provisions and savings in arts. 3-7 (as amended by 2003/333, art. 14))
+[^F108]: S. 55(7)(8) inserted (20.12.2023) by The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386), reg. 1(2), Sch. para. 21(2)
+[^F109]: S. 56(4A) inserted (E.W.) (20.1.2004) by Criminal Justice Act 2003 (c. 44), ss. 12, 336, Sch. 1 para. 14; S.I. 2004/81, art. 2(2)(a)
+[^F110]: S. 56(5)(b) omitted (1.10.2009) by virtue of The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 189(2) (with art. 10)
+[^F111]: S. 56(5)(c)(d)(e) repealed (1.12.2001) by S.I. 2001/3649, arts. 1, 364(a)
+[^F112]: S. 57(1)(c) repealed (1.12.2007) by Finance Act 2007 (c. 11), ss. 84, 92, 114, Sch. 22 para. 13(1)(a), Sch. 27 Pt. 5(1); S.I. 2007/3166, art. 3(a)
+[^F113]: S. 57(1)(d) omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 62(a); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F114]: S. 57(1)(e)(h)(j) repealed (1.12.2001) by S.I. 2001/3649, arts. 1, 364(b)
+[^F115]: S. 57(1)(g) omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 62(a); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F116]: S. 57(1)(i) omitted (1.10.2009) by virtue of The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 189(3) (with art. 10)
+[^F117]: Words in s. 57(1)(k) substituted (1.10.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), s. 68(2), Sch. 7 para. 19; S.I. 2009/2232, art. 2(y)
+[^F118]: S. 57(1)(m) omitted (25.5.2018) by virtue of Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 71(a) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F119]: Words in s. 57(1)(n) substituted (1.1.2025) by Digital Markets, Competition and Consumers Act 2024 (c. 13), ss. 123(3), 339(1); S.I. 2024/1226, regs. 1(2), 2(1)(2) (with Sch. paras. 2, 20)
+[^F120]: Words in s. 57(1)(o) substituted (3.7.2016) by The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680), regs. 1, 13(2)
+[^F121]: S. 57(1)(pa) omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 62(a); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F122]: S. 57(1)(q) inserted (1.3.2006 for certain purposes and 7.4.2006 for certain further purposes and 1.9.2006 otherwise) by Human Tissue Act 2004 (c. 30), ss. 56, 60, Sch. 6 para. 5(2) (with s. 58); S.I. 2006/404, arts. 2, 3, Sch. (subject to art. 4 and with transitional provisions in arts. 5, 6); S.I. 2006/1997, art. 3 (subject to arts. 4, 7, 8 ) (as amended by S.I. 2006/2169, art. 2)
+[^F123]: S. 57(1)(r) inserted (27.3.2007 for W. and 6.4.2007 for E. and otherwise prosp.) by Animal Welfare Act 2006 (c. 45), ss. 64, 68, Sch. 3 para. 14(1) (with ss. 1(2), 58(1), 59, 60); S.I. 2007/1030, art. 2(1)(l); S.I. 2007/499, art. 2(2)(l)
+[^F124]: S. 57(1)(s) inserted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 62(b); S.I. 2015/1630, art. 3(i)
+[^F125]: S. 57(1)(t) inserted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 71(b) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F126]: S. 57(1)(u) inserted (10.1.2024) by Online Safety Act 2023 (c. 50), ss. 108(2), 240(1); S.I. 2023/1420, reg. 2(z10)
+[^F127]: S. 57(1)(v) inserted (1.1.2025) by Digital Markets, Competition and Consumers Act 2024 (c. 13), ss. 77(3), 339(1) (with s. 81); S.I. 2024/1226, regs. 1(2), 2(1)(2)
+[^F128]: S. 57(1)(w) inserted (21.7.2025 for specified purposes, 12.12.2025 in so far as not already in force) by Football Governance Act 2025 (c. 21), s. 100(1)(2)(g), Sch. 12 para. 5(3); S.I. 2025/1286, reg. 2(1)(e)(vi)
+[^F129]: S. 57(1)(y) inserted (5.1.2026) by Border Security, Asylum and Immigration Act 2025 (c. 31), ss. 27(2), 65(1); S.I. 2025/1318, reg. 2(e)
+[^F130]: Word in s. 59(7)(b)(iii) omitted (20.12.2023) by virtue of The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386), reg. 1(2), Sch. para. 21(3)(a)
+[^F131]: S. 59(7)(b)(v) and word inserted (20.12.2023) by The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386), reg. 1(2), Sch. para. 21(3)(b)
+[^F132]: S. 59(13) inserted (26.5.2015) by Deregulation Act 2015 (c. 20), ss. 82(5), 115(7); S.I. 2015/994, art. 6(o)
+[^F133]: S. 60(4)(a) repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 457, 458(1)(3), Sch. 12; S.I. 2003/333, art. 2, Sch. (subject to transitional provisions and savings in arts. 3-13 (as amended by S.I. 2003/531, arts. 3, 4))
+[^F134]: Word in s. 60(4) omitted (24.2.2003) by virtue of Proceeds of Crime Act 2002 (c. 29), ss. 456, 457, 458, Sch. 11 para. 40(3) and by {Sch. 12} of the said Proceeds of Crime Act 2002 the same word is repealed (24.3.2003); S.I. 2003/120, art. 2, Sch. (subject to arts. 3-7 (as amended by S.I. 2003/333, art. 14)) and S.I. 2003/333, art. 2, Sch. (subject to transitional provisions and savings in arts. 3-13 (as amended by S.I. 2003/531, arts. 3, 4))
+[^F135]: S. 60(4)(d) and word inserted (24.2.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456, 458(1)(3), Sch. 11 para. 40(3); S.I. 2003/120, art. 2 Sch. (subject to transitional provisions and savings in arts. 3-7) (as amended by S.I. 2003/333, art. 14))
+[^F136]: Word in s. 60(6)(d) omitted (20.12.2023) by virtue of The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386), reg. 1(2), Sch. para. 21(4)(a)(i)
+[^F137]: S. 60(6)(f)(g) inserted (20.12.2023) by The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386), reg. 1(2), Sch. para. 21(4)(a)(ii)
+[^F138]: S. 60(6A)(6B) inserted (20.12.2023) by The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386), reg. 1(2), Sch. para. 21(4)(b)
+[^F139]: S. 63(1)(d) inserted (1.1.2025) by Digital Markets, Competition and Consumers Act 2024 (c. 13), ss. 77(4), 339(1) (with s. 81); S.I. 2024/1226, regs. 1(2), 2(1)(2)
+[^F140]: Words in s. 63(1)(d) inserted (21.7.2025 for specified purposes, 12.12.2025 in so far as not already in force) by Football Governance Act 2025 (c. 21), s. 100(1)(2)(g), Sch. 12 para. 5(4); S.I. 2025/1286, reg. 2(1)(e)(vi)
+[^F141]: S. 63(2)(d) repealed (1.9.2007) by Gambling Act 2005 (c. 19), ss. 356, 358, Sch. 17 (with ss. 352, 354); S.I. 2006/3272, art. 2(4) (with transitional provisions in art. 6, Sch. 4)
+[^F142]: S. 63(2)(e) repealed (1.12.2007) by Finance Act 2007 (c. 11), ss. 84, 92, 114, Sch. 22 para. 13(1)(b), Sch. 27 Pt. 5(1); S.I. 2007/3166, art. 3(a)
+[^F143]: S. 63(2)(ga) inserted (1.12.2007) by Finance Act 2007 (c. 11), s. 85, Sch. 23 para. 12; S.I. 2007/3166, art. 3(b)
+[^F144]: Words in s. 63(2)(h) inserted (1.1.2025) by Digital Markets, Competition and Consumers Act 2024 (c. 13), ss. 123(4), 339(1); S.I. 2024/1226, regs. 1(2), 2(1)(2) (with Sch. paras. 2, 20)
+[^F145]: Words in s. 64(1) substituted (21.7.2025 for specified purposes, 12.12.2025 in so far as not already in force) by Football Governance Act 2025 (c. 21), s. 100(1)(2)(g), Sch. 12 para. 5(5)(a); S.I. 2025/1286, reg. 2(1)(e)(vi)
+[^F146]: S. 64(3)(a)(ii) omitted (1.10.2009) by virtue of The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 189(4) (with art. 10)
+[^F147]: Words in s. 64(3)(a)(iii) substituted (1.1.2025) by Digital Markets, Competition and Consumers Act 2024 (c. 13), ss. 123(5), 339(1); S.I. 2024/1226, regs. 1(2), 2(1)(2) (with Sch. paras. 2, 20)
+[^F148]: Word in s. 64(3) omitted (24.2.2003) by virtue of Proceeds of Crime Act 2002 (c. 29), ss. 456, 457, 458, Sch. 11 para. 40(4) and by {Sch. 12} of the said Proceeds of Crime Act 2002 the same word is repealed (24.3.2003); S.I. 2003/120, art. 2, Sch. (subject to arts. 3-7 (as amended by S.I. 2003/333, art. 14)) and S.I. 2003/333, art. 2, Sch. (subject to transitional provisions and savings in arts. 3-13 (as amended by S.I. 2003/531, arts. 3, 4))
+[^F149]: S. 64(3)(a)(iv) inserted (1.1.2025) by Digital Markets, Competition and Consumers Act 2024 (c. 13), ss. 77(5), 339(1) (with s. 81); S.I. 2024/1226, regs. 1(2), 2(1)(2)
+[^F150]: S. 64(3)(aa) inserted (24.2.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456, 458(1)(3), Sch. 11 para. 40(4); S.I. 2003/120, art. 2, Sch. (subject to transitional provisions and savings in arts. 3-7 (as amended by S.I. 2003/333, art. 14))
+[^F151]: Words in s. 64(3)(aa) repealed (1.6.2015) by Policing and Crime Act 2009 (c. 26), s. 116(1), Sch. 7 para. 115, Sch. 8 Pt. 5; S.I. 2015/983, arts. 2(2)(e)(g), 3(hh) (with art. 6(2))
+[^F152]: S. 64(4) inserted (21.7.2025 for specified purposes, 12.12.2025 in so far as not already in force) by Football Governance Act 2025 (c. 21), s. 100(1)(2)(g), Sch. 12 para. 5(5)(b); S.I. 2025/1286, reg. 2(1)(e)(vi)
+[^F153]: Words in s. 65(1)(b) substituted (24.2.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456, 458, Sch. 11 para. 40(5)(a); S.I. 2003/120, art. 2 Sch. (subject to transitional provisions and savings in arts. 3-7 (as amended by S.I. 2003/333, art. 14))
+[^F154]: Word in s. 65(2)(a) substituted (1.1.2025) by Digital Markets, Competition and Consumers Act 2024 (c. 13), ss. 123(6)(a), 339(1); S.I. 2024/1226, regs. 1(2), 2(1)(2) (with Sch. paras. 2, 20)
+[^F155]: Words in s. 65(2)(a) inserted (1.1.2025) by Digital Markets, Competition and Consumers Act 2024 (c. 13), ss. 123(6)(b), 339(1); S.I. 2024/1226, regs. 1(2), 2(1)(2) (with Sch. paras. 2, 20)
+[^F156]: S. 65(3) repealed (1.12.2007) by Finance Act 2007 (c. 11), ss. 84, 92, 114, Sch. 22 para. 13(1)(c), Sch. 27 Pt. 5(1); S.I. 2007/3166, art. 3(a)
+[^F157]: S. 65(3A) inserted (24.2.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456, 458, Sch. 11 para. 40(5)(b); S.I. 2003/120, art. 2, Sch. (subject to transitional provisions and savings in arts. 3-7 (as amended by S.I. 2003/333, art. 14))
+[^F158]: S. 65(3B) inserted (1.1.2025) by Digital Markets, Competition and Consumers Act 2024 (c. 13), ss. 77(6), 339(1) (with s. 81); S.I. 2024/1226, regs. 1(2), 2(1)(2)
+[^F159]: S. 65(3C) inserted (21.7.2025 for specified purposes, 12.12.2025 in so far as not already in force) by Football Governance Act 2025 (c. 21), s. 100(1)(2)(g), Sch. 12 para. 5(6); S.I. 2025/1286, reg. 2(1)(e)(vi)
+[^F160]: S. 65(5) omitted (1.10.2009) by virtue of The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 189(5) (with art. 10)
+[^F161]: S. 65(6) omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 63(2); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F162]: Words in s. 65(7) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 72(a) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F163]: Words in s. 65(7) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 72(b) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F164]: S. 65(8A) omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 63(2); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F165]: S. 65(8B) inserted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 63(3); S.I. 2015/1630, art. 3(i)
+[^F166]: S. 65(8C) inserted (10.1.2024) by Online Safety Act 2023 (c. 50), ss. 108(3)(a), 240(1); S.I. 2023/1420, reg. 2(z10)
+[^F167]: S. 65(9)(c) omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 63(4)(a); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F168]: Word in s. 65(9)(d) repealed (8.1.2007) by The Enterprise Act 2002 (Amendment) Regulations 2006 (S.I. 2006/3363), reg. 26(2)
+[^F169]: Word in s. 65(9)(d) omitted (10.1.2024) by virtue of Online Safety Act 2023 (c. 50), ss. 108(3)(b)(i), 240(1); S.I. 2023/1420, reg. 2(z10)
+[^F170]: S. 65(9)(f) and word omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 63(4)(c); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F171]: Word in s. 65(9)(e) inserted (10.1.2024) by Online Safety Act 2023 (c. 50), ss. 108(3)(b)(ii), 240(1); S.I. 2023/1420, reg. 2(z10)
+[^F172]: S. 65(9)(g) inserted (10.1.2024) by Online Safety Act 2023 (c. 50), ss. 108(3)(b)(iii), 240(1); S.I. 2023/1420, reg. 2(z10)
+[^F173]: Words in s. 66(1) inserted (12.1.2010) by Marine and Coastal Access Act 2009 (c. 23), ss. 253(6)(a), 324(3) (with s. 295); S.I. 2009/3345, art. 2, Sch. para. 21
+[^F174]: Words in s. 66(1) inserted (12.1.2010) by Marine and Coastal Access Act 2009 (c. 23), ss. 253(6)(b), 324(3) (with s. 295); S.I. 2009/3345, art. 2, Sch. para. 21
+[^F175]: S. 66(3) omitted (20.12.2023) by virtue of The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386), reg. 1(2), Sch. para. 21(5)
+[^F176]: S. 66(4)(a) omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 64(a); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F177]: S. 66(4)(c) omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 64(a); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F178]: S. 66(4)(d) omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 64(a); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F179]: S. 66(4)(e) omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 64(a); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F180]: S. 66(4)(f) omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 64(a); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F181]: S. 66(4)(g) omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 64(a); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F182]: Word in s. 66(4)(h) substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 64(b); S.I. 2015/1630, art. 3(i)
+[^F183]: S. 66(4)(i) repealed (26.5.2008) by The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277), reg. 1, Sch. 4 Pt. 1 (with reg. 28(2)(3))
+[^F184]: S. 66(4)(ja) inserted (1.10.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), s. 68(2), Sch. 7 para. 20(a); S.I. 2009/2232, art. 2(y)
+[^F185]: S. 66(4)(k) omitted (1.10.2013) by virtue of The Property Misdescriptions Act 1991 (Repeal) Order 2013 (S.I. 2013/1575), art. 1, Sch. para. 5
+[^F186]: S. 66(4)(m) repealed (23.2.2011) by The Timeshare, Holiday Products, Resale and Exchange Contracts Regulations 2010 (S.I. 2010/2960), reg. 1(2), Sch. 6 para. 2(3)(a), Sch. 8 Pt. 1 (with reg. 37, Sch. 7)
+[^F187]: S. 66(4)(ma) omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 64(a); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F188]: S. 66(4)(n) inserted (1.3.2006 for certain purposes and 7.4.2006 for certain further purposes and 1.9.2006 otherwise) by Human Tissue Act 2004 (c. 30), ss. 56, 60, Sch. 6 para. 5(3) (with s. 58); S.I. 2006/404, art. 2(3), Sch. (subject to art. 4 and with transitional provisions in arts. 5, 6); S.I. 2006/1997, art. 3 (subject to arts. 4, 7, 8) (as amended by S.I. 2006/2169, art. 2)
+[^F189]: S. 66(4)(o) inserted (1.10.2005) by The General Product Safety Regulations 2005 (S.I. 2005/1803), reg. 47(3) (with regs. 42, 43)
+[^F190]: Word in s. 66(4)(o) substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 64(c); S.I. 2015/1630, art. 3(i)
+[^F191]: S. 66(4)(p) inserted (27.3.2007 for W. and 6.4.2007 for E. and otherwise prosp.) by Animal Welfare Act 2006 (c. 45), ss. 64, 68, Sch. 3 para. 14(2) (with ss. 1(2), 58(1), 59, 60); S.I. 2007/1030, art. 2(1)(l); S.I. 2007/499, art. 2(2)(l)
+[^F192]: Words in Act substituted (22.4.2011) by The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043), arts. 2, 3, 6 (with art. 3(2)(3), 4(2), 6(4)(5))
+[^F193]: S. 66(4)(q) omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 64(a); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F194]: S. 66(4)(r) omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 64(a); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F195]: S. 66(4)(s) omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 64(a); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F196]: S. 66(4)(t) inserted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 64(d); S.I. 2015/1630, art. 3(i)
+[^F197]: S. 66(5)(a)(c)(e) repealed (1.12.2001) by S.I. 2001/3649, arts. 1, 364(c)
+[^F198]: S. 66(5)(d) omitted (1.10.2009) by virtue of The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 189(6) (with art. 10)
+[^F199]: S. 66(5)(g) repealed (1.10.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), s. 68(2), Sch. 7 para. 20(b), Sch. 8 Pt. 1; S.I. 2009/2232, art. 2(y)
+[^F200]: Words in s. 66(5)(h) substituted (1.1.2025) by Digital Markets, Competition and Consumers Act 2024 (c. 13), ss. 123(7), 339(1); S.I. 2024/1226, regs. 1(2), 2(1)(2) (with Sch. paras. 2, 20)
+[^F201]: Words in s. 66(5)(i) substituted (3.7.2016) by The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680), regs. 1, 13(3)
+[^F202]: S. 66(5)(j) inserted (1.1.2025) by Digital Markets, Competition and Consumers Act 2024 (c. 13), ss. 77(7), 339(1) (with s. 81); S.I. 2024/1226, regs. 1(2), 2(1)(2)
+[^F203]: S. 66(5)(k) inserted (21.7.2025 for specified purposes, 12.12.2025 in so far as not already in force) by Football Governance Act 2025 (c. 21), s. 100(1)(2)(g), Sch. 12 para. 5(7); S.I. 2025/1286, reg. 2(1)(e)(vi)
+[^F204]: Words in s. 67 heading substituted (8.11.2007) by Finance Act 2007 (c. 11), s. 84(4), Sch. 22 para. 2; S.I. 2007/3166, art. 3(a)
+[^F205]: Words in s. 67 substituted (8.11.2007) by Finance Act 2007 (c. 11), s. 84(4), Sch. 22 para. 2; S.I. 2007/3166, art. 3(a)
+[^F206]: S. 67A inserted (E.W.) (25.1.2018) by Tax Collection and Management (Wales) Act 2016 (anaw 6), ss. 185(2), 194(2); S.I. 2018/33, art. 2(j)
+[^F207]: S. 68(2)(b)(d)(e) repealed (1.12.2001) by S.I. 2001/3649, arts. 1, 364(d)
+[^F208]: Words in s. 68(2)(f) substituted (3.7.2016) by The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680), regs. 1, 13(4)
+[^F209]: S. 68(2)(g)(h) inserted (15.12.2007) by The Transfer of Funds (Information on the Payer) Regulations 2007 (S.I. 2007/3298), reg. 19, Sch. 3 para. 2
+[^F210]: Words in s. 68(2)(g) substituted (26.6.2017) by The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692), reg. 1(2), Sch. 7 para. 5(a)(i) (with regs. 8, 15)
+[^F211]: S. 68(2)(h) omitted (26.6.2017) by virtue of The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692), reg. 1(2), Sch. 7 para. 5(a)(ii) (with regs. 8, 15)
+[^F212]: S. 69(2A) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), art. 1(2), Sch. 14 para. 46(3) (with arts. 28-31)
+[^F213]: S. 71 repealed (1.10.2002) by Police Reform Act 2002 (c. 30), s. 107, Sch. 8; S.I. 2002/2306, art. 2(g)(iii)(j)
+[^F214]: S. 72 repealed (N.I.) (1.3.2007) by The Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288), art. 41, Sch. 2
+[^F215]: S. 78(7) repealed (12.1.2009) by Policing and Crime Act 2009 (c. 26), s. 116(6)(b), Sch. 8 Pt. 13
+[^F216]: S. 80(2) repealed (1.4.2003) by Police Reform Act 2002 (c. 30), ss. 107, 108(2)-(5), Sch. 8; S.I. 2003/808, art. 2(l)(iv)
+[^F217]: S. 80(4) repealed (12.1.2009) by Policing and Crime Act 2009 (c. 26), s. 116(6)(b), Sch. 8 Pt. 13
+[^F218]: S. 82 repealed (31.10.2013) by Protection of Freedoms Act 2012 (c. 9), s. 120, Sch. 10 Pt. 1 (with s. 97); S.I. 2013/2104, art. 3(d)
+[^F219]: S. 84 repealed (31.10.2013) by Protection of Freedoms Act 2012 (c. 9), s. 120, Sch. 10 Pt. 1 (with s. 97); S.I. 2013/2104, art. 3(d)
+[^F220]: S. 87 repealed (1.4.2007) by Police and Justice Act 2006 (c. 48), ss. 52, 53, Sch. 15 Pt. 1(A); S.I. 2007/709, art. 3(q) (subject to arts. 6, 7)
+[^F221]: S. 88 repealed (1.4.2007) by Police and Justice Act 2006 (c. 48), ss. 52, 53, Sch. 15 Pt. 1(A); S.I. 2007/709, art. 3(q) (subject to arts. 6, 7); and s. 88(8)(j), in so far as it is still in force, repealed (1.1.2008) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 16 para. 187(b), Sch. 17; S.I. 2007/2913, art. 3
+[^F222]: S. 89 repealed (1.4.2007) by Police and Justice Act 2006 (c. 48), ss. 52, 53, Sch. 15 Pt. 1(A); S.I. 2007/709, art. 3(q) (subject to arts. 6, 7)
+[^F223]: S. 90 repealed (1.4.2007) by Police and Justice Act 2006 (c. 48), ss. 52, 53, Sch. 15 Pt. 1(A); S.I. 2007/709, art. 3(q) (subject to arts. 6, 7)
+[^F224]: S. 91 repealed (1.4.2007) by Police and Justice Act 2006 (c. 48), ss. 52, 53, Sch. 15 Pt. 1(A); S.I. 2007/709, art. 3(q) (subject to arts. 6, 7)
+[^F225]: S. 92 repealed (1.4.2007) by Police and Justice Act 2006 (c. 48), ss. 52, 53, Sch. 15 Pt. 1(A); S.I. 2007/709, art. 3(q) (subject to arts. 6, 7)
+[^F226]: S. 93 repealed (1.4.2007) by Police and Justice Act 2006 (c. 48), ss. 52, 53, Sch. 15 Pt. 1(A); S.I. 2007/709, art. 3(q) (subject to arts. 6, 7)
+[^F227]: S. 94 repealed (1.4.2007) by Police and Justice Act 2006 (c. 48), ss. 52, 53, Sch. 15 Pt. 1(A); S.I. 2007/709, art. 3(q) (subject to arts. 6, 7)
+[^F228]: S. 95 repealed (1.4.2007) by Police and Justice Act 2006 (c. 48), ss. 52, 53, Sch. 15 Pt. 1(A); S.I. 2007/709, art. 3(q) (subject to arts. 6, 7)
+[^F229]: S. 96 repealed (1.4.2007) by Police and Justice Act 2006 (c. 48), ss. 52, 53, Sch. 15 Pt. 1(A); S.I. 2007/709, art. 3(q) (subject to arts. 6, 7)
+[^F230]: Words in s. 97(1)(a) repealed (1.4.2007) by Police and Justice Act 2006 (c. 48), ss. 52, 53, Sch. 15 Pt. 1(A); S.I. 2007/709, art. 3(q) (subject to arts. 6 and 7)
+[^F231]: S. 97(1A)(1B) inserted (13.5.2014) by Anti-social Behaviour, Crime and Policing Act 2014 (c. 12), ss. 123(5)(a), 185(1) (with ss. 21, 33, 42, 58, 75, 93); S.I. 2014/949, art. 3, Sch. para. 10
+[^F232]: Words in s. 97(3)(a) substituted (16.1.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 271(a); S.I. 2011/3019, art. 3, Sch. 1
+[^F233]: S. 97(4) repealed (13.5.2014) by Anti-social Behaviour, Crime and Policing Act 2014 (c. 12), ss. 123(5)(b), 185(1) (with ss. 21, 33, 42, 58, 75, 93); S.I. 2014/949, art. 3, Sch. para. 10
+[^F234]: S. 97(6) substituted (1.4.2007) by Police and Justice Act 2006 (c. 48), ss. 1(3), 53, Sch. 1 para. 79(3); S.I. 2007/709, art. 3(a) (subject to arts. 6 and 7)
+[^F235]: Word in s. 97(6)(c)(ii) omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of Policing and Crime Act 2017 (c. 3), ss. 40(2)(a), 183(1)(5)(e); S.I. 2017/1139, reg. 2(f) (as amended by S.I. 2017/1162, reg. 2)
+[^F236]: S. 97(6)(c)(iv) and word inserted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), ss. 40(2)(b), 183(1)(5)(e); S.I. 2017/1139, reg. 2(f) (as amended by S.I. 2017/1162, reg. 2)
+[^F237]: Words in s. 98(1)(2) substituted (16.1.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 272; S.I. 2011/3019, art. 3, Sch. 1
+[^F238]: S. 101(1) repealed (1.4.2007) by Police and Justice Act 2006 (c. 48), ss. 52, 53, Sch. 15 Pt. 1(A); S.I. 2007/709, art. 3(q) (subject to arts. 6 and 7)
+[^F239]: S. 104(3) repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 174(2), 178, Sch. 4 para. 164(2), Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. paras. 10, 13(ll) (subject to art. 4(2)-(7))
+[^F240]: Word in s. 104(4)(a) inserted (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 178, Sch. 4 para. 164(3)(a); S.I. 2006/378, art. 4(1), Sch. para. 10 (subject to art. 4(2)-(7))
+[^F241]: S. 104(4)(c) and preceding word repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 174(2), 178, Sch. 4 para. 164(3)(b), Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. paras. 10, 13(ll) (subject to art. 4(2)-(7))
+[^F242]: S. 104(8) repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 174(2), 178, Sch. 4 para. 164(4), Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. paras. 10, 13(ll) (subject to art. 4(2)-(7))
+[^F243]: S. 107(1)(c) repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 174(2), 178, Sch. 4 para. 165(2), Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. paras. 10, 13(ll) (subject to art. 4(2)-(7))
+[^F244]: S. 107(4) repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 174(2), 178, Sch. 4 para. 165(3), Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. paras. 10, 13(ll) (subject to art. 4(2)-(7))
+[^F245]: Ss. 108-121 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 174(2), 178, Sch. 4 para. 166, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. paras. 10, 13(ll) (subject to art. 4(2)-(7))
+[^F246]: Ss. 108-121 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 174(2), 178, Sch. 4 para. 166, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. paras. 10, 13(ll) (subject to art. 4(2)-(7))
+[^F247]: Ss. 108-121 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 174(2), 178, Sch. 4 para. 166, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. paras. 10, 13(ll) (subject to art. 4(2)-(7))
+[^F248]: Ss. 108-121 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 174(2), 178, Sch. 4 para. 166, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. paras. 10, 13(ll) (subject to art. 4(2)-(7))
+[^F249]: Ss. 108-121 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 174(2), 178, Sch. 4 para. 166, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. paras. 10, 13(ll) (subject to art. 4(2)-(7))
+[^F250]: Ss. 108-121 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 174(2), 178, Sch. 4 para. 166, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. paras. 10, 13(ll) (subject to art. 4(2)-(7))
+[^F251]: Ss. 108-121 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 174(2), 178, Sch. 4 para. 166, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. paras. 10, 13(ll) (subject to art. 4(2)-(7))
+[^F252]: Ss. 108-121 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 174(2), 178, Sch. 4 para. 166, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. paras. 10, 13(ll) (subject to art. 4(2)-(7))
+[^F253]: Ss. 108-121 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 174(2), 178, Sch. 4 para. 166, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. paras. 10, 13(ll) (subject to art. 4(2)-(7))
+[^F254]: Ss. 108-121 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 174(2), 178, Sch. 4 para. 166, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. paras. 10, 13(ll) (subject to art. 4(2)-(7))
+[^F255]: Ss. 108-121 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 174(2), 178, Sch. 4 para. 166, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. paras. 10, 13(ll) (subject to art. 4(2)-(7))
+[^F256]: Ss. 108-121 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 174(2), 178, Sch. 4 para. 166, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. paras. 10, 13(ll) (subject to art. 4(2)-(7))
+[^F257]: Ss. 108-121 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 174(2), 178, Sch. 4 para. 166, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. paras. 10, 13(ll) (subject to art. 4(2)-(7))
+[^F258]: Ss. 108-121 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 174(2), 178, Sch. 4 para. 166, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. paras. 10, 13(ll) (subject to art. 4(2)-(7))
+[^F259]: S. 122(3) repealed (23.12.2004) by Police Reform Act 2002 (c. 30), ss. 107(2), 108, Sch. 8; S.I. 2004/3338, art. 3(c)(vi)
+[^F260]: S. 123(3) repealed (23.12.2004) by Police Reform Act 2002 (c. 30), ss. 107(2), 108, Sch. 8; S.I. 2004/3338, art. 3(c)(vi)
+[^F261]: S. 125(4)(b) repealed (1.4.2004) by Police Reform Act 2002 (c. 30), ss. 107(2), 108, Sch. 8; S.I. 2004/913, art. 2(f)(x)
+[^F262]: S. 130 omitted (3.12.2012) by virtue of Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 12 para. 47; S.I. 2012/2906, art. 2(j) (with art. 7(2)(3))
+[^F263]: S. 132 omitted (3.12.2012) by virtue of Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 12 para. 47; S.I. 2012/2906, art. 2(j) (with art. 7(2)(3))
+[^F264]: S. 133 repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2
+[^F265]: S. 134(3) repealed (E.W.) (6.4.2006) by Criminal Justice Act 2003 (c. 44), ss. 332, 336, Sch. 37 Pt. 11; S.I. 2006/751, art. 2
+[^F266]: S. 134(4) repealed (E.W.) (6.4.2006) by Criminal Justice Act 2003 (c. 44), ss. 332, 336, Sch. 37 Pt. 11; S.I. 2006/751, art. 2
+[^F267]: S. 138(6)(d) repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 174(2), 178, Sch. 4 para. 167, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. paras. 10, 13(ll) (subject to art. 4(2)-(7))
+[^F268]: S. 138(7) repealed (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 2 (with art. 10)
+[^F269]: Sch. 1 para. 3 omitted (20.12.2023) by virtue of The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386), reg. 1(2), Sch. para. 21(6)(a)
+[^F270]: Sch. 1 para. 6 repealed (1.9.2007) by Gambling Act 2005 (c. 19), ss. 356, 358, Sch. 16 para. 18(1)(a)(2), Sch. 17 (with ss. 352, 354, Sch. 16 para. 21); S.I. 2006/3272, art. 2(4) (with transitional provisions in art. 6, Sch. 4)
+[^F271]: Sch. 1 para. 7 repealed (24.11.2005) by Licensing Act 2003 (c. 17), ss. 199, 201, Sch. 7 (with ss. 2(3),15(2), 195); S.I. 2005/3056, art. 2(2)
+[^F272]: Sch. 1 para. 9 omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 65(2)(a); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F273]: Sch. 1 para. 11 repealed (1.9.2007) by Gambling Act 2005 (c. 19), ss. 356, 358, Sch. 16 para. 18(1)(a)(2), Sch. 17 (with ss. 352, 354, Sch. 16 para. 21); S.I. 2006/3272, art. 2(4) (with transitional provisions in art. 6, Sch. 4)
+[^F274]: Sch. 1 para. 13 repealed (1.12.2007) by Finance Act 2007 (c. 11), ss. 84, 114, Sch. 22 para. 13(2)(a), Sch. 27 Pt. 5(1); S.I. 2007/3166, art. 3(a)
+[^F275]: Sch. 1 para. 16 omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 65(2)(b); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F276]: Sch. 1 para. 18 omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 65(2)(c); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F277]: Sch. 1 para. 18A omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881), art. 1(2)(6), Sch. para. 7
+[^F278]: Sch. 1 para. 19 omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 65(2)(d); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F279]: Sch. 1 para. 20 repealed (1.9.2007) by Gambling Act 2005 (c. 19), ss. 356, 358, Sch. 16 para. 18(1)(a)(2), Sch. 17 (with ss. 352, 354, Sch. 16 para. 21); S.I. 2006/3272, art. 2(4) (with transitional provisions in art. 6, Sch. 4)
+[^F280]: Sch. 1 para. 24 omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 65(2)(e); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F281]: Sch. 1 para. 27 omitted (1.12.2014) by virtue of Finance Act 2014 (c. 26), s. 198(2)(c), Sch. 28 para. 21 (with Sch. 29)
+[^F282]: Sch. 1 para. 28 repealed (1.12.2007) by Finance Act 2007 (c. 11), ss. 84, 114, Sch. 22 para. 13(2)(b), Sch. 27 Pt. 5(1); S.I. 2007/3166, art. 3(a)
+[^F283]: Sch. 1 para. 29 repealed (1.12.2007) by Finance Act 2007 (c. 11), ss. 84, 114, Sch. 22 para. 13(2)(c), Sch. 27 Pt. 5(1); S.I. 2007/3166, art. 3(a)
+[^F284]: Sch. 1 para. 30 substituted (1.2.2005) by The Firearms (Northern Ireland) Order 2004 (S.I. 2004/702 (N.I. 3)), arts. 1, 82(1), Sch. 7 para. 25(a) (with art. 81); S.R. 2005/4, art. 3 (with arts. 4-7)
+[^F285]: Sch. 1 para. 31 omitted (N.I.) (1.11.2011) by virtue of The Weights and Measures (Packaged Goods) Regulations (Northern Ireland) 2011 (S.R. 2011/331), reg. 1, Sch. 1 para. 20(a) (with reg. 3)
+[^F286]: Sch. 1 paras. 32, 40, 43 repealed (1.12.2001) by S.I. 2001/3649, arts. 1, 364(e)
+[^F287]: Sch. 1 para. 36 omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 65(2)(f); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F288]: Sch. 1 para. 37 omitted (E.W.S.) (6.4.2006) by virtue of The Weights and Measures (Packaged Goods) Regulations 2006 (S.I. 2006/659), reg. 1(2), Sch. 1 Pt. 2(27)(b) (with reg. 21)
+[^F289]: Sch. 1 paras. 32, 40, 43 repealed (1.12.2001) by S.I. 2001/3649, arts. 1, 364(e)
+[^F290]: Sch. 1 para. 42 omitted (1.10.2009) by virtue of The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 189(7) (with art. 10)
+[^F291]: Sch. 1 paras. 32, 40, 43 repealed (1.12.2001) by S.I. 2001/3649, arts. 1, 364(e)
+[^F292]: Word in Sch. 1 para. 45 substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 65(3); S.I. 2015/1630, art. 3(i)
+[^F293]: Sch. 1 para. 46 repealed (26.5.2008) by The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277), reg. 1, Sch. 4 Pt. 1 (with reg. 28(2)(3))
+[^F294]: Sch. 1 para. 47 repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 457, 458(1)(3), Sch. 12; S.I. 2003/333, art. 2, Sch. (subject to arts. 3-13 (as amended by S.I. 2003/531, arts. 3, 4))
+[^F295]: Sch. 1 para. 48 substituted (1.4.2003) by The Criminal Justice and Police Act 2001 (Powers of Seizure) Order 2003 (S.I. 2003/934), art. 2(2)
+[^F296]: Sch. 1 para. 49 repealed (26.4.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 26(3)(a), 91(2), 94, Sch. 6; S.I. 2004/786, art. 3
+[^F297]: Sch. 1 para. 52 substituted (1.10.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), s. 68(2), Sch. 7 para. 21; S.I. 2009/2232, art. 2(y)
+[^F298]: Sch. 1 para. 53 omitted (1.10.2013) by virtue of The Property Misdescriptions Act 1991 (Repeal) Order 2013 (S.I. 2013/1575), art. 1, Sch. para. 6
+[^F299]: Sch. 1 para. 56 repealed (23.2.2011) by The Timeshare, Holiday Products, Resale and Exchange Contracts Regulations 2010 (S.I. 2010/2960), reg. 1(2), Sch. 6 para. 2(4)(a), Sch. 8 Pt. 1 (with reg. 37, Sch. 7)
+[^F300]: Sch. 1 para. 56A and heading substituted (14.3.2012) by Charities Act 2011 (c. 25), s. 355, Sch. 7 para. 92 (with s. 20(2), Sch. 8)
+[^F301]: Sch. 1 para. 57 repealed (1.12.2007) by Finance Act 2007 (c. 11), ss. 84, 114, Sch. 22 para. 13(2)(d), Sch. 27 Pt. 5(1); S.I. 2007/3166, art. 3(a)
+[^F302]: Sch. 1 para. 58 repealed (1.12.2007) by Finance Act 2007 (c. 11), ss. 84, 114, Sch. 22 para. 13(2)(e), Sch. 27 Pt. 5(1); S.I. 2007/3166, art. 3(a)
+[^F303]: Sch. 1 para. 58A inserted (1.4.2003) by The Criminal Justice and Police Act 2001 (Powers of Seizure) Order 2003 (S.I. 2003/934), art. 2(3)
+[^F304]: Sch. 1 para. 59A inserted (1.12.2007) by Finance Act 2007 (c. 11), s. 85, Sch. 23 para. 13(a); S.I. 2007/3166, art. 3(b)
+[^F305]: Sch. 1 para. 61 repealed (1.12.2007) by Finance Act 2007 (c. 11), ss. 84, 114, Sch. 22 para. 13(2)(f), Sch. 27 Pt. 5(1); S.I. 2007/3166, art. 3(a)
+[^F306]: Sch. 1 para. 63A and heading inserted (25.11.2012) by Protection of Freedoms Act 2012 (c. 9), s. 120, Sch. 9 para. 145 (with s. 97); S.I. 2012/2075, art. 5(d)
+[^F307]: Sch. 1 para. 65 omitted (25.5.2018) by virtue of Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 73(a) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F308]: Words in Sch. 1 para. 67 substituted (1.1.2025) by Digital Markets, Competition and Consumers Act 2024 (c. 13), ss. 123(8), 339(1); S.I. 2024/1226, regs. 1(2), 2(1)(2) (with Sch. paras. 2, 20)
+[^F309]: Sch. 1 para. 68A inserted (3.7.2016) by The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680), regs. 1, 13(5)
+[^F310]: Sch. 1 paras. 69A, 69B inserted (10.7.2012) by Protection of Freedoms Act 2012 (c. 9), s. 120, Sch. 9 para. 28 (with s. 97); S.I. 2012/1205, art. 4(k)
+[^F311]: Sch. 1 para. 69C inserted (28.6.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), s. 208(5)(w), Sch. 19 para. 2(2)
+[^F312]: Sch. 1 para. 72 repealed (1.12.2007) by Finance Act 2007 (c. 11), ss. 84, 114, Sch. 22 para. 13(2)(g), Sch. 27 Pt. 5(1); S.I. 2007/3166, art. 3(a)
+[^F313]: Sch. 1 para. 73A inserted (1.4.2003) after Sch. 1 para. 73 by virtue of The Criminal Justice and Police Act 2001 (Powers of Seizure) Order 2003 (S.I. 2003/934), art. 2(4)
+[^F314]: Sch. 1 para. 73A added (24.2.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456, 458, Sch. 11 para. 40(6); S.I. 2003/120, art. 2, Sch. (subject to transitional provisions and savings in arts. 3-7 (as amended by S.I. 2003/333, art. 14))
+[^F315]: Sch. 1 para. 73B inserted (20.6.2003) after Sch. 1 para. 73 by virtue of Enterprise Act 2002 (c. 40), ss. 194(5), 279; S.I. 2003/1397, art. 2(1), Sch.
+[^F316]: Sch. 1 para. 73BA omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 65(2)(g); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F317]: Sch. 1 para. 73C inserted (26.4.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 26(3)(b), 94; S.I. 2004/786, art. 3
+[^F318]: Sch. 1 para. 73D added (1.1.2004) by Extradition Act 2003 (c. 41), ss. 165(2), 221; S.I. 2003/3103, art. 2 (subject to arts. 3-5 (as amended by S.I. 2003/3312, art. 2(2) and S.I. 2003/3258, art. 2(2)))
+[^F319]: Sch. 1 para. 73E inserted (1.3.2006 for certain purposes, 7.4.2006 for certain further purposes and 1.9.2006 otherwise) by Human Tissue Act 2004 (c. 30), ss. 56, 60, Sch. 6 para. 5(4); S.I. 2006/404, arts. 2, 3, Sch. (subject to art. 4 and with arts. 5, 6); S.I. 2006/1997, art. 3 (subject to arts. 4, 7, 8) (as amended (5.8.2006) by S.I. 2006/2169, art. 2)
+[^F320]: Sch. 1 para. 73F inserted (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 68, 178; S.I. 2005/1521, art. 5(1); S.S.I. 2006/166, art. 2(1)(a)
+[^F321]: Sch. 1 para. 73F added (1.9.2007) by Gambling Act 2005 (c. 19), ss. 356, 358, Sch. 16 para. 18(1)(b)(2) (with ss. 352, 354, Sch. 16 para. 21); S.I. 2006/3272, art. 2(4) (with transitional provisions in art. 6, Sch. 4)
+[^F322]: Sch. 1 para. 73G omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 65(2)(h); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F323]: Sch. 1 para. 73H inserted (13.4.2006) by Terrorism Act 2006 (c. 11), ss. 28(6)(a), 39(2); S.I. 2006/1013, art. 2
+[^F324]: Sch. 1 para. 73H and cross-heading inserted (N.I.) (18.2.2011) by Charities Act (Northern Ireland) 2008 (c. 12), s. 185(1), Sch. 8 para. 9; S.R. 2011/11, art. 2, Sch.
+[^F325]: Sch. 1 para. 73I inserted (27.3.2007 for W. and 6.4.2007 for E. and otherwise not in force) by Animal Welfare Act 2006 (c. 45), ss. 64, 68, Sch. 3 para. 14(3) (with ss. 1(2), 58(1), 59, 60); S.I. 2007/1030, art. 2(1)(l); S.I. 2007/499, art. 2(2)(l)
+[^F326]: Sch. 1 para. 73J inserted (15.12.2007) by The Money Laundering Regulations 2007 (S.I. 2007/2157), reg. 51, Sch. 6 Pt. 1 para. 3
+[^F327]: Words in Sch. 1 para. 73J heading substituted (26.6.2017) by The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692), reg. 1(2), Sch. 7 para. 5(b)(i) (with regs. 8, 15)
+[^F328]: Words in Sch. 1 para. 73J substituted (26.6.2017) by The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692), reg. 1(2), Sch. 7 para. 5(b)(ii) (with regs. 8, 15)
+[^F329]: Sch. 1 para. 73J omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 65(2)(i); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F330]: Sch. 1 para. 73K and cross-heading omitted (26.6.2017) by virtue of The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692), reg. 1(2), Sch. 7 para. 5(b)(iii) (with regs. 8, 15)
+[^F331]: Sch. 1 para. 73K omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 65(2)(j); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F332]: Sch. 1 para. 73K inserted (12.1.2010) by Marine and Coastal Access Act 2009 (c. 23), ss. 253(7), 324(3) (with s. 295); S.I. 2009/3345, art. 2, Sch. para. 21
+[^F333]: Sch. 1 para. 73M and cross-heading inserted (25.3.2010) by Cluster Munitions (Prohibitions) Act 2010 (c. 11), s. 34(1), Sch. 3 para. 1 (with s. 32)
+[^F334]: Sch. 1 para. 73M inserted (S.) (1.7.2010) by Marine (Scotland) Act 2010 (asp 5), ss. 141(6), 168(1) (with s. 162); S.S.I. 2010/230, art. 2(e)
+[^F335]: Sch. 1 para. 73N omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 65(2)(k); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F336]: Sch. 1 para. 73O omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 65(2)(l); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F337]: Sch. 1 para. 73P inserted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 65(5); S.I. 2015/1630, art. 3(i)
+[^F338]: Sch. 1 para. 73Q and cross-heading inserted (12.12.2017) by Cultural Property (Armed Conflicts) Act 2017 (c. 6), ss. 23(9), 32(2) (with s. 30); S.I. 2017/1087, reg. 2
+[^F339]: Sch. 1 para. 73R omitted (31.12.2020) by virtue of The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742), regs. 1, 79(3) (with reg. 84) (as amended by S.I. 2020/1408, regs. 1, 27); 2020 c. 1, Sch. 5 para. 1(1)
+[^F340]: Sch. 1 para. 73S inserted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 73(b) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F341]: Sch. 1 para. 73S inserted (16.4.2018) by The Criminal Justice and Police Act 2001 (Powers of Seizure) Order 2018 (S.I. 2018/435), arts. 1, 2
+[^F342]: Sch. 1 para. 73U and cross-heading inserted (28.6.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 57, 208(1); S.I. 2022/520, reg. 5(h)
+[^F343]: Sch. 1 para. 73V and cross-heading inserted (20.12.2023) by The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386), reg. 1(2), Sch. para. 21(6)(b)
+[^F344]: Sch. 1 para. 73V and cross-heading inserted (10.1.2024) by Online Safety Act 2023 (c. 50), ss. 108(4), 240(1); S.I. 2023/1420, reg. 2(z10)
+[^F345]: Sch. 1 para. 73W inserted (1.1.2025) by Digital Markets, Competition and Consumers Act 2024 (c. 13), ss. 77(8), 339(1) (with s. 81); S.I. 2024/1226, regs. 1(2), 2(1)(2)
+[^F346]: Sch. 1 para. 73W inserted (27.12.2025) by Renters’ Rights Act 2025 (c. 26), ss. 133, 145(5)(d) (with s. 138)
+[^F347]: Sch. 1 para. 73X and cross-heading inserted (21.7.2025 for specified purposes, 12.12.2025 in so far as not already in force) by Football Governance Act 2025 (c. 21), s. 100(1)(2)(g), Sch. 12 para. 5(8); S.I. 2025/1286, reg. 2(1)(e)(vi)
+[^F348]: Sch. 1 para. 73Y inserted (5.1.2026) by Border Security, Asylum and Immigration Act 2025 (c. 31), ss. 27(3), 65(1); S.I. 2025/1318, reg. 2(e)
+[^F349]: Sch. 1 para. 80 substituted (1.2.2005) by The Firearms (Northern Ireland) Order 2004 (S.I. 2004/702 (N.I. 3)), arts. 1, 82(1), Sch. 7 para. 25(b) (with art. 81); S.R. 2005/4, art. 3 (with arts. 4-7)
+[^F350]: Sch. 1 Pt. 2 para. 81A inserted (1.12.2007) by Finance Act 2007 (c. 11), ss. 85, Sch. 23 para. 13(b); S.I. 2007/3166, art. 3(b)
+[^F351]: Sch. 1 para. 82A inserted (10.7.2012) by Protection of Freedoms Act 2012 (c. 9), s. 120, Sch. 9 para. 29 (with s. 97); S.I. 2012/1205, art. 4(k)
+[^F352]: Sch. 1 para. 82B inserted (28.6.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), s. 208(5)(w), Sch. 19 para. 2(3)
+[^F353]: Sch. 1 para. 83A added (1.1.2004) by Extradition Act 2003 (c. 41), ss. 165(3), 221; S.I. 2003/3103, art. 2 (subject to arts. 3-5 (as amended by SI 2003/3312, art. 2(2) and SI 2003/3258, art. 2(2)))
+[^F354]: Sch. 1 para. 83B and cross-heading inserted (20.12.2023) by The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386), reg. 1(2), Sch. para. 21(6)(c)
+[^F355]: Sch. 1 para. 83C inserted (5.1.2026) by Border Security, Asylum and Immigration Act 2025 (c. 31), ss. 27(4), 65(1); S.I. 2025/1318, reg. 2(e)
+[^F356]: Sch. 1 para. 86 omitted (20.12.2023) by virtue of The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386), reg. 1(2), Sch. para. 21(6)(d)
+[^F357]: Sch. 1 para. 89 repealed (1.9.2007) by Gambling Act 2005 (c. 19), ss. 356, 358, Sch. 16 para. 18(1)(c)(2), Sch. 17 (with ss. 352, 354, Sch. 16 para. 21); S.I. 2006/3272, art. 2(4) (with transitional provisions in art. 6, Sch. 4)
+[^F358]: Sch. 1 para. 90 repealed (24.11.2005) by Licensing Act 2003 (c. 17), ss. 199, 201, Sch. 7 (with ss. 2(3),15(2), 195); S.I. 2005/3056, art. 2(2)
+[^F359]: Sch. 1 para. 93 repealed (1.9.2007) by Gambling Act 2005 (c. 19), ss. 356, 358, Sch. 16 para. 18(1)(c)(2), Sch. 17 (with ss. 352, 354, Sch. 16 para. 21); S.I. 2006/3272, art. 2(4) (with transitional provisions in art. 6, Sch. 4)
+[^F360]: Sch. 1 para. 97 repealed (1.9.2007) by Gambling Act 2005 (c. 19), ss. 356, 358, Sch. 16 para. 18(1)(c)(2), Sch. 17 (with ss. 352, 354, Sch. 16 para. 21); S.I. 2006/3272, art. 2(4) (with transitional provisions in art. 6, Sch. 4)
+[^F361]: Sch. 1 para. 102 substituted (1.2.2005) by The Firearms (Northern Ireland) Order 2004 (S.I. 2004/702 (N.I. 3)), arts. 1, 82(1), Sch. 7 para. 25(c) (with art. 81); S.R. 2005/4, art. 3 (with arts. 4-7)
+[^F362]: Sch. 1 para. 105 repealed (24.3.2003) by Proceeds of Crime Act 2002 (c. 40), ss. 457, 458(1)(3), Sch. 12; S.I. 2003/333, art. 2, Sch. (subject to arts. 3-13 (as amended by S.I. 2003/531, arts. 3, 4))
+[^F363]: Sch. 1 para. 106 substituted (1.4.2003) by The Criminal Justice and Police Act 2001 (Powers of Seizure) Order 2003 (S.I. 2003/934), art. 3(2)
+[^F364]: Sch. 1 para. 107A inserted (1.4.2003) by The Criminal Justice and Police Act 2001 (Powers of Seizure) Order 2003 (S.I. 2003/934), art. 3(3)
+[^F365]: Sch. 1 para. 110 added (24.2.2003) by Proceeds of Crime Act 2002 (c. 29), ss. 456, 458(1)(3), Sch. 11 para. 40(7); S.I. 2003/120, art. 2, Sch. (subject to transitional provisions and savings in arts. 3-7 (as amended by S.I. 2003/333, art. 14))
+[^F366]: Sch. 1 para. 110 inserted (24.11.2005) at the end of Sch. 1 Pt. 3 by virtue of Licensing Act 2003 (c. 17), ss. 198, 201, Sch. 6 para. 128(b) (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2); Sch. 1 para. 110 was subsequently renumbered as Sch. 1 para. 111 by Gambling Act 2005 (c. 19), Sch. 16 para. 18(1)(d)
+[^F367]: Sch. 1 para. 110 renumbered (1.9.2007) as Sch. 1 para. 111 by Gambling Act 2005 (c. 19), ss. 356, 358, Sch. 16 para. 18(1)(d)(2) (with ss. 352, 354, Sch. 16 para. 21); S.I. 2006/3272, art. 2(4) (with transitional provisions in art. 6, Sch. 4)
+[^F368]: Sch. 1 para. 112 added (1.9.2007) by Gambling Act 2005 (c. 19), ss. 356, 358, Sch. 16 para. 18(1)(d)(2) (with ss. 352, 354, Sch. 16 para. 21); S.I. 2006/3272, art. 2(4) (with transitional provisions in art. 6, Sch. 4)
+[^F369]: Sch. 1 para. 113 inserted (13.4.2006) by Terrorism Act 2006 (c. 11), ss. 28(6)(b), 39(2); S.I. 2006/1013, art. 2
+[^F370]: Sch. 1 para. 114 and cross-heading inserted (20.12.2023) by The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386), reg. 1(2), Sch. para. 21(6)(e)
+[^F371]: Sch. 1 para. 115 inserted (5.1.2026) by Border Security, Asylum and Immigration Act 2025 (c. 31), ss. 27(5), 65(1); S.I. 2025/1318, reg. 2(e)
+[^F372]: Sch. 2 para. 1 omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 66(2); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F373]: Word in Sch. 2 para. 3 substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 66(3); S.I. 2015/1630, art. 3(i)
+[^F374]: Sch. 2 para. 4 repealed (26.5.2008) by The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277), reg. 1, Sch. 4 Pt. 1 (with reg. 28(2)(3))
+[^F375]: Sch. 2 para. 4A inserted (1.10.2005) by The General Product Safety Regulations 2005 (S.I. 2005/1803), reg. 47(5)(a) (with regs. 42, 43)
+[^F376]: Word in Sch. 2 para. 4A substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 66(4)(a); S.I. 2015/1630, art. 3(i)
+[^F377]: Word in Sch. 2 para. 4A substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 66(4)(b); S.I. 2015/1630, art. 3(i)
+[^F378]: Sch. 2 para. 4B omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 66(2); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F379]: Sch. 2 para. 4C omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 66(2); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F380]: Sch. 2 paras. 4D, 4E inserted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 66(5); S.I. 2015/1630, art. 3(i)
+[^F381]: Sch. 2 para. 5 omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 66(2); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F382]: Sch. 2 para. 7 omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 66(2); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F383]: Word in Sch. 2 para. 8 substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 66(6); S.I. 2015/1630, art. 3(i)
+[^F384]: Sch. 2 para. 9 repealed (26.5.2008) by The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277), reg. 1, Sch. 4 Pt. 1 (with reg. 28(2)(3))
+[^F385]: Sch. 2 para. 9A inserted (1.10.2005) by The General Product Safety Regulations 2005 (S.I. 2005/1803), reg. 47(5)(b) (with regs. 42, 43)
+[^F386]: Word in Sch. 2 para. 9A substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 66(7)(a); S.I. 2015/1630, art. 3(i)
+[^F387]: Words in Sch. 2 para. 9A substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 66(7)(b); S.I. 2015/1630, art. 3(i)
+[^F388]: Sch. 2 para. 9B omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 66(2); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F389]: Sch. 2 para. 9C omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 66(2); S.I. 2015/1630, art. 3(i) (with art. 8)
+[^F390]: Sch. 2 para. 9D inserted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 6 para. 66(8); S.I. 2015/1630, art. 3(i)
+[^F391]: Sch. 2 para. 10(2)(b)(c) repealed (1.4.2008) by Police and Justice Act 2006 (c. 48), ss. 52, 53, Sch. 15 Pt. 4; S.I. 2008/790, art. 3(c)
+[^F392]: Sch. 2 para. 13(2)(d) repealed (8.11.2007) by Finance Act 2007 (c. 11), ss. 84(5), 114, Sch. 27 Pt. 5(1); S.I. 2007/3166, art. 2(c)
+[^F393]: Sch. 2 para. 16(a)-(d) repealed (1.12.2001) by S.I. 2001/3649, arts. 1, 364(f)
+[^F394]: Sch. 2 para. 16(2)(e) repealed (1.10.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), s. 68(2), Sch. 8 Pt. 1; S.I. 2009/2232, art. 2(z)
+[^F395]: Sch. 2 para. 17 repealed (1.10.2009) by Companies Act 2006 (c. 46), s. 1300(2), Sch. 16; S.I. 2008/2860, art. 4, Sch. 1 Pt. 1 (with arts. 7 8 Sch. 2) (which transitional provisions in Sch. 2 are amended (1.10.2009) by S.I. 2009/2476, arts. 1(3), 2(3)(4) and by S.I. 2009/1802, arts. 1, 18, Sch.)
+[^F396]: Sch. 2 para. 20 omitted (1.10.2013) by virtue of The Property Misdescriptions Act 1991 (Repeal) Order 2013 (S.I. 2013/1575), art. 1, Sch. para. 7
+[^F397]: Sch. 3 repealed (1.4.2007) by Police and Justice Act 2006 (c. 48), ss. 52, 53, Sch. 13 para. 6, Sch. 15 Pt. 1(A); S.I. 2007/709, art. 3(q)
+[^F398]: Words in Sch. 3 para. 14(1) substituted (1.10.2002) by Police Reform Act 2002 (c. 30), s. 102(1)(a)(2); S.I. 2002/2306, art. 2
+[^F399]: Words in Sch. 3 para. 14(1) substituted (1.10.2002) by Police Reform Act 2002 (c. 30), s. 102(1)(b)(2); S.I. 2002/2306, art. 2
+[^F400]: Sch. 4 paras. 2-8 repealed (1.4.2007) by Police and Justice Act 2006 (c. 48), ss. 52, 53, Sch. 15 Pt. 1(A); S.I. 2007/709, art. 3(q) (subject to arts. 6 and 7)
+[^F401]: Sch. 4 paras. 2-8 repealed (1.4.2007) by Police and Justice Act 2006 (c. 48), ss. 52, 53, Sch. 15 Pt. 1(A); S.I. 2007/709, art. 3(q) (subject to arts. 6 and 7)
+[^F402]: Sch. 4 paras. 2-8 repealed (1.4.2007) by Police and Justice Act 2006 (c. 48), ss. 52, 53, Sch. 15 Pt. 1(A); S.I. 2007/709, art. 3(q) (subject to arts. 6 and 7)
+[^F403]: Sch. 4 paras. 2-8 repealed (1.4.2007) by Police and Justice Act 2006 (c. 48), ss. 52, 53, Sch. 15 Pt. 1(A); S.I. 2007/709, art. 3(q) (subject to arts. 6 and 7)
+[^F404]: Sch. 4 paras. 2-8 repealed (1.4.2007) by Police and Justice Act 2006 (c. 48), ss. 52, 53, Sch. 15 Pt. 1(A); S.I. 2007/709, art. 3(q) (subject to arts. 6 and 7)
+[^F405]: Sch. 4 paras. 2-8 repealed (1.4.2007) by Police and Justice Act 2006 (c. 48), ss. 52, 53, Sch. 15 Pt. 1(A); S.I. 2007/709, art. 3(q) (subject to arts. 6 and 7)
+[^F406]: Sch. 4 paras. 2-8 repealed (1.4.2007) by Police and Justice Act 2006 (c. 48), ss. 52, 53, Sch. 15 Pt. 1(A); S.I. 2007/709, art. 3(q) (subject to arts. 6 and 7)
+[^F407]: Sch. 5 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F408]: Sch. 6 paras. 1-21 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F409]: Sch. 6 paras. 1-21 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F410]: Sch. 6 paras. 1-21 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F411]: Sch. 6 paras. 1-21 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F412]: Sch. 6 paras. 1-21 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F413]: Sch. 6 paras. 1-21 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F414]: Sch. 6 paras. 1-21 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F415]: Sch. 6 paras. 1-21 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F416]: Sch. 6 paras. 1-21 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F417]: Sch. 6 paras. 1-21 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F418]: Sch. 6 paras. 1-21 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F419]: Sch. 6 paras. 1-21 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F420]: Sch. 6 paras. 1-21 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F421]: Sch. 6 paras. 1-21 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F422]: Sch. 6 paras. 1-21 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F423]: Sch. 6 paras. 1-21 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F424]: Sch. 6 paras. 1-21 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F425]: Sch. 6 paras. 1-21 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F426]: Sch. 6 paras. 1-21 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F427]: Sch. 6 paras. 1-21 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F428]: Sch. 6 paras. 1-21 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F429]: Sch. 6 para. 53(a) and following word repealed (27.11.2003 for W. (only for the purpose of and in relation to financial years beginning on or after 1st April 2004) and 1.4.2004 for E.) by Local Government Act 2003 (c. 26), ss. 127(2), 128, Sch. 8 Pt. 1; S.I. 2003/3034, art. 2(1), Sch. 1; S.I. 2003/2938, art. 7(e)(x) (with transitional provisions and savings in art. 8, Sch.)
+[^F430]: Sch. 6 para. 55 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F431]: Sch. 6 para. 56 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F432]: Sch. 6 para. 60 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F433]: Sch. 6 para. 61 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F434]: Sch. 6 para. 74 repealed (24.7.2002) by Police Reform Act 2002 (c. 30), ss. 107, 108(3), Sch. 8
+[^F435]: Sch. 6 para. 77 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174(2), 178, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. para. 13(ll) (subject to art. 4(2)-(7))
+[^F436]: Sch. 6 para. 80 repealed (19.7.2003) by The Regulatory Reform (Housing Assistance) (England and Wales) Order 2002 (S.I. 2002/1860), arts. 1(3), 15, Sch. 6
